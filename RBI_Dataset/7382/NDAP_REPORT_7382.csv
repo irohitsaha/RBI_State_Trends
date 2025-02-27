@@ -1,0 +1,325 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Meat production,Milk production,Egg production,Fish production,Wool production
+1,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",31.30013263375684597984,1578.70043971511091910818,6377.40202412795736839240,0.195625828960980287374,7365.31246038090781963110
+2,India,1,Jammu And Kashmir,2012,"Calendar Year (Jan - Dec), 2012",33.25639092336664885358,1595.32863517679424353497,6568.13720736491314858205,9.4487275388153478801642,7513.00996124644793659847
+3,India,1,Jammu And Kashmir,2013,"Calendar Year (Jan - Dec), 2013",32.27826177856174741671,1579.67856885991582054505,6503.58068380778965374863,0.195625828960980287374,8519.50485125069151513770
+4,India,1,Jammu And Kashmir,2014,"Calendar Year (Jan - Dec), 2014",44.01581151622056465915,1908.32996151436270333337,4849.56429994270132400146,0.195625828960980287374,8187.91907116182992803877
+5,India,1,Jammu And Kashmir,2015,"Calendar Year (Jan - Dec), 2015",73.35968586036760776525,2223.28754614154096600551,2258.50019535451741773283,0.195625828960980287374,6715.83470823045326554942
+6,India,1,Jammu And Kashmir,2016,"Calendar Year (Jan - Dec), 2016",83.14097730841662213395,2324.03484805644581400312,2254.58767877529781198535,0.195625828960980287374,7107.08636615241384029742
+7,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",85.09723559802642500769,2406.19769622005753470020,2282.95342397463995365458,0.2054071204090293017427,7325.20916544390686071943
+8,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",89.98788132205093219204,2484.44802780444964964980,2297.62536114671347520763,0.2151884118570783161114,7462.14724571659306188123
+9,India,1,Jammu And Kashmir,2019,"Calendar Year (Jan - Dec), 2019",92.92226875646563650265,2451.19163688108300079622,2167.53418488766158410392,0.2054071204090293017427,7313.47161570624804347699
+10,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",4,1120,1050,0.08,1648
+11,India,2,Himachal Pradesh,2012,"Calendar Year (Jan - Dec), 2012",4,1139,1069,0.09,1649
+12,India,2,Himachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",4,1151,1075,0.1,1655
+13,India,2,Himachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",4,1172,1084,0.11,1663
+14,India,2,Himachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",4,1283,812,0.12,1409
+15,India,2,Himachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",4,1329,959,0.13,1475
+16,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",4,1392,981,0.13,1482
+17,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",5,1460,1007,0.13,1503
+18,India,2,Himachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",5,1531,1066,0.14,1516
+19,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",181,9551,36030,0.98,532
+20,India,3,Punjab,2012,"Calendar Year (Jan - Dec), 2012",212,9724,37911,0.99,558
+21,India,3,Punjab,2013,"Calendar Year (Jan - Dec), 2013",235,10011,43376,1.04,558
+22,India,3,Punjab,2014,"Calendar Year (Jan - Dec), 2014",237,10351,42642,1.15,461
+23,India,3,Punjab,2015,"Calendar Year (Jan - Dec), 2015",250,10774,44218,1.2,473
+24,India,3,Punjab,2016,"Calendar Year (Jan - Dec), 2016",249,11282,47826,1.33,490
+25,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",276,11855,52250,1.37,515
+26,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",231,12599,55909,1.36,525
+27,India,3,Punjab,2019,"Calendar Year (Jan - Dec), 2019",248,13348,56388,1.51,525
+28,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",1,45,181,0,
+29,India,4,Chandigarh,2012,"Calendar Year (Jan - Dec), 2012",1,44,170,0,
+30,India,4,Chandigarh,2013,"Calendar Year (Jan - Dec), 2013",1,44,173,0,
+31,India,4,Chandigarh,2014,"Calendar Year (Jan - Dec), 2014",1,44,169,0,
+32,India,4,Chandigarh,2015,"Calendar Year (Jan - Dec), 2015",1,43,167,0,
+33,India,4,Chandigarh,2016,"Calendar Year (Jan - Dec), 2016",1,36,154,0,
+34,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",1,42,160,0,0
+35,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",1,45,164,0,
+36,India,4,Chandigarh,2019,"Calendar Year (Jan - Dec), 2019",1,49,125,0.01,
+37,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",16,1417,2712,0.04,371
+38,India,5,Uttarakhand,2012,"Calendar Year (Jan - Dec), 2012",22,1478,3079,0.04,400
+39,India,5,Uttarakhand,2013,"Calendar Year (Jan - Dec), 2013",24,1550,3370,0.04,440
+40,India,5,Uttarakhand,2014,"Calendar Year (Jan - Dec), 2014",26,1565,3697,0.04,469
+41,India,5,Uttarakhand,2015,"Calendar Year (Jan - Dec), 2015",271,1656,3907,0.04,513
+42,India,5,Uttarakhand,2016,"Calendar Year (Jan - Dec), 2016",28,1692,4119,6.18,538
+43,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",29,1742,4298,6.29,564
+44,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",29,1792,4532,6.62,552
+45,India,5,Uttarakhand,2019,"Calendar Year (Jan - Dec), 2019",25,1845,4786,0.05,497
+46,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",337,6661,41142,1.06,1333
+47,India,6,Haryana,2012,"Calendar Year (Jan - Dec), 2012",348,7040,42343,1.11,1370
+48,India,6,Haryana,2013,"Calendar Year (Jan - Dec), 2013",367,7442,43591,1.06,1390
+49,India,6,Haryana,2014,"Calendar Year (Jan - Dec), 2014",381,7901,45790,1.11,1429
+50,India,6,Haryana,2015,"Calendar Year (Jan - Dec), 2015",403,8381,49133,1.21,702
+51,India,6,Haryana,2016,"Calendar Year (Jan - Dec), 2016",427,8975,52139,1.44,691
+52,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",470,9809,55855,1.9,693
+53,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",512,10726,60577,2.18,719
+54,India,6,Haryana,2019,"Calendar Year (Jan - Dec), 2019",554,11735,66153,1.91,730
+55,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",45,502,1,0.01,
+56,India,7,Delhi,2012,"Calendar Year (Jan - Dec), 2012",81,287,,0.01,
+57,India,7,Delhi,2013,"Calendar Year (Jan - Dec), 2013",77,284,,0.01,
+58,India,7,Delhi,2014,"Calendar Year (Jan - Dec), 2014",70,280,,0.01,
+59,India,7,Delhi,2015,"Calendar Year (Jan - Dec), 2015",70,281,0,0.01,
+60,India,7,Delhi,2016,"Calendar Year (Jan - Dec), 2016",66,279,0,0.01,
+61,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",66,279,0,0.01,
+62,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",,,0,0.01,
+63,India,7,Delhi,2019,"Calendar Year (Jan - Dec), 2019",,,0,0.01,
+64,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",122,13512,9605,0.48,13192
+65,India,8,Rajasthan,2012,"Calendar Year (Jan - Dec), 2012",152,13946,10335,0.55,14007
+66,India,8,Rajasthan,2013,"Calendar Year (Jan - Dec), 2013",175,14573,11903,0.35,15027
+67,India,8,Rajasthan,2014,"Calendar Year (Jan - Dec), 2014",181,16934,13202,0.45,14463
+68,India,8,Rajasthan,2015,"Calendar Year (Jan - Dec), 2015",180,18500,13853,0.42,13415
+69,India,8,Rajasthan,2016,"Calendar Year (Jan - Dec), 2016",180,20850,13633,0.5,14321
+70,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",188,22427,14548,0.54,14287
+71,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",192,23668,16616,0.56,14522
+72,India,8,Rajasthan,2019,"Calendar Year (Jan - Dec), 2019",200,25573,26962,1.16,12717
+73,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",956,22556,16075,4.3,1420
+74,India,9,Uttar Pradesh,2012,"Calendar Year (Jan - Dec), 2012",1137,23330,17074,4.5,1456
+75,India,9,Uttar Pradesh,2013,"Calendar Year (Jan - Dec), 2013",1221,24194,18122,4.64,1473
+76,India,9,Uttar Pradesh,2014,"Calendar Year (Jan - Dec), 2014",1397,25198,20776,4.94,1494
+77,India,9,Uttar Pradesh,2015,"Calendar Year (Jan - Dec), 2015",1418,26387,21929,5.05,1265
+78,India,9,Uttar Pradesh,2016,"Calendar Year (Jan - Dec), 2016",1346,27770,22889,0.04,1286
+79,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",1151,29052,24398,0.05,1300
+80,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",1227,30519,26050,0.05,1316
+81,India,9,Uttar Pradesh,2019,"Calendar Year (Jan - Dec), 2019",1166,31864,34049,6.99,1329
+82,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",228,6643,7552,3.44,266
+83,India,10,Bihar,2012,"Calendar Year (Jan - Dec), 2012",228,6845,8372,4,267
+84,India,10,Bihar,2013,"Calendar Year (Jan - Dec), 2013",292,7197,9308,4.32,271
+85,India,10,Bihar,2014,"Calendar Year (Jan - Dec), 2014",294,7775,9845,4.8,278
+86,India,10,Bihar,2015,"Calendar Year (Jan - Dec), 2015",302,8288,10021,5.07,240
+87,India,10,Bihar,2016,"Calendar Year (Jan - Dec), 2016",326,8711,11117,5.09,281
+88,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",343,9242,12185,5.88,298
+89,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",365,9818,17633,6.02,312
+90,India,10,Bihar,2019,"Calendar Year (Jan - Dec), 2019",384,10480,27408,6.41,311
+91,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",3,45,146,0,1
+92,India,11,Sikkim,2012,"Calendar Year (Jan - Dec), 2012",3,42,146,0,1
+93,India,11,Sikkim,2013,"Calendar Year (Jan - Dec), 2013",3,46,99,0,1
+94,India,11,Sikkim,2014,"Calendar Year (Jan - Dec), 2014",3,50,58,0,0
+95,India,11,Sikkim,2015,"Calendar Year (Jan - Dec), 2015",6,67,102,0,0
+96,India,11,Sikkim,2016,"Calendar Year (Jan - Dec), 2016",4,54,68,0,0
+97,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",4,59,63,0,0
+98,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",4,61,55,0,0
+99,India,11,Sikkim,2019,"Calendar Year (Jan - Dec), 2019",4,84,48,0,0
+100,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",19,22,53,0.03,17
+101,India,12,Arunachal Pradesh,2012,"Calendar Year (Jan - Dec), 2012",18,23,439,0.04,18
+102,India,12,Arunachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",18,43,400,0.04,22
+103,India,12,Arunachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",19,46,417,0.04,24
+104,India,12,Arunachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",19,50,427,0.04,36
+105,India,12,Arunachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",20,53,495,0.04,58
+106,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",21,54,550,0.04,60
+107,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",22,55,595,0.05,43
+108,India,12,Arunachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",23,61,605,0.05,43
+109,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",78,78,704,0.07,
+110,India,13,Nagaland,2012,"Calendar Year (Jan - Dec), 2012",71,79,618,0.07,
+111,India,13,Nagaland,2013,"Calendar Year (Jan - Dec), 2013",67,81,223,0.07,
+112,India,13,Nagaland,2014,"Calendar Year (Jan - Dec), 2014",67,76,353,0.08,
+113,India,13,Nagaland,2015,"Calendar Year (Jan - Dec), 2015",36,77,465,0.08,
+114,India,13,Nagaland,2016,"Calendar Year (Jan - Dec), 2016",31,79,397,0.09,
+115,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",32,74,401,0.09,
+116,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",32,73,375,0.1,
+117,India,13,Nagaland,2019,"Calendar Year (Jan - Dec), 2019",32,62,382,0.09,
+118,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",24,79,1149,0.22,
+119,India,14,Manipur,2012,"Calendar Year (Jan - Dec), 2012",25,80,1162,0.25,
+120,India,14,Manipur,2013,"Calendar Year (Jan - Dec), 2013",25,82,1164,0.29,
+121,India,14,Manipur,2014,"Calendar Year (Jan - Dec), 2014",27,82,1129,0.31,
+122,India,14,Manipur,2015,"Calendar Year (Jan - Dec), 2015",26,79,1037,0.32,
+123,India,14,Manipur,2016,"Calendar Year (Jan - Dec), 2016",27,79,992,0.32,
+124,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",28,82,1018,0.33,
+125,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",28,86,1053,0.32,
+126,India,14,Manipur,2019,"Calendar Year (Jan - Dec), 2019",29,90,1082,0.32,
+127,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",13,14,349,0.03,
+128,India,15,Mizoram,2012,"Calendar Year (Jan - Dec), 2012",12,14,352,0.05,
+129,India,15,Mizoram,2013,"Calendar Year (Jan - Dec), 2013",12,15,362,0.06,
+130,India,15,Mizoram,2014,"Calendar Year (Jan - Dec), 2014",13,20,377,0.06,
+131,India,15,Mizoram,2015,"Calendar Year (Jan - Dec), 2015",14,22,391,0.07,
+132,India,15,Mizoram,2016,"Calendar Year (Jan - Dec), 2016",15,24,408,0.08,
+133,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",16,25,410,0.08,
+134,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",16,26,415,0.07,
+135,India,15,Mizoram,2019,"Calendar Year (Jan - Dec), 2019",16,24,433,0.07,
+136,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",25,111,1650,0.53,
+137,India,16,Tripura,2012,"Calendar Year (Jan - Dec), 2012",32,118,1565,0.57,
+138,India,16,Tripura,2013,"Calendar Year (Jan - Dec), 2013",32,130,1794,0.62,
+139,India,16,Tripura,2014,"Calendar Year (Jan - Dec), 2014",34,141,1979,0.65,
+140,India,16,Tripura,2015,"Calendar Year (Jan - Dec), 2015",37,152,2161,0.69,
+141,India,16,Tripura,2016,"Calendar Year (Jan - Dec), 2016",40,160,2294,0.72,
+142,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",45,174,2621,0.77,
+143,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",48,185,2760,0.85,
+144,India,16,Tripura,2019,"Calendar Year (Jan - Dec), 2019",51,199,2950,0.78,
+145,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",38,80,1021,0.05,
+146,India,17,Meghalaya,2012,"Calendar Year (Jan - Dec), 2012",39,81,1028,0.05,
+147,India,17,Meghalaya,2013,"Calendar Year (Jan - Dec), 2013",40,82,1049,0.06,
+148,India,17,Meghalaya,2014,"Calendar Year (Jan - Dec), 2014",41,83,1057,0.06,
+149,India,17,Meghalaya,2015,"Calendar Year (Jan - Dec), 2015",41,84,1064,0.11,
+150,India,17,Meghalaya,2016,"Calendar Year (Jan - Dec), 2016",41,84,1064,0.12,
+151,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",43,85,1074,0.12,
+152,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",45,87,1090,0,
+153,India,17,Meghalaya,2019,"Calendar Year (Jan - Dec), 2019",46,88,1102,0.14,
+154,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",34,796,4705,2.29,
+155,India,18,Assam,2012,"Calendar Year (Jan - Dec), 2012",37,800,4710,2.54,
+156,India,18,Assam,2013,"Calendar Year (Jan - Dec), 2013",38,815,4717,2.67,
+157,India,18,Assam,2014,"Calendar Year (Jan - Dec), 2014",43,829,4728,2.83,
+158,India,18,Assam,2015,"Calendar Year (Jan - Dec), 2015",45,843,4740,2.94,
+159,India,18,Assam,2016,"Calendar Year (Jan - Dec), 2016",47,861,4771,3.07,
+160,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",48,872,4952,3.27,
+161,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",50,882,5015,3.32,
+162,India,18,Assam,2019,"Calendar Year (Jan - Dec), 2019",53,920,5149,3.73,
+163,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",611,4672,43433,14.72,713
+164,India,19,West Bengal,2012,"Calendar Year (Jan - Dec), 2012",648,4859,47115,14.9,722
+165,India,19,West Bengal,2013,"Calendar Year (Jan - Dec), 2013",649,4906,47460,15.81,725
+166,India,19,West Bengal,2014,"Calendar Year (Jan - Dec), 2014",657,4961,48136,16.17,740
+167,India,19,West Bengal,2015,"Calendar Year (Jan - Dec), 2015",686,5038,60108,16.71,748
+168,India,19,West Bengal,2016,"Calendar Year (Jan - Dec), 2016",706,5183,65536,17.02,753
+169,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",773,5389,76434,17.42,758
+170,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",831,5607,85999,17.7,760
+171,India,19,West Bengal,2019,"Calendar Year (Jan - Dec), 2019",903,5869,97350,17.82,763
+172,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",46,1745,4313,0.92,202
+173,India,20,Jharkhand,2012,"Calendar Year (Jan - Dec), 2012",45,1679,4239,0.97,159
+174,India,20,Jharkhand,2013,"Calendar Year (Jan - Dec), 2013",45,1700,4445,1.05,156
+175,India,20,Jharkhand,2014,"Calendar Year (Jan - Dec), 2014",48,1734,4663,1.06,161
+176,India,20,Jharkhand,2015,"Calendar Year (Jan - Dec), 2015",51,1812,4833,1.16,166
+177,India,20,Jharkhand,2016,"Calendar Year (Jan - Dec), 2016",55,1894,5103,1.45,178
+178,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",58,2016,5531,1.9,187
+179,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",62,2183,6379,2.08,199
+180,India,20,Jharkhand,2019,"Calendar Year (Jan - Dec), 2019",67,2321,6928,2.23,210
+181,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",138,1721,23007,3.82,
+182,India,21,Odisha,2012,"Calendar Year (Jan - Dec), 2012",141,1724,23230,4.1,
+183,India,21,Odisha,2013,"Calendar Year (Jan - Dec), 2013",154,1861,23609,4.14,
+184,India,21,Odisha,2014,"Calendar Year (Jan - Dec), 2014",163,1903,19245,4.7,
+185,India,21,Odisha,2015,"Calendar Year (Jan - Dec), 2015",165,1930,19273,5.21,
+186,India,21,Odisha,2016,"Calendar Year (Jan - Dec), 2016",177,2003,19745,6.08,
+187,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",183,2088,20622,6.85,
+188,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",202,2311,23453,7.33,
+189,India,21,Odisha,2019,"Calendar Year (Jan - Dec), 2019",205,2370,23814,8.18,
+190,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",30,1119,12984,2.51,104
+191,India,22,Chhattisgarh,2012,"Calendar Year (Jan - Dec), 2012",34,1164,13704,2.56,107
+192,India,22,Chhattisgarh,2013,"Calendar Year (Jan - Dec), 2013",29,1209,14330,2.85,106
+193,India,22,Chhattisgarh,2014,"Calendar Year (Jan - Dec), 2014",38,1232,14732,3.14,116
+194,India,22,Chhattisgarh,2015,"Calendar Year (Jan - Dec), 2015",41,1277,15028,3.42,90
+195,India,22,Chhattisgarh,2016,"Calendar Year (Jan - Dec), 2016",49,1374,16638,3.77,87
+196,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",55,1469,17718,4.57,82
+197,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",61,1567,18927,4.7,82
+198,India,22,Chhattisgarh,2019,"Calendar Year (Jan - Dec), 2019",66,1676,20289,5.72,83
+199,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",39,8149,7972,0.75,413
+200,India,23,Madhya Pradesh,2012,"Calendar Year (Jan - Dec), 2012",43,8838,8711,0.85,442
+201,India,23,Madhya Pradesh,2013,"Calendar Year (Jan - Dec), 2013",48,9599,9671,0.96,466
+202,India,23,Madhya Pradesh,2014,"Calendar Year (Jan - Dec), 2014",59,10779,11776,1.09,484
+203,India,23,Madhya Pradesh,2015,"Calendar Year (Jan - Dec), 2015",70,12148,14414,1.15,442
+204,India,23,Madhya Pradesh,2016,"Calendar Year (Jan - Dec), 2016",79,13445,16940,1.39,406
+205,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",89,14713,19422,1.43,408
+206,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",97,15911,21432,1.73,410
+207,India,23,Madhya Pradesh,2019,"Calendar Year (Jan - Dec), 2019",107,17109,23794,2,412
+208,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",35,9817,14269,7.84,2819
+209,India,24,Gujarat,2012,"Calendar Year (Jan - Dec), 2012",35,10315,14558,7.88,2664
+210,India,24,Gujarat,2013,"Calendar Year (Jan - Dec), 2013",33,11112,15551,7.98,2578
+211,India,24,Gujarat,2014,"Calendar Year (Jan - Dec), 2014",34,11691,16565,8.1,2577
+212,India,24,Gujarat,2015,"Calendar Year (Jan - Dec), 2015",34,12262,17216,8.1,2283
+213,India,24,Gujarat,2016,"Calendar Year (Jan - Dec), 2016",33,12784,17940,8.16,2267
+214,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",33,13569,17868,8.35,2295
+215,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",33,14493,18544,7.25,2271
+216,India,24,Gujarat,2019,"Calendar Year (Jan - Dec), 2019",33,15292,19274,8.59,2233
+217,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",585,8469,43861,5.79,1469
+218,India,27,Maharashtra,2012,"Calendar Year (Jan - Dec), 2012",591,8734,45661,5.86,1503
+219,India,27,Maharashtra,2013,"Calendar Year (Jan - Dec), 2013",605,9089,48315,6.03,1539
+220,India,27,Maharashtra,2014,"Calendar Year (Jan - Dec), 2014",631,9542,50792,6.08,1386
+221,India,27,Maharashtra,2015,"Calendar Year (Jan - Dec), 2015",675,10153,52858,5.8,1390
+222,India,27,Maharashtra,2016,"Calendar Year (Jan - Dec), 2016",845,10402,54774,6.63,1407
+223,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",925,11102,56991,6.06,1437
+224,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",1021,11655,59649,5.83,1457
+225,India,27,Maharashtra,2019,"Calendar Year (Jan - Dec), 2019",1140,12024,63713,5.61,1412
+226,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",482.98838484304772939344,7085.39271357131183605328,124324.37547374387445089418,9.3959997682452125026418,2886.20729000869783923944
+227,India,28,Andhra Pradesh,2012,"Calendar Year (Jan - Dec), 2012",531.05276294636073159036,7480.45845554244553703772,130696.42247814772380312244,10.5976092208280375575648,2948.92544192399651283786
+228,India,28,Andhra Pradesh,2013,"Calendar Year (Jan - Dec), 2013",548.05114056826411041610,7624.06543889990511677242,133569.14829624939482467250,11.8285262210348339552908,2952.44234763887307397422
+229,India,28,Andhra Pradesh,2014,"Calendar Year (Jan - Dec), 2014",528,9656,130958,19.79,778
+230,India,28,Andhra Pradesh,2015,"Calendar Year (Jan - Dec), 2015",566,10817,141743,23.52,789
+231,India,28,Andhra Pradesh,2016,"Calendar Year (Jan - Dec), 2016",633,12178,158274,27.66,792
+232,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",709,13725,177776,34.5,794
+233,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",781,15044,197545,39.92,797
+234,India,28,Andhra Pradesh,2019,"Calendar Year (Jan - Dec), 2019",850,15263,219275,41.74,801
+235,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",140,5447,34699,5.46,7779
+236,India,29,Karnataka,2012,"Calendar Year (Jan - Dec), 2012",166,5718,36773,5.26,8020
+237,India,29,Karnataka,2013,"Calendar Year (Jan - Dec), 2013",170,5997,41301,5.55,7755
+238,India,29,Karnataka,2014,"Calendar Year (Jan - Dec), 2014",181,6121,43968,6.23,8821
+239,India,29,Karnataka,2015,"Calendar Year (Jan - Dec), 2015",197,6344,47660,5.81,8191
+240,India,29,Karnataka,2016,"Calendar Year (Jan - Dec), 2016",209,6562,50671,5.57,6588
+241,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",228,7137,55661,6.03,4305
+242,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",254,7901,59994,5.87,3058
+243,India,29,Karnataka,2019,"Calendar Year (Jan - Dec), 2019",305,9031,66511,6.32,1742
+244,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",10,60,149,0.9,
+245,India,30,Goa,2012,"Calendar Year (Jan - Dec), 2012",8,61,458,0.78,
+246,India,30,Goa,2013,"Calendar Year (Jan - Dec), 2013",5,68,60,1.14,
+247,India,30,Goa,2014,"Calendar Year (Jan - Dec), 2014",8,67,75,1.18,
+248,India,30,Goa,2015,"Calendar Year (Jan - Dec), 2015",8,54,352,1.12,
+249,India,30,Goa,2016,"Calendar Year (Jan - Dec), 2016",7,51,292,1.18,
+250,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",8,55,299,1.24,
+251,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",8,57,327,1.2,
+252,India,30,Goa,2019,"Calendar Year (Jan - Dec), 2019",7,61,400,1.05,
+253,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",,2,140,0.12,
+254,India,31,Lakshadweep,2012,"Calendar Year (Jan - Dec), 2012",,2,140,0.12,
+255,India,31,Lakshadweep,2013,"Calendar Year (Jan - Dec), 2013",0,6,129,0.14,
+256,India,31,Lakshadweep,2014,"Calendar Year (Jan - Dec), 2014",0,4,126,0.13,
+257,India,31,Lakshadweep,2015,"Calendar Year (Jan - Dec), 2015",1,3,144,0.16,
+258,India,31,Lakshadweep,2016,"Calendar Year (Jan - Dec), 2016",0,3,147,0.3,
+259,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",0,4,142,0.21,
+260,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",0,4,142,0.22,
+261,India,31,Lakshadweep,2019,"Calendar Year (Jan - Dec), 2019",,4,153,0.2,
+262,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",426,2716,17049,6.93,
+263,India,32,Kerala,2012,"Calendar Year (Jan - Dec), 2012",401,2791,22375,6.8,
+264,India,32,Kerala,2013,"Calendar Year (Jan - Dec), 2013",416,2655,24769,7.09,
+265,India,32,Kerala,2014,"Calendar Year (Jan - Dec), 2014",446,2711,25036,7.26,
+266,India,32,Kerala,2015,"Calendar Year (Jan - Dec), 2015",466,2650,24425,7.28,
+267,India,32,Kerala,2016,"Calendar Year (Jan - Dec), 2016",469,2520,23444,5.93,
+268,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",469,2576,23481,5.63,
+269,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",457,2548,22906,7.14,
+270,India,32,Kerala,2019,"Calendar Year (Jan - Dec), 2019",453,2544,21845,6.8,
+271,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",460,6968,118518,6.11,1
+272,India,33,Tamil Nadu,2012,"Calendar Year (Jan - Dec), 2012",462,7005,119334,6.2,1
+273,India,33,Tamil Nadu,2013,"Calendar Year (Jan - Dec), 2013",465,7049,141235,6.24,2
+274,India,33,Tamil Nadu,2014,"Calendar Year (Jan - Dec), 2014",492,7132,159253,6.98,1
+275,India,33,Tamil Nadu,2015,"Calendar Year (Jan - Dec), 2015",544,7244,161252,7.09,1
+276,India,33,Tamil Nadu,2016,"Calendar Year (Jan - Dec), 2016",573,7556,166824,6.69,2
+277,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",603,7742,174161,6.82,2
+278,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",634,8362,188422,7.31,2
+279,India,33,Tamil Nadu,2019,"Calendar Year (Jan - Dec), 2019",663,8759,200216,7.57,0
+280,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",14,45,116,0.42,
+281,India,34,Puducherry,2012,"Calendar Year (Jan - Dec), 2012",14,47,113,0.41,
+282,India,34,Puducherry,2013,"Calendar Year (Jan - Dec), 2013",14,47,113,0.42,
+283,India,34,Puducherry,2014,"Calendar Year (Jan - Dec), 2014",14,48,113,0.47,
+284,India,34,Puducherry,2015,"Calendar Year (Jan - Dec), 2015",15,48,114,0.54,
+285,India,34,Puducherry,2016,"Calendar Year (Jan - Dec), 2016",15,48,114,0.5,
+286,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",15,49,114,0.5,
+287,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",15,49,114,0.31,
+288,India,34,Puducherry,2019,"Calendar Year (Jan - Dec), 2019",15,50,114,0.51,
+289,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",,26,780,0.35,
+290,India,35,Andaman And Nicobar Islands,2012,"Calendar Year (Jan - Dec), 2012",,21,741,0.37,
+291,India,35,Andaman And Nicobar Islands,2013,"Calendar Year (Jan - Dec), 2013",2,14,1193,0.37,
+292,India,35,Andaman And Nicobar Islands,2014,"Calendar Year (Jan - Dec), 2014",5,16,861,0.37,
+293,India,35,Andaman And Nicobar Islands,2015,"Calendar Year (Jan - Dec), 2015",5,15,989,0.37,
+294,India,35,Andaman And Nicobar Islands,2016,"Calendar Year (Jan - Dec), 2016",5,16,1032,0.39,
+295,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",5,17,1074,0.4,
+296,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",5,18,1139,0.41,
+297,India,35,Andaman And Nicobar Islands,2019,"Calendar Year (Jan - Dec), 2019",6,19,1189,0.4,
+298,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",341.01161515695227060656,5002.60728642868816394672,87778.62452625612554910582,6.6340002317547874973582,2037.79270999130216076056
+299,India,36,Telangana,2012,"Calendar Year (Jan - Dec), 2012",374.94723705363926840964,5281.54154445755446296228,92277.57752185227619687756,7.4823907791719624424352,2082.07455807600348716214
+300,India,36,Telangana,2013,"Calendar Year (Jan - Dec), 2013",386.94885943173588958390,5382.93456110009488322758,94305.85170375060517532750,8.3514737789651660447092,2084.55765236112692602578
+301,India,36,Telangana,2014,"Calendar Year (Jan - Dec), 2014",505,4207,106185,2.68,4423
+302,India,36,Telangana,2015,"Calendar Year (Jan - Dec), 2015",542,4442,112058,2.37,4562
+303,India,36,Telangana,2016,"Calendar Year (Jan - Dec), 2016",591,4681,118186,1.99,4658
+304,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",645,4965,126700,2.7,4506
+305,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",754,5416,136868,3.28,4264
+306,India,36,Telangana,2019,"Calendar Year (Jan - Dec), 2019",848,5590,148055,3,3960
+307,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",0.69986736624315402016,35.29956028488908089182,142.59797587204263160760,0.004374171039019712626,164.68753961909218036890
+308,India,37,Ladakh,2012,"Calendar Year (Jan - Dec), 2012",0.74360907663335114642,35.67136482320575646503,146.86279263508685141795,0.2112724611846521198358,167.99003875355206340153
+309,India,37,Ladakh,2013,"Calendar Year (Jan - Dec), 2013",0.72173822143825258329,35.32143114008417945495,145.41931619221034625137,0.004374171039019712626,190.49514874930848486230
+310,India,37,Ladakh,2014,"Calendar Year (Jan - Dec), 2014",0.98418848377943534085,42.67003848563729666663,108.43570005729867599854,0.004374171039019712626,183.08092883817007196123
+311,India,37,Ladakh,2015,"Calendar Year (Jan - Dec), 2015",1.64031413963239223475,49.71245385845903399449,50.49980464548258226717,0.004374171039019712626,150.16529176954673445058
+312,India,37,Ladakh,2016,"Calendar Year (Jan - Dec), 2016",1.85902269158337786605,51.96515194355418599688,50.41232122470218801465,0.004374171039019712626,158.91363384758615970258
+313,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",1.90276440197357499231,53.80230377994246529980,51.04657602536004634542,0.0045928795909706982573,163.79083455609313928057
+314,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",2.01211867794906780796,55.55197219555035035020,51.37463885328652479237,0.0048115881429216838886,166.85275428340693811877
+315,India,37,Ladakh,2019,"Calendar Year (Jan - Dec), 2019",2.07773124353436349735,54.80836311891699920378,48.46581511233841589608,0.0045928795909706982573,163.52838429375195652301
+316,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",,12.00000000000000000000,93.00000000000000000000,0.1700000000000000000000,
+317,India,38,The Dadra And Nagar Haveli And Daman And Diu,2012,"Calendar Year (Jan - Dec), 2012",,12.00000000000000000000,93.00000000000000000000,0.1900000000000000000000,
+318,India,38,The Dadra And Nagar Haveli And Daman And Diu,2013,"Calendar Year (Jan - Dec), 2013",,12.00000000000000000000,86.00000000000000000000,0.200000000000000000000,
+319,India,38,The Dadra And Nagar Haveli And Daman And Diu,2014,"Calendar Year (Jan - Dec), 2014",1.00000000000000000000,10.00000000000000000000,92.00000000000000000000,0.3200000000000000000000,
+320,India,38,The Dadra And Nagar Haveli And Daman And Diu,2015,"Calendar Year (Jan - Dec), 2015",1.00000000000000000000,10.00000000000000000000,81.00000000000000000000,0.2300000000000000000000,
+321,India,38,The Dadra And Nagar Haveli And Daman And Diu,2016,"Calendar Year (Jan - Dec), 2016",1.00000000000000000000,9.00000000000000000000,77.00000000000000000000,0.2400000000000000000000,
+322,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",,9.00000000000000000000,78.00000000000000000000,0.2500000000000000000000,
+323,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",,1.00000000000000000000,5.00000000000000000000,0.0500000000000000000000,
+324,India,38,The Dadra And Nagar Haveli And Daman And Diu,2019,"Calendar Year (Jan - Dec), 2019",,1.00000000000000000000,5.00000000000000000000,0.3200000000000000000000,

@@ -1,0 +1,10 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Residence type,TRU,Key Identifier,"",0,"","","","Residence type namely rural, urban or both"
+Yearcode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Government hospitals,I7336_4,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Government hospitals including Community Health Centers(CHC)
+Beds in government hospitals,I7336_5,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Beds in government hospitals
+Average beds per government hospital,I7336_6,Numeric Variable,% ( Percentage ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Average number of beds per government hospital

@@ -1,0 +1,289 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Zone,Storage capacity
+1,India,1,Jammu And Kashmir,2013,"Calendar Year (Jan - Dec), 2013",North Zone,1.37567904444188454
+2,India,1,Jammu And Kashmir,2014,"Calendar Year (Jan - Dec), 2014",North Zone,1.70740306934276450
+3,India,1,Jammu And Kashmir,2015,"Calendar Year (Jan - Dec), 2015",North Zone,2.22450228462943032
+4,India,1,Jammu And Kashmir,2016,"Calendar Year (Jan - Dec), 2016",North Zone,2.42939065295056206
+5,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",North Zone,2.52695654262729146
+6,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",North Zone,2.72208832198075026
+7,India,1,Jammu And Kashmir,2019,"Calendar Year (Jan - Dec), 2019",North Zone,2.40012088604754324
+8,India,1,Jammu And Kashmir,2020,"Calendar Year (Jan - Dec), 2020",North Zone,2.5367131315949644
+9,India,2,Himachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",North Zone,0.45
+10,India,2,Himachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",North Zone,0.45
+11,India,2,Himachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",North Zone,0.48
+12,India,2,Himachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",North Zone,0.49
+13,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",North Zone,0.33
+14,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",North Zone,0.51
+15,India,2,Himachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",North Zone,0.53
+16,India,2,Himachal Pradesh,2020,"Calendar Year (Jan - Dec), 2020",North Zone,0.72
+17,India,3,Punjab,2013,"Calendar Year (Jan - Dec), 2013",North Zone,168.1
+18,India,3,Punjab,2014,"Calendar Year (Jan - Dec), 2014",North Zone,182.66
+19,India,3,Punjab,2015,"Calendar Year (Jan - Dec), 2015",North Zone,238.54
+20,India,3,Punjab,2016,"Calendar Year (Jan - Dec), 2016",North Zone,252.56
+21,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",North Zone,249.67
+22,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",North Zone,201.43
+23,India,3,Punjab,2019,"Calendar Year (Jan - Dec), 2019",North Zone,234.3
+24,India,3,Punjab,2020,"Calendar Year (Jan - Dec), 2020",North Zone,234.27
+25,India,4,Chandigarh,2013,"Calendar Year (Jan - Dec), 2013",North Zone,3.7
+26,India,4,Chandigarh,2014,"Calendar Year (Jan - Dec), 2014",North Zone,4.09
+27,India,4,Chandigarh,2015,"Calendar Year (Jan - Dec), 2015",North Zone,0
+28,India,4,Chandigarh,2016,"Calendar Year (Jan - Dec), 2016",North Zone,0
+29,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",North Zone,0
+30,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",North Zone,0
+31,India,4,Chandigarh,2019,"Calendar Year (Jan - Dec), 2019",North Zone,0
+32,India,4,Chandigarh,2020,"Calendar Year (Jan - Dec), 2020",North Zone,0.06
+33,India,5,Uttarakhand,2013,"Calendar Year (Jan - Dec), 2013",North Zone,2.73
+34,India,5,Uttarakhand,2014,"Calendar Year (Jan - Dec), 2014",North Zone,2.84
+35,India,5,Uttarakhand,2015,"Calendar Year (Jan - Dec), 2015",North Zone,3.67
+36,India,5,Uttarakhand,2016,"Calendar Year (Jan - Dec), 2016",North Zone,3.8
+37,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",North Zone,3.7
+38,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",North Zone,3.93
+39,India,5,Uttarakhand,2019,"Calendar Year (Jan - Dec), 2019",North Zone,2.94
+40,India,5,Uttarakhand,2020,"Calendar Year (Jan - Dec), 2020",North Zone,2.47
+41,India,6,Haryana,2013,"Calendar Year (Jan - Dec), 2013",North Zone,57.66
+42,India,6,Haryana,2014,"Calendar Year (Jan - Dec), 2014",North Zone,64.78
+43,India,6,Haryana,2015,"Calendar Year (Jan - Dec), 2015",North Zone,106.14
+44,India,6,Haryana,2016,"Calendar Year (Jan - Dec), 2016",North Zone,116.11
+45,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",North Zone,100.99
+46,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",North Zone,99.17
+47,India,6,Haryana,2019,"Calendar Year (Jan - Dec), 2019",North Zone,112.2
+48,India,6,Haryana,2020,"Calendar Year (Jan - Dec), 2020",North Zone,131.44
+49,India,7,Delhi,2013,"Calendar Year (Jan - Dec), 2013",North Zone,5.16
+50,India,7,Delhi,2014,"Calendar Year (Jan - Dec), 2014",North Zone,5.14
+51,India,7,Delhi,2015,"Calendar Year (Jan - Dec), 2015",North Zone,3.67
+52,India,7,Delhi,2016,"Calendar Year (Jan - Dec), 2016",North Zone,3.67
+53,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",North Zone,3.67
+54,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",North Zone,3.67
+55,India,7,Delhi,2019,"Calendar Year (Jan - Dec), 2019",North Zone,3.67
+56,India,7,Delhi,2020,"Calendar Year (Jan - Dec), 2020",North Zone,3.67
+57,India,8,Rajasthan,2013,"Calendar Year (Jan - Dec), 2013",North Zone,38.78
+58,India,8,Rajasthan,2014,"Calendar Year (Jan - Dec), 2014",North Zone,39.88
+59,India,8,Rajasthan,2015,"Calendar Year (Jan - Dec), 2015",North Zone,25.62
+60,India,8,Rajasthan,2016,"Calendar Year (Jan - Dec), 2016",North Zone,23.24
+61,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",North Zone,21.15
+62,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",North Zone,19.9
+63,India,8,Rajasthan,2019,"Calendar Year (Jan - Dec), 2019",North Zone,27.83
+64,India,8,Rajasthan,2020,"Calendar Year (Jan - Dec), 2020",North Zone,19.26
+65,India,9,Uttar Pradesh,2013,"Calendar Year (Jan - Dec), 2013",North Zone,102.63
+66,India,9,Uttar Pradesh,2014,"Calendar Year (Jan - Dec), 2014",North Zone,91.59
+67,India,9,Uttar Pradesh,2015,"Calendar Year (Jan - Dec), 2015",North Zone,58.39
+68,India,9,Uttar Pradesh,2016,"Calendar Year (Jan - Dec), 2016",North Zone,64.43
+69,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",North Zone,57.23
+70,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",North Zone,58.72
+71,India,9,Uttar Pradesh,2019,"Calendar Year (Jan - Dec), 2019",North Zone,62.38
+72,India,9,Uttar Pradesh,2020,"Calendar Year (Jan - Dec), 2020",North Zone,54.17
+73,India,10,Bihar,2013,"Calendar Year (Jan - Dec), 2013",East Zone,11.21
+74,India,10,Bihar,2014,"Calendar Year (Jan - Dec), 2014",East Zone,11.5
+75,India,10,Bihar,2015,"Calendar Year (Jan - Dec), 2015",East Zone,10.48
+76,India,10,Bihar,2016,"Calendar Year (Jan - Dec), 2016",East Zone,15.1
+77,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",East Zone,15.51
+78,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",East Zone,25.81
+79,India,10,Bihar,2019,"Calendar Year (Jan - Dec), 2019",East Zone,22.1
+80,India,10,Bihar,2020,"Calendar Year (Jan - Dec), 2020",East Zone,17.9
+81,India,11,Sikkim,2013,"Calendar Year (Jan - Dec), 2013",East Zone,0.11
+82,India,11,Sikkim,2014,"Calendar Year (Jan - Dec), 2014",East Zone,0.11
+83,India,11,Sikkim,2015,"Calendar Year (Jan - Dec), 2015",East Zone,0
+84,India,11,Sikkim,2016,"Calendar Year (Jan - Dec), 2016",East Zone,0
+85,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",East Zone,0
+86,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",East Zone,0
+87,India,11,Sikkim,2019,"Calendar Year (Jan - Dec), 2019",East Zone,0
+88,India,11,Sikkim,2020,"Calendar Year (Jan - Dec), 2020",East Zone,19.13
+89,India,12,Arunachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",North-East Zone,0.23
+90,India,12,Arunachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",North-East Zone,0.23
+91,India,12,Arunachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",North-East Zone,0.33
+92,India,12,Arunachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",North-East Zone,0.23
+93,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",North-East Zone,0.39
+94,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",North-East Zone,0.27
+95,India,12,Arunachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",North-East Zone,0.3
+96,India,12,Arunachal Pradesh,2020,"Calendar Year (Jan - Dec), 2020",North-East Zone,0.33
+97,India,13,Nagaland,2013,"Calendar Year (Jan - Dec), 2013",North-East Zone,0.46
+98,India,13,Nagaland,2014,"Calendar Year (Jan - Dec), 2014",North-East Zone,0.46
+99,India,13,Nagaland,2015,"Calendar Year (Jan - Dec), 2015",North-East Zone,0.4
+100,India,13,Nagaland,2016,"Calendar Year (Jan - Dec), 2016",North-East Zone,0.45
+101,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",North-East Zone,0.44
+102,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",North-East Zone,0.48
+103,India,13,Nagaland,2019,"Calendar Year (Jan - Dec), 2019",North-East Zone,0.49
+104,India,13,Nagaland,2020,"Calendar Year (Jan - Dec), 2020",North-East Zone,0.46
+105,India,14,Manipur,2013,"Calendar Year (Jan - Dec), 2013",North-East Zone,0.3
+106,India,14,Manipur,2014,"Calendar Year (Jan - Dec), 2014",North-East Zone,0.31
+107,India,14,Manipur,2015,"Calendar Year (Jan - Dec), 2015",North-East Zone,0.32
+108,India,14,Manipur,2016,"Calendar Year (Jan - Dec), 2016",North-East Zone,0.32
+109,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",North-East Zone,0.32
+110,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",North-East Zone,0.32
+111,India,14,Manipur,2019,"Calendar Year (Jan - Dec), 2019",North-East Zone,0.49
+112,India,14,Manipur,2020,"Calendar Year (Jan - Dec), 2020",North-East Zone,0.49
+113,India,15,Mizoram,2013,"Calendar Year (Jan - Dec), 2013",North-East Zone,0.26
+114,India,15,Mizoram,2014,"Calendar Year (Jan - Dec), 2014",North-East Zone,0.26
+115,India,15,Mizoram,2015,"Calendar Year (Jan - Dec), 2015",North-East Zone,0.67
+116,India,15,Mizoram,2016,"Calendar Year (Jan - Dec), 2016",North-East Zone,0.67
+117,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",North-East Zone,0.25
+118,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",North-East Zone,0.93
+119,India,15,Mizoram,2019,"Calendar Year (Jan - Dec), 2019",North-East Zone,0.67
+120,India,15,Mizoram,2020,"Calendar Year (Jan - Dec), 2020",North-East Zone,0.25
+121,India,16,Tripura,2013,"Calendar Year (Jan - Dec), 2013",North-East Zone,0.76
+122,India,16,Tripura,2014,"Calendar Year (Jan - Dec), 2014",North-East Zone,0.83
+123,India,16,Tripura,2015,"Calendar Year (Jan - Dec), 2015",North-East Zone,0.6
+124,India,16,Tripura,2016,"Calendar Year (Jan - Dec), 2016",North-East Zone,0.83
+125,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",North-East Zone,0.43
+126,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",North-East Zone,0.44
+127,India,16,Tripura,2019,"Calendar Year (Jan - Dec), 2019",North-East Zone,0.99
+128,India,16,Tripura,2020,"Calendar Year (Jan - Dec), 2020",North-East Zone,0.44
+129,India,17,Meghalaya,2013,"Calendar Year (Jan - Dec), 2013",North-East Zone,0.4
+130,India,17,Meghalaya,2014,"Calendar Year (Jan - Dec), 2014",North-East Zone,0.42
+131,India,17,Meghalaya,2015,"Calendar Year (Jan - Dec), 2015",North-East Zone,0.28
+132,India,17,Meghalaya,2016,"Calendar Year (Jan - Dec), 2016",North-East Zone,0.23
+133,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",North-East Zone,0.23
+134,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",North-East Zone,0.22
+135,India,17,Meghalaya,2019,"Calendar Year (Jan - Dec), 2019",North-East Zone,0.22
+136,India,17,Meghalaya,2020,"Calendar Year (Jan - Dec), 2020",North-East Zone,0.22
+137,India,18,Assam,2013,"Calendar Year (Jan - Dec), 2013",North-East Zone,6.07
+138,India,18,Assam,2014,"Calendar Year (Jan - Dec), 2014",North-East Zone,6.25
+139,India,18,Assam,2015,"Calendar Year (Jan - Dec), 2015",North-East Zone,5.68
+140,India,18,Assam,2016,"Calendar Year (Jan - Dec), 2016",North-East Zone,6.29
+141,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",North-East Zone,3.98
+142,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",North-East Zone,4.68
+143,India,18,Assam,2019,"Calendar Year (Jan - Dec), 2019",North-East Zone,3.98
+144,India,18,Assam,2020,"Calendar Year (Jan - Dec), 2020",North-East Zone,4.18
+145,India,19,West Bengal,2013,"Calendar Year (Jan - Dec), 2013",East Zone,19.68
+146,India,19,West Bengal,2014,"Calendar Year (Jan - Dec), 2014",East Zone,19.64
+147,India,19,West Bengal,2015,"Calendar Year (Jan - Dec), 2015",East Zone,14.68
+148,India,19,West Bengal,2016,"Calendar Year (Jan - Dec), 2016",East Zone,16.72
+149,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",East Zone,18.59
+150,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",East Zone,18.67
+151,India,19,West Bengal,2019,"Calendar Year (Jan - Dec), 2019",East Zone,19.44
+152,India,19,West Bengal,2020,"Calendar Year (Jan - Dec), 2020",East Zone,3.9
+153,India,20,Jharkhand,2013,"Calendar Year (Jan - Dec), 2013",East Zone,1.69
+154,India,20,Jharkhand,2014,"Calendar Year (Jan - Dec), 2014",East Zone,2.11
+155,India,20,Jharkhand,2015,"Calendar Year (Jan - Dec), 2015",East Zone,2.24
+156,India,20,Jharkhand,2016,"Calendar Year (Jan - Dec), 2016",East Zone,2.53
+157,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",East Zone,2.9
+158,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",East Zone,3.68
+159,India,20,Jharkhand,2019,"Calendar Year (Jan - Dec), 2019",East Zone,5.51
+160,India,20,Jharkhand,2020,"Calendar Year (Jan - Dec), 2020",East Zone,0.23
+161,India,21,Odisha,2013,"Calendar Year (Jan - Dec), 2013",East Zone,15.33
+162,India,21,Odisha,2014,"Calendar Year (Jan - Dec), 2014",East Zone,14.09
+163,India,21,Odisha,2015,"Calendar Year (Jan - Dec), 2015",East Zone,13.68
+164,India,21,Odisha,2016,"Calendar Year (Jan - Dec), 2016",East Zone,11.63
+165,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",East Zone,13.44
+166,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",East Zone,12.1
+167,India,21,Odisha,2019,"Calendar Year (Jan - Dec), 2019",East Zone,13.15
+168,India,21,Odisha,2020,"Calendar Year (Jan - Dec), 2020",East Zone,13.39
+169,India,22,Chhattisgarh,2013,"Calendar Year (Jan - Dec), 2013",West Zone,23.66
+170,India,22,Chhattisgarh,2014,"Calendar Year (Jan - Dec), 2014",West Zone,23.7
+171,India,22,Chhattisgarh,2015,"Calendar Year (Jan - Dec), 2015",West Zone,23.87
+172,India,22,Chhattisgarh,2016,"Calendar Year (Jan - Dec), 2016",West Zone,24.98
+173,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",West Zone,19.03
+174,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",West Zone,15.04
+175,India,22,Chhattisgarh,2019,"Calendar Year (Jan - Dec), 2019",West Zone,24.9
+176,India,22,Chhattisgarh,2020,"Calendar Year (Jan - Dec), 2020",West Zone,27.02
+177,India,23,Madhya Pradesh,2013,"Calendar Year (Jan - Dec), 2013",West Zone,59.2
+178,India,23,Madhya Pradesh,2014,"Calendar Year (Jan - Dec), 2014",West Zone,68.63
+179,India,23,Madhya Pradesh,2015,"Calendar Year (Jan - Dec), 2015",West Zone,59.17
+180,India,23,Madhya Pradesh,2016,"Calendar Year (Jan - Dec), 2016",West Zone,129.66
+181,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",West Zone,124.29
+182,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",West Zone,210.73
+183,India,23,Madhya Pradesh,2019,"Calendar Year (Jan - Dec), 2019",West Zone,157.8
+184,India,23,Madhya Pradesh,2020,"Calendar Year (Jan - Dec), 2020",West Zone,92.96
+185,India,24,Gujarat,2013,"Calendar Year (Jan - Dec), 2013",West Zone,17.21
+186,India,24,Gujarat,2014,"Calendar Year (Jan - Dec), 2014",West Zone,18.33
+187,India,24,Gujarat,2015,"Calendar Year (Jan - Dec), 2015",West Zone,10.11
+188,India,24,Gujarat,2016,"Calendar Year (Jan - Dec), 2016",West Zone,9.26
+189,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",West Zone,8.77
+190,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",West Zone,9.28
+191,India,24,Gujarat,2019,"Calendar Year (Jan - Dec), 2019",West Zone,10.71
+192,India,24,Gujarat,2020,"Calendar Year (Jan - Dec), 2020",West Zone,7.11
+193,India,27,Maharashtra,2013,"Calendar Year (Jan - Dec), 2013",West Zone,50.66
+194,India,27,Maharashtra,2014,"Calendar Year (Jan - Dec), 2014",West Zone,53.43
+195,India,27,Maharashtra,2015,"Calendar Year (Jan - Dec), 2015",West Zone,29.91
+196,India,27,Maharashtra,2016,"Calendar Year (Jan - Dec), 2016",West Zone,31.55
+197,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",West Zone,31.87
+198,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",West Zone,33.99
+199,India,27,Maharashtra,2019,"Calendar Year (Jan - Dec), 2019",West Zone,38.3
+200,India,27,Maharashtra,2020,"Calendar Year (Jan - Dec), 2020",West Zone,20.49
+201,India,28,Andhra Pradesh,2013,"Calendar Year (Jan - Dec), 2013",South Zone,51.4900380920529153
+202,India,28,Andhra Pradesh,2014,"Calendar Year (Jan - Dec), 2014",South Zone,38.61470874220003407
+203,India,28,Andhra Pradesh,2015,"Calendar Year (Jan - Dec), 2015",South Zone,27.36
+204,India,28,Andhra Pradesh,2016,"Calendar Year (Jan - Dec), 2016",South Zone,24.02
+205,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",South Zone,28.79
+206,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",South Zone,26.8
+207,India,28,Andhra Pradesh,2019,"Calendar Year (Jan - Dec), 2019",South Zone,25.48
+208,India,28,Andhra Pradesh,2020,"Calendar Year (Jan - Dec), 2020",South Zone,22.87
+209,India,29,Karnataka,2013,"Calendar Year (Jan - Dec), 2013",South Zone,24.16
+210,India,29,Karnataka,2014,"Calendar Year (Jan - Dec), 2014",South Zone,25.02
+211,India,29,Karnataka,2015,"Calendar Year (Jan - Dec), 2015",South Zone,29.28
+212,India,29,Karnataka,2016,"Calendar Year (Jan - Dec), 2016",South Zone,29.62
+213,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",South Zone,13.88
+214,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",South Zone,11.56
+215,India,29,Karnataka,2019,"Calendar Year (Jan - Dec), 2019",South Zone,12.49
+216,India,29,Karnataka,2020,"Calendar Year (Jan - Dec), 2020",South Zone,10.87
+217,India,30,Goa,2013,"Calendar Year (Jan - Dec), 2013",West Zone,0.5
+218,India,30,Goa,2014,"Calendar Year (Jan - Dec), 2014",West Zone,0.5
+219,India,30,Goa,2015,"Calendar Year (Jan - Dec), 2015",West Zone,0.2
+220,India,30,Goa,2016,"Calendar Year (Jan - Dec), 2016",West Zone,0.2
+221,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",West Zone,0
+222,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",West Zone,0.2
+223,India,30,Goa,2019,"Calendar Year (Jan - Dec), 2019",West Zone,0
+224,India,30,Goa,2020,"Calendar Year (Jan - Dec), 2020",West Zone,0.2
+225,India,31,Lakshadweep,2013,"Calendar Year (Jan - Dec), 2013",South Zone,0
+226,India,31,Lakshadweep,2014,"Calendar Year (Jan - Dec), 2014",South Zone,0
+227,India,31,Lakshadweep,2015,"Calendar Year (Jan - Dec), 2015",South Zone,0
+228,India,31,Lakshadweep,2016,"Calendar Year (Jan - Dec), 2016",South Zone,0
+229,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",South Zone,0
+230,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",South Zone,0
+231,India,31,Lakshadweep,2019,"Calendar Year (Jan - Dec), 2019",South Zone,0
+232,India,31,Lakshadweep,2020,"Calendar Year (Jan - Dec), 2020",South Zone,0
+233,India,32,Kerala,2013,"Calendar Year (Jan - Dec), 2013",South Zone,9.06
+234,India,32,Kerala,2014,"Calendar Year (Jan - Dec), 2014",South Zone,9
+235,India,32,Kerala,2015,"Calendar Year (Jan - Dec), 2015",South Zone,5.89
+236,India,32,Kerala,2016,"Calendar Year (Jan - Dec), 2016",South Zone,5.89
+237,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",South Zone,5.55
+238,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",South Zone,7.17
+239,India,32,Kerala,2019,"Calendar Year (Jan - Dec), 2019",South Zone,7.62
+240,India,32,Kerala,2020,"Calendar Year (Jan - Dec), 2020",South Zone,5.63
+241,India,33,Tamil Nadu,2013,"Calendar Year (Jan - Dec), 2013",South Zone,23.36
+242,India,33,Tamil Nadu,2014,"Calendar Year (Jan - Dec), 2014",South Zone,24.41
+243,India,33,Tamil Nadu,2015,"Calendar Year (Jan - Dec), 2015",South Zone,17.32
+244,India,33,Tamil Nadu,2016,"Calendar Year (Jan - Dec), 2016",South Zone,16.99
+245,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",South Zone,27.42
+246,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",South Zone,43.17
+247,India,33,Tamil Nadu,2019,"Calendar Year (Jan - Dec), 2019",South Zone,31.31
+248,India,33,Tamil Nadu,2020,"Calendar Year (Jan - Dec), 2020",South Zone,28.96
+249,India,34,Puducherry,2013,"Calendar Year (Jan - Dec), 2013",South Zone,0.84
+250,India,34,Puducherry,2014,"Calendar Year (Jan - Dec), 2014",South Zone,0.84
+251,India,34,Puducherry,2015,"Calendar Year (Jan - Dec), 2015",South Zone,0
+252,India,34,Puducherry,2016,"Calendar Year (Jan - Dec), 2016",South Zone,0
+253,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",South Zone,0
+254,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",South Zone,0
+255,India,34,Puducherry,2019,"Calendar Year (Jan - Dec), 2019",South Zone,0
+256,India,34,Puducherry,2020,"Calendar Year (Jan - Dec), 2020",South Zone,1.34
+257,India,35,Andaman And Nicobar Islands,2013,"Calendar Year (Jan - Dec), 2013",South Zone,0.1
+258,India,35,Andaman And Nicobar Islands,2014,"Calendar Year (Jan - Dec), 2014",South Zone,0.1
+259,India,35,Andaman And Nicobar Islands,2015,"Calendar Year (Jan - Dec), 2015",South Zone,0
+260,India,35,Andaman And Nicobar Islands,2016,"Calendar Year (Jan - Dec), 2016",South Zone,0
+261,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",South Zone,0
+262,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",South Zone,0
+263,India,35,Andaman And Nicobar Islands,2019,"Calendar Year (Jan - Dec), 2019",South Zone,0
+264,India,35,Andaman And Nicobar Islands,2020,"Calendar Year (Jan - Dec), 2020",South Zone,0.07
+265,India,36,Telangana,2013,"Calendar Year (Jan - Dec), 2013",South Zone,39.8099619079470847
+266,India,36,Telangana,2014,"Calendar Year (Jan - Dec), 2014",South Zone,29.85529125779996593
+267,India,36,Telangana,2015,"Calendar Year (Jan - Dec), 2015",South Zone,17.96
+268,India,36,Telangana,2016,"Calendar Year (Jan - Dec), 2016",South Zone,20.88
+269,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",South Zone,17.52
+270,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",South Zone,27.37
+271,India,36,Telangana,2019,"Calendar Year (Jan - Dec), 2019",South Zone,33.42
+272,India,36,Telangana,2020,"Calendar Year (Jan - Dec), 2020",South Zone,28.85
+273,India,37,Ladakh,2013,"Calendar Year (Jan - Dec), 2013",North Zone,0.034320955558116165
+274,India,37,Ladakh,2014,"Calendar Year (Jan - Dec), 2014",North Zone,0.042596930657236375
+275,India,37,Ladakh,2015,"Calendar Year (Jan - Dec), 2015",North Zone,0.055497715370570820
+276,India,37,Ladakh,2016,"Calendar Year (Jan - Dec), 2016",North Zone,0.060609347049439185
+277,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",North Zone,0.063043457372709835
+278,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",North Zone,0.067911678019251135
+279,India,37,Ladakh,2019,"Calendar Year (Jan - Dec), 2019",North Zone,0.059879113952457990
+280,India,37,Ladakh,2020,"Calendar Year (Jan - Dec), 2020",North Zone,0.06328686840503690
+281,India,38,The Dadra And Nagar Haveli And Daman And Diu,2013,"Calendar Year (Jan - Dec), 2013",West Zone,0
+282,India,38,The Dadra And Nagar Haveli And Daman And Diu,2014,"Calendar Year (Jan - Dec), 2014",West Zone,0
+283,India,38,The Dadra And Nagar Haveli And Daman And Diu,2015,"Calendar Year (Jan - Dec), 2015",West Zone,0
+284,India,38,The Dadra And Nagar Haveli And Daman And Diu,2016,"Calendar Year (Jan - Dec), 2016",West Zone,0
+285,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",West Zone,0
+286,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",West Zone,0
+287,India,38,The Dadra And Nagar Haveli And Daman And Diu,2019,"Calendar Year (Jan - Dec), 2019",West Zone,0
+288,India,38,The Dadra And Nagar Haveli And Daman And Diu,2020,"Calendar Year (Jan - Dec), 2020",West Zone,0

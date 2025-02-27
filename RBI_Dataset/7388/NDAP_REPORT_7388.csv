@@ -1,0 +1,109 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Total population,Rural population,Urban population,Decadal growth rate of population (%),Sex ratio-females per 1000 males,Literacy rate (%),Density of population
+1,India,1,Jammu And Kashmir,1991,"Calendar Year (Jan - Dec), 1991",7665.58020220427572837170,5910.82061527630958613630,1754.75958692796614223540,30.89,896,,75.125637586377147
+2,India,1,Jammu And Kashmir,2001,"Calendar Year (Jan - Dec), 2001",9922.11886833739606847040,7460.17356159397868831070,2461.94530674341738015970,29.43,892,55.52,97.565763099191100
+3,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",12266.68895187492942573810,8908.77944132659733750280,3357.90951054833208823530,23.64,889,67.16,120.981546242996964
+4,India,2,Himachal Pradesh,1991,"Calendar Year (Jan - Dec), 1991",5171,4722,449,20.79,976,63.86,93
+5,India,2,Himachal Pradesh,2001,"Calendar Year (Jan - Dec), 2001",6078,5482,596,17.54,968,76.48,109
+6,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",6865,6176,689,12.94,972,82.8,123
+7,India,3,Punjab,1991,"Calendar Year (Jan - Dec), 1991",20282,14289,5993,20.81,882,58.51,403
+8,India,3,Punjab,2001,"Calendar Year (Jan - Dec), 2001",24359,16096,8263,20.1,876,69.65,484
+9,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",27743,17344,10399,13.89,895,75.84,551
+10,India,4,Chandigarh,1991,"Calendar Year (Jan - Dec), 1991",642,66,576,42.16,790,77.81,5632
+11,India,4,Chandigarh,2001,"Calendar Year (Jan - Dec), 2001",901,92,809,40.28,777,81.94,7900
+12,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",1055,29,1026,17.09,818,86.05,9258
+13,India,5,Uttarakhand,1991,"Calendar Year (Jan - Dec), 1991",7051,5417,1634,23.13,936,57.75,133
+14,India,5,Uttarakhand,2001,"Calendar Year (Jan - Dec), 2001",8489,6310,2179,20.41,962,71.62,159
+15,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",10086,7037,3049,18.81,963,78.82,189
+16,India,6,Haryana,1991,"Calendar Year (Jan - Dec), 1991",16464,12409,4055,27.41,865,55.85,372
+17,India,6,Haryana,2001,"Calendar Year (Jan - Dec), 2001",21145,15029,6115,28.43,861,67.91,478
+18,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",25351,16509,8842,19.9,879,75.55,573
+19,India,7,Delhi,1991,"Calendar Year (Jan - Dec), 1991",9421,949,8472,51.45,827,75.29,6352
+20,India,7,Delhi,2001,"Calendar Year (Jan - Dec), 2001",13851,945,12906,47.02,821,81.67,9340
+21,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",16788,419,16369,21.21,868,86.21,11320
+22,India,8,Rajasthan,1991,"Calendar Year (Jan - Dec), 1991",44006,33939,10067,28.44,910,38.55,129
+23,India,8,Rajasthan,2001,"Calendar Year (Jan - Dec), 2001",56507,43293,13214,28.41,921,60.41,165
+24,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",68548,51500,17048,21.31,928,66.11,200
+25,India,9,Uttar Pradesh,1991,"Calendar Year (Jan - Dec), 1991",132062,106090,25972,25.61,876,40.71,548
+26,India,9,Uttar Pradesh,2001,"Calendar Year (Jan - Dec), 2001",166198,131658,34540,25.85,898,56.27,690
+27,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",199812,155317,44495,20.23,912,67.68,829
+28,India,10,Bihar,1991,"Calendar Year (Jan - Dec), 1991",64531,57819,6712,23.38,907,37.49,685
+29,India,10,Bihar,2001,"Calendar Year (Jan - Dec), 2001",82999,74317,8682,28.62,919,47,881
+30,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",104099,92341,11758,25.4,918,61.8,1106
+31,India,11,Sikkim,1991,"Calendar Year (Jan - Dec), 1991",406,369,37,28.47,878,56.94,57
+32,India,11,Sikkim,2001,"Calendar Year (Jan - Dec), 2001",541,481,60,33.06,875,68.81,76
+33,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",611,457,154,12.89,890,81.42,86
+34,India,12,Arunachal Pradesh,1991,"Calendar Year (Jan - Dec), 1991",865,754,111,36.83,859,41.59,10
+35,India,12,Arunachal Pradesh,2001,"Calendar Year (Jan - Dec), 2001",1098,870,228,27,893,54.34,13
+36,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",1384,1066,317,26.03,938,65.39,17
+37,India,13,Nagaland,1991,"Calendar Year (Jan - Dec), 1991",1210,1001,208,56.08,886,61.65,73
+38,India,13,Nagaland,2001,"Calendar Year (Jan - Dec), 2001",1990,1647,343,64.53,900,66.59,120
+39,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",1979,1408,571,0.58,931,79.6,119
+40,India,14,Manipur,1991,"Calendar Year (Jan - Dec), 1991",1837,1332,506,29.29,958,59.89,82
+41,India,14,Manipur,2001,"Calendar Year (Jan - Dec), 2001",2294,1718,576,24.86,978,70.5,97
+42,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",2856,1736,834,24.5,992,76.9,115
+43,India,15,Mizoram,1991,"Calendar Year (Jan - Dec), 1991",690,372,318,39.7,921,82.26,33
+44,India,15,Mizoram,2001,"Calendar Year (Jan - Dec), 2001",889,448,441,28.82,935,88.8,42
+45,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",1097,525,572,23.48,976,91.33,52
+46,India,16,Tripura,1991,"Calendar Year (Jan - Dec), 1991",2757,2335,422,34.3,945,60.44,263
+47,India,16,Tripura,2001,"Calendar Year (Jan - Dec), 2001",3199,2653,546,16.03,948,73.19,305
+48,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",3674,2712,961,14.84,960,87.22,350
+49,India,17,Meghalaya,1991,"Calendar Year (Jan - Dec), 1991",1775,1445,330,32.86,955,49.1,79
+50,India,17,Meghalaya,2001,"Calendar Year (Jan - Dec), 2001",2319,1865,454,30.65,972,62.56,103
+51,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",2967,2371,595,29.95,989,74.43,132
+52,India,18,Assam,1991,"Calendar Year (Jan - Dec), 1991",22414,19927,2488,24.24,923,52.89,286
+53,India,18,Assam,2001,"Calendar Year (Jan - Dec), 2001",26656,23216,3439,18.92,935,63.25,340
+54,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",31206,26807,4399,17.07,958,72.19,398
+55,India,19,West Bengal,1991,"Calendar Year (Jan - Dec), 1991",68078,49370,18708,24.73,917,57.7,767
+56,India,19,West Bengal,2001,"Calendar Year (Jan - Dec), 2001",80176,57749,22427,17.77,934,68.64,903
+57,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",91276,62183,29093,13.84,950,76.26,1028
+58,India,20,Jharkhand,1991,"Calendar Year (Jan - Dec), 1991",21844,17203,4641,24.03,922,41.39,274
+59,India,20,Jharkhand,2001,"Calendar Year (Jan - Dec), 2001",26946,20952,5994,23.36,941,53.56,338
+60,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",32988,25055,7933,22.42,948,66.41,414
+61,India,21,Odisha,1991,"Calendar Year (Jan - Dec), 1991",31660,27425,4235,20.06,971,49.09,203
+62,India,21,Odisha,2001,"Calendar Year (Jan - Dec), 2001",36805,31287,5517,16.25,972,63.08,236
+63,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",41974,34971,7004,14.05,979,72.89,270
+64,India,22,Chhattisgarh,1991,"Calendar Year (Jan - Dec), 1991",17615,14550,3065,25.73,985,42.91,130
+65,India,22,Chhattisgarh,2001,"Calendar Year (Jan - Dec), 2001",20834,16648,4186,18.27,989,64.66,154
+66,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",25545,19608,5937,22.61,991,70.28,189
+67,India,23,Madhya Pradesh,1991,"Calendar Year (Jan - Dec), 1991",48566,36292,12274,27.24,912,44.67,158
+68,India,23,Madhya Pradesh,2001,"Calendar Year (Jan - Dec), 2001",60348,44381,15967,24.26,919,63.74,196
+69,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",72627,52557,20069,20.35,931,69.32,236
+70,India,24,Gujarat,1991,"Calendar Year (Jan - Dec), 1991",41310,27064,14246,21.19,934,61.29,211
+71,India,24,Gujarat,2001,"Calendar Year (Jan - Dec), 2001",50671,31741,18930,22.66,920,69.14,258
+72,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",60440,34695,25745,19.28,919,78.03,308
+73,India,27,Maharashtra,1991,"Calendar Year (Jan - Dec), 1991",78937,48396,30542,25.73,934,64.87,257
+74,India,27,Maharashtra,2001,"Calendar Year (Jan - Dec), 2001",96879,55778,41101,22.73,922,76.88,315
+75,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",112374,61556,50818,15.99,929,82.34,365
+76,India,28,Andhra Pradesh,1991,"Calendar Year (Jan - Dec), 1991",38983.72754750172134283848,28499.24546050221316849326,10484.48208699950817434522,24.2,972,44.08,136.479619039176402
+77,India,28,Andhra Pradesh,2001,"Calendar Year (Jan - Dec), 2001",44670.56408845712070033260,32473.34891831272725258006,12197.21517014439344775254,14.59,978,60.47,156.218406916743237
+78,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",49577.23371166240291241086,33036.63998364545646125372,16540.59372801694645115714,10.98,993,67.02,173.701333322588148
+79,India,29,Karnataka,1991,"Calendar Year (Jan - Dec), 1991",44977,31069,13908,21.12,960,56.04,235
+80,India,29,Karnataka,2001,"Calendar Year (Jan - Dec), 2001",52851,34889,17962,17.51,965,66.6,276
+81,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",61095,37469,23626,15.6,973,75.37,319
+82,India,30,Goa,1991,"Calendar Year (Jan - Dec), 1991",1170,690,480,16.08,967,75.51,316
+83,India,30,Goa,2001,"Calendar Year (Jan - Dec), 2001",1348,677,671,15.21,961,82.01,364
+84,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",1459,552,907,8.23,973,88.7,394
+85,India,31,Lakshadweep,1991,"Calendar Year (Jan - Dec), 1991",52,23,29,28.47,943,81.78,1616
+86,India,31,Lakshadweep,2001,"Calendar Year (Jan - Dec), 2001",61,34,27,17.3,948,86.66,2022
+87,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",64,14,50,6.3,947,91.85,2149
+88,India,32,Kerala,1991,"Calendar Year (Jan - Dec), 1991",29099,21418,7680,14.32,1036,89.81,749
+89,India,32,Kerala,2001,"Calendar Year (Jan - Dec), 2001",31841,23574,8267,9.43,1058,90.86,820
+90,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",33406,17471,15935,4.91,1084,94,860
+91,India,33,Tamil Nadu,1991,"Calendar Year (Jan - Dec), 1991",55859,36781,19078,15.39,974,62.66,429
+92,India,33,Tamil Nadu,2001,"Calendar Year (Jan - Dec), 2001",62406,34922,27484,11.72,987,73.45,480
+93,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",72147,37230,34917,15.61,996,80.09,555
+94,India,34,Puducherry,1991,"Calendar Year (Jan - Dec), 1991",808,291,517,33.64,979,74.74,1683
+95,India,34,Puducherry,2001,"Calendar Year (Jan - Dec), 2001",974,326,649,20.62,1001,81.24,1989
+96,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",1248,395,853,28.08,1037,85.85,2547
+97,India,35,Andaman And Nicobar Islands,1991,"Calendar Year (Jan - Dec), 1991",281,206,75,48.7,818,73.02,34
+98,India,35,Andaman And Nicobar Islands,2001,"Calendar Year (Jan - Dec), 2001",356,240,116,26.9,846,81.3,43
+99,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",381,237,143,6.86,876,86.63,46
+100,India,36,Telangana,1991,"Calendar Year (Jan - Dec), 1991",27524.27245249827865716152,20121.75453949778683150674,7402.51791300049182565478,24.2,972,44.08,105.520380960823598
+101,India,36,Telangana,2001,"Calendar Year (Jan - Dec), 2001",31539.43591154287929966740,22927.65108168727274741994,8611.78482985560655224746,14.59,978,60.47,120.781593083256763
+102,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",35003.76628833759708758914,23325.36001635454353874628,11678.40627198305354884286,10.98,993,67.02,134.298666677411852
+103,India,37,Ladakh,1991,"Calendar Year (Jan - Dec), 1991",171.41979779572427162830,132.17938472369041386370,39.24041307203385776460,30.89,896,,1.8743624136228453
+104,India,37,Ladakh,2001,"Calendar Year (Jan - Dec), 2001",221.88113166260393152960,166.82643840602131168930,55.05469325658261984030,29.43,892,55.52,2.4342369008088900
+105,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",274.31104812507057426190,199.22055867340266249720,75.09048945166791176470,23.64,889,67.16,3.0184537570030236
+106,India,38,The Dadra And Nagar Haveli And Daman And Diu,1991,"Calendar Year (Jan - Dec), 1991",240.00000000000000000000,181.00000000000000000000,60.00000000000000000000,31.0950000000000000000000,960.00000000000000000000,55.9550000000000000000000,1189
+107,India,38,The Dadra And Nagar Haveli And Daman And Diu,2001,"Calendar Year (Jan - Dec), 2001",378.00000000000000000000,271.00000000000000000000,107.00000000000000000000,57.4750000000000000000000,761.00000000000000000000,67.9050000000000000000000,1874
+108,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",587.00000000000000000000,243.00000000000000000000,344.00000000000000000000,54.8200000000000000000000,696.00000000000000000000,81.6700000000000000000000,2891

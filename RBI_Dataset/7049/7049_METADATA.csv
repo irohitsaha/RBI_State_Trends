@@ -1,0 +1,25 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,,,YearCode
+Year,Year,Key Identifier,"",0,,,,Year
+State Development Loans,I7049_3,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,State Development Loans (SDLs) as on end-March
+Power bonds,I7049_4,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Power bonds as on end-March
+Compensation and other bonds,I7049_5,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Compensation and other bonds as on end-March
+Special securities issued to National Small Savings Fund (NSSF),I7049_6,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Special securities issued to National Small Savings Fund (NSSF) as on end-March
+Ways and Means Advances (WMA) ,I7049_7,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Ways and Means Advances (WMA) from RBI as on end-March
+Loans from Life Insurance Corporation of India,I7049_8,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Loans from Life Insurance Corporation of India (LIC) as on end-March
+Loans from General Insurance Corporation of India,I7049_9,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Loans from General Insurance Corporation of India (GIC) as on end-March
+Loans from National Bank for Agriculture and Rural Development (NABARD),I7049_10,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_LandArea,Land Area from Census,Loans from National Bank for Agriculture and Rural Development (NABARD) as at end-March
+Loans from State Bank of India (SBI) and other banks as on end-March,I7049_11,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Loans from State Bank of India (SBI) and other banks as on end-March
+Loans from National Co-operative Development Corporation (NCDC ) as on end-March,I7049_12,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Loans from National Co-operative Development Corporation (NCDC ) as on end-March
+Loans from other institutions,I7049_13,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Loans from other institutions as on end-March
+Loans from banks and Financial Institutions,I7049_14,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Loans from banks and Financial Institutions (FIs) as on end-March (Loans from banks and FIs = Loans from LIC + Loans from GIC + Loans from NABARD + Loans from SBI and other banks + Loans from NCDC + Loans from other institutions)
+Total internal debt,I7049_15,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Total internal debt (Total internal debt = SDLs + Power bonds + Compensation and other bonds + Special securities issued to NSSF + WMA from RBI + Loans from banks and other FIs) as on end-March
+Loans and Advances from Centre,I7049_16,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Loans and Advances from Centre as at end-March
+Provident Funds,I7049_17,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Provident Funds as at end-March
+Reserve Funds,I7049_18,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Reserve Funds as at end-March
+Deposits and Advances,I7049_19,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Deposits and Advances as on end-March
+Contingency funds,I7049_20,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Contingency funds as on end-March
+Total outstanding liabilities,I7049_21,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Total outstanding liabilities as on end-March

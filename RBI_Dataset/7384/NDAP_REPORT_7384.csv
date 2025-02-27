@@ -1,0 +1,885 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Number of employees,Mandays employees
+1,India,1,Jammu And Kashmir,1991,"Financial Year (Apr - Mar), 1991",13732.90111508843067836400,4326.25510199687527709430
+2,India,1,Jammu And Kashmir,1992,"Financial Year (Apr - Mar), 1992",14346.18665633917469797470,4504.27419052579937848050
+3,India,1,Jammu And Kashmir,1993,"Financial Year (Apr - Mar), 1993",14675.81540817569899559640,4670.55575673413507757750
+4,India,1,Jammu And Kashmir,1994,"Financial Year (Apr - Mar), 1994",19193.78337474218484341430,5814.96418299150430077450
+5,India,1,Jammu And Kashmir,1995,"Financial Year (Apr - Mar), 1995",23435.91956677484323743600,6929.05067658735348472440
+6,India,1,Jammu And Kashmir,1996,"Financial Year (Apr - Mar), 1996",21479.66584667677618923600,6410.64344076136571695140
+7,India,1,Jammu And Kashmir,1997,"Financial Year (Apr - Mar), 1997",42052.60809408809830163130,
+8,India,1,Jammu And Kashmir,1999,"Financial Year (Apr - Mar), 1999",25735.49581475012105259510,7850.44617875354306442660
+9,India,1,Jammu And Kashmir,2000,"Financial Year (Apr - Mar), 2000",,6990.67266877044259674270
+10,India,1,Jammu And Kashmir,2001,"Financial Year (Apr - Mar), 2001",,7331.06081606750626312950
+11,India,1,Jammu And Kashmir,2002,"Financial Year (Apr - Mar), 2002",,7438.65477067289995078050
+12,India,1,Jammu And Kashmir,2003,"Financial Year (Apr - Mar), 2003",,8180.07493059006736204830
+13,India,1,Jammu And Kashmir,2004,"Financial Year (Apr - Mar), 2004",,9321.54897626728948467300
+14,India,1,Jammu And Kashmir,2005,"Financial Year (Apr - Mar), 2005",,12068.12919928497562034580
+15,India,1,Jammu And Kashmir,2006,"Financial Year (Apr - Mar), 2006",,14075.24551610559241179900
+16,India,1,Jammu And Kashmir,2007,"Financial Year (Apr - Mar), 2007",,15854.45827453478439213690
+17,India,1,Jammu And Kashmir,2008,"Financial Year (Apr - Mar), 2008",9202.21749934130739473280,16231.03711565366229891540
+18,India,1,Jammu And Kashmir,2009,"Financial Year (Apr - Mar), 2009",8461.77546628418901698910,16005.08981098233555484830
+19,India,1,Jammu And Kashmir,2010,"Financial Year (Apr - Mar), 2010",10928.61140732785156476930,16823.78199284337661452000
+20,India,1,Jammu And Kashmir,2011,"Financial Year (Apr - Mar), 2011",10326.08526153764691392370,19304.31170992772563163760
+21,India,1,Jammu And Kashmir,2012,"Financial Year (Apr - Mar), 2012",11151.62433141903120826410,18359.44116312035924735700
+22,India,1,Jammu And Kashmir,2013,"Financial Year (Apr - Mar), 2013",13202.75635694185450830180,20122.02576492871765778520
+23,India,1,Jammu And Kashmir,2014,"Financial Year (Apr - Mar), 2014",12192.35131051120287790650,19531.23714145910140922880
+24,India,1,Jammu And Kashmir,2015,"Financial Year (Apr - Mar), 2015",15402.56366519213090400270,20255.05101789538621706280
+25,India,1,Jammu And Kashmir,2016,"Financial Year (Apr - Mar), 2016",15396.69490403183670285810,21850.37592663535989486990
+26,India,1,Jammu And Kashmir,2017,"Financial Year (Apr - Mar), 2017",14683.64042305609126378920,21686.05061414712226282110
+27,India,2,Himachal Pradesh,1991,"Financial Year (Apr - Mar), 1991",53788,18737
+28,India,2,Himachal Pradesh,1992,"Financial Year (Apr - Mar), 1992",58600,20391
+29,India,2,Himachal Pradesh,1993,"Financial Year (Apr - Mar), 1993",59699,20758
+30,India,2,Himachal Pradesh,1994,"Financial Year (Apr - Mar), 1994",63058,21978
+31,India,2,Himachal Pradesh,1995,"Financial Year (Apr - Mar), 1995",67593,23436
+32,India,2,Himachal Pradesh,1996,"Financial Year (Apr - Mar), 1996",68489,23581
+33,India,2,Himachal Pradesh,1997,"Financial Year (Apr - Mar), 1997",68494,
+34,India,2,Himachal Pradesh,1999,"Financial Year (Apr - Mar), 1999",40152,13324
+35,India,2,Himachal Pradesh,2000,"Financial Year (Apr - Mar), 2000",,12835
+36,India,2,Himachal Pradesh,2001,"Financial Year (Apr - Mar), 2001",,11668
+37,India,2,Himachal Pradesh,2002,"Financial Year (Apr - Mar), 2002",,10973
+38,India,2,Himachal Pradesh,2003,"Financial Year (Apr - Mar), 2003",,11960
+39,India,2,Himachal Pradesh,2004,"Financial Year (Apr - Mar), 2004",,13324
+40,India,2,Himachal Pradesh,2005,"Financial Year (Apr - Mar), 2005",,12835
+41,India,2,Himachal Pradesh,2006,"Financial Year (Apr - Mar), 2006",,11668
+42,India,2,Himachal Pradesh,2007,"Financial Year (Apr - Mar), 2007",,11960
+43,India,2,Himachal Pradesh,2008,"Financial Year (Apr - Mar), 2008",25393,34236
+44,India,2,Himachal Pradesh,2009,"Financial Year (Apr - Mar), 2009",28709,38809
+45,India,2,Himachal Pradesh,2010,"Financial Year (Apr - Mar), 2010",36474,48666
+46,India,2,Himachal Pradesh,2011,"Financial Year (Apr - Mar), 2011",46969,50247
+47,India,2,Himachal Pradesh,2012,"Financial Year (Apr - Mar), 2012",50917,56231
+48,India,2,Himachal Pradesh,2013,"Financial Year (Apr - Mar), 2013",61746,59614
+49,India,2,Himachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",60862,63156
+50,India,2,Himachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",52335,57419
+51,India,2,Himachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",55946,60883
+52,India,2,Himachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",59029,63476
+53,India,3,Punjab,1991,"Financial Year (Apr - Mar), 1991",384188,122753
+54,India,3,Punjab,1992,"Financial Year (Apr - Mar), 1992",422582,133855
+55,India,3,Punjab,1993,"Financial Year (Apr - Mar), 1993",437503,138518
+56,India,3,Punjab,1994,"Financial Year (Apr - Mar), 1994",440452,144884
+57,India,3,Punjab,1995,"Financial Year (Apr - Mar), 1995",472798,156977
+58,India,3,Punjab,1996,"Financial Year (Apr - Mar), 1996",482453,153599
+59,India,3,Punjab,1997,"Financial Year (Apr - Mar), 1997",454186,
+60,India,3,Punjab,1999,"Financial Year (Apr - Mar), 1999",338647,99867
+61,India,3,Punjab,2000,"Financial Year (Apr - Mar), 2000",,103805
+62,India,3,Punjab,2001,"Financial Year (Apr - Mar), 2001",,101413
+63,India,3,Punjab,2002,"Financial Year (Apr - Mar), 2002",,102371
+64,India,3,Punjab,2003,"Financial Year (Apr - Mar), 2003",,97888
+65,India,3,Punjab,2004,"Financial Year (Apr - Mar), 2004",,110307
+66,India,3,Punjab,2005,"Financial Year (Apr - Mar), 2005",,126065
+67,India,3,Punjab,2006,"Financial Year (Apr - Mar), 2006",,144711
+68,India,3,Punjab,2007,"Financial Year (Apr - Mar), 2007",,157510
+69,India,3,Punjab,2008,"Financial Year (Apr - Mar), 2008",105101,157393
+70,India,3,Punjab,2009,"Financial Year (Apr - Mar), 2009",106968,164096
+71,India,3,Punjab,2010,"Financial Year (Apr - Mar), 2010",119144,177922
+72,India,3,Punjab,2011,"Financial Year (Apr - Mar), 2011",109435,177747
+73,India,3,Punjab,2012,"Financial Year (Apr - Mar), 2012",110265,168054
+74,India,3,Punjab,2013,"Financial Year (Apr - Mar), 2013",111022,170871
+75,India,3,Punjab,2014,"Financial Year (Apr - Mar), 2014",109722,168919
+76,India,3,Punjab,2015,"Financial Year (Apr - Mar), 2015",112650,174368
+77,India,3,Punjab,2016,"Financial Year (Apr - Mar), 2016",120399,186823
+78,India,3,Punjab,2017,"Financial Year (Apr - Mar), 2017",134295,203094
+79,India,4,Chandigarh,1991,"Financial Year (Apr - Mar), 1991",11543,3542
+80,India,4,Chandigarh,1992,"Financial Year (Apr - Mar), 1992",9856,3046
+81,India,4,Chandigarh,1993,"Financial Year (Apr - Mar), 1993",7759,2361
+82,India,4,Chandigarh,1994,"Financial Year (Apr - Mar), 1994",11999,3683
+83,India,4,Chandigarh,1995,"Financial Year (Apr - Mar), 1995",13711,4012
+84,India,4,Chandigarh,1996,"Financial Year (Apr - Mar), 1996",14439,4497
+85,India,4,Chandigarh,1997,"Financial Year (Apr - Mar), 1997",25340,
+86,India,4,Chandigarh,1999,"Financial Year (Apr - Mar), 1999",,3485
+87,India,4,Chandigarh,2000,"Financial Year (Apr - Mar), 2000",,3006
+88,India,4,Chandigarh,2001,"Financial Year (Apr - Mar), 2001",,2936
+89,India,4,Chandigarh,2002,"Financial Year (Apr - Mar), 2002",,2554
+90,India,4,Chandigarh,2003,"Financial Year (Apr - Mar), 2003",,2767
+91,India,4,Chandigarh,2004,"Financial Year (Apr - Mar), 2004",,3002
+92,India,4,Chandigarh,2005,"Financial Year (Apr - Mar), 2005",,3302
+93,India,4,Chandigarh,2006,"Financial Year (Apr - Mar), 2006",,4109
+94,India,4,Chandigarh,2007,"Financial Year (Apr - Mar), 2007",,3921
+95,India,4,Chandigarh,2008,"Financial Year (Apr - Mar), 2008",3958,3376
+96,India,4,Chandigarh,2009,"Financial Year (Apr - Mar), 2009",3637,3284
+97,India,4,Chandigarh,2010,"Financial Year (Apr - Mar), 2010",4528,4221
+98,India,4,Chandigarh,2011,"Financial Year (Apr - Mar), 2011",5106,4658
+99,India,4,Chandigarh,2012,"Financial Year (Apr - Mar), 2012",4204,3813
+100,India,4,Chandigarh,2013,"Financial Year (Apr - Mar), 2013",5082,4049
+101,India,4,Chandigarh,2014,"Financial Year (Apr - Mar), 2014",4001,3253
+102,India,4,Chandigarh,2015,"Financial Year (Apr - Mar), 2015",4530,3391
+103,India,4,Chandigarh,2016,"Financial Year (Apr - Mar), 2016",4316,3195
+104,India,4,Chandigarh,2017,"Financial Year (Apr - Mar), 2017",3958,2891
+105,India,5,Uttarakhand,1991,"Financial Year (Apr - Mar), 1991",,
+106,India,5,Uttarakhand,1992,"Financial Year (Apr - Mar), 1992",,
+107,India,5,Uttarakhand,1993,"Financial Year (Apr - Mar), 1993",,
+108,India,5,Uttarakhand,1994,"Financial Year (Apr - Mar), 1994",,
+109,India,5,Uttarakhand,1995,"Financial Year (Apr - Mar), 1995",,
+110,India,5,Uttarakhand,1996,"Financial Year (Apr - Mar), 1996",,
+111,India,5,Uttarakhand,1997,"Financial Year (Apr - Mar), 1997",,
+112,India,5,Uttarakhand,1999,"Financial Year (Apr - Mar), 1999",,
+113,India,5,Uttarakhand,2000,"Financial Year (Apr - Mar), 2000",,
+114,India,5,Uttarakhand,2001,"Financial Year (Apr - Mar), 2001",,
+115,India,5,Uttarakhand,2002,"Financial Year (Apr - Mar), 2002",,
+116,India,5,Uttarakhand,2003,"Financial Year (Apr - Mar), 2003",,13152
+117,India,5,Uttarakhand,2004,"Financial Year (Apr - Mar), 2004",,15582
+118,India,5,Uttarakhand,2005,"Financial Year (Apr - Mar), 2005",,20627
+119,India,5,Uttarakhand,2006,"Financial Year (Apr - Mar), 2006",,28238
+120,India,5,Uttarakhand,2007,"Financial Year (Apr - Mar), 2007",,40273
+121,India,5,Uttarakhand,2008,"Financial Year (Apr - Mar), 2008",56547,68951
+122,India,5,Uttarakhand,2009,"Financial Year (Apr - Mar), 2009",49410,69944
+123,India,5,Uttarakhand,2010,"Financial Year (Apr - Mar), 2010",53915,89389
+124,India,5,Uttarakhand,2011,"Financial Year (Apr - Mar), 2011",68489,105923
+125,India,5,Uttarakhand,2012,"Financial Year (Apr - Mar), 2012",67736,104697
+126,India,5,Uttarakhand,2013,"Financial Year (Apr - Mar), 2013",74273,117870
+127,India,5,Uttarakhand,2014,"Financial Year (Apr - Mar), 2014",79463,116294
+128,India,5,Uttarakhand,2015,"Financial Year (Apr - Mar), 2015",79295,120915
+129,India,5,Uttarakhand,2016,"Financial Year (Apr - Mar), 2016",80967,131571
+130,India,5,Uttarakhand,2017,"Financial Year (Apr - Mar), 2017",86638,131862
+131,India,6,Haryana,1991,"Financial Year (Apr - Mar), 1991",265144,79188
+132,India,6,Haryana,1992,"Financial Year (Apr - Mar), 1992",265885,79836
+133,India,6,Haryana,1993,"Financial Year (Apr - Mar), 1993",287223,86029
+134,India,6,Haryana,1994,"Financial Year (Apr - Mar), 1994",305146,92140
+135,India,6,Haryana,1995,"Financial Year (Apr - Mar), 1995",337987,102796
+136,India,6,Haryana,1996,"Financial Year (Apr - Mar), 1996",340591,102480
+137,India,6,Haryana,1997,"Financial Year (Apr - Mar), 1997",314401,
+138,India,6,Haryana,1999,"Financial Year (Apr - Mar), 1999",298501,86543
+139,India,6,Haryana,2000,"Financial Year (Apr - Mar), 2000",,87014
+140,India,6,Haryana,2001,"Financial Year (Apr - Mar), 2001",,83781
+141,India,6,Haryana,2002,"Financial Year (Apr - Mar), 2002",,86747
+142,India,6,Haryana,2003,"Financial Year (Apr - Mar), 2003",,93016
+143,India,6,Haryana,2004,"Financial Year (Apr - Mar), 2004",,103307
+144,India,6,Haryana,2005,"Financial Year (Apr - Mar), 2005",,116041
+145,India,6,Haryana,2006,"Financial Year (Apr - Mar), 2006",,125064
+146,India,6,Haryana,2007,"Financial Year (Apr - Mar), 2007",,153737
+147,India,6,Haryana,2008,"Financial Year (Apr - Mar), 2008",228763,144494
+148,India,6,Haryana,2009,"Financial Year (Apr - Mar), 2009",119756,173545
+149,India,6,Haryana,2010,"Financial Year (Apr - Mar), 2010",117515,165264
+150,India,6,Haryana,2011,"Financial Year (Apr - Mar), 2011",144778,175604
+151,India,6,Haryana,2012,"Financial Year (Apr - Mar), 2012",133763,166588
+152,India,6,Haryana,2013,"Financial Year (Apr - Mar), 2013",142480,183571
+153,India,6,Haryana,2014,"Financial Year (Apr - Mar), 2014",160265,213625
+154,India,6,Haryana,2015,"Financial Year (Apr - Mar), 2015",154892,212410
+155,India,6,Haryana,2016,"Financial Year (Apr - Mar), 2016",174292,245094
+156,India,6,Haryana,2017,"Financial Year (Apr - Mar), 2017",181335,253195
+157,India,7,Delhi,1991,"Financial Year (Apr - Mar), 1991",144555,44962
+158,India,7,Delhi,1992,"Financial Year (Apr - Mar), 1992",148709,45928
+159,India,7,Delhi,1993,"Financial Year (Apr - Mar), 1993",156435,49084
+160,India,7,Delhi,1994,"Financial Year (Apr - Mar), 1994",180509,57166
+161,India,7,Delhi,1995,"Financial Year (Apr - Mar), 1995",171396,55074
+162,India,7,Delhi,1996,"Financial Year (Apr - Mar), 1996",167390,52774
+163,India,7,Delhi,1997,"Financial Year (Apr - Mar), 1997",135402,
+164,India,7,Delhi,1999,"Financial Year (Apr - Mar), 1999",,38661
+165,India,7,Delhi,2000,"Financial Year (Apr - Mar), 2000",,35904
+166,India,7,Delhi,2001,"Financial Year (Apr - Mar), 2001",,35317
+167,India,7,Delhi,2002,"Financial Year (Apr - Mar), 2002",,38358
+168,India,7,Delhi,2003,"Financial Year (Apr - Mar), 2003",,34184
+169,India,7,Delhi,2004,"Financial Year (Apr - Mar), 2004",,35896
+170,India,7,Delhi,2005,"Financial Year (Apr - Mar), 2005",,38403
+171,India,7,Delhi,2006,"Financial Year (Apr - Mar), 2006",,38803
+172,India,7,Delhi,2007,"Financial Year (Apr - Mar), 2007",,38251
+173,India,7,Delhi,2008,"Financial Year (Apr - Mar), 2008",37818,37881
+174,India,7,Delhi,2009,"Financial Year (Apr - Mar), 2009",35294,36295
+175,India,7,Delhi,2010,"Financial Year (Apr - Mar), 2010",42462,37106
+176,India,7,Delhi,2011,"Financial Year (Apr - Mar), 2011",38959,35295
+177,India,7,Delhi,2012,"Financial Year (Apr - Mar), 2012",37973,35287
+178,India,7,Delhi,2013,"Financial Year (Apr - Mar), 2013",35964,33945
+179,India,7,Delhi,2014,"Financial Year (Apr - Mar), 2014",41198,36985
+180,India,7,Delhi,2015,"Financial Year (Apr - Mar), 2015",37683,34448
+181,India,7,Delhi,2016,"Financial Year (Apr - Mar), 2016",34965,33815
+182,India,7,Delhi,2017,"Financial Year (Apr - Mar), 2017",32722,30834
+183,India,8,Rajasthan,1991,"Financial Year (Apr - Mar), 1991",248541,81389
+184,India,8,Rajasthan,1992,"Financial Year (Apr - Mar), 1992",260707,85738
+185,India,8,Rajasthan,1993,"Financial Year (Apr - Mar), 1993",251959,83056
+186,India,8,Rajasthan,1994,"Financial Year (Apr - Mar), 1994",273074,89384
+187,India,8,Rajasthan,1995,"Financial Year (Apr - Mar), 1995",293878,97832
+188,India,8,Rajasthan,1996,"Financial Year (Apr - Mar), 1996",306055,103178
+189,India,8,Rajasthan,1997,"Financial Year (Apr - Mar), 1997",291265,
+190,India,8,Rajasthan,1999,"Financial Year (Apr - Mar), 1999",234651,74346
+191,India,8,Rajasthan,2000,"Financial Year (Apr - Mar), 2000",,73011
+192,India,8,Rajasthan,2001,"Financial Year (Apr - Mar), 2001",,71659
+193,India,8,Rajasthan,2002,"Financial Year (Apr - Mar), 2002",,75146
+194,India,8,Rajasthan,2003,"Financial Year (Apr - Mar), 2003",,76470
+195,India,8,Rajasthan,2004,"Financial Year (Apr - Mar), 2004",,82217
+196,India,8,Rajasthan,2005,"Financial Year (Apr - Mar), 2005",,89002
+197,India,8,Rajasthan,2006,"Financial Year (Apr - Mar), 2006",,94352
+198,India,8,Rajasthan,2007,"Financial Year (Apr - Mar), 2007",,103424
+199,India,8,Rajasthan,2008,"Financial Year (Apr - Mar), 2008",73031,107367
+200,India,8,Rajasthan,2009,"Financial Year (Apr - Mar), 2009",81942,119390
+201,India,8,Rajasthan,2010,"Financial Year (Apr - Mar), 2010",91990,133354
+202,India,8,Rajasthan,2011,"Financial Year (Apr - Mar), 2011",94287,139858
+203,India,8,Rajasthan,2012,"Financial Year (Apr - Mar), 2012",97409,129039
+204,India,8,Rajasthan,2013,"Financial Year (Apr - Mar), 2013",110840,143794
+205,India,8,Rajasthan,2014,"Financial Year (Apr - Mar), 2014",108551,149912
+206,India,8,Rajasthan,2015,"Financial Year (Apr - Mar), 2015",113002,155093
+207,India,8,Rajasthan,2016,"Financial Year (Apr - Mar), 2016",117206,164463
+208,India,8,Rajasthan,2017,"Financial Year (Apr - Mar), 2017",120809,171328
+209,India,9,Uttar Pradesh,1991,"Financial Year (Apr - Mar), 1991",753662,226036
+210,India,9,Uttar Pradesh,1992,"Financial Year (Apr - Mar), 1992",786168,234714
+211,India,9,Uttar Pradesh,1993,"Financial Year (Apr - Mar), 1993",777777,232057
+212,India,9,Uttar Pradesh,1994,"Financial Year (Apr - Mar), 1994",760457,232036
+213,India,9,Uttar Pradesh,1995,"Financial Year (Apr - Mar), 1995",797290,240081
+214,India,9,Uttar Pradesh,1996,"Financial Year (Apr - Mar), 1996",817692,244434
+215,India,9,Uttar Pradesh,1997,"Financial Year (Apr - Mar), 1997",767522,
+216,India,9,Uttar Pradesh,1999,"Financial Year (Apr - Mar), 1999",571719,169967
+217,India,9,Uttar Pradesh,2000,"Financial Year (Apr - Mar), 2000",,157109
+218,India,9,Uttar Pradesh,2001,"Financial Year (Apr - Mar), 2001",,149904
+219,India,9,Uttar Pradesh,2002,"Financial Year (Apr - Mar), 2002",,161101
+220,India,9,Uttar Pradesh,2003,"Financial Year (Apr - Mar), 2003",,169178
+221,India,9,Uttar Pradesh,2004,"Financial Year (Apr - Mar), 2004",,174504
+222,India,9,Uttar Pradesh,2005,"Financial Year (Apr - Mar), 2005",,190766
+223,India,9,Uttar Pradesh,2006,"Financial Year (Apr - Mar), 2006",,204780
+224,India,9,Uttar Pradesh,2007,"Financial Year (Apr - Mar), 2007",,221585
+225,India,9,Uttar Pradesh,2008,"Financial Year (Apr - Mar), 2008",158577,218447
+226,India,9,Uttar Pradesh,2009,"Financial Year (Apr - Mar), 2009",166030,224444
+227,India,9,Uttar Pradesh,2010,"Financial Year (Apr - Mar), 2010",179302,242376
+228,India,9,Uttar Pradesh,2011,"Financial Year (Apr - Mar), 2011",189893,258170
+229,India,9,Uttar Pradesh,2012,"Financial Year (Apr - Mar), 2012",185637,244674
+230,India,9,Uttar Pradesh,2013,"Financial Year (Apr - Mar), 2013",205271,272117
+231,India,9,Uttar Pradesh,2014,"Financial Year (Apr - Mar), 2014",204352,263569
+232,India,9,Uttar Pradesh,2015,"Financial Year (Apr - Mar), 2015",205804,281233
+233,India,9,Uttar Pradesh,2016,"Financial Year (Apr - Mar), 2016",224999,303379
+234,India,9,Uttar Pradesh,2017,"Financial Year (Apr - Mar), 2017",227716,323002
+235,India,10,Bihar,1991,"Financial Year (Apr - Mar), 1991",358469,115892
+236,India,10,Bihar,1992,"Financial Year (Apr - Mar), 1992",364206,118356
+237,India,10,Bihar,1993,"Financial Year (Apr - Mar), 1993",340947,110831
+238,India,10,Bihar,1994,"Financial Year (Apr - Mar), 1994",342854,111604
+239,India,10,Bihar,1995,"Financial Year (Apr - Mar), 1995",336307,108659
+240,India,10,Bihar,1996,"Financial Year (Apr - Mar), 1996",327711,106691
+241,India,10,Bihar,1997,"Financial Year (Apr - Mar), 1997",272524,
+242,India,10,Bihar,1999,"Financial Year (Apr - Mar), 1999",67750,17431
+243,India,10,Bihar,2000,"Financial Year (Apr - Mar), 2000",,15593
+244,India,10,Bihar,2001,"Financial Year (Apr - Mar), 2001",,15625
+245,India,10,Bihar,2002,"Financial Year (Apr - Mar), 2002",,13525
+246,India,10,Bihar,2003,"Financial Year (Apr - Mar), 2003",,13537
+247,India,10,Bihar,2004,"Financial Year (Apr - Mar), 2004",,14554
+248,India,10,Bihar,2005,"Financial Year (Apr - Mar), 2005",,15020
+249,India,10,Bihar,2006,"Financial Year (Apr - Mar), 2006",,14901
+250,India,10,Bihar,2007,"Financial Year (Apr - Mar), 2007",,16458
+251,India,10,Bihar,2008,"Financial Year (Apr - Mar), 2008",9574,15441
+252,India,10,Bihar,2009,"Financial Year (Apr - Mar), 2009",11792,19619
+253,India,10,Bihar,2010,"Financial Year (Apr - Mar), 2010",13407,24338
+254,India,10,Bihar,2011,"Financial Year (Apr - Mar), 2011",15022,27441
+255,India,10,Bihar,2012,"Financial Year (Apr - Mar), 2012",13782,26196
+256,India,10,Bihar,2013,"Financial Year (Apr - Mar), 2013",15181,25551
+257,India,10,Bihar,2014,"Financial Year (Apr - Mar), 2014",18229,33224
+258,India,10,Bihar,2015,"Financial Year (Apr - Mar), 2015",14363,26642
+259,India,10,Bihar,2016,"Financial Year (Apr - Mar), 2016",15488,25664
+260,India,10,Bihar,2017,"Financial Year (Apr - Mar), 2017",16201,27265
+261,India,11,Sikkim,1991,"Financial Year (Apr - Mar), 1991",,
+262,India,11,Sikkim,1992,"Financial Year (Apr - Mar), 1992",,
+263,India,11,Sikkim,1993,"Financial Year (Apr - Mar), 1993",,
+264,India,11,Sikkim,1994,"Financial Year (Apr - Mar), 1994",,
+265,India,11,Sikkim,1995,"Financial Year (Apr - Mar), 1995",,
+266,India,11,Sikkim,1996,"Financial Year (Apr - Mar), 1996",,
+267,India,11,Sikkim,1997,"Financial Year (Apr - Mar), 1997",,
+268,India,11,Sikkim,1999,"Financial Year (Apr - Mar), 1999",,
+269,India,11,Sikkim,2000,"Financial Year (Apr - Mar), 2000",,
+270,India,11,Sikkim,2001,"Financial Year (Apr - Mar), 2001",,
+271,India,11,Sikkim,2002,"Financial Year (Apr - Mar), 2002",,
+272,India,11,Sikkim,2003,"Financial Year (Apr - Mar), 2003",,
+273,India,11,Sikkim,2004,"Financial Year (Apr - Mar), 2004",,
+274,India,11,Sikkim,2005,"Financial Year (Apr - Mar), 2005",,
+275,India,11,Sikkim,2006,"Financial Year (Apr - Mar), 2006",,
+276,India,11,Sikkim,2007,"Financial Year (Apr - Mar), 2007",,
+277,India,11,Sikkim,2008,"Financial Year (Apr - Mar), 2008",,
+278,India,11,Sikkim,2009,"Financial Year (Apr - Mar), 2009",,
+279,India,11,Sikkim,2010,"Financial Year (Apr - Mar), 2010",1598,2038
+280,India,11,Sikkim,2011,"Financial Year (Apr - Mar), 2011",1757,2700
+281,India,11,Sikkim,2012,"Financial Year (Apr - Mar), 2012",2214,3104
+282,India,11,Sikkim,2013,"Financial Year (Apr - Mar), 2013",2507,3874
+283,India,11,Sikkim,2014,"Financial Year (Apr - Mar), 2014",2561,4150
+284,India,11,Sikkim,2015,"Financial Year (Apr - Mar), 2015",3507,3694
+285,India,11,Sikkim,2016,"Financial Year (Apr - Mar), 2016",3848,5043
+286,India,11,Sikkim,2017,"Financial Year (Apr - Mar), 2017",4588,5852
+287,India,12,Arunachal Pradesh,1991,"Financial Year (Apr - Mar), 1991",,
+288,India,12,Arunachal Pradesh,1992,"Financial Year (Apr - Mar), 1992",,
+289,India,12,Arunachal Pradesh,1993,"Financial Year (Apr - Mar), 1993",,
+290,India,12,Arunachal Pradesh,1994,"Financial Year (Apr - Mar), 1994",,
+291,India,12,Arunachal Pradesh,1995,"Financial Year (Apr - Mar), 1995",,
+292,India,12,Arunachal Pradesh,1996,"Financial Year (Apr - Mar), 1996",,
+293,India,12,Arunachal Pradesh,1997,"Financial Year (Apr - Mar), 1997",,
+294,India,12,Arunachal Pradesh,1999,"Financial Year (Apr - Mar), 1999",,
+295,India,12,Arunachal Pradesh,2000,"Financial Year (Apr - Mar), 2000",,
+296,India,12,Arunachal Pradesh,2001,"Financial Year (Apr - Mar), 2001",,
+297,India,12,Arunachal Pradesh,2002,"Financial Year (Apr - Mar), 2002",,
+298,India,12,Arunachal Pradesh,2003,"Financial Year (Apr - Mar), 2003",,
+299,India,12,Arunachal Pradesh,2004,"Financial Year (Apr - Mar), 2004",,
+300,India,12,Arunachal Pradesh,2005,"Financial Year (Apr - Mar), 2005",,
+301,India,12,Arunachal Pradesh,2006,"Financial Year (Apr - Mar), 2006",,
+302,India,12,Arunachal Pradesh,2007,"Financial Year (Apr - Mar), 2007",,
+303,India,12,Arunachal Pradesh,2008,"Financial Year (Apr - Mar), 2008",,
+304,India,12,Arunachal Pradesh,2009,"Financial Year (Apr - Mar), 2009",,
+305,India,12,Arunachal Pradesh,2010,"Financial Year (Apr - Mar), 2010",,
+306,India,12,Arunachal Pradesh,2011,"Financial Year (Apr - Mar), 2011",,
+307,India,12,Arunachal Pradesh,2012,"Financial Year (Apr - Mar), 2012",,
+308,India,12,Arunachal Pradesh,2013,"Financial Year (Apr - Mar), 2013",,
+309,India,12,Arunachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",702,1009
+310,India,12,Arunachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",698,932
+311,India,12,Arunachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",710,923
+312,India,12,Arunachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",559,918
+313,India,13,Nagaland,1991,"Financial Year (Apr - Mar), 1991",4237,1301
+314,India,13,Nagaland,1992,"Financial Year (Apr - Mar), 1992",4244,1232
+315,India,13,Nagaland,1993,"Financial Year (Apr - Mar), 1993",4320,1270
+316,India,13,Nagaland,1994,"Financial Year (Apr - Mar), 1994",4333,1249
+317,India,13,Nagaland,1995,"Financial Year (Apr - Mar), 1995",5605,1523
+318,India,13,Nagaland,1996,"Financial Year (Apr - Mar), 1996",5586,1376
+319,India,13,Nagaland,1997,"Financial Year (Apr - Mar), 1997",4754,
+320,India,13,Nagaland,1999,"Financial Year (Apr - Mar), 1999",3247,905
+321,India,13,Nagaland,2000,"Financial Year (Apr - Mar), 2000",,718
+322,India,13,Nagaland,2001,"Financial Year (Apr - Mar), 2001",,691
+323,India,13,Nagaland,2002,"Financial Year (Apr - Mar), 2002",,696
+324,India,13,Nagaland,2003,"Financial Year (Apr - Mar), 2003",,694
+325,India,13,Nagaland,2004,"Financial Year (Apr - Mar), 2004",,735
+326,India,13,Nagaland,2005,"Financial Year (Apr - Mar), 2005",,722
+327,India,13,Nagaland,2006,"Financial Year (Apr - Mar), 2006",,929
+328,India,13,Nagaland,2007,"Financial Year (Apr - Mar), 2007",,740
+329,India,13,Nagaland,2008,"Financial Year (Apr - Mar), 2008",372,707
+330,India,13,Nagaland,2009,"Financial Year (Apr - Mar), 2009",302,775
+331,India,13,Nagaland,2010,"Financial Year (Apr - Mar), 2010",308,626
+332,India,13,Nagaland,2011,"Financial Year (Apr - Mar), 2011",311,610
+333,India,13,Nagaland,2012,"Financial Year (Apr - Mar), 2012",309,698
+334,India,13,Nagaland,2013,"Financial Year (Apr - Mar), 2013",360,846
+335,India,13,Nagaland,2014,"Financial Year (Apr - Mar), 2014",516,1216
+336,India,13,Nagaland,2015,"Financial Year (Apr - Mar), 2015",571,1255
+337,India,13,Nagaland,2016,"Financial Year (Apr - Mar), 2016",612,1346
+338,India,13,Nagaland,2017,"Financial Year (Apr - Mar), 2017",591,1380
+339,India,14,Manipur,1991,"Financial Year (Apr - Mar), 1991",1502,391
+340,India,14,Manipur,1992,"Financial Year (Apr - Mar), 1992",1739,477
+341,India,14,Manipur,1993,"Financial Year (Apr - Mar), 1993",1078,265
+342,India,14,Manipur,1994,"Financial Year (Apr - Mar), 1994",1482,406
+343,India,14,Manipur,1995,"Financial Year (Apr - Mar), 1995",3353,1023
+344,India,14,Manipur,1996,"Financial Year (Apr - Mar), 1996",2856,856
+345,India,14,Manipur,1997,"Financial Year (Apr - Mar), 1997",4389,
+346,India,14,Manipur,1999,"Financial Year (Apr - Mar), 1999",980,246
+347,India,14,Manipur,2000,"Financial Year (Apr - Mar), 2000",,191
+348,India,14,Manipur,2001,"Financial Year (Apr - Mar), 2001",,269
+349,India,14,Manipur,2002,"Financial Year (Apr - Mar), 2002",,307
+350,India,14,Manipur,2003,"Financial Year (Apr - Mar), 2003",,311
+351,India,14,Manipur,2004,"Financial Year (Apr - Mar), 2004",,445
+352,India,14,Manipur,2005,"Financial Year (Apr - Mar), 2005",,460
+353,India,14,Manipur,2006,"Financial Year (Apr - Mar), 2006",,482
+354,India,14,Manipur,2007,"Financial Year (Apr - Mar), 2007",,701
+355,India,14,Manipur,2008,"Financial Year (Apr - Mar), 2008",285,719
+356,India,14,Manipur,2009,"Financial Year (Apr - Mar), 2009",460,1017
+357,India,14,Manipur,2010,"Financial Year (Apr - Mar), 2010",582,1314
+358,India,14,Manipur,2011,"Financial Year (Apr - Mar), 2011",659,1541
+359,India,14,Manipur,2012,"Financial Year (Apr - Mar), 2012",754,1729
+360,India,14,Manipur,2013,"Financial Year (Apr - Mar), 2013",745,1611
+361,India,14,Manipur,2014,"Financial Year (Apr - Mar), 2014",863,2119
+362,India,14,Manipur,2015,"Financial Year (Apr - Mar), 2015",942,2227
+363,India,14,Manipur,2016,"Financial Year (Apr - Mar), 2016",989,2257
+364,India,14,Manipur,2017,"Financial Year (Apr - Mar), 2017",983,2399
+365,India,16,Tripura,1991,"Financial Year (Apr - Mar), 1991",9070,2094
+366,India,16,Tripura,1992,"Financial Year (Apr - Mar), 1992",10208,2455
+367,India,16,Tripura,1993,"Financial Year (Apr - Mar), 1993",7472,1830
+368,India,16,Tripura,1994,"Financial Year (Apr - Mar), 1994",7868,2049
+369,India,16,Tripura,1995,"Financial Year (Apr - Mar), 1995",8602,2155
+370,India,16,Tripura,1996,"Financial Year (Apr - Mar), 1996",9074,2731
+371,India,16,Tripura,1997,"Financial Year (Apr - Mar), 1997",8520,
+372,India,16,Tripura,1999,"Financial Year (Apr - Mar), 1999",7676,1771
+373,India,16,Tripura,2000,"Financial Year (Apr - Mar), 2000",,1998
+374,India,16,Tripura,2001,"Financial Year (Apr - Mar), 2001",,2261
+375,India,16,Tripura,2002,"Financial Year (Apr - Mar), 2002",,2477
+376,India,16,Tripura,2003,"Financial Year (Apr - Mar), 2003",,2909
+377,India,16,Tripura,2004,"Financial Year (Apr - Mar), 2004",,3049
+378,India,16,Tripura,2005,"Financial Year (Apr - Mar), 2005",,3712
+379,India,16,Tripura,2006,"Financial Year (Apr - Mar), 2006",,4064
+380,India,16,Tripura,2007,"Financial Year (Apr - Mar), 2007",,4331
+381,India,16,Tripura,2008,"Financial Year (Apr - Mar), 2008",2156,4778
+382,India,16,Tripura,2009,"Financial Year (Apr - Mar), 2009",2321,5351
+383,India,16,Tripura,2010,"Financial Year (Apr - Mar), 2010",2544,6398
+384,India,16,Tripura,2011,"Financial Year (Apr - Mar), 2011",2335,5751
+385,India,16,Tripura,2012,"Financial Year (Apr - Mar), 2012",2392,5331
+386,India,16,Tripura,2013,"Financial Year (Apr - Mar), 2013",2315,5507
+387,India,16,Tripura,2014,"Financial Year (Apr - Mar), 2014",2359,5501
+388,India,16,Tripura,2015,"Financial Year (Apr - Mar), 2015",2837,5423
+389,India,16,Tripura,2016,"Financial Year (Apr - Mar), 2016",3060,5295
+390,India,16,Tripura,2017,"Financial Year (Apr - Mar), 2017",3005,5172
+391,India,17,Meghalaya,1991,"Financial Year (Apr - Mar), 1991",5726,2001
+392,India,17,Meghalaya,1992,"Financial Year (Apr - Mar), 1992",6416,2190
+393,India,17,Meghalaya,1993,"Financial Year (Apr - Mar), 1993",1943,595
+394,India,17,Meghalaya,1994,"Financial Year (Apr - Mar), 1994",938,272
+395,India,17,Meghalaya,1995,"Financial Year (Apr - Mar), 1995",6683,2304
+396,India,17,Meghalaya,1996,"Financial Year (Apr - Mar), 1996",6518,2254
+397,India,17,Meghalaya,1997,"Financial Year (Apr - Mar), 1997",6536,
+398,India,17,Meghalaya,1999,"Financial Year (Apr - Mar), 1999",1001,291
+399,India,17,Meghalaya,2000,"Financial Year (Apr - Mar), 2000",,343
+400,India,17,Meghalaya,2001,"Financial Year (Apr - Mar), 2001",,475
+401,India,17,Meghalaya,2002,"Financial Year (Apr - Mar), 2002",,736
+402,India,17,Meghalaya,2003,"Financial Year (Apr - Mar), 2003",,669
+403,India,17,Meghalaya,2004,"Financial Year (Apr - Mar), 2004",,945
+404,India,17,Meghalaya,2005,"Financial Year (Apr - Mar), 2005",,1345
+405,India,17,Meghalaya,2006,"Financial Year (Apr - Mar), 2006",,1790
+406,India,17,Meghalaya,2007,"Financial Year (Apr - Mar), 2007",,1757
+407,India,17,Meghalaya,2008,"Financial Year (Apr - Mar), 2008",982,1748
+408,India,17,Meghalaya,2009,"Financial Year (Apr - Mar), 2009",1220,1981
+409,India,17,Meghalaya,2010,"Financial Year (Apr - Mar), 2010",1566,2349
+410,India,17,Meghalaya,2011,"Financial Year (Apr - Mar), 2011",2179,3508
+411,India,17,Meghalaya,2012,"Financial Year (Apr - Mar), 2012",2500,3643
+412,India,17,Meghalaya,2013,"Financial Year (Apr - Mar), 2013",2421,4072
+413,India,17,Meghalaya,2014,"Financial Year (Apr - Mar), 2014",2464,4391
+414,India,17,Meghalaya,2015,"Financial Year (Apr - Mar), 2015",2276,4024
+415,India,17,Meghalaya,2016,"Financial Year (Apr - Mar), 2016",1839,3795
+416,India,17,Meghalaya,2017,"Financial Year (Apr - Mar), 2017",1925,3884
+417,India,18,Assam,1991,"Financial Year (Apr - Mar), 1991",121835,35694
+418,India,18,Assam,1992,"Financial Year (Apr - Mar), 1992",131938,38789
+419,India,18,Assam,1993,"Financial Year (Apr - Mar), 1993",113562,34289
+420,India,18,Assam,1994,"Financial Year (Apr - Mar), 1994",124095,37274
+421,India,18,Assam,1995,"Financial Year (Apr - Mar), 1995",147783,45185
+422,India,18,Assam,1996,"Financial Year (Apr - Mar), 1996",136643,40900
+423,India,18,Assam,1997,"Financial Year (Apr - Mar), 1997",153989,
+424,India,18,Assam,1999,"Financial Year (Apr - Mar), 1999",113916,32985
+425,India,18,Assam,2000,"Financial Year (Apr - Mar), 2000",,33302
+426,India,18,Assam,2001,"Financial Year (Apr - Mar), 2001",,31866
+427,India,18,Assam,2002,"Financial Year (Apr - Mar), 2002",,32243
+428,India,18,Assam,2003,"Financial Year (Apr - Mar), 2003",,32573
+429,India,18,Assam,2004,"Financial Year (Apr - Mar), 2004",,34074
+430,India,18,Assam,2005,"Financial Year (Apr - Mar), 2005",,36342
+431,India,18,Assam,2006,"Financial Year (Apr - Mar), 2006",,38539
+432,India,18,Assam,2007,"Financial Year (Apr - Mar), 2007",,37589
+433,India,18,Assam,2008,"Financial Year (Apr - Mar), 2008",21999,40786
+434,India,18,Assam,2009,"Financial Year (Apr - Mar), 2009",22224,41178
+435,India,18,Assam,2010,"Financial Year (Apr - Mar), 2010",24816,45656
+436,India,18,Assam,2011,"Financial Year (Apr - Mar), 2011",27982,49818
+437,India,18,Assam,2012,"Financial Year (Apr - Mar), 2012",25700,43949
+438,India,18,Assam,2013,"Financial Year (Apr - Mar), 2013",27144,48028
+439,India,18,Assam,2014,"Financial Year (Apr - Mar), 2014",30840,51193
+440,India,18,Assam,2015,"Financial Year (Apr - Mar), 2015",33683,53939
+441,India,18,Assam,2016,"Financial Year (Apr - Mar), 2016",35308,53955
+442,India,18,Assam,2017,"Financial Year (Apr - Mar), 2017",34759,53992
+443,India,19,West Bengal,1991,"Financial Year (Apr - Mar), 1991",765069,237373
+444,India,19,West Bengal,1992,"Financial Year (Apr - Mar), 1992",758933,237212
+445,India,19,West Bengal,1993,"Financial Year (Apr - Mar), 1993",738549,235371
+446,India,19,West Bengal,1994,"Financial Year (Apr - Mar), 1994",747036,235447
+447,India,19,West Bengal,1995,"Financial Year (Apr - Mar), 1995",825154,262229
+448,India,19,West Bengal,1996,"Financial Year (Apr - Mar), 1996",767822,241358
+449,India,19,West Bengal,1997,"Financial Year (Apr - Mar), 1997",832057,
+450,India,19,West Bengal,1999,"Financial Year (Apr - Mar), 1999",588968,180942
+451,India,19,West Bengal,2000,"Financial Year (Apr - Mar), 2000",,175100
+452,India,19,West Bengal,2001,"Financial Year (Apr - Mar), 2001",,170743
+453,India,19,West Bengal,2002,"Financial Year (Apr - Mar), 2002",,168079
+454,India,19,West Bengal,2003,"Financial Year (Apr - Mar), 2003",,160374
+455,India,19,West Bengal,2004,"Financial Year (Apr - Mar), 2004",,161143
+456,India,19,West Bengal,2005,"Financial Year (Apr - Mar), 2005",,160306
+457,India,19,West Bengal,2006,"Financial Year (Apr - Mar), 2006",,153421
+458,India,19,West Bengal,2007,"Financial Year (Apr - Mar), 2007",,164141
+459,India,19,West Bengal,2008,"Financial Year (Apr - Mar), 2008",97979,172156
+460,India,19,West Bengal,2009,"Financial Year (Apr - Mar), 2009",103447,172588
+461,India,19,West Bengal,2010,"Financial Year (Apr - Mar), 2010",119869,200422
+462,India,19,West Bengal,2011,"Financial Year (Apr - Mar), 2011",117335,206023
+463,India,19,West Bengal,2012,"Financial Year (Apr - Mar), 2012",117034,205397
+464,India,19,West Bengal,2013,"Financial Year (Apr - Mar), 2013",121299,201317
+465,India,19,West Bengal,2014,"Financial Year (Apr - Mar), 2014",126936,194897
+466,India,19,West Bengal,2015,"Financial Year (Apr - Mar), 2015",135221,195014
+467,India,19,West Bengal,2016,"Financial Year (Apr - Mar), 2016",140510,198096
+468,India,19,West Bengal,2017,"Financial Year (Apr - Mar), 2017",144963,206668
+469,India,20,Jharkhand,1991,"Financial Year (Apr - Mar), 1991",,
+470,India,20,Jharkhand,1992,"Financial Year (Apr - Mar), 1992",,
+471,India,20,Jharkhand,1993,"Financial Year (Apr - Mar), 1993",,
+472,India,20,Jharkhand,1994,"Financial Year (Apr - Mar), 1994",,
+473,India,20,Jharkhand,1995,"Financial Year (Apr - Mar), 1995",,
+474,India,20,Jharkhand,1996,"Financial Year (Apr - Mar), 1996",,47908
+475,India,20,Jharkhand,1997,"Financial Year (Apr - Mar), 1997",,
+476,India,20,Jharkhand,1999,"Financial Year (Apr - Mar), 1999",,66827
+477,India,20,Jharkhand,2000,"Financial Year (Apr - Mar), 2000",,60314
+478,India,20,Jharkhand,2001,"Financial Year (Apr - Mar), 2001",,52137
+479,India,20,Jharkhand,2002,"Financial Year (Apr - Mar), 2002",,52074
+480,India,20,Jharkhand,2003,"Financial Year (Apr - Mar), 2003",,48238
+481,India,20,Jharkhand,2004,"Financial Year (Apr - Mar), 2004",,48258
+482,India,20,Jharkhand,2005,"Financial Year (Apr - Mar), 2005",,48993
+483,India,20,Jharkhand,2006,"Financial Year (Apr - Mar), 2006",,47695
+484,India,20,Jharkhand,2007,"Financial Year (Apr - Mar), 2007",,49453
+485,India,20,Jharkhand,2008,"Financial Year (Apr - Mar), 2008",40205,52466
+486,India,20,Jharkhand,2009,"Financial Year (Apr - Mar), 2009",35915,49199
+487,India,20,Jharkhand,2010,"Financial Year (Apr - Mar), 2010",59402,61363
+488,India,20,Jharkhand,2011,"Financial Year (Apr - Mar), 2011",60840,63423
+489,India,20,Jharkhand,2012,"Financial Year (Apr - Mar), 2012",55300,58400
+490,India,20,Jharkhand,2013,"Financial Year (Apr - Mar), 2013",56070,58526
+491,India,20,Jharkhand,2014,"Financial Year (Apr - Mar), 2014",37892,57586
+492,India,20,Jharkhand,2015,"Financial Year (Apr - Mar), 2015",37356,57175
+493,India,20,Jharkhand,2016,"Financial Year (Apr - Mar), 2016",44182,59881
+494,India,20,Jharkhand,2017,"Financial Year (Apr - Mar), 2017",38796,59329
+495,India,21,Odisha,1991,"Financial Year (Apr - Mar), 1991",170105,57854
+496,India,21,Odisha,1992,"Financial Year (Apr - Mar), 1992",178947,61356
+497,India,21,Odisha,1993,"Financial Year (Apr - Mar), 1993",184324,62275
+498,India,21,Odisha,1994,"Financial Year (Apr - Mar), 1994",193626,65775
+499,India,21,Odisha,1995,"Financial Year (Apr - Mar), 1995",196101,67117
+500,India,21,Odisha,1996,"Financial Year (Apr - Mar), 1996",183738,61978
+501,India,21,Odisha,1997,"Financial Year (Apr - Mar), 1997",179133,
+502,India,21,Odisha,1999,"Financial Year (Apr - Mar), 1999",132058,43711
+503,India,21,Odisha,2000,"Financial Year (Apr - Mar), 2000",,42795
+504,India,21,Odisha,2001,"Financial Year (Apr - Mar), 2001",,38050
+505,India,21,Odisha,2002,"Financial Year (Apr - Mar), 2002",,39120
+506,India,21,Odisha,2003,"Financial Year (Apr - Mar), 2003",,41196
+507,India,21,Odisha,2004,"Financial Year (Apr - Mar), 2004",,48613
+508,India,21,Odisha,2005,"Financial Year (Apr - Mar), 2005",,47650
+509,India,21,Odisha,2006,"Financial Year (Apr - Mar), 2006",,53242
+510,India,21,Odisha,2007,"Financial Year (Apr - Mar), 2007",,62644
+511,India,21,Odisha,2008,"Financial Year (Apr - Mar), 2008",37678,72414
+512,India,21,Odisha,2009,"Financial Year (Apr - Mar), 2009",39289,78094
+513,India,21,Odisha,2010,"Financial Year (Apr - Mar), 2010",53139,96064
+514,India,21,Odisha,2011,"Financial Year (Apr - Mar), 2011",60678,98091
+515,India,21,Odisha,2012,"Financial Year (Apr - Mar), 2012",49886,88077
+516,India,21,Odisha,2013,"Financial Year (Apr - Mar), 2013",53234,84290
+517,India,21,Odisha,2014,"Financial Year (Apr - Mar), 2014",47226,88870
+518,India,21,Odisha,2015,"Financial Year (Apr - Mar), 2015",47977,86040
+519,India,21,Odisha,2016,"Financial Year (Apr - Mar), 2016",49167,92703
+520,India,21,Odisha,2017,"Financial Year (Apr - Mar), 2017",49805,95210
+521,India,22,Chhattisgarh,1991,"Financial Year (Apr - Mar), 1991",,
+522,India,22,Chhattisgarh,1992,"Financial Year (Apr - Mar), 1992",,
+523,India,22,Chhattisgarh,1993,"Financial Year (Apr - Mar), 1993",,
+524,India,22,Chhattisgarh,1994,"Financial Year (Apr - Mar), 1994",,
+525,India,22,Chhattisgarh,1995,"Financial Year (Apr - Mar), 1995",,
+526,India,22,Chhattisgarh,1996,"Financial Year (Apr - Mar), 1996",,
+527,India,22,Chhattisgarh,1997,"Financial Year (Apr - Mar), 1997",,
+528,India,22,Chhattisgarh,1999,"Financial Year (Apr - Mar), 1999",,
+529,India,22,Chhattisgarh,2000,"Financial Year (Apr - Mar), 2000",,
+530,India,22,Chhattisgarh,2001,"Financial Year (Apr - Mar), 2001",,
+531,India,22,Chhattisgarh,2002,"Financial Year (Apr - Mar), 2002",,
+532,India,22,Chhattisgarh,2003,"Financial Year (Apr - Mar), 2003",,
+533,India,22,Chhattisgarh,2004,"Financial Year (Apr - Mar), 2004",,
+534,India,22,Chhattisgarh,2005,"Financial Year (Apr - Mar), 2005",,
+535,India,22,Chhattisgarh,2006,"Financial Year (Apr - Mar), 2006",,
+536,India,22,Chhattisgarh,2007,"Financial Year (Apr - Mar), 2007",,
+537,India,22,Chhattisgarh,2008,"Financial Year (Apr - Mar), 2008",,
+538,India,22,Chhattisgarh,2009,"Financial Year (Apr - Mar), 2009",,
+539,India,22,Chhattisgarh,2010,"Financial Year (Apr - Mar), 2010",42895,58258
+540,India,22,Chhattisgarh,2011,"Financial Year (Apr - Mar), 2011",46803,61385
+541,India,22,Chhattisgarh,2012,"Financial Year (Apr - Mar), 2012",34040,57292
+542,India,22,Chhattisgarh,2013,"Financial Year (Apr - Mar), 2013",34112,54852
+543,India,22,Chhattisgarh,2014,"Financial Year (Apr - Mar), 2014",35380,59489
+544,India,22,Chhattisgarh,2015,"Financial Year (Apr - Mar), 2015",32612,56871
+545,India,22,Chhattisgarh,2016,"Financial Year (Apr - Mar), 2016",39186,60608
+546,India,22,Chhattisgarh,2017,"Financial Year (Apr - Mar), 2017",36757,61024
+547,India,23,Madhya Pradesh,1991,"Financial Year (Apr - Mar), 1991",397115,127899
+548,India,23,Madhya Pradesh,1992,"Financial Year (Apr - Mar), 1992",454925,148337
+549,India,23,Madhya Pradesh,1993,"Financial Year (Apr - Mar), 1993",451765,148954
+550,India,23,Madhya Pradesh,1994,"Financial Year (Apr - Mar), 1994",445695,146379
+551,India,23,Madhya Pradesh,1995,"Financial Year (Apr - Mar), 1995",524697,172989
+552,India,23,Madhya Pradesh,1996,"Financial Year (Apr - Mar), 1996",483248,155721
+553,India,23,Madhya Pradesh,1997,"Financial Year (Apr - Mar), 1997",464000,
+554,India,23,Madhya Pradesh,1999,"Financial Year (Apr - Mar), 1999",267685,83558
+555,India,23,Madhya Pradesh,2000,"Financial Year (Apr - Mar), 2000",,78939
+556,India,23,Madhya Pradesh,2001,"Financial Year (Apr - Mar), 2001",,64852
+557,India,23,Madhya Pradesh,2002,"Financial Year (Apr - Mar), 2002",,64305
+558,India,23,Madhya Pradesh,2003,"Financial Year (Apr - Mar), 2003",,65191
+559,India,23,Madhya Pradesh,2004,"Financial Year (Apr - Mar), 2004",,67241
+560,India,23,Madhya Pradesh,2005,"Financial Year (Apr - Mar), 2005",,67348
+561,India,23,Madhya Pradesh,2006,"Financial Year (Apr - Mar), 2006",,73747
+562,India,23,Madhya Pradesh,2007,"Financial Year (Apr - Mar), 2007",,79318
+563,India,23,Madhya Pradesh,2008,"Financial Year (Apr - Mar), 2008",69588,84231
+564,India,23,Madhya Pradesh,2009,"Financial Year (Apr - Mar), 2009",69548,89147
+565,India,23,Madhya Pradesh,2010,"Financial Year (Apr - Mar), 2010",78270,96713
+566,India,23,Madhya Pradesh,2011,"Financial Year (Apr - Mar), 2011",80628,97743
+567,India,23,Madhya Pradesh,2012,"Financial Year (Apr - Mar), 2012",77727,94589
+568,India,23,Madhya Pradesh,2013,"Financial Year (Apr - Mar), 2013",82734,101250
+569,India,23,Madhya Pradesh,2014,"Financial Year (Apr - Mar), 2014",86104,97985
+570,India,23,Madhya Pradesh,2015,"Financial Year (Apr - Mar), 2015",89233,110421
+571,India,23,Madhya Pradesh,2016,"Financial Year (Apr - Mar), 2016",91198,115878
+572,India,23,Madhya Pradesh,2017,"Financial Year (Apr - Mar), 2017",95861,117480
+573,India,24,Gujarat,1991,"Financial Year (Apr - Mar), 1991",690053,215000
+574,India,24,Gujarat,1992,"Financial Year (Apr - Mar), 1992",726152,228508
+575,India,24,Gujarat,1993,"Financial Year (Apr - Mar), 1993",760432,241170
+576,India,24,Gujarat,1994,"Financial Year (Apr - Mar), 1994",772633,238932
+577,India,24,Gujarat,1995,"Financial Year (Apr - Mar), 1995",956644,299302
+578,India,24,Gujarat,1996,"Financial Year (Apr - Mar), 1996",848287,259156
+579,India,24,Gujarat,1997,"Financial Year (Apr - Mar), 1997",872269,
+580,India,24,Gujarat,1999,"Financial Year (Apr - Mar), 1999",822884,250006
+581,India,24,Gujarat,2000,"Financial Year (Apr - Mar), 2000",,232252
+582,India,24,Gujarat,2001,"Financial Year (Apr - Mar), 2001",,217715
+583,India,24,Gujarat,2002,"Financial Year (Apr - Mar), 2002",,218610
+584,India,24,Gujarat,2003,"Financial Year (Apr - Mar), 2003",,222468
+585,India,24,Gujarat,2004,"Financial Year (Apr - Mar), 2004",,244873
+586,India,24,Gujarat,2005,"Financial Year (Apr - Mar), 2005",,267958
+587,India,24,Gujarat,2006,"Financial Year (Apr - Mar), 2006",,303112
+588,India,24,Gujarat,2007,"Financial Year (Apr - Mar), 2007",,321486
+589,India,24,Gujarat,2008,"Financial Year (Apr - Mar), 2008",248182,346652
+590,India,24,Gujarat,2009,"Financial Year (Apr - Mar), 2009",263690,360106
+591,India,24,Gujarat,2010,"Financial Year (Apr - Mar), 2010",299173,402929
+592,India,24,Gujarat,2011,"Financial Year (Apr - Mar), 2011",319373,431986
+593,India,24,Gujarat,2012,"Financial Year (Apr - Mar), 2012",312488,423578
+594,India,24,Gujarat,2013,"Financial Year (Apr - Mar), 2013",316957,426125
+595,India,24,Gujarat,2014,"Financial Year (Apr - Mar), 2014",353685,451288
+596,India,24,Gujarat,2015,"Financial Year (Apr - Mar), 2015",366794,484696
+597,India,24,Gujarat,2016,"Financial Year (Apr - Mar), 2016",381153,508807
+598,India,24,Gujarat,2017,"Financial Year (Apr - Mar), 2017",416999,566664
+599,India,27,Maharashtra,1991,"Financial Year (Apr - Mar), 1991",1192668,391910
+600,India,27,Maharashtra,1992,"Financial Year (Apr - Mar), 1992",1281819,420873
+601,India,27,Maharashtra,1993,"Financial Year (Apr - Mar), 1993",1315772,426682
+602,India,27,Maharashtra,1994,"Financial Year (Apr - Mar), 1994",1319269,428976
+603,India,27,Maharashtra,1995,"Financial Year (Apr - Mar), 1995",1518013,493424
+604,India,27,Maharashtra,1996,"Financial Year (Apr - Mar), 1996",1455506,472330
+605,India,27,Maharashtra,1997,"Financial Year (Apr - Mar), 1997",1465980,
+606,India,27,Maharashtra,1999,"Financial Year (Apr - Mar), 1999",1217260,380903
+607,India,27,Maharashtra,2000,"Financial Year (Apr - Mar), 2000",,368677
+608,India,27,Maharashtra,2001,"Financial Year (Apr - Mar), 2001",,363684
+609,India,27,Maharashtra,2002,"Financial Year (Apr - Mar), 2002",,365723
+610,India,27,Maharashtra,2003,"Financial Year (Apr - Mar), 2003",,344740
+611,India,27,Maharashtra,2004,"Financial Year (Apr - Mar), 2004",,364321
+612,India,27,Maharashtra,2005,"Financial Year (Apr - Mar), 2005",,388652
+613,India,27,Maharashtra,2006,"Financial Year (Apr - Mar), 2006",,438491
+614,India,27,Maharashtra,2007,"Financial Year (Apr - Mar), 2007",,423577
+615,India,27,Maharashtra,2008,"Financial Year (Apr - Mar), 2008",449559,463998
+616,India,27,Maharashtra,2009,"Financial Year (Apr - Mar), 2009",443547,471483
+617,India,27,Maharashtra,2010,"Financial Year (Apr - Mar), 2010",491063,531153
+618,India,27,Maharashtra,2011,"Financial Year (Apr - Mar), 2011",554790,581980
+619,India,27,Maharashtra,2012,"Financial Year (Apr - Mar), 2012",542239,546616
+620,India,27,Maharashtra,2013,"Financial Year (Apr - Mar), 2013",550679,582296
+621,India,27,Maharashtra,2014,"Financial Year (Apr - Mar), 2014",571120,575078
+622,India,27,Maharashtra,2015,"Financial Year (Apr - Mar), 2015",593483,605894
+623,India,27,Maharashtra,2016,"Financial Year (Apr - Mar), 2016",555410,593094
+624,India,27,Maharashtra,2017,"Financial Year (Apr - Mar), 2017",588797,616905
+625,India,28,Andhra Pradesh,1991,"Financial Year (Apr - Mar), 1991",496795.17052870062898793330,149523.59107178691441976964
+626,India,28,Andhra Pradesh,1992,"Financial Year (Apr - Mar), 1992",547798.50950774547744113814,163773.50687751426071744430
+627,India,28,Andhra Pradesh,1993,"Financial Year (Apr - Mar), 1993",511709.19536358716591352394,155283.69648180224213427126
+628,India,28,Andhra Pradesh,1994,"Financial Year (Apr - Mar), 1994",615013.61153046631387925046,189248.79957417511073552402
+629,India,28,Andhra Pradesh,1995,"Financial Year (Apr - Mar), 1995",697342.02971191669237401382,217660.70854275788930246434
+630,India,28,Andhra Pradesh,1996,"Financial Year (Apr - Mar), 1996",597059.80785602146927813266,183274.74906650479221856050
+631,India,28,Andhra Pradesh,1997,"Financial Year (Apr - Mar), 1997",702381.75560133480448241770,
+632,India,28,Andhra Pradesh,1999,"Financial Year (Apr - Mar), 1999",533606.03649536111497535736,159597.76749205082379487286
+633,India,28,Andhra Pradesh,2000,"Financial Year (Apr - Mar), 2000",,154353.47492021739171370404
+634,India,28,Andhra Pradesh,2001,"Financial Year (Apr - Mar), 2001",,153926.17087585988953563630
+635,India,28,Andhra Pradesh,2002,"Financial Year (Apr - Mar), 2002",,174952.57784320188971622062
+636,India,28,Andhra Pradesh,2003,"Financial Year (Apr - Mar), 2003",,150950.28249012183938741968
+637,India,28,Andhra Pradesh,2004,"Financial Year (Apr - Mar), 2004",,162291.71726964626962532462
+638,India,28,Andhra Pradesh,2005,"Financial Year (Apr - Mar), 2005",,170248.71644955448919633912
+639,India,28,Andhra Pradesh,2006,"Financial Year (Apr - Mar), 2006",,175916.21000907806746758326
+640,India,28,Andhra Pradesh,2007,"Financial Year (Apr - Mar), 2007",,182578.40173495923311356122
+641,India,28,Andhra Pradesh,2008,"Financial Year (Apr - Mar), 2008",100242.36359112662206966908,192310.85214992763663158146
+642,India,28,Andhra Pradesh,2009,"Financial Year (Apr - Mar), 2009",104838.95936047028747489160,199022.28055581707413346846
+643,India,28,Andhra Pradesh,2010,"Financial Year (Apr - Mar), 2010",133367.51236859647198618786,230037.87205531346679502730
+644,India,28,Andhra Pradesh,2011,"Financial Year (Apr - Mar), 2011",141587.69332616795421557330,241959.59627779252962043164
+645,India,28,Andhra Pradesh,2012,"Financial Year (Apr - Mar), 2012",88406,150605
+646,India,28,Andhra Pradesh,2013,"Financial Year (Apr - Mar), 2013",96165,161020
+647,India,28,Andhra Pradesh,2014,"Financial Year (Apr - Mar), 2014",94880,163798
+648,India,28,Andhra Pradesh,2015,"Financial Year (Apr - Mar), 2015",91655,165177
+649,India,28,Andhra Pradesh,2016,"Financial Year (Apr - Mar), 2016",97373,177334
+650,India,28,Andhra Pradesh,2017,"Financial Year (Apr - Mar), 2017",101048,187691
+651,India,29,Karnataka,1991,"Financial Year (Apr - Mar), 1991",426473,135639
+652,India,29,Karnataka,1992,"Financial Year (Apr - Mar), 1992",438466,139335
+653,India,29,Karnataka,1993,"Financial Year (Apr - Mar), 1993",449862,140956
+654,India,29,Karnataka,1994,"Financial Year (Apr - Mar), 1994",467275,148108
+655,India,29,Karnataka,1995,"Financial Year (Apr - Mar), 1995",512058,165733
+656,India,29,Karnataka,1996,"Financial Year (Apr - Mar), 1996",578635,179705
+657,India,29,Karnataka,1997,"Financial Year (Apr - Mar), 1997",624570,
+658,India,29,Karnataka,1999,"Financial Year (Apr - Mar), 1999",491789,148265
+659,India,29,Karnataka,2000,"Financial Year (Apr - Mar), 2000",,141545
+660,India,29,Karnataka,2001,"Financial Year (Apr - Mar), 2001",,147724
+661,India,29,Karnataka,2002,"Financial Year (Apr - Mar), 2002",,146363
+662,India,29,Karnataka,2003,"Financial Year (Apr - Mar), 2003",,152535
+663,India,29,Karnataka,2004,"Financial Year (Apr - Mar), 2004",,166629
+664,India,29,Karnataka,2005,"Financial Year (Apr - Mar), 2005",,191932
+665,India,29,Karnataka,2006,"Financial Year (Apr - Mar), 2006",,218363
+666,India,29,Karnataka,2007,"Financial Year (Apr - Mar), 2007",,218506
+667,India,29,Karnataka,2008,"Financial Year (Apr - Mar), 2008",169967,232860
+668,India,29,Karnataka,2009,"Financial Year (Apr - Mar), 2009",300914,270221
+669,India,29,Karnataka,2010,"Financial Year (Apr - Mar), 2010",171519,239524
+670,India,29,Karnataka,2011,"Financial Year (Apr - Mar), 2011",198155,267309
+671,India,29,Karnataka,2012,"Financial Year (Apr - Mar), 2012",193959,261327
+672,India,29,Karnataka,2013,"Financial Year (Apr - Mar), 2013",218707,279823
+673,India,29,Karnataka,2014,"Financial Year (Apr - Mar), 2014",223273,296428
+674,India,29,Karnataka,2015,"Financial Year (Apr - Mar), 2015",233503,306582
+675,India,29,Karnataka,2016,"Financial Year (Apr - Mar), 2016",234990,323720
+676,India,29,Karnataka,2017,"Financial Year (Apr - Mar), 2017",233710,324866
+677,India,30,Goa,1991,"Financial Year (Apr - Mar), 1991",19508,6224
+678,India,30,Goa,1992,"Financial Year (Apr - Mar), 1992",17144,5386
+679,India,30,Goa,1993,"Financial Year (Apr - Mar), 1993",19922,6434
+680,India,30,Goa,1994,"Financial Year (Apr - Mar), 1994",18120,6007
+681,India,30,Goa,1995,"Financial Year (Apr - Mar), 1995",20975,6810
+682,India,30,Goa,1996,"Financial Year (Apr - Mar), 1996",23832,7697
+683,India,30,Goa,1997,"Financial Year (Apr - Mar), 1997",27579,
+684,India,30,Goa,1999,"Financial Year (Apr - Mar), 1999",28981,9114
+685,India,30,Goa,2000,"Financial Year (Apr - Mar), 2000",,9717
+686,India,30,Goa,2001,"Financial Year (Apr - Mar), 2001",,8862
+687,India,30,Goa,2002,"Financial Year (Apr - Mar), 2002",,10995
+688,India,30,Goa,2003,"Financial Year (Apr - Mar), 2003",,10808
+689,India,30,Goa,2004,"Financial Year (Apr - Mar), 2004",,11911
+690,India,30,Goa,2005,"Financial Year (Apr - Mar), 2005",,12352
+691,India,30,Goa,2006,"Financial Year (Apr - Mar), 2006",,13078
+692,India,30,Goa,2007,"Financial Year (Apr - Mar), 2007",,16018
+693,India,30,Goa,2008,"Financial Year (Apr - Mar), 2008",12550,16497
+694,India,30,Goa,2009,"Financial Year (Apr - Mar), 2009",12754,16980
+695,India,30,Goa,2010,"Financial Year (Apr - Mar), 2010",17024,17056
+696,India,30,Goa,2011,"Financial Year (Apr - Mar), 2011",21261,20743
+697,India,30,Goa,2012,"Financial Year (Apr - Mar), 2012",18492,16730
+698,India,30,Goa,2013,"Financial Year (Apr - Mar), 2013",16970,17651
+699,India,30,Goa,2014,"Financial Year (Apr - Mar), 2014",20431,20422
+700,India,30,Goa,2015,"Financial Year (Apr - Mar), 2015",21726,22505
+701,India,30,Goa,2016,"Financial Year (Apr - Mar), 2016",19592,20991
+702,India,30,Goa,2017,"Financial Year (Apr - Mar), 2017",24667,25384
+703,India,32,Kerala,1991,"Financial Year (Apr - Mar), 1991",278684,75513
+704,India,32,Kerala,1992,"Financial Year (Apr - Mar), 1992",321499,80490
+705,India,32,Kerala,1993,"Financial Year (Apr - Mar), 1993",302215,72427
+706,India,32,Kerala,1994,"Financial Year (Apr - Mar), 1994",352638,88802
+707,India,32,Kerala,1995,"Financial Year (Apr - Mar), 1995",324439,86227
+708,India,32,Kerala,1996,"Financial Year (Apr - Mar), 1996",330066,91463
+709,India,32,Kerala,1997,"Financial Year (Apr - Mar), 1997",358061,
+710,India,32,Kerala,1999,"Financial Year (Apr - Mar), 1999",303286,79724
+711,India,32,Kerala,2000,"Financial Year (Apr - Mar), 2000",,78140
+712,India,32,Kerala,2001,"Financial Year (Apr - Mar), 2001",,73380
+713,India,32,Kerala,2002,"Financial Year (Apr - Mar), 2002",,68019
+714,India,32,Kerala,2003,"Financial Year (Apr - Mar), 2003",,75634
+715,India,32,Kerala,2004,"Financial Year (Apr - Mar), 2004",,81004
+716,India,32,Kerala,2005,"Financial Year (Apr - Mar), 2005",,85404
+717,India,32,Kerala,2006,"Financial Year (Apr - Mar), 2006",,84914
+718,India,32,Kerala,2007,"Financial Year (Apr - Mar), 2007",,91292
+719,India,32,Kerala,2008,"Financial Year (Apr - Mar), 2008",48080,101329
+720,India,32,Kerala,2009,"Financial Year (Apr - Mar), 2009",48084,98533
+721,India,32,Kerala,2010,"Financial Year (Apr - Mar), 2010",51913,105631
+722,India,32,Kerala,2011,"Financial Year (Apr - Mar), 2011",55559,108066
+723,India,32,Kerala,2012,"Financial Year (Apr - Mar), 2012",58521,105610
+724,India,32,Kerala,2013,"Financial Year (Apr - Mar), 2013",59055,101794
+725,India,32,Kerala,2014,"Financial Year (Apr - Mar), 2014",86988,103131
+726,India,32,Kerala,2015,"Financial Year (Apr - Mar), 2015",63455,94846
+727,India,32,Kerala,2016,"Financial Year (Apr - Mar), 2016",67037,91263
+728,India,32,Kerala,2017,"Financial Year (Apr - Mar), 2017",66111,87449
+729,India,33,Tamil Nadu,1991,"Financial Year (Apr - Mar), 1991",993229,304273
+730,India,33,Tamil Nadu,1992,"Financial Year (Apr - Mar), 1992",1067977,330075
+731,India,33,Tamil Nadu,1993,"Financial Year (Apr - Mar), 1993",1107829,348075
+732,India,33,Tamil Nadu,1994,"Financial Year (Apr - Mar), 1994",1150913,357281
+733,India,33,Tamil Nadu,1995,"Financial Year (Apr - Mar), 1995",1237400,406195
+734,India,33,Tamil Nadu,1996,"Financial Year (Apr - Mar), 1996",1238882,386850
+735,India,33,Tamil Nadu,1997,"Financial Year (Apr - Mar), 1997",1271838,
+736,India,33,Tamil Nadu,1999,"Financial Year (Apr - Mar), 1999",1103970,337697
+737,India,33,Tamil Nadu,2000,"Financial Year (Apr - Mar), 2000",,345345
+738,India,33,Tamil Nadu,2001,"Financial Year (Apr - Mar), 2001",,330220
+739,India,33,Tamil Nadu,2002,"Financial Year (Apr - Mar), 2002",,340304
+740,India,33,Tamil Nadu,2003,"Financial Year (Apr - Mar), 2003",,352442
+741,India,33,Tamil Nadu,2004,"Financial Year (Apr - Mar), 2004",,384569
+742,India,33,Tamil Nadu,2005,"Financial Year (Apr - Mar), 2005",,412182
+743,India,33,Tamil Nadu,2006,"Financial Year (Apr - Mar), 2006",,499869
+744,India,33,Tamil Nadu,2007,"Financial Year (Apr - Mar), 2007",,459839
+745,India,33,Tamil Nadu,2008,"Financial Year (Apr - Mar), 2008",303435,534831
+746,India,33,Tamil Nadu,2009,"Financial Year (Apr - Mar), 2009",335429,574271
+747,India,33,Tamil Nadu,2010,"Financial Year (Apr - Mar), 2010",342501,597611
+748,India,33,Tamil Nadu,2011,"Financial Year (Apr - Mar), 2011",336075,593721
+749,India,33,Tamil Nadu,2012,"Financial Year (Apr - Mar), 2012",351024,596221
+750,India,33,Tamil Nadu,2013,"Financial Year (Apr - Mar), 2013",391525,619363
+751,India,33,Tamil Nadu,2014,"Financial Year (Apr - Mar), 2014",372691,646774
+752,India,33,Tamil Nadu,2015,"Financial Year (Apr - Mar), 2015",383859,704186
+753,India,33,Tamil Nadu,2016,"Financial Year (Apr - Mar), 2016",391999,732353
+754,India,33,Tamil Nadu,2017,"Financial Year (Apr - Mar), 2017",416037,764957
+755,India,34,Puducherry,1991,"Financial Year (Apr - Mar), 1991",22968,7469
+756,India,34,Puducherry,1992,"Financial Year (Apr - Mar), 1992",23589,7731
+757,India,34,Puducherry,1993,"Financial Year (Apr - Mar), 1993",22727,7894
+758,India,34,Puducherry,1994,"Financial Year (Apr - Mar), 1994",25220,8311
+759,India,34,Puducherry,1995,"Financial Year (Apr - Mar), 1995",26540,8774
+760,India,34,Puducherry,1996,"Financial Year (Apr - Mar), 1996",31761,10333
+761,India,34,Puducherry,1997,"Financial Year (Apr - Mar), 1997",36988,
+762,India,34,Puducherry,1999,"Financial Year (Apr - Mar), 1999",,12883
+763,India,34,Puducherry,2000,"Financial Year (Apr - Mar), 2000",,12544
+764,India,34,Puducherry,2001,"Financial Year (Apr - Mar), 2001",,11928
+765,India,34,Puducherry,2002,"Financial Year (Apr - Mar), 2002",,13339
+766,India,34,Puducherry,2003,"Financial Year (Apr - Mar), 2003",,12416
+767,India,34,Puducherry,2004,"Financial Year (Apr - Mar), 2004",,12988
+768,India,34,Puducherry,2005,"Financial Year (Apr - Mar), 2005",,13568
+769,India,34,Puducherry,2006,"Financial Year (Apr - Mar), 2006",,15575
+770,India,34,Puducherry,2007,"Financial Year (Apr - Mar), 2007",,15761
+771,India,34,Puducherry,2008,"Financial Year (Apr - Mar), 2008",9638,15290
+772,India,34,Puducherry,2009,"Financial Year (Apr - Mar), 2009",10587,15848
+773,India,34,Puducherry,2010,"Financial Year (Apr - Mar), 2010",10480,17697
+774,India,34,Puducherry,2011,"Financial Year (Apr - Mar), 2011",10262,16841
+775,India,34,Puducherry,2012,"Financial Year (Apr - Mar), 2012",11401,14085
+776,India,34,Puducherry,2013,"Financial Year (Apr - Mar), 2013",10140,14650
+777,India,34,Puducherry,2014,"Financial Year (Apr - Mar), 2014",9757,14153
+778,India,34,Puducherry,2015,"Financial Year (Apr - Mar), 2015",10686,16529
+779,India,34,Puducherry,2016,"Financial Year (Apr - Mar), 2016",9547,14409
+780,India,34,Puducherry,2017,"Financial Year (Apr - Mar), 2017",11863,15652
+781,India,35,Andaman And Nicobar Islands,1991,"Financial Year (Apr - Mar), 1991",5434,1660
+782,India,35,Andaman And Nicobar Islands,1992,"Financial Year (Apr - Mar), 1992",6069,1934
+783,India,35,Andaman And Nicobar Islands,1993,"Financial Year (Apr - Mar), 1993",6587,2088
+784,India,35,Andaman And Nicobar Islands,1994,"Financial Year (Apr - Mar), 1994",6697,2144
+785,India,35,Andaman And Nicobar Islands,1995,"Financial Year (Apr - Mar), 1995",8590,2700
+786,India,35,Andaman And Nicobar Islands,1996,"Financial Year (Apr - Mar), 1996",6598,2088
+787,India,35,Andaman And Nicobar Islands,1997,"Financial Year (Apr - Mar), 1997",6875,
+788,India,35,Andaman And Nicobar Islands,1999,"Financial Year (Apr - Mar), 1999",,688
+789,India,35,Andaman And Nicobar Islands,2000,"Financial Year (Apr - Mar), 2000",,539
+790,India,35,Andaman And Nicobar Islands,2001,"Financial Year (Apr - Mar), 2001",,191
+791,India,35,Andaman And Nicobar Islands,2002,"Financial Year (Apr - Mar), 2002",,117
+792,India,35,Andaman And Nicobar Islands,2003,"Financial Year (Apr - Mar), 2003",,84
+793,India,35,Andaman And Nicobar Islands,2004,"Financial Year (Apr - Mar), 2004",,77
+794,India,35,Andaman And Nicobar Islands,2005,"Financial Year (Apr - Mar), 2005",,113
+795,India,35,Andaman And Nicobar Islands,2006,"Financial Year (Apr - Mar), 2006",,89
+796,India,35,Andaman And Nicobar Islands,2007,"Financial Year (Apr - Mar), 2007",,106
+797,India,35,Andaman And Nicobar Islands,2008,"Financial Year (Apr - Mar), 2008",61,108
+798,India,35,Andaman And Nicobar Islands,2009,"Financial Year (Apr - Mar), 2009",76,118
+799,India,35,Andaman And Nicobar Islands,2010,"Financial Year (Apr - Mar), 2010",87,112
+800,India,35,Andaman And Nicobar Islands,2011,"Financial Year (Apr - Mar), 2011",75,130
+801,India,35,Andaman And Nicobar Islands,2012,"Financial Year (Apr - Mar), 2012",101,150
+802,India,35,Andaman And Nicobar Islands,2013,"Financial Year (Apr - Mar), 2013",95,152
+803,India,35,Andaman And Nicobar Islands,2014,"Financial Year (Apr - Mar), 2014",91,157
+804,India,35,Andaman And Nicobar Islands,2015,"Financial Year (Apr - Mar), 2015",94,153
+805,India,35,Andaman And Nicobar Islands,2016,"Financial Year (Apr - Mar), 2016",86,129
+806,India,35,Andaman And Nicobar Islands,2017,"Financial Year (Apr - Mar), 2017",73,101
+807,India,36,Telangana,1991,"Financial Year (Apr - Mar), 1991",350759.82947129937101206670,105570.40892821308558023036
+808,India,36,Telangana,1992,"Financial Year (Apr - Mar), 1992",386770.49049225452255886186,115631.49312248573928255570
+809,India,36,Telangana,1993,"Financial Year (Apr - Mar), 1993",361289.80463641283408647606,109637.30351819775786572874
+810,India,36,Telangana,1994,"Financial Year (Apr - Mar), 1994",434227.38846953368612074954,133618.20042582488926447598
+811,India,36,Telangana,1995,"Financial Year (Apr - Mar), 1995",492354.97028808330762598618,153678.29145724211069753566
+812,India,36,Telangana,1996,"Financial Year (Apr - Mar), 1996",421551.19214397853072186734,129400.25093349520778143950
+813,India,36,Telangana,1997,"Financial Year (Apr - Mar), 1997",495913.24439866519551758230,
+814,India,36,Telangana,1999,"Financial Year (Apr - Mar), 1999",376749.96350463888502464264,112683.23250794917620512714
+815,India,36,Telangana,2000,"Financial Year (Apr - Mar), 2000",,108980.52507978260828629596
+816,India,36,Telangana,2001,"Financial Year (Apr - Mar), 2001",,108678.82912414011046436370
+817,India,36,Telangana,2002,"Financial Year (Apr - Mar), 2002",,123524.42215679811028377938
+818,India,36,Telangana,2003,"Financial Year (Apr - Mar), 2003",,106577.71750987816061258032
+819,India,36,Telangana,2004,"Financial Year (Apr - Mar), 2004",,114585.28273035373037467538
+820,India,36,Telangana,2005,"Financial Year (Apr - Mar), 2005",,120203.28355044551080366088
+821,India,36,Telangana,2006,"Financial Year (Apr - Mar), 2006",,124204.78999092193253241674
+822,India,36,Telangana,2007,"Financial Year (Apr - Mar), 2007",,128908.59826504076688643878
+823,India,36,Telangana,2008,"Financial Year (Apr - Mar), 2008",70775.63640887337793033092,135780.14785007236336841854
+824,India,36,Telangana,2009,"Financial Year (Apr - Mar), 2009",74021.04063952971252510840,140518.71944418292586653154
+825,India,36,Telangana,2010,"Financial Year (Apr - Mar), 2010",94163.48763140352801381214,162417.12794468653320497270
+826,India,36,Telangana,2011,"Financial Year (Apr - Mar), 2011",99967.30667383204578442670,170834.40372220747037956836
+827,India,36,Telangana,2012,"Financial Year (Apr - Mar), 2012",113192,209410
+828,India,36,Telangana,2013,"Financial Year (Apr - Mar), 2013",113922,206397
+829,India,36,Telangana,2014,"Financial Year (Apr - Mar), 2014",103409,206300
+830,India,36,Telangana,2015,"Financial Year (Apr - Mar), 2015",108246,205811
+831,India,36,Telangana,2016,"Financial Year (Apr - Mar), 2016",114699,219792
+832,India,36,Telangana,2017,"Financial Year (Apr - Mar), 2017",121741,237910
+833,India,37,Ladakh,1991,"Financial Year (Apr - Mar), 1991",307.09888491156932163600,96.74489800312472290570
+834,India,37,Ladakh,1992,"Financial Year (Apr - Mar), 1992",320.81334366082530202530,100.72580947420062151950
+835,India,37,Ladakh,1993,"Financial Year (Apr - Mar), 1993",328.18459182430100440360,104.44424326586492242250
+836,India,37,Ladakh,1994,"Financial Year (Apr - Mar), 1994",429.21662525781515658570,130.03581700849569922550
+837,India,37,Ladakh,1995,"Financial Year (Apr - Mar), 1995",524.08043322515676256400,154.94932341264651527560
+838,India,37,Ladakh,1996,"Financial Year (Apr - Mar), 1996",480.33415332322381076400,143.35655923863428304860
+839,India,37,Ladakh,1997,"Financial Year (Apr - Mar), 1997",940.39190591190169836870,
+840,India,37,Ladakh,1999,"Financial Year (Apr - Mar), 1999",575.50418524987894740490,175.55382124645693557340
+841,India,37,Ladakh,2000,"Financial Year (Apr - Mar), 2000",,156.32733122955740325730
+842,India,37,Ladakh,2001,"Financial Year (Apr - Mar), 2001",,163.93918393249373687050
+843,India,37,Ladakh,2002,"Financial Year (Apr - Mar), 2002",,166.34522932710004921950
+844,India,37,Ladakh,2003,"Financial Year (Apr - Mar), 2003",,182.92506940993263795170
+845,India,37,Ladakh,2004,"Financial Year (Apr - Mar), 2004",,208.45102373271051532700
+846,India,37,Ladakh,2005,"Financial Year (Apr - Mar), 2005",,269.87080071502437965420
+847,India,37,Ladakh,2006,"Financial Year (Apr - Mar), 2006",,314.75448389440758820100
+848,India,37,Ladakh,2007,"Financial Year (Apr - Mar), 2007",,354.54172546521560786310
+849,India,37,Ladakh,2008,"Financial Year (Apr - Mar), 2008",205.78250065869260526720,362.96288434633770108460
+850,India,37,Ladakh,2009,"Financial Year (Apr - Mar), 2009",189.22453371581098301090,357.91018901766444515170
+851,India,37,Ladakh,2010,"Financial Year (Apr - Mar), 2010",244.38859267214843523070,376.21800715662338548000
+852,India,37,Ladakh,2011,"Financial Year (Apr - Mar), 2011",230.91473846235308607630,431.68829007227436836240
+853,India,37,Ladakh,2012,"Financial Year (Apr - Mar), 2012",249.37566858096879173590,410.55883687964075264300
+854,India,37,Ladakh,2013,"Financial Year (Apr - Mar), 2013",295.24364305814549169820,449.97423507128234221480
+855,India,37,Ladakh,2014,"Financial Year (Apr - Mar), 2014",272.64868948879712209350,436.76285854089859077120
+856,India,37,Ladakh,2015,"Financial Year (Apr - Mar), 2015",344.43633480786909599730,452.94898210461378293720
+857,India,37,Ladakh,2016,"Financial Year (Apr - Mar), 2016",344.30509596816329714190,488.62407336464010513010
+858,India,37,Ladakh,2017,"Financial Year (Apr - Mar), 2017",328.35957694390873621080,484.94938585287773717890
+859,India,38,The Dadra And Nagar Haveli And Daman And Diu,1991,"Financial Year (Apr - Mar), 1991",8429.00000000000000000000,2775.00000000000000000000
+860,India,38,The Dadra And Nagar Haveli And Daman And Diu,1992,"Financial Year (Apr - Mar), 1992",8933.00000000000000000000,2973.00000000000000000000
+861,India,38,The Dadra And Nagar Haveli And Daman And Diu,1993,"Financial Year (Apr - Mar), 1993",12245.00000000000000000000,3775.00000000000000000000
+862,India,38,The Dadra And Nagar Haveli And Daman And Diu,1994,"Financial Year (Apr - Mar), 1994",18156.00000000000000000000,5012.00000000000000000000
+863,India,38,The Dadra And Nagar Haveli And Daman And Diu,1995,"Financial Year (Apr - Mar), 1995",17443.00000000000000000000,6132.00000000000000000000
+864,India,38,The Dadra And Nagar Haveli And Daman And Diu,1996,"Financial Year (Apr - Mar), 1996",32452.00000000000000000000,7690.00000000000000000000
+865,India,38,The Dadra And Nagar Haveli And Daman And Diu,1997,"Financial Year (Apr - Mar), 1997",37850.00000000000000000000,
+866,India,38,The Dadra And Nagar Haveli And Daman And Diu,1999,"Financial Year (Apr - Mar), 1999",,23107.00000000000000000000
+867,India,38,The Dadra And Nagar Haveli And Daman And Diu,2000,"Financial Year (Apr - Mar), 2000",,25043.00000000000000000000
+868,India,38,The Dadra And Nagar Haveli And Daman And Diu,2001,"Financial Year (Apr - Mar), 2001",,31047.00000000000000000000
+869,India,38,The Dadra And Nagar Haveli And Daman And Diu,2002,"Financial Year (Apr - Mar), 2002",,32791.00000000000000000000
+870,India,38,The Dadra And Nagar Haveli And Daman And Diu,2003,"Financial Year (Apr - Mar), 2003",,34318.00000000000000000000
+871,India,38,The Dadra And Nagar Haveli And Daman And Diu,2004,"Financial Year (Apr - Mar), 2004",,39073.00000000000000000000
+872,India,38,The Dadra And Nagar Haveli And Daman And Diu,2005,"Financial Year (Apr - Mar), 2005",,44700.00000000000000000000
+873,India,38,The Dadra And Nagar Haveli And Daman And Diu,2006,"Financial Year (Apr - Mar), 2006",,51166.00000000000000000000
+874,India,38,The Dadra And Nagar Haveli And Daman And Diu,2007,"Financial Year (Apr - Mar), 2007",,52790.00000000000000000000
+875,India,38,The Dadra And Nagar Haveli And Daman And Diu,2008,"Financial Year (Apr - Mar), 2008",39890.00000000000000000000,56579.00000000000000000000
+876,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Financial Year (Apr - Mar), 2009",44853.00000000000000000000,69859.00000000000000000000
+877,India,38,The Dadra And Nagar Haveli And Daman And Diu,2010,"Financial Year (Apr - Mar), 2010",49528.00000000000000000000,69761.00000000000000000000
+878,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Financial Year (Apr - Mar), 2011",45243.00000000000000000000,68291.00000000000000000000
+879,India,38,The Dadra And Nagar Haveli And Daman And Diu,2012,"Financial Year (Apr - Mar), 2012",51463.00000000000000000000,70989.00000000000000000000
+880,India,38,The Dadra And Nagar Haveli And Daman And Diu,2013,"Financial Year (Apr - Mar), 2013",85145.00000000000000000000,79945.00000000000000000000
+881,India,38,The Dadra And Nagar Haveli And Daman And Diu,2014,"Financial Year (Apr - Mar), 2014",43763.00000000000000000000,69521.00000000000000000000
+882,India,38,The Dadra And Nagar Haveli And Daman And Diu,2015,"Financial Year (Apr - Mar), 2015",40799.00000000000000000000,67026.00000000000000000000
+883,India,38,The Dadra And Nagar Haveli And Daman And Diu,2016,"Financial Year (Apr - Mar), 2016",51167.00000000000000000000,74827.00000000000000000000
+884,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Financial Year (Apr - Mar), 2017",50425.00000000000000000000,74424.00000000000000000000

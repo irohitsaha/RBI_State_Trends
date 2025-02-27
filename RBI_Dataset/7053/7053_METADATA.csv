@@ -1,0 +1,16 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+Required Doctors at Public Health Centers,I7053_3,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Required Doctors at Public Health Centers (PHCs)
+Sanctioned Doctors at Public Health Centers,I7053_4,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Sanctioned Doctors at Public Health Centers (PHCs)
+Doctors In Position at Public Health Centers,I7053_5,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Doctors In Position at Public Health Centers (PHCs)
+Doctors Vacant at Public Health Centers,I7053_6,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Doctors Vacant at Public Health Centers (PHCs)
+Doctors Shortfall at Public Health Centers,I7053_7,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Shortfall of Doctors at Public Health Centers (PHCs)
+"Required Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)",I7053_8,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Required Doctors Surgeons, OB&GY, Physicians and Paediatricians at Community Health Centers (CHCs)"
+"Sanctioned Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)",I7053_9,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Sanctioned Doctors Surgeons, OB&GY, Physicians and Paediatricians at Community Health Centers (CHCs)"
+"In Position Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)",I7053_10,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"In Position Doctors Surgeons, OB&GY, Physicians and Paediatricians at Community Health Centers (CHCs)"
+"Vacant position of Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)",I7053_11,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Vacant position of Doctors Surgeons, OB&GY, Physicians and Paediatricians at Community Health Centers (CHCs)"
+"Shortfall of Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)",I7053_12,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Shortfall of Doctors Surgeons, OB&GY, Physicians and Paediatricians at Community Health Centers (CHCs)"

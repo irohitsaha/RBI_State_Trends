@@ -1,0 +1,791 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Infant mortality rate-per 1000 live births
+1,India,1,Jammu And Kashmir,1997,"Calendar Year (Jan - Dec), 1997",
+2,India,1,Jammu And Kashmir,1998,"Calendar Year (Jan - Dec), 1998",45
+3,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",52
+4,India,1,Jammu And Kashmir,2000,"Calendar Year (Jan - Dec), 2000",50
+5,India,1,Jammu And Kashmir,2001,"Calendar Year (Jan - Dec), 2001",48
+6,India,1,Jammu And Kashmir,2002,"Calendar Year (Jan - Dec), 2002",45
+7,India,1,Jammu And Kashmir,2003,"Calendar Year (Jan - Dec), 2003",44
+8,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",49
+9,India,1,Jammu And Kashmir,2005,"Calendar Year (Jan - Dec), 2005",50
+10,India,1,Jammu And Kashmir,2006,"Calendar Year (Jan - Dec), 2006",52
+11,India,1,Jammu And Kashmir,2007,"Calendar Year (Jan - Dec), 2007",51
+12,India,1,Jammu And Kashmir,2008,"Calendar Year (Jan - Dec), 2008",49
+13,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",45
+14,India,1,Jammu And Kashmir,2010,"Calendar Year (Jan - Dec), 2010",43
+15,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",41
+16,India,1,Jammu And Kashmir,2012,"Calendar Year (Jan - Dec), 2012",39
+17,India,1,Jammu And Kashmir,2013,"Calendar Year (Jan - Dec), 2013",37
+18,India,1,Jammu And Kashmir,2014,"Calendar Year (Jan - Dec), 2014",34
+19,India,1,Jammu And Kashmir,2015,"Calendar Year (Jan - Dec), 2015",26
+20,India,1,Jammu And Kashmir,2016,"Calendar Year (Jan - Dec), 2016",24
+21,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",23
+22,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",22
+23,India,2,Himachal Pradesh,1997,"Calendar Year (Jan - Dec), 1997",63
+24,India,2,Himachal Pradesh,1998,"Calendar Year (Jan - Dec), 1998",64
+25,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",62
+26,India,2,Himachal Pradesh,2000,"Calendar Year (Jan - Dec), 2000",60
+27,India,2,Himachal Pradesh,2001,"Calendar Year (Jan - Dec), 2001",54
+28,India,2,Himachal Pradesh,2002,"Calendar Year (Jan - Dec), 2002",52
+29,India,2,Himachal Pradesh,2003,"Calendar Year (Jan - Dec), 2003",49
+30,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",51
+31,India,2,Himachal Pradesh,2005,"Calendar Year (Jan - Dec), 2005",49
+32,India,2,Himachal Pradesh,2006,"Calendar Year (Jan - Dec), 2006",50
+33,India,2,Himachal Pradesh,2007,"Calendar Year (Jan - Dec), 2007",47
+34,India,2,Himachal Pradesh,2008,"Calendar Year (Jan - Dec), 2008",44
+35,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",45
+36,India,2,Himachal Pradesh,2010,"Calendar Year (Jan - Dec), 2010",40
+37,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",38
+38,India,2,Himachal Pradesh,2012,"Calendar Year (Jan - Dec), 2012",36
+39,India,2,Himachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",35
+40,India,2,Himachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",32
+41,India,2,Himachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",28
+42,India,2,Himachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",25
+43,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",22
+44,India,3,Punjab,1997,"Calendar Year (Jan - Dec), 1997",51
+45,India,3,Punjab,1998,"Calendar Year (Jan - Dec), 1998",54
+46,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",53
+47,India,3,Punjab,2000,"Calendar Year (Jan - Dec), 2000",52
+48,India,3,Punjab,2001,"Calendar Year (Jan - Dec), 2001",51
+49,India,3,Punjab,2002,"Calendar Year (Jan - Dec), 2002",51
+50,India,3,Punjab,2003,"Calendar Year (Jan - Dec), 2003",49
+51,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",45
+52,India,3,Punjab,2005,"Calendar Year (Jan - Dec), 2005",44
+53,India,3,Punjab,2006,"Calendar Year (Jan - Dec), 2006",44
+54,India,3,Punjab,2007,"Calendar Year (Jan - Dec), 2007",43
+55,India,3,Punjab,2008,"Calendar Year (Jan - Dec), 2008",41
+56,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",38
+57,India,3,Punjab,2010,"Calendar Year (Jan - Dec), 2010",34
+58,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",30
+59,India,3,Punjab,2012,"Calendar Year (Jan - Dec), 2012",28
+60,India,3,Punjab,2013,"Calendar Year (Jan - Dec), 2013",26
+61,India,3,Punjab,2014,"Calendar Year (Jan - Dec), 2014",24
+62,India,3,Punjab,2015,"Calendar Year (Jan - Dec), 2015",23
+63,India,3,Punjab,2016,"Calendar Year (Jan - Dec), 2016",21
+64,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",21
+65,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",20
+66,India,4,Chandigarh,1997,"Calendar Year (Jan - Dec), 1997",40
+67,India,4,Chandigarh,1998,"Calendar Year (Jan - Dec), 1998",32
+68,India,4,Chandigarh,1999,"Calendar Year (Jan - Dec), 1999",28
+69,India,4,Chandigarh,2000,"Calendar Year (Jan - Dec), 2000",28
+70,India,4,Chandigarh,2001,"Calendar Year (Jan - Dec), 2001",24
+71,India,4,Chandigarh,2002,"Calendar Year (Jan - Dec), 2002",21
+72,India,4,Chandigarh,2003,"Calendar Year (Jan - Dec), 2003",19
+73,India,4,Chandigarh,2004,"Calendar Year (Jan - Dec), 2004",21
+74,India,4,Chandigarh,2005,"Calendar Year (Jan - Dec), 2005",19
+75,India,4,Chandigarh,2006,"Calendar Year (Jan - Dec), 2006",23
+76,India,4,Chandigarh,2007,"Calendar Year (Jan - Dec), 2007",27
+77,India,4,Chandigarh,2008,"Calendar Year (Jan - Dec), 2008",28
+78,India,4,Chandigarh,2009,"Calendar Year (Jan - Dec), 2009",25
+79,India,4,Chandigarh,2010,"Calendar Year (Jan - Dec), 2010",22
+80,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",20
+81,India,4,Chandigarh,2012,"Calendar Year (Jan - Dec), 2012",20
+82,India,4,Chandigarh,2013,"Calendar Year (Jan - Dec), 2013",21
+83,India,4,Chandigarh,2014,"Calendar Year (Jan - Dec), 2014",23
+84,India,4,Chandigarh,2015,"Calendar Year (Jan - Dec), 2015",21
+85,India,4,Chandigarh,2016,"Calendar Year (Jan - Dec), 2016",14
+86,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",14
+87,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",13
+88,India,5,Uttarakhand,1997,"Calendar Year (Jan - Dec), 1997",
+89,India,5,Uttarakhand,1998,"Calendar Year (Jan - Dec), 1998",
+90,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",52
+91,India,5,Uttarakhand,2000,"Calendar Year (Jan - Dec), 2000",50
+92,India,5,Uttarakhand,2001,"Calendar Year (Jan - Dec), 2001",48
+93,India,5,Uttarakhand,2002,"Calendar Year (Jan - Dec), 2002",41
+94,India,5,Uttarakhand,2003,"Calendar Year (Jan - Dec), 2003",41
+95,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",42
+96,India,5,Uttarakhand,2005,"Calendar Year (Jan - Dec), 2005",42
+97,India,5,Uttarakhand,2006,"Calendar Year (Jan - Dec), 2006",43
+98,India,5,Uttarakhand,2007,"Calendar Year (Jan - Dec), 2007",48
+99,India,5,Uttarakhand,2008,"Calendar Year (Jan - Dec), 2008",44
+100,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",41
+101,India,5,Uttarakhand,2010,"Calendar Year (Jan - Dec), 2010",38
+102,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",36
+103,India,5,Uttarakhand,2012,"Calendar Year (Jan - Dec), 2012",34
+104,India,5,Uttarakhand,2013,"Calendar Year (Jan - Dec), 2013",32
+105,India,5,Uttarakhand,2014,"Calendar Year (Jan - Dec), 2014",33
+106,India,5,Uttarakhand,2015,"Calendar Year (Jan - Dec), 2015",34
+107,India,5,Uttarakhand,2016,"Calendar Year (Jan - Dec), 2016",38
+108,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",32
+109,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",31
+110,India,6,Haryana,1997,"Calendar Year (Jan - Dec), 1997",68
+111,India,6,Haryana,1998,"Calendar Year (Jan - Dec), 1998",70
+112,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",68
+113,India,6,Haryana,2000,"Calendar Year (Jan - Dec), 2000",67
+114,India,6,Haryana,2001,"Calendar Year (Jan - Dec), 2001",65
+115,India,6,Haryana,2002,"Calendar Year (Jan - Dec), 2002",62
+116,India,6,Haryana,2003,"Calendar Year (Jan - Dec), 2003",59
+117,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",61
+118,India,6,Haryana,2005,"Calendar Year (Jan - Dec), 2005",60
+119,India,6,Haryana,2006,"Calendar Year (Jan - Dec), 2006",57
+120,India,6,Haryana,2007,"Calendar Year (Jan - Dec), 2007",55
+121,India,6,Haryana,2008,"Calendar Year (Jan - Dec), 2008",54
+122,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",51
+123,India,6,Haryana,2010,"Calendar Year (Jan - Dec), 2010",48
+124,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",44
+125,India,6,Haryana,2012,"Calendar Year (Jan - Dec), 2012",42
+126,India,6,Haryana,2013,"Calendar Year (Jan - Dec), 2013",41
+127,India,6,Haryana,2014,"Calendar Year (Jan - Dec), 2014",36
+128,India,6,Haryana,2015,"Calendar Year (Jan - Dec), 2015",36
+129,India,6,Haryana,2016,"Calendar Year (Jan - Dec), 2016",33
+130,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",30
+131,India,7,Delhi,1997,"Calendar Year (Jan - Dec), 1997",35
+132,India,7,Delhi,1998,"Calendar Year (Jan - Dec), 1998",36
+133,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",31
+134,India,7,Delhi,2000,"Calendar Year (Jan - Dec), 2000",32
+135,India,7,Delhi,2001,"Calendar Year (Jan - Dec), 2001",29
+136,India,7,Delhi,2002,"Calendar Year (Jan - Dec), 2002",30
+137,India,7,Delhi,2003,"Calendar Year (Jan - Dec), 2003",28
+138,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",32
+139,India,7,Delhi,2005,"Calendar Year (Jan - Dec), 2005",35
+140,India,7,Delhi,2006,"Calendar Year (Jan - Dec), 2006",37
+141,India,7,Delhi,2007,"Calendar Year (Jan - Dec), 2007",36
+142,India,7,Delhi,2008,"Calendar Year (Jan - Dec), 2008",35
+143,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",33
+144,India,7,Delhi,2010,"Calendar Year (Jan - Dec), 2010",30
+145,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",28
+146,India,7,Delhi,2012,"Calendar Year (Jan - Dec), 2012",25
+147,India,7,Delhi,2013,"Calendar Year (Jan - Dec), 2013",24
+148,India,7,Delhi,2014,"Calendar Year (Jan - Dec), 2014",20
+149,India,7,Delhi,2015,"Calendar Year (Jan - Dec), 2015",18
+150,India,7,Delhi,2016,"Calendar Year (Jan - Dec), 2016",18
+151,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",16
+152,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",13
+153,India,8,Rajasthan,1997,"Calendar Year (Jan - Dec), 1997",85
+154,India,8,Rajasthan,1998,"Calendar Year (Jan - Dec), 1998",83
+155,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",81
+156,India,8,Rajasthan,2000,"Calendar Year (Jan - Dec), 2000",79
+157,India,8,Rajasthan,2001,"Calendar Year (Jan - Dec), 2001",79
+158,India,8,Rajasthan,2002,"Calendar Year (Jan - Dec), 2002",78
+159,India,8,Rajasthan,2003,"Calendar Year (Jan - Dec), 2003",75
+160,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",67
+161,India,8,Rajasthan,2005,"Calendar Year (Jan - Dec), 2005",68
+162,India,8,Rajasthan,2006,"Calendar Year (Jan - Dec), 2006",67
+163,India,8,Rajasthan,2007,"Calendar Year (Jan - Dec), 2007",65
+164,India,8,Rajasthan,2008,"Calendar Year (Jan - Dec), 2008",63
+165,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",59
+166,India,8,Rajasthan,2010,"Calendar Year (Jan - Dec), 2010",55
+167,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",52
+168,India,8,Rajasthan,2012,"Calendar Year (Jan - Dec), 2012",49
+169,India,8,Rajasthan,2013,"Calendar Year (Jan - Dec), 2013",47
+170,India,8,Rajasthan,2014,"Calendar Year (Jan - Dec), 2014",46
+171,India,8,Rajasthan,2015,"Calendar Year (Jan - Dec), 2015",43
+172,India,8,Rajasthan,2016,"Calendar Year (Jan - Dec), 2016",41
+173,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",38
+174,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",37
+175,India,9,Uttar Pradesh,1997,"Calendar Year (Jan - Dec), 1997",85
+176,India,9,Uttar Pradesh,1998,"Calendar Year (Jan - Dec), 1998",85
+177,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",84
+178,India,9,Uttar Pradesh,2000,"Calendar Year (Jan - Dec), 2000",83
+179,India,9,Uttar Pradesh,2001,"Calendar Year (Jan - Dec), 2001",82
+180,India,9,Uttar Pradesh,2002,"Calendar Year (Jan - Dec), 2002",80
+181,India,9,Uttar Pradesh,2003,"Calendar Year (Jan - Dec), 2003",76
+182,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",72
+183,India,9,Uttar Pradesh,2005,"Calendar Year (Jan - Dec), 2005",73
+184,India,9,Uttar Pradesh,2006,"Calendar Year (Jan - Dec), 2006",71
+185,India,9,Uttar Pradesh,2007,"Calendar Year (Jan - Dec), 2007",69
+186,India,9,Uttar Pradesh,2008,"Calendar Year (Jan - Dec), 2008",67
+187,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",63
+188,India,9,Uttar Pradesh,2010,"Calendar Year (Jan - Dec), 2010",61
+189,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",57
+190,India,9,Uttar Pradesh,2012,"Calendar Year (Jan - Dec), 2012",53
+191,India,9,Uttar Pradesh,2013,"Calendar Year (Jan - Dec), 2013",50
+192,India,9,Uttar Pradesh,2014,"Calendar Year (Jan - Dec), 2014",48
+193,India,9,Uttar Pradesh,2015,"Calendar Year (Jan - Dec), 2015",46
+194,India,9,Uttar Pradesh,2016,"Calendar Year (Jan - Dec), 2016",43
+195,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",41
+196,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",43
+197,India,10,Bihar,1997,"Calendar Year (Jan - Dec), 1997",71
+198,India,10,Bihar,1998,"Calendar Year (Jan - Dec), 1998",67
+199,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",63
+200,India,10,Bihar,2000,"Calendar Year (Jan - Dec), 2000",62
+201,India,10,Bihar,2001,"Calendar Year (Jan - Dec), 2001",62
+202,India,10,Bihar,2002,"Calendar Year (Jan - Dec), 2002",61
+203,India,10,Bihar,2003,"Calendar Year (Jan - Dec), 2003",60
+204,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",61
+205,India,10,Bihar,2005,"Calendar Year (Jan - Dec), 2005",61
+206,India,10,Bihar,2006,"Calendar Year (Jan - Dec), 2006",60
+207,India,10,Bihar,2007,"Calendar Year (Jan - Dec), 2007",58
+208,India,10,Bihar,2008,"Calendar Year (Jan - Dec), 2008",56
+209,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",52
+210,India,10,Bihar,2010,"Calendar Year (Jan - Dec), 2010",48
+211,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",44
+212,India,10,Bihar,2012,"Calendar Year (Jan - Dec), 2012",43
+213,India,10,Bihar,2013,"Calendar Year (Jan - Dec), 2013",42
+214,India,10,Bihar,2014,"Calendar Year (Jan - Dec), 2014",42
+215,India,10,Bihar,2015,"Calendar Year (Jan - Dec), 2015",42
+216,India,10,Bihar,2016,"Calendar Year (Jan - Dec), 2016",38
+217,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",35
+218,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",32
+219,India,11,Sikkim,1997,"Calendar Year (Jan - Dec), 1997",51
+220,India,11,Sikkim,1998,"Calendar Year (Jan - Dec), 1998",52
+221,India,11,Sikkim,1999,"Calendar Year (Jan - Dec), 1999",49
+222,India,11,Sikkim,2000,"Calendar Year (Jan - Dec), 2000",49
+223,India,11,Sikkim,2001,"Calendar Year (Jan - Dec), 2001",42
+224,India,11,Sikkim,2002,"Calendar Year (Jan - Dec), 2002",34
+225,India,11,Sikkim,2003,"Calendar Year (Jan - Dec), 2003",33
+226,India,11,Sikkim,2004,"Calendar Year (Jan - Dec), 2004",32
+227,India,11,Sikkim,2005,"Calendar Year (Jan - Dec), 2005",30
+228,India,11,Sikkim,2006,"Calendar Year (Jan - Dec), 2006",33
+229,India,11,Sikkim,2007,"Calendar Year (Jan - Dec), 2007",34
+230,India,11,Sikkim,2008,"Calendar Year (Jan - Dec), 2008",33
+231,India,11,Sikkim,2009,"Calendar Year (Jan - Dec), 2009",34
+232,India,11,Sikkim,2010,"Calendar Year (Jan - Dec), 2010",30
+233,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",26
+234,India,11,Sikkim,2012,"Calendar Year (Jan - Dec), 2012",24
+235,India,11,Sikkim,2013,"Calendar Year (Jan - Dec), 2013",22
+236,India,11,Sikkim,2014,"Calendar Year (Jan - Dec), 2014",19
+237,India,11,Sikkim,2015,"Calendar Year (Jan - Dec), 2015",18
+238,India,11,Sikkim,2016,"Calendar Year (Jan - Dec), 2016",16
+239,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",12
+240,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",7
+241,India,12,Arunachal Pradesh,1997,"Calendar Year (Jan - Dec), 1997",47
+242,India,12,Arunachal Pradesh,1998,"Calendar Year (Jan - Dec), 1998",44
+243,India,12,Arunachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",43
+244,India,12,Arunachal Pradesh,2000,"Calendar Year (Jan - Dec), 2000",44
+245,India,12,Arunachal Pradesh,2001,"Calendar Year (Jan - Dec), 2001",39
+246,India,12,Arunachal Pradesh,2002,"Calendar Year (Jan - Dec), 2002",37
+247,India,12,Arunachal Pradesh,2003,"Calendar Year (Jan - Dec), 2003",34
+248,India,12,Arunachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",38
+249,India,12,Arunachal Pradesh,2005,"Calendar Year (Jan - Dec), 2005",37
+250,India,12,Arunachal Pradesh,2006,"Calendar Year (Jan - Dec), 2006",40
+251,India,12,Arunachal Pradesh,2007,"Calendar Year (Jan - Dec), 2007",37
+252,India,12,Arunachal Pradesh,2008,"Calendar Year (Jan - Dec), 2008",32
+253,India,12,Arunachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",32
+254,India,12,Arunachal Pradesh,2010,"Calendar Year (Jan - Dec), 2010",31
+255,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",32
+256,India,12,Arunachal Pradesh,2012,"Calendar Year (Jan - Dec), 2012",33
+257,India,12,Arunachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",32
+258,India,12,Arunachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",30
+259,India,12,Arunachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",30
+260,India,12,Arunachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",36
+261,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",42
+262,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",37
+263,India,13,Nagaland,1997,"Calendar Year (Jan - Dec), 1997",
+264,India,13,Nagaland,1998,"Calendar Year (Jan - Dec), 1998",
+265,India,13,Nagaland,1999,"Calendar Year (Jan - Dec), 1999",
+266,India,13,Nagaland,2000,"Calendar Year (Jan - Dec), 2000",
+267,India,13,Nagaland,2001,"Calendar Year (Jan - Dec), 2001",13
+268,India,13,Nagaland,2002,"Calendar Year (Jan - Dec), 2002",
+269,India,13,Nagaland,2003,"Calendar Year (Jan - Dec), 2003",
+270,India,13,Nagaland,2004,"Calendar Year (Jan - Dec), 2004",17
+271,India,13,Nagaland,2005,"Calendar Year (Jan - Dec), 2005",18
+272,India,13,Nagaland,2006,"Calendar Year (Jan - Dec), 2006",20
+273,India,13,Nagaland,2007,"Calendar Year (Jan - Dec), 2007",21
+274,India,13,Nagaland,2008,"Calendar Year (Jan - Dec), 2008",26
+275,India,13,Nagaland,2009,"Calendar Year (Jan - Dec), 2009",26
+276,India,13,Nagaland,2010,"Calendar Year (Jan - Dec), 2010",23
+277,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",21
+278,India,13,Nagaland,2012,"Calendar Year (Jan - Dec), 2012",18
+279,India,13,Nagaland,2013,"Calendar Year (Jan - Dec), 2013",18
+280,India,13,Nagaland,2014,"Calendar Year (Jan - Dec), 2014",14
+281,India,13,Nagaland,2015,"Calendar Year (Jan - Dec), 2015",12
+282,India,13,Nagaland,2016,"Calendar Year (Jan - Dec), 2016",12
+283,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",7
+284,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",4
+285,India,14,Manipur,1997,"Calendar Year (Jan - Dec), 1997",30
+286,India,14,Manipur,1998,"Calendar Year (Jan - Dec), 1998",25
+287,India,14,Manipur,1999,"Calendar Year (Jan - Dec), 1999",25
+288,India,14,Manipur,2000,"Calendar Year (Jan - Dec), 2000",23
+289,India,14,Manipur,2001,"Calendar Year (Jan - Dec), 2001",20
+290,India,14,Manipur,2002,"Calendar Year (Jan - Dec), 2002",14
+291,India,14,Manipur,2003,"Calendar Year (Jan - Dec), 2003",16
+292,India,14,Manipur,2004,"Calendar Year (Jan - Dec), 2004",14
+293,India,14,Manipur,2005,"Calendar Year (Jan - Dec), 2005",13
+294,India,14,Manipur,2006,"Calendar Year (Jan - Dec), 2006",11
+295,India,14,Manipur,2007,"Calendar Year (Jan - Dec), 2007",12
+296,India,14,Manipur,2008,"Calendar Year (Jan - Dec), 2008",14
+297,India,14,Manipur,2009,"Calendar Year (Jan - Dec), 2009",16
+298,India,14,Manipur,2010,"Calendar Year (Jan - Dec), 2010",14
+299,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",11
+300,India,14,Manipur,2012,"Calendar Year (Jan - Dec), 2012",10
+301,India,14,Manipur,2013,"Calendar Year (Jan - Dec), 2013",10
+302,India,14,Manipur,2014,"Calendar Year (Jan - Dec), 2014",11
+303,India,14,Manipur,2015,"Calendar Year (Jan - Dec), 2015",9
+304,India,14,Manipur,2016,"Calendar Year (Jan - Dec), 2016",11
+305,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",12
+306,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",11
+307,India,15,Mizoram,1997,"Calendar Year (Jan - Dec), 1997",19
+308,India,15,Mizoram,1998,"Calendar Year (Jan - Dec), 1998",23
+309,India,15,Mizoram,1999,"Calendar Year (Jan - Dec), 1999",19
+310,India,15,Mizoram,2000,"Calendar Year (Jan - Dec), 2000",21
+311,India,15,Mizoram,2001,"Calendar Year (Jan - Dec), 2001",19
+312,India,15,Mizoram,2002,"Calendar Year (Jan - Dec), 2002",14
+313,India,15,Mizoram,2003,"Calendar Year (Jan - Dec), 2003",16
+314,India,15,Mizoram,2004,"Calendar Year (Jan - Dec), 2004",19
+315,India,15,Mizoram,2005,"Calendar Year (Jan - Dec), 2005",20
+316,India,15,Mizoram,2006,"Calendar Year (Jan - Dec), 2006",25
+317,India,15,Mizoram,2007,"Calendar Year (Jan - Dec), 2007",23
+318,India,15,Mizoram,2008,"Calendar Year (Jan - Dec), 2008",37
+319,India,15,Mizoram,2009,"Calendar Year (Jan - Dec), 2009",36
+320,India,15,Mizoram,2010,"Calendar Year (Jan - Dec), 2010",37
+321,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",34
+322,India,15,Mizoram,2012,"Calendar Year (Jan - Dec), 2012",35
+323,India,15,Mizoram,2013,"Calendar Year (Jan - Dec), 2013",35
+324,India,15,Mizoram,2014,"Calendar Year (Jan - Dec), 2014",32
+325,India,15,Mizoram,2015,"Calendar Year (Jan - Dec), 2015",32
+326,India,15,Mizoram,2016,"Calendar Year (Jan - Dec), 2016",27
+327,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",15
+328,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",5
+329,India,16,Tripura,1997,"Calendar Year (Jan - Dec), 1997",51
+330,India,16,Tripura,1998,"Calendar Year (Jan - Dec), 1998",49
+331,India,16,Tripura,1999,"Calendar Year (Jan - Dec), 1999",42
+332,India,16,Tripura,2000,"Calendar Year (Jan - Dec), 2000",41
+333,India,16,Tripura,2001,"Calendar Year (Jan - Dec), 2001",39
+334,India,16,Tripura,2002,"Calendar Year (Jan - Dec), 2002",34
+335,India,16,Tripura,2003,"Calendar Year (Jan - Dec), 2003",32
+336,India,16,Tripura,2004,"Calendar Year (Jan - Dec), 2004",32
+337,India,16,Tripura,2005,"Calendar Year (Jan - Dec), 2005",31
+338,India,16,Tripura,2006,"Calendar Year (Jan - Dec), 2006",36
+339,India,16,Tripura,2007,"Calendar Year (Jan - Dec), 2007",39
+340,India,16,Tripura,2008,"Calendar Year (Jan - Dec), 2008",34
+341,India,16,Tripura,2009,"Calendar Year (Jan - Dec), 2009",31
+342,India,16,Tripura,2010,"Calendar Year (Jan - Dec), 2010",27
+343,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",29
+344,India,16,Tripura,2012,"Calendar Year (Jan - Dec), 2012",28
+345,India,16,Tripura,2013,"Calendar Year (Jan - Dec), 2013",26
+346,India,16,Tripura,2014,"Calendar Year (Jan - Dec), 2014",21
+347,India,16,Tripura,2015,"Calendar Year (Jan - Dec), 2015",20
+348,India,16,Tripura,2016,"Calendar Year (Jan - Dec), 2016",24
+349,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",29
+350,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",27
+351,India,17,Meghalaya,1997,"Calendar Year (Jan - Dec), 1997",54
+352,India,17,Meghalaya,1998,"Calendar Year (Jan - Dec), 1998",52
+353,India,17,Meghalaya,1999,"Calendar Year (Jan - Dec), 1999",56
+354,India,17,Meghalaya,2000,"Calendar Year (Jan - Dec), 2000",58
+355,India,17,Meghalaya,2001,"Calendar Year (Jan - Dec), 2001",56
+356,India,17,Meghalaya,2002,"Calendar Year (Jan - Dec), 2002",61
+357,India,17,Meghalaya,2003,"Calendar Year (Jan - Dec), 2003",57
+358,India,17,Meghalaya,2004,"Calendar Year (Jan - Dec), 2004",54
+359,India,17,Meghalaya,2005,"Calendar Year (Jan - Dec), 2005",49
+360,India,17,Meghalaya,2006,"Calendar Year (Jan - Dec), 2006",53
+361,India,17,Meghalaya,2007,"Calendar Year (Jan - Dec), 2007",56
+362,India,17,Meghalaya,2008,"Calendar Year (Jan - Dec), 2008",58
+363,India,17,Meghalaya,2009,"Calendar Year (Jan - Dec), 2009",59
+364,India,17,Meghalaya,2010,"Calendar Year (Jan - Dec), 2010",55
+365,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",52
+366,India,17,Meghalaya,2012,"Calendar Year (Jan - Dec), 2012",49
+367,India,17,Meghalaya,2013,"Calendar Year (Jan - Dec), 2013",47
+368,India,17,Meghalaya,2014,"Calendar Year (Jan - Dec), 2014",46
+369,India,17,Meghalaya,2015,"Calendar Year (Jan - Dec), 2015",42
+370,India,17,Meghalaya,2016,"Calendar Year (Jan - Dec), 2016",39
+371,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",39
+372,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",33
+373,India,18,Assam,1997,"Calendar Year (Jan - Dec), 1997",76
+374,India,18,Assam,1998,"Calendar Year (Jan - Dec), 1998",76
+375,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",76
+376,India,18,Assam,2000,"Calendar Year (Jan - Dec), 2000",75
+377,India,18,Assam,2001,"Calendar Year (Jan - Dec), 2001",73
+378,India,18,Assam,2002,"Calendar Year (Jan - Dec), 2002",70
+379,India,18,Assam,2003,"Calendar Year (Jan - Dec), 2003",67
+380,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",66
+381,India,18,Assam,2005,"Calendar Year (Jan - Dec), 2005",68
+382,India,18,Assam,2006,"Calendar Year (Jan - Dec), 2006",67
+383,India,18,Assam,2007,"Calendar Year (Jan - Dec), 2007",66
+384,India,18,Assam,2008,"Calendar Year (Jan - Dec), 2008",64
+385,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",61
+386,India,18,Assam,2010,"Calendar Year (Jan - Dec), 2010",58
+387,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",55
+388,India,18,Assam,2012,"Calendar Year (Jan - Dec), 2012",55
+389,India,18,Assam,2013,"Calendar Year (Jan - Dec), 2013",54
+390,India,18,Assam,2014,"Calendar Year (Jan - Dec), 2014",49
+391,India,18,Assam,2015,"Calendar Year (Jan - Dec), 2015",47
+392,India,18,Assam,2016,"Calendar Year (Jan - Dec), 2016",44
+393,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",44
+394,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",41
+395,India,19,West Bengal,1997,"Calendar Year (Jan - Dec), 1997",55
+396,India,19,West Bengal,1998,"Calendar Year (Jan - Dec), 1998",53
+397,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",52
+398,India,19,West Bengal,2000,"Calendar Year (Jan - Dec), 2000",51
+399,India,19,West Bengal,2001,"Calendar Year (Jan - Dec), 2001",51
+400,India,19,West Bengal,2002,"Calendar Year (Jan - Dec), 2002",49
+401,India,19,West Bengal,2003,"Calendar Year (Jan - Dec), 2003",46
+402,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",40
+403,India,19,West Bengal,2005,"Calendar Year (Jan - Dec), 2005",38
+404,India,19,West Bengal,2006,"Calendar Year (Jan - Dec), 2006",38
+405,India,19,West Bengal,2007,"Calendar Year (Jan - Dec), 2007",37
+406,India,19,West Bengal,2008,"Calendar Year (Jan - Dec), 2008",35
+407,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",33
+408,India,19,West Bengal,2010,"Calendar Year (Jan - Dec), 2010",33
+409,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",32
+410,India,19,West Bengal,2012,"Calendar Year (Jan - Dec), 2012",32
+411,India,19,West Bengal,2013,"Calendar Year (Jan - Dec), 2013",31
+412,India,19,West Bengal,2014,"Calendar Year (Jan - Dec), 2014",28
+413,India,19,West Bengal,2015,"Calendar Year (Jan - Dec), 2015",26
+414,India,19,West Bengal,2016,"Calendar Year (Jan - Dec), 2016",25
+415,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",24
+416,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",22
+417,India,20,Jharkhand,1997,"Calendar Year (Jan - Dec), 1997",
+418,India,20,Jharkhand,1998,"Calendar Year (Jan - Dec), 1998",
+419,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",71
+420,India,20,Jharkhand,2000,"Calendar Year (Jan - Dec), 2000",70
+421,India,20,Jharkhand,2001,"Calendar Year (Jan - Dec), 2001",62
+422,India,20,Jharkhand,2002,"Calendar Year (Jan - Dec), 2002",51
+423,India,20,Jharkhand,2003,"Calendar Year (Jan - Dec), 2003",51
+424,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",49
+425,India,20,Jharkhand,2005,"Calendar Year (Jan - Dec), 2005",50
+426,India,20,Jharkhand,2006,"Calendar Year (Jan - Dec), 2006",49
+427,India,20,Jharkhand,2007,"Calendar Year (Jan - Dec), 2007",48
+428,India,20,Jharkhand,2008,"Calendar Year (Jan - Dec), 2008",46
+429,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",44
+430,India,20,Jharkhand,2010,"Calendar Year (Jan - Dec), 2010",42
+431,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",39
+432,India,20,Jharkhand,2012,"Calendar Year (Jan - Dec), 2012",38
+433,India,20,Jharkhand,2013,"Calendar Year (Jan - Dec), 2013",37
+434,India,20,Jharkhand,2014,"Calendar Year (Jan - Dec), 2014",34
+435,India,20,Jharkhand,2015,"Calendar Year (Jan - Dec), 2015",32
+436,India,20,Jharkhand,2016,"Calendar Year (Jan - Dec), 2016",29
+437,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",29
+438,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",30
+439,India,21,Odisha,1997,"Calendar Year (Jan - Dec), 1997",96
+440,India,21,Odisha,1998,"Calendar Year (Jan - Dec), 1998",98
+441,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",97
+442,India,21,Odisha,2000,"Calendar Year (Jan - Dec), 2000",95
+443,India,21,Odisha,2001,"Calendar Year (Jan - Dec), 2001",90
+444,India,21,Odisha,2002,"Calendar Year (Jan - Dec), 2002",87
+445,India,21,Odisha,2003,"Calendar Year (Jan - Dec), 2003",83
+446,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",77
+447,India,21,Odisha,2005,"Calendar Year (Jan - Dec), 2005",75
+448,India,21,Odisha,2006,"Calendar Year (Jan - Dec), 2006",73
+449,India,21,Odisha,2007,"Calendar Year (Jan - Dec), 2007",71
+450,India,21,Odisha,2008,"Calendar Year (Jan - Dec), 2008",69
+451,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",65
+452,India,21,Odisha,2010,"Calendar Year (Jan - Dec), 2010",61
+453,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",57
+454,India,21,Odisha,2012,"Calendar Year (Jan - Dec), 2012",53
+455,India,21,Odisha,2013,"Calendar Year (Jan - Dec), 2013",51
+456,India,21,Odisha,2014,"Calendar Year (Jan - Dec), 2014",49
+457,India,21,Odisha,2015,"Calendar Year (Jan - Dec), 2015",46
+458,India,21,Odisha,2016,"Calendar Year (Jan - Dec), 2016",44
+459,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",41
+460,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",40
+461,India,22,Chhattisgarh,1997,"Calendar Year (Jan - Dec), 1997",
+462,India,22,Chhattisgarh,1998,"Calendar Year (Jan - Dec), 1998",94
+463,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",78
+464,India,22,Chhattisgarh,2000,"Calendar Year (Jan - Dec), 2000",79
+465,India,22,Chhattisgarh,2001,"Calendar Year (Jan - Dec), 2001",76
+466,India,22,Chhattisgarh,2002,"Calendar Year (Jan - Dec), 2002",73
+467,India,22,Chhattisgarh,2003,"Calendar Year (Jan - Dec), 2003",70
+468,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",60
+469,India,22,Chhattisgarh,2005,"Calendar Year (Jan - Dec), 2005",63
+470,India,22,Chhattisgarh,2006,"Calendar Year (Jan - Dec), 2006",61
+471,India,22,Chhattisgarh,2007,"Calendar Year (Jan - Dec), 2007",59
+472,India,22,Chhattisgarh,2008,"Calendar Year (Jan - Dec), 2008",57
+473,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",54
+474,India,22,Chhattisgarh,2010,"Calendar Year (Jan - Dec), 2010",51
+475,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",48
+476,India,22,Chhattisgarh,2012,"Calendar Year (Jan - Dec), 2012",47
+477,India,22,Chhattisgarh,2013,"Calendar Year (Jan - Dec), 2013",46
+478,India,22,Chhattisgarh,2014,"Calendar Year (Jan - Dec), 2014",43
+479,India,22,Chhattisgarh,2015,"Calendar Year (Jan - Dec), 2015",41
+480,India,22,Chhattisgarh,2016,"Calendar Year (Jan - Dec), 2016",39
+481,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",38
+482,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",41
+483,India,23,Madhya Pradesh,1997,"Calendar Year (Jan - Dec), 1997",94
+484,India,23,Madhya Pradesh,1998,"Calendar Year (Jan - Dec), 1998",98
+485,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",90
+486,India,23,Madhya Pradesh,2000,"Calendar Year (Jan - Dec), 2000",87
+487,India,23,Madhya Pradesh,2001,"Calendar Year (Jan - Dec), 2001",86
+488,India,23,Madhya Pradesh,2002,"Calendar Year (Jan - Dec), 2002",85
+489,India,23,Madhya Pradesh,2003,"Calendar Year (Jan - Dec), 2003",82
+490,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",79
+491,India,23,Madhya Pradesh,2005,"Calendar Year (Jan - Dec), 2005",76
+492,India,23,Madhya Pradesh,2006,"Calendar Year (Jan - Dec), 2006",74
+493,India,23,Madhya Pradesh,2007,"Calendar Year (Jan - Dec), 2007",72
+494,India,23,Madhya Pradesh,2008,"Calendar Year (Jan - Dec), 2008",70
+495,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",67
+496,India,23,Madhya Pradesh,2010,"Calendar Year (Jan - Dec), 2010",62
+497,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",59
+498,India,23,Madhya Pradesh,2012,"Calendar Year (Jan - Dec), 2012",56
+499,India,23,Madhya Pradesh,2013,"Calendar Year (Jan - Dec), 2013",54
+500,India,23,Madhya Pradesh,2014,"Calendar Year (Jan - Dec), 2014",52
+501,India,23,Madhya Pradesh,2015,"Calendar Year (Jan - Dec), 2015",50
+502,India,23,Madhya Pradesh,2016,"Calendar Year (Jan - Dec), 2016",47
+503,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",47
+504,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",48
+505,India,24,Gujarat,1997,"Calendar Year (Jan - Dec), 1997",62
+506,India,24,Gujarat,1998,"Calendar Year (Jan - Dec), 1998",64
+507,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",63
+508,India,24,Gujarat,2000,"Calendar Year (Jan - Dec), 2000",62
+509,India,24,Gujarat,2001,"Calendar Year (Jan - Dec), 2001",60
+510,India,24,Gujarat,2002,"Calendar Year (Jan - Dec), 2002",60
+511,India,24,Gujarat,2003,"Calendar Year (Jan - Dec), 2003",57
+512,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",53
+513,India,24,Gujarat,2005,"Calendar Year (Jan - Dec), 2005",54
+514,India,24,Gujarat,2006,"Calendar Year (Jan - Dec), 2006",53
+515,India,24,Gujarat,2007,"Calendar Year (Jan - Dec), 2007",52
+516,India,24,Gujarat,2008,"Calendar Year (Jan - Dec), 2008",50
+517,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",48
+518,India,24,Gujarat,2010,"Calendar Year (Jan - Dec), 2010",44
+519,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",41
+520,India,24,Gujarat,2012,"Calendar Year (Jan - Dec), 2012",38
+521,India,24,Gujarat,2013,"Calendar Year (Jan - Dec), 2013",36
+522,India,24,Gujarat,2014,"Calendar Year (Jan - Dec), 2014",35
+523,India,24,Gujarat,2015,"Calendar Year (Jan - Dec), 2015",33
+524,India,24,Gujarat,2016,"Calendar Year (Jan - Dec), 2016",30
+525,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",30
+526,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",28
+527,India,27,Maharashtra,1997,"Calendar Year (Jan - Dec), 1997",47
+528,India,27,Maharashtra,1998,"Calendar Year (Jan - Dec), 1998",49
+529,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",48
+530,India,27,Maharashtra,2000,"Calendar Year (Jan - Dec), 2000",48
+531,India,27,Maharashtra,2001,"Calendar Year (Jan - Dec), 2001",45
+532,India,27,Maharashtra,2002,"Calendar Year (Jan - Dec), 2002",45
+533,India,27,Maharashtra,2003,"Calendar Year (Jan - Dec), 2003",42
+534,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",36
+535,India,27,Maharashtra,2005,"Calendar Year (Jan - Dec), 2005",36
+536,India,27,Maharashtra,2006,"Calendar Year (Jan - Dec), 2006",35
+537,India,27,Maharashtra,2007,"Calendar Year (Jan - Dec), 2007",34
+538,India,27,Maharashtra,2008,"Calendar Year (Jan - Dec), 2008",33
+539,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",31
+540,India,27,Maharashtra,2010,"Calendar Year (Jan - Dec), 2010",28
+541,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",25
+542,India,27,Maharashtra,2012,"Calendar Year (Jan - Dec), 2012",25
+543,India,27,Maharashtra,2013,"Calendar Year (Jan - Dec), 2013",24
+544,India,27,Maharashtra,2014,"Calendar Year (Jan - Dec), 2014",22
+545,India,27,Maharashtra,2015,"Calendar Year (Jan - Dec), 2015",21
+546,India,27,Maharashtra,2016,"Calendar Year (Jan - Dec), 2016",19
+547,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",19
+548,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",19
+549,India,28,Andhra Pradesh,1997,"Calendar Year (Jan - Dec), 1997",63
+550,India,28,Andhra Pradesh,1998,"Calendar Year (Jan - Dec), 1998",66
+551,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",66
+552,India,28,Andhra Pradesh,2000,"Calendar Year (Jan - Dec), 2000",65
+553,India,28,Andhra Pradesh,2001,"Calendar Year (Jan - Dec), 2001",66
+554,India,28,Andhra Pradesh,2002,"Calendar Year (Jan - Dec), 2002",62
+555,India,28,Andhra Pradesh,2003,"Calendar Year (Jan - Dec), 2003",59
+556,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",59
+557,India,28,Andhra Pradesh,2005,"Calendar Year (Jan - Dec), 2005",57
+558,India,28,Andhra Pradesh,2006,"Calendar Year (Jan - Dec), 2006",56
+559,India,28,Andhra Pradesh,2007,"Calendar Year (Jan - Dec), 2007",54
+560,India,28,Andhra Pradesh,2008,"Calendar Year (Jan - Dec), 2008",52
+561,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",49
+562,India,28,Andhra Pradesh,2010,"Calendar Year (Jan - Dec), 2010",46
+563,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",43
+564,India,28,Andhra Pradesh,2012,"Calendar Year (Jan - Dec), 2012",41
+565,India,28,Andhra Pradesh,2013,"Calendar Year (Jan - Dec), 2013",39
+566,India,28,Andhra Pradesh,2014,"Calendar Year (Jan - Dec), 2014",39
+567,India,28,Andhra Pradesh,2015,"Calendar Year (Jan - Dec), 2015",37
+568,India,28,Andhra Pradesh,2016,"Calendar Year (Jan - Dec), 2016",34
+569,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",32
+570,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",29
+571,India,29,Karnataka,1997,"Calendar Year (Jan - Dec), 1997",53
+572,India,29,Karnataka,1998,"Calendar Year (Jan - Dec), 1998",58
+573,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",58
+574,India,29,Karnataka,2000,"Calendar Year (Jan - Dec), 2000",57
+575,India,29,Karnataka,2001,"Calendar Year (Jan - Dec), 2001",58
+576,India,29,Karnataka,2002,"Calendar Year (Jan - Dec), 2002",55
+577,India,29,Karnataka,2003,"Calendar Year (Jan - Dec), 2003",52
+578,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",49
+579,India,29,Karnataka,2005,"Calendar Year (Jan - Dec), 2005",50
+580,India,29,Karnataka,2006,"Calendar Year (Jan - Dec), 2006",48
+581,India,29,Karnataka,2007,"Calendar Year (Jan - Dec), 2007",47
+582,India,29,Karnataka,2008,"Calendar Year (Jan - Dec), 2008",45
+583,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",41
+584,India,29,Karnataka,2010,"Calendar Year (Jan - Dec), 2010",38
+585,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",35
+586,India,29,Karnataka,2012,"Calendar Year (Jan - Dec), 2012",32
+587,India,29,Karnataka,2013,"Calendar Year (Jan - Dec), 2013",31
+588,India,29,Karnataka,2014,"Calendar Year (Jan - Dec), 2014",29
+589,India,29,Karnataka,2015,"Calendar Year (Jan - Dec), 2015",28
+590,India,29,Karnataka,2016,"Calendar Year (Jan - Dec), 2016",24
+591,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",25
+592,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",23
+593,India,30,Goa,1997,"Calendar Year (Jan - Dec), 1997",19
+594,India,30,Goa,1998,"Calendar Year (Jan - Dec), 1998",23
+595,India,30,Goa,1999,"Calendar Year (Jan - Dec), 1999",21
+596,India,30,Goa,2000,"Calendar Year (Jan - Dec), 2000",23
+597,India,30,Goa,2001,"Calendar Year (Jan - Dec), 2001",19
+598,India,30,Goa,2002,"Calendar Year (Jan - Dec), 2002",17
+599,India,30,Goa,2003,"Calendar Year (Jan - Dec), 2003",16
+600,India,30,Goa,2004,"Calendar Year (Jan - Dec), 2004",17
+601,India,30,Goa,2005,"Calendar Year (Jan - Dec), 2005",16
+602,India,30,Goa,2006,"Calendar Year (Jan - Dec), 2006",15
+603,India,30,Goa,2007,"Calendar Year (Jan - Dec), 2007",13
+604,India,30,Goa,2008,"Calendar Year (Jan - Dec), 2008",10
+605,India,30,Goa,2009,"Calendar Year (Jan - Dec), 2009",11
+606,India,30,Goa,2010,"Calendar Year (Jan - Dec), 2010",10
+607,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",11
+608,India,30,Goa,2012,"Calendar Year (Jan - Dec), 2012",10
+609,India,30,Goa,2013,"Calendar Year (Jan - Dec), 2013",9
+610,India,30,Goa,2014,"Calendar Year (Jan - Dec), 2014",10
+611,India,30,Goa,2015,"Calendar Year (Jan - Dec), 2015",9
+612,India,30,Goa,2016,"Calendar Year (Jan - Dec), 2016",8
+613,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",9
+614,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",7
+615,India,31,Lakshadweep,1997,"Calendar Year (Jan - Dec), 1997",36
+616,India,31,Lakshadweep,1998,"Calendar Year (Jan - Dec), 1998",26
+617,India,31,Lakshadweep,1999,"Calendar Year (Jan - Dec), 1999",32
+618,India,31,Lakshadweep,2000,"Calendar Year (Jan - Dec), 2000",27
+619,India,31,Lakshadweep,2001,"Calendar Year (Jan - Dec), 2001",33
+620,India,31,Lakshadweep,2002,"Calendar Year (Jan - Dec), 2002",25
+621,India,31,Lakshadweep,2003,"Calendar Year (Jan - Dec), 2003",26
+622,India,31,Lakshadweep,2004,"Calendar Year (Jan - Dec), 2004",30
+623,India,31,Lakshadweep,2005,"Calendar Year (Jan - Dec), 2005",22
+624,India,31,Lakshadweep,2006,"Calendar Year (Jan - Dec), 2006",25
+625,India,31,Lakshadweep,2007,"Calendar Year (Jan - Dec), 2007",24
+626,India,31,Lakshadweep,2008,"Calendar Year (Jan - Dec), 2008",31
+627,India,31,Lakshadweep,2009,"Calendar Year (Jan - Dec), 2009",25
+628,India,31,Lakshadweep,2010,"Calendar Year (Jan - Dec), 2010",25
+629,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",24
+630,India,31,Lakshadweep,2012,"Calendar Year (Jan - Dec), 2012",24
+631,India,31,Lakshadweep,2013,"Calendar Year (Jan - Dec), 2013",24
+632,India,31,Lakshadweep,2014,"Calendar Year (Jan - Dec), 2014",20
+633,India,31,Lakshadweep,2015,"Calendar Year (Jan - Dec), 2015",20
+634,India,31,Lakshadweep,2016,"Calendar Year (Jan - Dec), 2016",19
+635,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",20
+636,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",14
+637,India,32,Kerala,1997,"Calendar Year (Jan - Dec), 1997",12
+638,India,32,Kerala,1998,"Calendar Year (Jan - Dec), 1998",16
+639,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",14
+640,India,32,Kerala,2000,"Calendar Year (Jan - Dec), 2000",14
+641,India,32,Kerala,2001,"Calendar Year (Jan - Dec), 2001",11
+642,India,32,Kerala,2002,"Calendar Year (Jan - Dec), 2002",10
+643,India,32,Kerala,2003,"Calendar Year (Jan - Dec), 2003",11
+644,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",12
+645,India,32,Kerala,2005,"Calendar Year (Jan - Dec), 2005",14
+646,India,32,Kerala,2006,"Calendar Year (Jan - Dec), 2006",15
+647,India,32,Kerala,2007,"Calendar Year (Jan - Dec), 2007",13
+648,India,32,Kerala,2008,"Calendar Year (Jan - Dec), 2008",12
+649,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",12
+650,India,32,Kerala,2010,"Calendar Year (Jan - Dec), 2010",13
+651,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",12
+652,India,32,Kerala,2012,"Calendar Year (Jan - Dec), 2012",12
+653,India,32,Kerala,2013,"Calendar Year (Jan - Dec), 2013",12
+654,India,32,Kerala,2014,"Calendar Year (Jan - Dec), 2014",12
+655,India,32,Kerala,2015,"Calendar Year (Jan - Dec), 2015",12
+656,India,32,Kerala,2016,"Calendar Year (Jan - Dec), 2016",10
+657,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",10
+658,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",7
+659,India,33,Tamil Nadu,1997,"Calendar Year (Jan - Dec), 1997",53
+660,India,33,Tamil Nadu,1998,"Calendar Year (Jan - Dec), 1998",53
+661,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",52
+662,India,33,Tamil Nadu,2000,"Calendar Year (Jan - Dec), 2000",51
+663,India,33,Tamil Nadu,2001,"Calendar Year (Jan - Dec), 2001",49
+664,India,33,Tamil Nadu,2002,"Calendar Year (Jan - Dec), 2002",44
+665,India,33,Tamil Nadu,2003,"Calendar Year (Jan - Dec), 2003",43
+666,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",41
+667,India,33,Tamil Nadu,2005,"Calendar Year (Jan - Dec), 2005",37
+668,India,33,Tamil Nadu,2006,"Calendar Year (Jan - Dec), 2006",37
+669,India,33,Tamil Nadu,2007,"Calendar Year (Jan - Dec), 2007",35
+670,India,33,Tamil Nadu,2008,"Calendar Year (Jan - Dec), 2008",31
+671,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",28
+672,India,33,Tamil Nadu,2010,"Calendar Year (Jan - Dec), 2010",24
+673,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",22
+674,India,33,Tamil Nadu,2012,"Calendar Year (Jan - Dec), 2012",21
+675,India,33,Tamil Nadu,2013,"Calendar Year (Jan - Dec), 2013",21
+676,India,33,Tamil Nadu,2014,"Calendar Year (Jan - Dec), 2014",20
+677,India,33,Tamil Nadu,2015,"Calendar Year (Jan - Dec), 2015",19
+678,India,33,Tamil Nadu,2016,"Calendar Year (Jan - Dec), 2016",17
+679,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",16
+680,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",15
+681,India,34,Puducherry,1997,"Calendar Year (Jan - Dec), 1997",22
+682,India,34,Puducherry,1998,"Calendar Year (Jan - Dec), 1998",21
+683,India,34,Puducherry,1999,"Calendar Year (Jan - Dec), 1999",22
+684,India,34,Puducherry,2000,"Calendar Year (Jan - Dec), 2000",23
+685,India,34,Puducherry,2001,"Calendar Year (Jan - Dec), 2001",22
+686,India,34,Puducherry,2002,"Calendar Year (Jan - Dec), 2002",22
+687,India,34,Puducherry,2003,"Calendar Year (Jan - Dec), 2003",24
+688,India,34,Puducherry,2004,"Calendar Year (Jan - Dec), 2004",24
+689,India,34,Puducherry,2005,"Calendar Year (Jan - Dec), 2005",28
+690,India,34,Puducherry,2006,"Calendar Year (Jan - Dec), 2006",28
+691,India,34,Puducherry,2007,"Calendar Year (Jan - Dec), 2007",25
+692,India,34,Puducherry,2008,"Calendar Year (Jan - Dec), 2008",25
+693,India,34,Puducherry,2009,"Calendar Year (Jan - Dec), 2009",22
+694,India,34,Puducherry,2010,"Calendar Year (Jan - Dec), 2010",22
+695,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",19
+696,India,34,Puducherry,2012,"Calendar Year (Jan - Dec), 2012",17
+697,India,34,Puducherry,2013,"Calendar Year (Jan - Dec), 2013",17
+698,India,34,Puducherry,2014,"Calendar Year (Jan - Dec), 2014",14
+699,India,34,Puducherry,2015,"Calendar Year (Jan - Dec), 2015",11
+700,India,34,Puducherry,2016,"Calendar Year (Jan - Dec), 2016",10
+701,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",11
+702,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",11
+703,India,35,Andaman And Nicobar Islands,1997,"Calendar Year (Jan - Dec), 1997",33
+704,India,35,Andaman And Nicobar Islands,1998,"Calendar Year (Jan - Dec), 1998",30
+705,India,35,Andaman And Nicobar Islands,1999,"Calendar Year (Jan - Dec), 1999",25
+706,India,35,Andaman And Nicobar Islands,2000,"Calendar Year (Jan - Dec), 2000",23
+707,India,35,Andaman And Nicobar Islands,2001,"Calendar Year (Jan - Dec), 2001",18
+708,India,35,Andaman And Nicobar Islands,2002,"Calendar Year (Jan - Dec), 2002",15
+709,India,35,Andaman And Nicobar Islands,2003,"Calendar Year (Jan - Dec), 2003",18
+710,India,35,Andaman And Nicobar Islands,2004,"Calendar Year (Jan - Dec), 2004",19
+711,India,35,Andaman And Nicobar Islands,2005,"Calendar Year (Jan - Dec), 2005",27
+712,India,35,Andaman And Nicobar Islands,2006,"Calendar Year (Jan - Dec), 2006",31
+713,India,35,Andaman And Nicobar Islands,2007,"Calendar Year (Jan - Dec), 2007",34
+714,India,35,Andaman And Nicobar Islands,2008,"Calendar Year (Jan - Dec), 2008",31
+715,India,35,Andaman And Nicobar Islands,2009,"Calendar Year (Jan - Dec), 2009",27
+716,India,35,Andaman And Nicobar Islands,2010,"Calendar Year (Jan - Dec), 2010",25
+717,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",23
+718,India,35,Andaman And Nicobar Islands,2012,"Calendar Year (Jan - Dec), 2012",24
+719,India,35,Andaman And Nicobar Islands,2013,"Calendar Year (Jan - Dec), 2013",24
+720,India,35,Andaman And Nicobar Islands,2014,"Calendar Year (Jan - Dec), 2014",22
+721,India,35,Andaman And Nicobar Islands,2015,"Calendar Year (Jan - Dec), 2015",20
+722,India,35,Andaman And Nicobar Islands,2016,"Calendar Year (Jan - Dec), 2016",16
+723,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",14
+724,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",9
+725,India,36,Telangana,1997,"Calendar Year (Jan - Dec), 1997",63
+726,India,36,Telangana,1998,"Calendar Year (Jan - Dec), 1998",66
+727,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",66
+728,India,36,Telangana,2000,"Calendar Year (Jan - Dec), 2000",65
+729,India,36,Telangana,2001,"Calendar Year (Jan - Dec), 2001",66
+730,India,36,Telangana,2002,"Calendar Year (Jan - Dec), 2002",62
+731,India,36,Telangana,2003,"Calendar Year (Jan - Dec), 2003",59
+732,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",59
+733,India,36,Telangana,2005,"Calendar Year (Jan - Dec), 2005",57
+734,India,36,Telangana,2006,"Calendar Year (Jan - Dec), 2006",56
+735,India,36,Telangana,2007,"Calendar Year (Jan - Dec), 2007",54
+736,India,36,Telangana,2008,"Calendar Year (Jan - Dec), 2008",52
+737,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",49
+738,India,36,Telangana,2010,"Calendar Year (Jan - Dec), 2010",46
+739,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",43
+740,India,36,Telangana,2012,"Calendar Year (Jan - Dec), 2012",41
+741,India,36,Telangana,2013,"Calendar Year (Jan - Dec), 2013",39
+742,India,36,Telangana,2014,"Calendar Year (Jan - Dec), 2014",35
+743,India,36,Telangana,2015,"Calendar Year (Jan - Dec), 2015",34
+744,India,36,Telangana,2016,"Calendar Year (Jan - Dec), 2016",31
+745,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",29
+746,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",27
+747,India,37,Ladakh,1997,"Calendar Year (Jan - Dec), 1997",
+748,India,37,Ladakh,1998,"Calendar Year (Jan - Dec), 1998",45
+749,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",52
+750,India,37,Ladakh,2000,"Calendar Year (Jan - Dec), 2000",50
+751,India,37,Ladakh,2001,"Calendar Year (Jan - Dec), 2001",48
+752,India,37,Ladakh,2002,"Calendar Year (Jan - Dec), 2002",45
+753,India,37,Ladakh,2003,"Calendar Year (Jan - Dec), 2003",44
+754,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",49
+755,India,37,Ladakh,2005,"Calendar Year (Jan - Dec), 2005",50
+756,India,37,Ladakh,2006,"Calendar Year (Jan - Dec), 2006",52
+757,India,37,Ladakh,2007,"Calendar Year (Jan - Dec), 2007",51
+758,India,37,Ladakh,2008,"Calendar Year (Jan - Dec), 2008",49
+759,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",45
+760,India,37,Ladakh,2010,"Calendar Year (Jan - Dec), 2010",43
+761,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",41
+762,India,37,Ladakh,2012,"Calendar Year (Jan - Dec), 2012",39
+763,India,37,Ladakh,2013,"Calendar Year (Jan - Dec), 2013",37
+764,India,37,Ladakh,2014,"Calendar Year (Jan - Dec), 2014",34
+765,India,37,Ladakh,2015,"Calendar Year (Jan - Dec), 2015",26
+766,India,37,Ladakh,2016,"Calendar Year (Jan - Dec), 2016",24
+767,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",23
+768,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",22
+769,India,38,The Dadra And Nagar Haveli And Daman And Diu,1997,"Calendar Year (Jan - Dec), 1997",50.50000000000000000000
+770,India,38,The Dadra And Nagar Haveli And Daman And Diu,1998,"Calendar Year (Jan - Dec), 1998",56.00000000000000000000
+771,India,38,The Dadra And Nagar Haveli And Daman And Diu,1999,"Calendar Year (Jan - Dec), 1999",45.50000000000000000000
+772,India,38,The Dadra And Nagar Haveli And Daman And Diu,2000,"Calendar Year (Jan - Dec), 2000",53.00000000000000000000
+773,India,38,The Dadra And Nagar Haveli And Daman And Diu,2001,"Calendar Year (Jan - Dec), 2001",49.00000000000000000000
+774,India,38,The Dadra And Nagar Haveli And Daman And Diu,2002,"Calendar Year (Jan - Dec), 2002",49.00000000000000000000
+775,India,38,The Dadra And Nagar Haveli And Daman And Diu,2003,"Calendar Year (Jan - Dec), 2003",46.50000000000000000000
+776,India,38,The Dadra And Nagar Haveli And Daman And Diu,2004,"Calendar Year (Jan - Dec), 2004",42.50000000000000000000
+777,India,38,The Dadra And Nagar Haveli And Daman And Diu,2005,"Calendar Year (Jan - Dec), 2005",35.00000000000000000000
+778,India,38,The Dadra And Nagar Haveli And Daman And Diu,2006,"Calendar Year (Jan - Dec), 2006",31.50000000000000000000
+779,India,38,The Dadra And Nagar Haveli And Daman And Diu,2007,"Calendar Year (Jan - Dec), 2007",30.50000000000000000000
+780,India,38,The Dadra And Nagar Haveli And Daman And Diu,2008,"Calendar Year (Jan - Dec), 2008",32.50000000000000000000
+781,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Calendar Year (Jan - Dec), 2009",30.50000000000000000000
+782,India,38,The Dadra And Nagar Haveli And Daman And Diu,2010,"Calendar Year (Jan - Dec), 2010",30.50000000000000000000
+783,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",28.50000000000000000000
+784,India,38,The Dadra And Nagar Haveli And Daman And Diu,2012,"Calendar Year (Jan - Dec), 2012",27.50000000000000000000
+785,India,38,The Dadra And Nagar Haveli And Daman And Diu,2013,"Calendar Year (Jan - Dec), 2013",25.50000000000000000000
+786,India,38,The Dadra And Nagar Haveli And Daman And Diu,2014,"Calendar Year (Jan - Dec), 2014",22.00000000000000000000
+787,India,38,The Dadra And Nagar Haveli And Daman And Diu,2015,"Calendar Year (Jan - Dec), 2015",19.50000000000000000000
+788,India,38,The Dadra And Nagar Haveli And Daman And Diu,2016,"Calendar Year (Jan - Dec), 2016",18.00000000000000000000
+789,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",15.00000000000000000000
+790,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",14.50000000000000000000

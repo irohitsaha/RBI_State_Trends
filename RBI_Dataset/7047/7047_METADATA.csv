@@ -1,0 +1,18 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,,,YearCode
+Year,Year,Key Identifier,"",0,,,,Year
+Credit to agriculture by Scheduled Commercial Banks,I7047_3,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_LandArea,Land Area from Census,"Credit to agriculture by Scheduled Commercial Banks , amount outstanding as at end-March"
+Personal loans by Scheduled Commercial Banks,I7047_4,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Personal loans by Scheduled Commercial Banks , amount outstanding as at end-March"
+Credit to industry by Scheduled Commercial Banks,I7047_5,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Credit to industry by Scheduled Commercial Banks , amount outstanding as at end-March"
+Credit by Scheduled Commercial Banks in India,I7047_6,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Credit by Scheduled Commercial Banks in India, as at end-March"
+Distribution of offices of Scheduled Commercial Banks,I7047_7,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Distribution of offices of Scheduled Commercial Banks , number of offices as at end-March"
+Deposits of Regional Rural Banks,I7047_8,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Deposits of Regional Rural Banks ,as at end-March"
+Credit-Deposit ratio of Scheduled Commercial Banks according to place of utilisation,I7047_9,Numeric Variable,Ratio,1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,"Credit-Deposit ratio of Scheduled Commercial Banks according to place of utilisation ,as at end-March"
+Credit-Deposit ratio of Regional Rural Banks,I7047_10,Numeric Variable,Ratio,1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Credit-Deposit ratio of Regional Rural Banks as at end-March
+Credit-Deposit ratio of Scheduled Commercial Banks according to place of sanction,I7047_11,Numeric Variable,Ratio,1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,"Credit-Deposit ratio of Scheduled Commercial Banks according to place of sanction , as at end-March"
+Deposits by Scheduled Commercial Banks in India,I7047_12,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Deposits by Scheduled Commercial Banks in India ,as at end-March"
+Credit of Regional Rural Banks,I7047_13,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Credit of Regional Rural Banks ,as at end-March"
+Number of Branches of Regional Rural Banks,I7047_14,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Number of Branches of Regional Rural Banks ,as at end-March"

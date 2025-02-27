@@ -1,0 +1,646 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Per capita availability of power,Availability of power ,Installed capacity of  power,Power requirement,Length of national highways ,Length of railway route,Length of roads,Length of state highways,Electricity transmission and distribution losses (%),Telephones per 100 population,Score of ease of doing business,Ease of doing business rank
+1,India,1,Jammu And Kashmir,2004,"Financial Year (Apr - Mar), 2004",,,,,,93.663133095424608,,,,3.01,,
+2,India,1,Jammu And Kashmir,2005,"Financial Year (Apr - Mar), 2005",728.2,724.96678317553993087049,1473.47781911997425733082,798.54257307833491708874,802.966234765983879,134.640753824672874,21280.068707753188803,65.369061639515091,41.1,5.09,,
+3,India,1,Jammu And Kashmir,2006,"Financial Year (Apr - Mar), 2006",756.3,752.43507807258339239197,1427.37032411422273263405,909.39676319854602965757,1214.693757331287885,134.640753824672874,21506.421279400464939,65.369061639515091,44.9,12.18,,
+4,India,1,Jammu And Kashmir,2007,"Financial Year (Apr - Mar), 2007",787.0,782.84640456573865336218,1595.12312509259530121166,1150.72535407971358445343,1214.693757331287885,134.640753824672874,21521.056143946625034,65.369061639515091,52.0,16.08,,
+5,India,1,Jammu And Kashmir,2008,"Financial Year (Apr - Mar), 2008",824.4,820.12480478315477971276,1676.54699925168841929319,1155.63040673989991686798,1214.693757331287885,159.032194734939699,21779.605417595453379,65.369061639515091,55.7,21.84,,
+6,India,1,Jammu And Kashmir,2009,"Financial Year (Apr - Mar), 2009",857.5,853.47916287242184013170,2118.00173866845833660269,1125.21908024674465589777,1214.693757331287885,233.182175102150847,23982.640360610753013,65.369061639515091,58.0,32.76,,
+7,India,1,Jammu And Kashmir,2010,"Financial Year (Apr - Mar), 2010",979.2,974.14345831300561752963,2221.00784453237131730824,1294.93390228919175744120,1214.693757331287885,249.768354921132288,25142.697290303043210,65.369061639515091,67.4,49.91,,
+8,India,1,Jammu And Kashmir,2011,"Financial Year (Apr - Mar), 2011",1003.6,998.66872161393727960238,2252.40018155756384476136,1331.23129197457061730887,1214.693757331287885,249.768354921132288,26323.243030359957540,65.369061639515091,63.3,50.9,,
+9,India,1,Jammu And Kashmir,2012,"Financial Year (Apr - Mar), 2012",867.7,1068.32046938858319988899,2263.19129740997377607337,1397.94000815310473814675,1214.693757331287885,249.768354921132288,35468.082056437195569,65.369061639515091,61.8,54.82,,
+10,India,1,Jammu And Kashmir,2013,"Financial Year (Apr - Mar), 2013",921.0,1134.04817503508005424396,2348.53921369721596008654,1511.73722986942765016431,1653.739693716090735,249.768354921132288,43511.403611006783781,,56.6,58.57,,
+11,India,1,Jammu And Kashmir,2014,"Financial Year (Apr - Mar), 2014",971.2,1195.85183855342784266729,2530.02616212411025942489,1531.35744051017297982251,2262.550058836350687,266.354534740113729,38155.043187112189011,127.811150369798163,54.7,66.8,,
+12,India,1,Jammu And Kashmir,2015,"Financial Year (Apr - Mar), 2015",1045.4,1287.08581803289362557792,2561.41849914930278687801,1590.21807243240896879711,2529.880251212875089,290.745975650380554,38144.310953111671608,127.811150369798163,53.1,76.93,6,28.36567894142197219890
+13,India,1,Jammu And Kashmir,2016,"Financial Year (Apr - Mar), 2016",1118.6,1377.33878698032214200564,3062.71488102034595964502,1625.53445158575056218187,2537.685512304160473,290.745975650380554,48505.795051793018868,126.835492733387490,50.1,80.02,0,30.32193266152003924710
+14,India,1,Jammu And Kashmir,2017,"Financial Year (Apr - Mar), 2017",1131.3,1393.03495549291840573220,3211.82848189001046504734,1706.95832574484368026340,2537.685512304160473,290.745975650380554,61843.034941526918778,126.835492733387490,47.0,95.91,33,21.51879092107873753020
+15,India,1,Jammu And Kashmir,2018,"Financial Year (Apr - Mar), 2018",1199.3,1476.42085071608605677955,3324.64469307429611058199,1845.28081076209825435371,,290.745975650380554,106031.544952202709621,302.453867287308630,45.47,109.19,,
+16,India,1,Jammu And Kashmir,2019,"Financial Year (Apr - Mar), 2019",1264.5,1532.33845104221024630542,3329.54974573448244299654,1921.79963226100504002069,2364.018453023060679,290.745975650380554,,,42.19,89.43,,20.54066406102970400610
+17,India,1,Jammu And Kashmir,2020,"Financial Year (Apr - Mar), 2020",1316.6,1595.12312509259530121166,3352.11298797133957210347,1964.96409567064476526873,,290.745975650380554,,,,92.91,,
+18,India,1,Jammu And Kashmir,2021,"Financial Year (Apr - Mar), 2021",1394.5,1689.30013616817288357102,3411.95463042561282756098,1939.45782183767583671307,2364.018453023060679,,,,,89.01,,
+19,India,2,Himachal Pradesh,2004,"Financial Year (Apr - Mar), 2004",,,,,,269,,,,10.14,,
+20,India,2,Himachal Pradesh,2005,"Financial Year (Apr - Mar), 2005",644.5,392,1687,400,1208,285,23452,2164,28.9,13.12,,
+21,India,2,Himachal Pradesh,2006,"Financial Year (Apr - Mar), 2006",700.6,426,1656,430,1208,285,23614,2164,23.6,18.78,,
+22,India,2,Himachal Pradesh,2007,"Financial Year (Apr - Mar), 2007",822.0,500,1836,514,1208,285,34954,1824,19.8,28.57,,
+23,India,2,Himachal Pradesh,2008,"Financial Year (Apr - Mar), 2008",956.6,581,1858,599,1208,285,36298,1824,17.0,41.16,,
+24,India,2,Himachal Pradesh,2009,"Financial Year (Apr - Mar), 2009",1026.8,624,1896,626,1409,285,44467,1626,15.5,55.5,,
+25,India,2,Himachal Pradesh,2010,"Financial Year (Apr - Mar), 2010",1113.7,677,2030,705,1409,296,46734,1626,20.5,79.35,,
+26,India,2,Himachal Pradesh,2011,"Financial Year (Apr - Mar), 2011",1211.6,736,2327,763,1409,296,47963,1626,22.2,111.11,,
+27,India,2,Himachal Pradesh,2012,"Financial Year (Apr - Mar), 2012",1182.4,811,3585,816,1506,296,50449,1626,18.6,120.68,,
+28,India,2,Himachal Pradesh,2013,"Financial Year (Apr - Mar), 2013",1275.3,874,3770,899,1506,296,53223,1504,19.1,105.39,,
+29,India,2,Himachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",1295.6,888,3986,909,2196,296,54388,1504,21.0,105.59,,
+30,India,2,Himachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",1273.0,873,4579,881,2466,296,55593,1466,20.8,114.52,24,17
+31,India,2,Himachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",1277.3,876,4424,882,2642,296,55759,1466,18.8,127.61,65,17
+32,India,2,Himachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",1280.4,878,3893,883,2643,296,62812,827,22.4,147.86,88,16
+33,India,2,Himachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",1362.9,935,4047,940,,296,61899,827,21.78,174.46,,
+34,India,2,Himachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",1402.7,962,4068,985,2607,312,,,14.29,146.37,,7
+35,India,2,Himachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",1509.9,1035,4007,1042,,312,,,,148.85,,
+36,India,2,Himachal Pradesh,2021,"Financial Year (Apr - Mar), 2021",1477.4,1013,4155,1019,2607,,,,,152.5,,
+37,India,3,Punjab,2004,"Financial Year (Apr - Mar), 2004",,,,,,2098,,,,17.33,,
+38,India,3,Punjab,2005,"Financial Year (Apr - Mar), 2005",1247.3,3038,6183,3339,1557,2098,46490,1455,25.4,21.94,,
+39,India,3,Punjab,2006,"Financial Year (Apr - Mar), 2006",1337.9,3259,6266,3568,1557,2133,45165,1431,27.6,27.61,,
+40,India,3,Punjab,2007,"Financial Year (Apr - Mar), 2007",1430.2,3484,6207,3864,1557,2133,45135,1392,26.6,37.05,,
+41,India,3,Punjab,2008,"Financial Year (Apr - Mar), 2008",1592.6,3880,6530,4237,1557,2133,45178,1393,22.8,47.89,,
+42,India,3,Punjab,2009,"Financial Year (Apr - Mar), 2009",1528.7,3724,6780,4164,1557,2133,77912,1477,23.1,58.25,,
+43,India,3,Punjab,2010,"Financial Year (Apr - Mar), 2010",1617.8,3941,6922,4573,1557,2133,81899,1477,23.4,75.44,,
+44,India,3,Punjab,2011,"Financial Year (Apr - Mar), 2011",1716.0,4180,7019,4448,1557,2134,84193,1477,25.1,104.09,,
+45,India,3,Punjab,2012,"Financial Year (Apr - Mar), 2012",1580.7,4379,7056,4519,1557,2156,93871,1477,23.1,113.13,,
+46,India,3,Punjab,2013,"Financial Year (Apr - Mar), 2013",1664.7,4612,7509,4872,1557,2215,98442,1477,20.3,103.0,,
+47,India,3,Punjab,2014,"Financial Year (Apr - Mar), 2014",1699.5,4708,8379,4782,1699,2269,104160,1315,20.7,107.22,,
+48,India,3,Punjab,2015,"Financial Year (Apr - Mar), 2015",1737.8,4814,10525,4863,2239,2269,105368,1133,18.5,103.79,37,16
+49,India,3,Punjab,2016,"Financial Year (Apr - Mar), 2016",1793.0,4968,12455,4969,2769,2269,108379,1133,18.5,106.1,91,12
+50,India,3,Punjab,2017,"Financial Year (Apr - Mar), 2017",1916.6,5310,14162,5310,3228,2269,139492,1103,17.6,118.28,54,20
+51,India,3,Punjab,2018,"Financial Year (Apr - Mar), 2018",1978.5,5481,13432,5481,,2269,142635,1103,17.52,123.45,,
+52,India,3,Punjab,2019,"Financial Year (Apr - Mar), 2019",1995.2,5532,13432,5529,3274,2265,,,14.73,125.35,,19
+53,India,3,Punjab,2020,"Financial Year (Apr - Mar), 2020",2047.7,5677,14205,5678,,2265,,,,123.52,,
+54,India,3,Punjab,2021,"Financial Year (Apr - Mar), 2021",2105.6,5838,14389,5845,4099,,,,,125.27,,
+55,India,4,Chandigarh,2004,"Financial Year (Apr - Mar), 2004",,,,,,8,,,,,,
+56,India,4,Chandigarh,2005,"Financial Year (Apr - Mar), 2005",1274.7,115,79,116,24,8,2118,,30.4,,,
+57,India,4,Chandigarh,2006,"Financial Year (Apr - Mar), 2006",1396.8,126,86,126,24,16,2118,,31.6,,,
+58,India,4,Chandigarh,2007,"Financial Year (Apr - Mar), 2007",1488.9,134,92,134,24,16,2118,,25.1,,,
+59,India,4,Chandigarh,2008,"Financial Year (Apr - Mar), 2008",1272.4,115,95,145,24,16,2118,,23.8,,,
+60,India,4,Chandigarh,2009,"Financial Year (Apr - Mar), 2009",1570.0,141,93,141,24,16,2246,,22.4,,,
+61,India,4,Chandigarh,2010,"Financial Year (Apr - Mar), 2010",1696.6,153,98,158,24,16,2264,,23.2,,,
+62,India,4,Chandigarh,2011,"Financial Year (Apr - Mar), 2011",1686.6,152,100,152,24,16,2284,,20.3,,,
+63,India,4,Chandigarh,2012,"Financial Year (Apr - Mar), 2012",1482.9,156,102,157,24,16,1928,,23.7,,,
+64,India,4,Chandigarh,2013,"Financial Year (Apr - Mar), 2013",1552.1,164,106,164,24,16,1993,,19.3,,,
+65,India,4,Chandigarh,2014,"Financial Year (Apr - Mar), 2014",1492.4,157,116,157,24,16,2879,,19.1,,,
+66,India,4,Chandigarh,2015,"Financial Year (Apr - Mar), 2015",1532.2,162,118,162,15,16,2935,,19.1,,10,24
+67,India,4,Chandigarh,2016,"Financial Year (Apr - Mar), 2016",1523.7,161,124,161,15,16,2821,,18.7,,0,31
+68,India,4,Chandigarh,2017,"Financial Year (Apr - Mar), 2017",1559.7,165,177,165,15,16,2821,,18.0,,12,29
+69,India,4,Chandigarh,2018,"Financial Year (Apr - Mar), 2018",1518.0,160,193,161,,16,2539,,13.45,,,
+70,India,4,Chandigarh,2019,"Financial Year (Apr - Mar), 2019",1480.1,157,198,156,15,16,,,17.09,,,29
+71,India,4,Chandigarh,2020,"Financial Year (Apr - Mar), 2020",1631.8,173,207,173,,16,,,,,,
+72,India,4,Chandigarh,2021,"Financial Year (Apr - Mar), 2021",1434.9,152,215,152,15,,,,,,,
+73,India,5,Uttarakhand,2004,"Financial Year (Apr - Mar), 2004",,,,,,345,,,,5.1,,
+74,India,5,Uttarakhand,2005,"Financial Year (Apr - Mar), 2005",526.5,447,1443,463,1991,345,35659,437,39.3,5.74,,
+75,India,5,Uttarakhand,2006,"Financial Year (Apr - Mar), 2006",589.9,501,1474,516,1991,345,36061,1543,36.0,7.46,,
+76,India,5,Uttarakhand,2007,"Financial Year (Apr - Mar), 2007",659.5,560,1992,596,1991,345,39167,1553,34.5,9.5,,
+77,India,5,Uttarakhand,2008,"Financial Year (Apr - Mar), 2008",806.3,685,2356,705,1991,345,41041,1576,35.7,10.61,,
+78,India,5,Uttarakhand,2009,"Financial Year (Apr - Mar), 2009",914.7,777,2383,784,2042,345,44332,1576,41.8,11.59,,
+79,India,5,Uttarakhand,2010,"Financial Year (Apr - Mar), 2010",982.2,834,2405,892,2042,345,46836,1576,25.3,13.9,,
+80,India,5,Uttarakhand,2011,"Financial Year (Apr - Mar), 2011",1090.2,926,2455,985,2042,345,49277,3788,30.0,,,
+81,India,5,Uttarakhand,2012,"Financial Year (Apr - Mar), 2012",1009.0,1021,2527,1051,2042,345,52628,3788,28.7,,,
+82,India,5,Uttarakhand,2013,"Financial Year (Apr - Mar), 2013",1058.5,1071,2561,1133,2042,345,58714,3788,26.9,,,
+83,India,5,Uttarakhand,2014,"Financial Year (Apr - Mar), 2014",1136.0,1149,2635,1194,2282,345,60427,3782,21.8,,,
+84,India,5,Uttarakhand,2015,"Financial Year (Apr - Mar), 2015",1193.3,1207,2809,1245,2842,345,62945,3736,24.5,,13,23
+85,India,5,Uttarakhand,2016,"Financial Year (Apr - Mar), 2016",1252.9,1268,3177,1289,2714,340,61018,4521,25.6,,96,9
+86,India,5,Uttarakhand,2017,"Financial Year (Apr - Mar), 2017",1283.7,1299,3313,1307,2842,340,69777,4329,25.4,,94,11
+87,India,5,Uttarakhand,2018,"Financial Year (Apr - Mar), 2018",1327.1,1343,3399,1346,,341,52848,4387,25.0,,,
+88,India,5,Uttarakhand,2019,"Financial Year (Apr - Mar), 2019",1359.4,1375,3403,1385,2949,341,,,22.23,,,11
+89,India,5,Uttarakhand,2020,"Financial Year (Apr - Mar), 2020",1421.0,1438,3550,1447,,346,,,,,,
+90,India,5,Uttarakhand,2021,"Financial Year (Apr - Mar), 2021",1365.8,1382,3731,1383,3106,,,,,,,
+91,India,6,Haryana,2004,"Financial Year (Apr - Mar), 2004",,,,,,1623,,,,8.38,,
+92,India,6,Haryana,2005,"Financial Year (Apr - Mar), 2005",972.4,2056,3934,2180,1468,1597,28657,2537,32.1,10.83,,
+93,India,6,Haryana,2006,"Financial Year (Apr - Mar), 2006",1023.0,2163,3915,2379,1512,1595,29055,2537,30.5,14.47,,
+94,India,6,Haryana,2007,"Financial Year (Apr - Mar), 2007",1094.0,2313,3959,2625,1512,1540,29397,2494,33.4,23.11,,
+95,India,6,Haryana,2008,"Financial Year (Apr - Mar), 2008",1213.1,2565,4590,2935,1512,1467,29726,2523,32.8,30.39,,
+96,India,6,Haryana,2009,"Financial Year (Apr - Mar), 2009",1259.2,2663,4530,2909,1512,1553,36032,2523,30.7,43.75,,
+97,India,6,Haryana,2010,"Financial Year (Apr - Mar), 2010",1514.5,3202,5071,3344,1518,1553,37276,2521,31.0,59.7,,
+98,India,6,Haryana,2011,"Financial Year (Apr - Mar), 2011",1543.0,3263,5985,3455,1518,1540,41729,2521,29.7,82.59,,
+99,India,6,Haryana,2012,"Financial Year (Apr - Mar), 2012",1401.8,3554,6882,3687,1633,1553,42638,2521,28.6,89.42,,
+100,India,6,Haryana,2013,"Financial Year (Apr - Mar), 2013",1507.1,3821,8114,4141,1633,1630,42476,2416,36.0,76.44,,
+101,India,6,Haryana,2014,"Financial Year (Apr - Mar), 2014",1704.4,4321,8282,4346,2050,1630,42685,2098,35.8,81.44,,
+102,India,6,Haryana,2015,"Financial Year (Apr - Mar), 2015",1831.4,4643,8754,4662,2307,1630,46287,2128,34.0,82.67,41,14
+103,India,6,Haryana,2016,"Financial Year (Apr - Mar), 2016",1871.1,4744,8792,4751,2622,1711,48482,1801,31.6,85.88,97,6
+104,India,6,Haryana,2017,"Financial Year (Apr - Mar), 2017",1928.5,4889,11056,4889,2741,1710,81386,1801,33.7,91.01,98,3
+105,India,6,Haryana,2018,"Financial Year (Apr - Mar), 2018",2002.7,5078,11260,5078,,1710,50021,1801,28.24,84.44,,
+106,India,6,Haryana,2019,"Financial Year (Apr - Mar), 2019",2116.7,5367,11268,5367,3166,1703,,,22.78,97.66,,16
+107,India,6,Haryana,2020,"Financial Year (Apr - Mar), 2020",2149.3,5449,12290,5451,,1703,,,,96.14,,
+108,India,6,Haryana,2021,"Financial Year (Apr - Mar), 2021",2094.7,5311,12481,5316,3237,,,,,95.24,,
+109,India,7,Delhi,2004,"Financial Year (Apr - Mar), 2004",,,,,,178,,,,,,
+110,India,7,Delhi,2005,"Financial Year (Apr - Mar), 2005",1512.7,2095,3426,2116,72,204,29458,,45.4,,,
+111,India,7,Delhi,2006,"Financial Year (Apr - Mar), 2006",1536.5,2128,3513,2160,72,204,29462,,48.6,,,
+112,India,7,Delhi,2007,"Financial Year (Apr - Mar), 2007",1589.3,2201,3614,2240,72,183,29479,,33.0,,,
+113,India,7,Delhi,2008,"Financial Year (Apr - Mar), 2008",1610.1,2230,3689,2244,72,183,29559,,28.7,,,
+114,India,7,Delhi,2009,"Financial Year (Apr - Mar), 2009",1608.1,2227,3677,2240,72,183,29589,,22.2,,,
+115,India,7,Delhi,2010,"Financial Year (Apr - Mar), 2010",1739.6,2409,4115,2428,80,183,29627,,22.1,,,
+116,India,7,Delhi,2011,"Financial Year (Apr - Mar), 2011",1845.3,2556,5802,2563,80,183,29648,,20.0,,,
+117,India,7,Delhi,2012,"Financial Year (Apr - Mar), 2012",1592.2,2667,6587,2675,80,183,30711,,19.3,,,
+118,India,7,Delhi,2013,"Financial Year (Apr - Mar), 2013",1549.0,2595,7163,2609,80,183,31995,,22.1,,,
+119,India,7,Delhi,2014,"Financial Year (Apr - Mar), 2014",1599.2,2679,7824,2687,80,183,31996,,19.9,,,
+120,India,7,Delhi,2015,"Financial Year (Apr - Mar), 2015",1737.3,2911,8274,2923,80,183,32067,,21.5,,37,15
+121,India,7,Delhi,2016,"Financial Year (Apr - Mar), 2016",1765.8,2958,8347,2963,80,183,17625,,19.6,,48,19
+122,India,7,Delhi,2017,"Financial Year (Apr - Mar), 2017",1838.4,3080,7839,3083,79,183,17882,,19.4,,32,23
+123,India,7,Delhi,2018,"Financial Year (Apr - Mar), 2018",1898.6,3181,7180,3183,,183,17596,,17.38,,,
+124,India,7,Delhi,2019,"Financial Year (Apr - Mar), 2019",1926.9,3228,7237,3230,157,183,,,12.56,,,12
+125,India,7,Delhi,2020,"Financial Year (Apr - Mar), 2020",1974.4,3308,7582,3309,,184,,,,,,
+126,India,7,Delhi,2021,"Financial Year (Apr - Mar), 2021",1764.1,2956,7590,2956,157,,,,,,,
+127,India,8,Rajasthan,2004,"Financial Year (Apr - Mar), 2004",,,,,,5835,,,,4.5,,
+128,India,8,Rajasthan,2005,"Financial Year (Apr - Mar), 2005",512.7,2897,7607,2921,5585,5838,149753,9777,44.7,6.12,,
+129,India,8,Rajasthan,2006,"Financial Year (Apr - Mar), 2006",546.5,3088,7716,3205,5585,5838,152435,11263,39.9,9.65,,
+130,India,8,Rajasthan,2007,"Financial Year (Apr - Mar), 2007",561.3,3172,5528,3324,5585,5911,159902,11234,35.6,15.49,,
+131,India,8,Rajasthan,2008,"Financial Year (Apr - Mar), 2008",630.0,3560,6243,3674,5585,5683,171479,11240,34.7,23.74,,
+132,India,8,Rajasthan,2009,"Financial Year (Apr - Mar), 2009",661.7,3739,6426,3780,5585,5854,217543,11218,31.5,37.15,,
+133,India,8,Rajasthan,2010,"Financial Year (Apr - Mar), 2010",762.1,4306,7768,4411,5585,5780,223300,11238,30.0,52.76,,
+134,India,8,Rajasthan,2011,"Financial Year (Apr - Mar), 2011",793.5,4484,8975,4526,5585,5784,241318,11300,27.9,65.35,,
+135,India,8,Rajasthan,2012,"Financial Year (Apr - Mar), 2012",721.2,4949,10161,5147,7130,5822,248604,10456,27.9,72.96,,
+136,India,8,Rajasthan,2013,"Financial Year (Apr - Mar), 2013",785.0,5387,12156,5554,7180,5872,226124,10465,24.9,70.85,,
+137,India,8,Rajasthan,2014,"Financial Year (Apr - Mar), 2014",845.8,5804,14282,5820,7646,5870,241243,11292,26.9,75.39,,
+138,India,8,Rajasthan,2015,"Financial Year (Apr - Mar), 2015",951.7,6531,16229,6572,7886,5898,248156,10941,27.5,77.76,61,6
+139,India,8,Rajasthan,2016,"Financial Year (Apr - Mar), 2016",979.4,6721,17784,6742,7906,5893,254279,15188,29.1,83.36,96,8
+140,India,8,Rajasthan,2017,"Financial Year (Apr - Mar), 2017",982.5,6742,19776,6784,8972,5894,265599,15019,29.7,92.02,96,9
+141,India,8,Rajasthan,2018,"Financial Year (Apr - Mar), 2018",1028.9,7060,21684,7119,,5929,313390,15085,28.66,87.83,,
+142,India,8,Rajasthan,2019,"Financial Year (Apr - Mar), 2019",1160.6,7963,22589,7983,10342,5937,,,24.8,85.34,,8
+143,India,8,Rajasthan,2020,"Financial Year (Apr - Mar), 2020",1183.9,8122,25360,8128,,5998,,,,85.88,,
+144,India,8,Rajasthan,2021,"Financial Year (Apr - Mar), 2021",1241.9,8521,26045,8531,10350,,,,,84.14,,
+145,India,9,Uttar Pradesh,2004,"Financial Year (Apr - Mar), 2004",,,,,,8566,,,,2.96,,
+146,India,9,Uttar Pradesh,2005,"Financial Year (Apr - Mar), 2005",250.1,4157,8182,5202,5599,8546,256683,8888,34.4,4.06,,
+147,India,9,Uttar Pradesh,2006,"Financial Year (Apr - Mar), 2006",264.9,4403,8597,5568,5874,8546,263555,8551,32.6,6.87,,
+148,India,9,Uttar Pradesh,2007,"Financial Year (Apr - Mar), 2007",291.0,4837,9175,5744,5874,8575,272362,8449,33.5,10.77,,
+149,India,9,Uttar Pradesh,2008,"Financial Year (Apr - Mar), 2008",308.9,5134,9278,6263,5874,8554,284673,8391,28.6,16.19,,
+150,India,9,Uttar Pradesh,2009,"Financial Year (Apr - Mar), 2009",326.8,5431,9247,6921,6774,8703,329185,8739,30.9,24.91,,
+151,India,9,Uttar Pradesh,2010,"Financial Year (Apr - Mar), 2010",358.1,5951,9984,7593,6774,8726,376278,7957,33.2,38.54,,
+152,India,9,Uttar Pradesh,2011,"Financial Year (Apr - Mar), 2011",390.2,6485,10458,7629,6774,8763,390256,7941,34.0,52.97,,
+153,India,9,Uttar Pradesh,2012,"Financial Year (Apr - Mar), 2012",361.3,7212,13054,8134,7818,8800,403102,7876,32.4,60.93,,
+154,India,9,Uttar Pradesh,2013,"Financial Year (Apr - Mar), 2013",383.0,7645,14294,9165,7818,8832,435969,7703,26.9,56.83,,
+155,India,9,Uttar Pradesh,2014,"Financial Year (Apr - Mar), 2014",408.9,8161,14375,9489,7986,8920,397224,7544,29.1,57.27,,
+156,India,9,Uttar Pradesh,2015,"Financial Year (Apr - Mar), 2015",436.2,8706,15087,10318,8483,8950,415383,7543,27.2,60.51,47,10
+157,India,9,Uttar Pradesh,2016,"Financial Year (Apr - Mar), 2016",466.1,9303,18632,10635,8483,9077,422412,7147,24.5,65.83,85,14
+158,India,9,Uttar Pradesh,2017,"Financial Year (Apr - Mar), 2017",529.6,10570,23662,10757,9017,9167,428055,7201,23.6,74.03,93,12
+159,India,9,Uttar Pradesh,2018,"Financial Year (Apr - Mar), 2018",592.8,11830,24909,12005,,10324,436333,6810,23.19,71.36,,
+160,India,9,Uttar Pradesh,2019,"Financial Year (Apr - Mar), 2019",581.9,11615,25130,11710,11737,8823,,,21.21,68.63,,2
+161,India,9,Uttar Pradesh,2020,"Financial Year (Apr - Mar), 2020",606.2,12100,26162,12255,,8808,,,,66.2,,
+162,India,9,Uttar Pradesh,2021,"Financial Year (Apr - Mar), 2021",618.1,12338,27896,12437,11831,,,,,68.09,,
+163,India,10,Bihar,2004,"Financial Year (Apr - Mar), 2004",,,,,,3377,,,,1.67,,
+164,India,10,Bihar,2005,"Financial Year (Apr - Mar), 2005",78.0,648,1644,720,3537,3380,119958,3767,38.9,2.36,,
+165,India,10,Bihar,2006,"Financial Year (Apr - Mar), 2006",87.0,722,1629,796,3642,3330,120127,3767,44.0,5.34,,
+166,India,10,Bihar,2007,"Financial Year (Apr - Mar), 2007",93.3,774,1629,843,3642,3411,120127,3767,50.7,7.32,,
+167,India,10,Bihar,2008,"Financial Year (Apr - Mar), 2008",95.6,793,1970,916,3642,3407,120127,3767,48.8,12.64,,
+168,India,10,Bihar,2009,"Financial Year (Apr - Mar), 2009",106.0,880,1970,1053,3642,3515,124363,3989,46.4,22.18,,
+169,India,10,Bihar,2010,"Financial Year (Apr - Mar), 2010",119.4,991,1846,1159,3642,3568,128034,3989,43.6,37.96,,
+170,India,10,Bihar,2011,"Financial Year (Apr - Mar), 2011",129.8,1077,1922,1238,3642,3612,130642,3989,50.8,42.32,,
+171,India,10,Bihar,2012,"Financial Year (Apr - Mar), 2012",108.5,1126,1834,1431,4106,3598,138517,4857,50.9,48.9,,
+172,India,10,Bihar,2013,"Financial Year (Apr - Mar), 2013",123.6,1284,1868,1541,4168,3656,197239,4483,49.4,45.72,,
+173,India,10,Bihar,2014,"Financial Year (Apr - Mar), 2014",142.2,1476,2198,1539,4467,3639,209758,4389,47.3,46.1,,
+174,India,10,Bihar,2015,"Financial Year (Apr - Mar), 2015",180.7,1876,2760,1929,4701,3652,206010,4426,46.3,51.2,16,21
+175,India,10,Bihar,2016,"Financial Year (Apr - Mar), 2016",227.9,2366,2985,2396,4839,3731,206484,4253,42.8,54.36,76,16
+176,India,10,Bihar,2017,"Financial Year (Apr - Mar), 2017",242.1,2513,3608,2571,4839,3714,209549,4006,30.3,60.99,82,18
+177,India,10,Bihar,2018,"Financial Year (Apr - Mar), 2018",256.3,2660,4341,2702,,3653,290571,4006,30.29,63.16,,
+178,India,10,Bihar,2019,"Financial Year (Apr - Mar), 2019",287.3,2983,4566,3005,5358,3720,,,32.51,59.95,,26
+179,India,10,Bihar,2020,"Financial Year (Apr - Mar), 2020",303.8,3153,5792,3163,,3794,,,,59.04,,
+180,India,10,Bihar,2021,"Financial Year (Apr - Mar), 2021",327.7,3402,6321,3417,5421,,,,,53.57,,
+181,India,11,Sikkim,2005,"Financial Year (Apr - Mar), 2005",,,141,,62,,2076,186,50.5,,,
+182,India,11,Sikkim,2006,"Financial Year (Apr - Mar), 2006",388.3,21,114,21,62,,2118,184,10.7,,,
+183,India,11,Sikkim,2007,"Financial Year (Apr - Mar), 2007",403.1,22,114,22,62,,1873,179,26.9,,,
+184,India,11,Sikkim,2008,"Financial Year (Apr - Mar), 2008",493.7,27,191,29,62,,1873,179,36.8,,,
+185,India,11,Sikkim,2009,"Financial Year (Apr - Mar), 2009",610.1,33,193,34,62,,4199,179,38.8,,,
+186,India,11,Sikkim,2010,"Financial Year (Apr - Mar), 2010",637.9,35,195,39,62,,4420,179,39.0,,,
+187,India,11,Sikkim,2011,"Financial Year (Apr - Mar), 2011",743.3,40,201,40,62,,4630,179,33.7,,,
+188,India,11,Sikkim,2012,"Financial Year (Apr - Mar), 2012",631.9,38,206,39,149,,5616,179,31.1,,,
+189,India,11,Sikkim,2013,"Financial Year (Apr - Mar), 2013",673.0,41,206,41,149,,6570,179,28.1,,,
+190,India,11,Sikkim,2014,"Financial Year (Apr - Mar), 2014",679.6,41,314,41,149,,6525,179,23.1,,,
+191,India,11,Sikkim,2015,"Financial Year (Apr - Mar), 2015",656.6,40,323,40,309,,7450,701,25.0,,7,27
+192,India,11,Sikkim,2016,"Financial Year (Apr - Mar), 2016",656.6,40,414,40,463,,8243,701,26.5,,1,30
+193,India,11,Sikkim,2017,"Financial Year (Apr - Mar), 2017",780.0,47,758,47,463,,11386,663,23.8,,0,33
+194,India,11,Sikkim,2018,"Financial Year (Apr - Mar), 2018",798.1,48,962,49,,,13510,663,35.54,,,
+195,India,11,Sikkim,2019,"Financial Year (Apr - Mar), 2019",842.5,53,962,51,463,,,,32.72,,,29
+196,India,11,Sikkim,2020,"Financial Year (Apr - Mar), 2020",885.7,55,674,55,,,,,,,,
+197,India,11,Sikkim,2021,"Financial Year (Apr - Mar), 2021",872.9,55,678,55,709,,,,,,,
+198,India,12,Arunachal Pradesh,2004,"Financial Year (Apr - Mar), 2004",,,,,,1,,,,,,
+199,India,12,Arunachal Pradesh,2005,"Financial Year (Apr - Mar), 2005",143.9,16,187,16,392,1,17751,,42.9,,,
+200,India,12,Arunachal Pradesh,2006,"Financial Year (Apr - Mar), 2006",187.6,21,179,21,392,1,17216,,49.7,,,
+201,India,12,Arunachal Pradesh,2007,"Financial Year (Apr - Mar), 2007",235.9,26,179,29,392,1,17430,,57.8,,,
+202,India,12,Arunachal Pradesh,2008,"Financial Year (Apr - Mar), 2008",275.1,30,180,39,392,1,16494,,67.2,,,
+203,India,12,Arunachal Pradesh,2009,"Financial Year (Apr - Mar), 2009",246.8,27,180,43,1992,1,20384,,46.9,,,
+204,India,12,Arunachal Pradesh,2010,"Financial Year (Apr - Mar), 2010",296.0,33,202,40,1992,1,21122,,48.0,,,
+205,India,12,Arunachal Pradesh,2011,"Financial Year (Apr - Mar), 2011",397.1,44,213,51,1992,1,21555,,47.1,,,
+206,India,12,Arunachal Pradesh,2012,"Financial Year (Apr - Mar), 2012",400.0,55,214,60,2027,1,14980,,46.3,,,
+207,India,12,Arunachal Pradesh,2013,"Financial Year (Apr - Mar), 2013",400.7,55,249,59,2027,1,28095,,46.0,,,
+208,India,12,Arunachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",373.9,52,249,55,2027,12,24469,,46.3,,,
+209,India,12,Arunachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",441.2,61,261,68,2513,12,25362,,46.2,,1,32
+210,India,12,Arunachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",427.5,59,258,63,2513,12,30692,,50.6,,0,31
+211,India,12,Arunachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",515.7,71,274,73,2537,12,37025,,49.4,,,34
+212,India,12,Arunachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",570.7,79,301,80,,12,50555,,48.32,,,
+213,India,12,Arunachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",618.4,86,337,86,2537,12,,,50.83,,,29
+214,India,12,Arunachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",539.2,75,379,75,,12,,,,,,
+215,India,12,Arunachal Pradesh,2021,"Financial Year (Apr - Mar), 2021",514.0,71,765,72,2537,,,,,,,
+216,India,13,Nagaland,2004,"Financial Year (Apr - Mar), 2004",,,,,,13,,,,,,
+217,India,13,Nagaland,2005,"Financial Year (Apr - Mar), 2005",162.8,32,120,33,494,13,26241,404,48.3,,,
+218,India,13,Nagaland,2006,"Financial Year (Apr - Mar), 2006",195.4,39,103,41,494,13,22085,404,59.0,,,
+219,India,13,Nagaland,2007,"Financial Year (Apr - Mar), 2007",164.8,33,103,34,494,13,21947,404,54.8,,,
+220,India,13,Nagaland,2008,"Financial Year (Apr - Mar), 2008",167.8,33,103,38,494,13,22304,404,55.6,,,
+221,India,13,Nagaland,2009,"Financial Year (Apr - Mar), 2009",219.1,44,103,48,494,13,32597,541,58.3,,,
+222,India,13,Nagaland,2010,"Financial Year (Apr - Mar), 2010",234.2,47,103,53,494,13,33423,683,56.9,,,
+223,India,13,Nagaland,2011,"Financial Year (Apr - Mar), 2011",261.3,52,103,58,494,13,34146,763,48.2,,,
+224,India,13,Nagaland,2012,"Financial Year (Apr - Mar), 2012",258.0,51,103,56,494,13,35189,1001,41.5,,,
+225,India,13,Nagaland,2013,"Financial Year (Apr - Mar), 2013",270.1,54,117,57,494,13,38281,1204,40.2,,,
+226,India,13,Nagaland,2014,"Financial Year (Apr - Mar), 2014",283.2,56,118,58,741,13,36600,767,35.8,,,
+227,India,13,Nagaland,2015,"Financial Year (Apr - Mar), 2015",333.7,66,131,69,1080,13,37176,767,26.5,,3,31
+228,India,13,Nagaland,2016,"Financial Year (Apr - Mar), 2016",372.6,74,140,76,1150,11,36114,722,29.9,,1,26
+229,India,13,Nagaland,2017,"Financial Year (Apr - Mar), 2017",375.1,74,155,76,1547,11,36239,722,20.8,,14,28
+230,India,13,Nagaland,2018,"Financial Year (Apr - Mar), 2018",389.3,77,159,80,,11,36703,722,19.67,,,
+231,India,13,Nagaland,2019,"Financial Year (Apr - Mar), 2019",408.5,80,170,90,1548,11,,,20.67,,,29
+232,India,13,Nagaland,2020,"Financial Year (Apr - Mar), 2020",415.7,81,175,81,,11,,,,,,
+233,India,13,Nagaland,2021,"Financial Year (Apr - Mar), 2021",422.4,82,179,83,1548,,,,,,,
+234,India,14,Manipur,2004,"Financial Year (Apr - Mar), 2004",,,,,,1,,,,,,
+235,India,14,Manipur,2005,"Financial Year (Apr - Mar), 2005",241.4,52,159,54,959,1,16502,1118,70.6,,,
+236,India,14,Manipur,2006,"Financial Year (Apr - Mar), 2006",225.7,49,158,51,959,1,16502,1118,63.1,,,
+237,India,14,Manipur,2007,"Financial Year (Apr - Mar), 2007",197.9,43,158,45,959,1,16502,1118,53.5,,,
+238,India,14,Manipur,2008,"Financial Year (Apr - Mar), 2008",231.2,50,158,53,959,1,16502,1137,63.6,,,
+239,India,14,Manipur,2009,"Financial Year (Apr - Mar), 2009",220.1,48,158,56,959,1,17724,1137,63.4,,,
+240,India,14,Manipur,2010,"Financial Year (Apr - Mar), 2010",198.5,43,158,52,959,1,18604,1137,54.7,,,
+241,India,14,Manipur,2011,"Financial Year (Apr - Mar), 2011",233.1,51,158,57,959,1,19133,1137,50.9,,,
+242,India,14,Manipur,2012,"Financial Year (Apr - Mar), 2012",183.3,50,158,54,1317,1,19252,1137,40.5,,,
+243,India,14,Manipur,2013,"Financial Year (Apr - Mar), 2013",199.5,54,179,57,1317,1,20837,715,35.1,,,
+244,India,14,Manipur,2014,"Financial Year (Apr - Mar), 2014",201.3,55,179,58,1452,1,21661,715,38.5,,,
+245,India,14,Manipur,2015,"Financial Year (Apr - Mar), 2015",249.1,68,200,71,1746,1,24247,715,40.9,,,
+246,India,14,Manipur,2016,"Financial Year (Apr - Mar), 2016",297.6,81,206,84,1746,1,24776,715,44.5,,1,28
+247,India,14,Manipur,2017,"Financial Year (Apr - Mar), 2017",271.1,74,233,76,1746,13,27612,715,36.5,,0,32
+248,India,14,Manipur,2018,"Financial Year (Apr - Mar), 2018",303.8,83,242,87,,13,29180,715,36.41,,,
+249,India,14,Manipur,2019,"Financial Year (Apr - Mar), 2019",332.8,90,259,92,1750,13,,,35.61,,,29
+250,India,14,Manipur,2020,"Financial Year (Apr - Mar), 2020",341.0,92,268,92,,13,,,,,,
+251,India,14,Manipur,2021,"Financial Year (Apr - Mar), 2021",360.3,97,262,97,1750,,,,,,,
+252,India,15,Mizoram,2004,"Financial Year (Apr - Mar), 2004",,,,,,2,,,,,,
+253,India,15,Mizoram,2005,"Financial Year (Apr - Mar), 2005",249.8,22,121,24,927,2,5426,140,66.1,,,
+254,India,15,Mizoram,2006,"Financial Year (Apr - Mar), 2006",243.0,22,117,23,927,2,5974,161,39.2,,,
+255,India,15,Mizoram,2007,"Financial Year (Apr - Mar), 2007",248.7,22,117,24,927,2,6144,259,38.2,,,
+256,India,15,Mizoram,2008,"Financial Year (Apr - Mar), 2008",276.8,25,119,29,927,2,6158,259,44.6,,,
+257,India,15,Mizoram,2009,"Financial Year (Apr - Mar), 2009",302.7,27,119,33,927,2,7742,259,52.7,,,
+258,India,15,Mizoram,2010,"Financial Year (Apr - Mar), 2010",324.1,29,131,35,927,2,8727,700,53.8,,,
+259,India,15,Mizoram,2011,"Financial Year (Apr - Mar), 2011",354.5,32,139,37,927,2,9810,700,45.6,,,
+260,India,15,Mizoram,2012,"Financial Year (Apr - Mar), 2012",325.4,36,139,40,1027,2,11293,700,47.7,,,
+261,India,15,Mizoram,2013,"Financial Year (Apr - Mar), 2013",346.5,38,150,41,1027,2,10939,310,37.8,,,
+262,India,15,Mizoram,2014,"Financial Year (Apr - Mar), 2014",394.1,43,150,45,1222,2,9803,214,41.5,,,
+263,India,15,Mizoram,2015,"Financial Year (Apr - Mar), 2015",389.5,43,161,46,1381,2,9831,214,42.1,,6,28
+264,India,15,Mizoram,2016,"Financial Year (Apr - Mar), 2016",417.0,46,119,47,1381,2,8108,170,36.1,,1,29
+265,India,15,Mizoram,2017,"Financial Year (Apr - Mar), 2017",457.4,50,137,51,1423,2,11012,170,35.5,,4,30
+266,India,15,Mizoram,2018,"Financial Year (Apr - Mar), 2018",447.3,49,196,50,,2,13374,170,24.23,,,
+267,India,15,Mizoram,2019,"Financial Year (Apr - Mar), 2019",605.9,64,206,67,1423,2,,,25.21,,,25
+268,India,15,Mizoram,2020,"Financial Year (Apr - Mar), 2020",613.5,64,212,65,,2,,,,,,
+269,India,15,Mizoram,2021,"Financial Year (Apr - Mar), 2021",689.9,72,207,73,1423,,,,,,,
+270,India,16,Tripura,2004,"Financial Year (Apr - Mar), 2004",,,,,,64,,,,,,
+271,India,16,Tripura,2005,"Financial Year (Apr - Mar), 2005",200.4,64,239,70,400,64,31716,689,59.5,,,
+272,India,16,Tripura,2006,"Financial Year (Apr - Mar), 2006",208.2,67,244,75,400,64,31731,689,41.1,,,
+273,India,16,Tripura,2007,"Financial Year (Apr - Mar), 2007",227.6,73,244,80,400,64,31731,689,34.8,,,
+274,India,16,Tripura,2008,"Financial Year (Apr - Mar), 2008",214.4,69,243,78,400,64,31733,689,42.8,,,
+275,India,16,Tripura,2009,"Financial Year (Apr - Mar), 2009",227.6,73,243,80,400,151,32767,689,35.8,,,
+276,India,16,Tripura,2010,"Financial Year (Apr - Mar), 2010",241.0,77,244,86,400,151,33338,689,35.6,,,
+277,India,16,Tripura,2011,"Financial Year (Apr - Mar), 2011",250.4,80,265,88,400,151,33772,689,27.4,,,
+278,India,16,Tripura,2012,"Financial Year (Apr - Mar), 2012",245.2,90,265,95,400,151,29248,689,39.1,,,
+279,India,16,Tripura,2013,"Financial Year (Apr - Mar), 2013",287.1,105,412,111,400,151,31021,689,31.7,,,
+280,India,16,Tripura,2014,"Financial Year (Apr - Mar), 2014",311.6,114,433,120,509,151,41857,1378,35.4,,,
+281,India,16,Tripura,2015,"Financial Year (Apr - Mar), 2015",285.5,105,627,124,577,151,37384,1378,35.9,,9,26
+282,India,16,Tripura,2016,"Financial Year (Apr - Mar), 2016",312.2,115,677,120,805,193,39365,329,30.6,,17,22
+283,India,16,Tripura,2017,"Financial Year (Apr - Mar), 2017",441.6,162,727,164,854,203,42925,329,30.4,,22,25
+284,India,16,Tripura,2018,"Financial Year (Apr - Mar), 2018",695.2,255,733,260,,216,43215,1057,29.89,,,
+285,India,16,Tripura,2019,"Financial Year (Apr - Mar), 2019",500.4,184,752,186,854,226,,,26.7,,,29
+286,India,16,Tripura,2020,"Financial Year (Apr - Mar), 2020",411.8,152,764,154,,265,,,,,,
+287,India,16,Tripura,2021,"Financial Year (Apr - Mar), 2021",402.5,148,724,148,854,,,,,,,
+288,India,17,Meghalaya,2004,"Financial Year (Apr - Mar), 2004",,,,,,,,,,,,
+289,India,17,Meghalaya,2005,"Financial Year (Apr - Mar), 2005",529.6,123,299,137,810,,9662,1134,28.4,,,
+290,India,17,Meghalaya,2006,"Financial Year (Apr - Mar), 2006",493.4,114,288,138,810,,9691,1134,40.2,,,
+291,India,17,Meghalaya,2007,"Financial Year (Apr - Mar), 2007",458.4,106,288,137,810,,9752,1134,35.3,,,
+292,India,17,Meghalaya,2008,"Financial Year (Apr - Mar), 2008",531.3,123,288,162,810,,9839,1134,37.6,,,
+293,India,17,Meghalaya,2009,"Financial Year (Apr - Mar), 2009",597.7,139,288,171,810,,11019,1134,37.5,,,
+294,India,17,Meghalaya,2010,"Financial Year (Apr - Mar), 2010",572.3,133,290,155,810,,11702,1134,39.1,,,
+295,India,17,Meghalaya,2011,"Financial Year (Apr - Mar), 2011",583.1,135,290,155,810,,11984,1134,35.8,,,
+296,India,17,Meghalaya,2012,"Financial Year (Apr - Mar), 2012",489.2,145,374,193,1171,,12103,856,31.0,,,
+297,India,17,Meghalaya,2013,"Financial Year (Apr - Mar), 2013",542.2,161,455,183,1171,,12317,858,23.6,,,
+298,India,17,Meghalaya,2014,"Financial Year (Apr - Mar), 2014",541.2,160,455,179,1171,,13260,748,21.4,,,
+299,India,17,Meghalaya,2015,"Financial Year (Apr - Mar), 2015",551.3,163,495,193,1204,,13372,751,33.1,,4,30
+300,India,17,Meghalaya,2016,"Financial Year (Apr - Mar), 2016",581.6,172,510,183,1203,,21727,772,32.3,,0,31
+301,India,17,Meghalaya,2017,"Financial Year (Apr - Mar), 2017",578.3,171,518,171,1204,,22939,772,35.7,,,34
+302,India,17,Meghalaya,2018,"Financial Year (Apr - Mar), 2018",523.3,155,565,156,,9,43836,781,35.08,,,
+303,India,17,Meghalaya,2019,"Financial Year (Apr - Mar), 2019",658.9,196,582,196,1156,9,,,43.12,,,29
+304,India,17,Meghalaya,2020,"Financial Year (Apr - Mar), 2020",695.3,206,609,211,,9,,,,,,
+305,India,17,Meghalaya,2021,"Financial Year (Apr - Mar), 2021",675.4,201,616,203,1156,,,,,,,
+306,India,18,Assam,2004,"Financial Year (Apr - Mar), 2004",,,,,,2517,,,,2.13,,
+307,India,18,Assam,2005,"Financial Year (Apr - Mar), 2005",134.4,358,1133,379,2836,2506,208788,2781,51.8,2.79,,
+308,India,18,Assam,2006,"Financial Year (Apr - Mar), 2006",141.7,378,1131,405,2836,2284,215819,2821,40.3,5.67,,
+309,India,18,Assam,2007,"Financial Year (Apr - Mar), 2007",149.5,398,1181,430,2836,2284,223450,2821,33.7,9.74,,
+310,India,18,Assam,2008,"Financial Year (Apr - Mar), 2008",165.5,441,955,482,2836,2284,230334,3134,38.6,14.74,,
+311,India,18,Assam,2009,"Financial Year (Apr - Mar), 2009",171.3,457,980,511,2836,2284,236985,3134,37.6,20.65,,
+312,India,18,Assam,2010,"Financial Year (Apr - Mar), 2010",175.9,469,979,512,2836,2433,239394,3134,32.8,29.99,,
+313,India,18,Assam,2011,"Financial Year (Apr - Mar), 2011",189.9,506,979,540,2836,2434,241789,3134,34.2,38.98,,
+314,India,18,Assam,2012,"Financial Year (Apr - Mar), 2012",182.7,570,1020,603,2940,2459,284232,3134,33.5,46.61,,
+315,India,18,Assam,2013,"Financial Year (Apr - Mar), 2013",194.0,605,1140,650,2940,2459,288135,3134,30.7,46.51,,
+316,India,18,Assam,2014,"Financial Year (Apr - Mar), 2014",226.6,706,1143,754,3634,2468,313621,3134,31.1,48.74,,
+317,India,18,Assam,2015,"Financial Year (Apr - Mar), 2015",254.3,793,1263,853,3784,2471,326512,2530,27.6,53.95,14,22
+318,India,18,Assam,2016,"Financial Year (Apr - Mar), 2016",265.4,827,1369,876,3821,2443,329520,2530,25.2,57.64,14,24
+319,India,18,Assam,2017,"Financial Year (Apr - Mar), 2017",278.9,869,1600,902,3845,2440,337777,2530,25.0,66.97,85,17
+320,India,18,Assam,2018,"Financial Year (Apr - Mar), 2018",281.7,878,1571,910,,2465,343609,2530,24.6,76.87,,
+321,India,18,Assam,2019,"Financial Year (Apr - Mar), 2019",295.3,924,1710,953,3909,2519,,,23.98,68.81,,20
+322,India,18,Assam,2020,"Financial Year (Apr - Mar), 2020",296.9,929,1757,980,,2519,,,,70.01,,
+323,India,18,Assam,2021,"Financial Year (Apr - Mar), 2021",313.7,982,1794,1019,3936,,,,,70.86,,
+324,India,19,West Bengal,2004,"Financial Year (Apr - Mar), 2004",,,,,,3706,,,,2.18,,
+325,India,19,West Bengal,2005,"Financial Year (Apr - Mar), 2005",284.2,2279,5565,2316,2325,3856,195679,1462,28.5,3.0,,
+326,India,19,West Bengal,2006,"Financial Year (Apr - Mar), 2006",305.7,2451,5411,2494,2377,3911,199052,1517,24.8,5.53,,
+327,India,19,West Bengal,2007,"Financial Year (Apr - Mar), 2007",323.9,2597,5331,2654,2377,3911,208415,1682,23.6,8.63,,
+328,India,19,West Bengal,2008,"Financial Year (Apr - Mar), 2008",348.0,2790,7432,2902,2524,3951,211770,1682,21.3,14.36,,
+329,India,19,West Bengal,2009,"Financial Year (Apr - Mar), 2009",377.8,3029,7732,3129,2578,3890,290170,4505,16.8,22.51,,
+330,India,19,West Bengal,2010,"Financial Year (Apr - Mar), 2010",409.3,3282,8150,3375,2578,3890,291805,4505,18.3,34.81,,
+331,India,19,West Bengal,2011,"Financial Year (Apr - Mar), 2011",447.1,3585,8317,3648,2578,3937,299209,4505,22.4,53.43,,
+332,India,19,West Bengal,2012,"Financial Year (Apr - Mar), 2012",419.1,3828,8567,3868,2681,4000,315404,4505,23.2,61.52,,
+333,India,19,West Bengal,2013,"Financial Year (Apr - Mar), 2013",458.1,4184,8616,4214,2681,4037,309692,3952,24.1,54.18,,
+334,India,19,West Bengal,2014,"Financial Year (Apr - Mar), 2014",468.1,4276,8959,4289,2908,4070,313750,3893,24.1,55.13,,
+335,India,19,West Bengal,2015,"Financial Year (Apr - Mar), 2015",512.6,4683,9576,4709,2910,4070,295997,3697,24.7,60.69,47,11
+336,India,19,West Bengal,2016,"Financial Year (Apr - Mar), 2016",516.6,4719,9984,4736,2956,4135,316730,3612,22.2,63.16,84,15
+337,India,19,West Bengal,2017,"Financial Year (Apr - Mar), 2017",523.4,4781,10383,4795,3004,4139,322067,3262,22.4,73.59,95,10
+338,India,19,West Bengal,2018,"Financial Year (Apr - Mar), 2018",553.6,5057,10518,5076,,4139,329126,3262,22.2,73.73,,
+339,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",570.1,5129,10568,5224,3664,4230,,,18.33,71.39,,9
+340,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",587.2,5282,11027,5295,,4217,,,,67.8,,
+341,India,19,West Bengal,2021,"Financial Year (Apr - Mar), 2021",572.9,5154,11037,5164,3665,,,,,68.5,,
+342,India,20,Jharkhand,2004,"Financial Year (Apr - Mar), 2004",,,,,,1943,,,,2.0,,
+343,India,20,Jharkhand,2005,"Financial Year (Apr - Mar), 2005",131.7,355,1897,363,1805,1941,18038,1886,19.6,2.3,,
+344,India,20,Jharkhand,2006,"Financial Year (Apr - Mar), 2006",143.5,387,2017,403,1805,1955,18055,1886,26.8,2.99,,
+345,India,20,Jharkhand,2007,"Financial Year (Apr - Mar), 2007",154.2,415,2017,437,1805,1941,18071,1886,26.2,3.43,,
+346,India,20,Jharkhand,2008,"Financial Year (Apr - Mar), 2008",165.4,446,2153,514,1805,1965,17531,1886,23.2,3.6,,
+347,India,20,Jharkhand,2009,"Financial Year (Apr - Mar), 2009",189.6,511,2153,536,1805,1968,20772,1886,24.3,4.11,,
+348,India,20,Jharkhand,2010,"Financial Year (Apr - Mar), 2010",200.7,541,1943,587,1805,2001,22302,1886,22.2,5.54,,
+349,India,20,Jharkhand,2011,"Financial Year (Apr - Mar), 2011",222.1,599,1984,620,1805,1984,23903,1886,17.1,,,
+350,India,20,Jharkhand,2012,"Financial Year (Apr - Mar), 2012",182.9,603,3038,628,2170,2040,26277,1886,14.3,,,
+351,India,20,Jharkhand,2013,"Financial Year (Apr - Mar), 2013",205.2,677,2270,704,2374,2113,37064,1960,13.6,,,
+352,India,20,Jharkhand,2014,"Financial Year (Apr - Mar), 2014",212.6,701,2580,714,2968,2182,41258,1596,13.1,,,
+353,India,20,Jharkhand,2015,"Financial Year (Apr - Mar), 2015",224.2,739,2626,760,2632,2294,42705,1358,17.2,,63,3
+354,India,20,Jharkhand,2016,"Financial Year (Apr - Mar), 2016",229.3,756,2626,774,2654,2394,66786,1296,17.0,,97,7
+355,India,20,Jharkhand,2017,"Financial Year (Apr - Mar), 2017",239.8,791,2237,796,2661,2455,69871,1339,16.3,,98,4
+356,India,20,Jharkhand,2018,"Financial Year (Apr - Mar), 2018",235.2,775,1771,791,,2585,79062,1232,16.27,,,
+357,India,20,Jharkhand,2019,"Financial Year (Apr - Mar), 2019",256.7,849,1774,868,3367,2571,,,18.37,,,5
+358,India,20,Jharkhand,2020,"Financial Year (Apr - Mar), 2020",268.2,887,2514,894,,2596,,,,,,
+359,India,20,Jharkhand,2021,"Financial Year (Apr - Mar), 2021",292.5,968,2548,995,3367,,,,,,,
+360,India,21,Odisha,2004,"Financial Year (Apr - Mar), 2004",,,,,,2284,,,,2.95,,
+361,India,21,Odisha,2005,"Financial Year (Apr - Mar), 2005",377.0,1388,3428,1398,3704,2280,215141,4042,44.0,3.96,,
+362,India,21,Odisha,2006,"Financial Year (Apr - Mar), 2006",407.8,1501,3476,1521,3704,2282,215214,3908,45.6,7.57,,
+363,India,21,Odisha,2007,"Financial Year (Apr - Mar), 2007",456.4,1680,3476,1710,3704,2247,215300,3835,43.3,9.51,,
+364,India,21,Odisha,2008,"Financial Year (Apr - Mar), 2008",502.7,1850,4051,1885,3704,2387,215404,3806,39.4,15.0,,
+365,India,21,Odisha,2009,"Financial Year (Apr - Mar), 2009",549.2,2021,4072,2052,3704,2385,229132,3798,42.7,23.3,,
+366,India,21,Odisha,2010,"Financial Year (Apr - Mar), 2010",569.4,2096,4059,2114,3704,2386,233524,3707,37.0,39.3,,
+367,India,21,Odisha,2011,"Financial Year (Apr - Mar), 2011",609.9,2245,5379,2251,3704,2461,258836,3576,42.5,56.37,,
+368,India,21,Odisha,2012,"Financial Year (Apr - Mar), 2012",541.0,2269,5996,2304,3704,2469,254709,3654,44.6,65.84,,
+369,India,21,Odisha,2013,"Financial Year (Apr - Mar), 2013",579.8,2432,6946,2516,4416,2507,277659,3607,39.8,60.21,,
+370,India,21,Odisha,2014,"Financial Year (Apr - Mar), 2014",585.2,2455,7737,2496,4550,2516,283165,5125,38.9,60.9,,
+371,India,21,Odisha,2015,"Financial Year (Apr - Mar), 2015",621.1,2605,9036,2648,4645,2529,283692,4109,42.0,66.85,52,7
+372,India,21,Odisha,2016,"Financial Year (Apr - Mar), 2016",634.1,2660,9422,2676,4838,2572,288083,4187,39.1,69.09,93,11
+373,India,21,Odisha,2017,"Financial Year (Apr - Mar), 2017",637.8,2676,8538,2676,5413,2598,303669,4139,38.2,80.74,92,14
+374,India,21,Odisha,2018,"Financial Year (Apr - Mar), 2018",684.3,2871,7377,2880,,2608,307976,4138,38.11,80.28,,
+375,India,21,Odisha,2019,"Financial Year (Apr - Mar), 2019",757.6,3212,7654,3181,5762,2622,,,34.94,75.74,,29
+376,India,21,Odisha,2020,"Financial Year (Apr - Mar), 2020",700.4,2969,8567,2969,,2652,,,,76.58,,
+377,India,21,Odisha,2021,"Financial Year (Apr - Mar), 2021",704.1,2985,8594,2985,5897,,,,,78.46,,
+378,India,22,Chhattisgarh,2004,"Financial Year (Apr - Mar), 2004",,,,,,1159,,,,1.63,,
+379,India,22,Chhattisgarh,2005,"Financial Year (Apr - Mar), 2005",554.5,1155,1633,1175,2184,1159,72322,3170,28.1,1.8,,
+380,India,22,Chhattisgarh,2006,"Financial Year (Apr - Mar), 2006",601.9,1254,1649,1301,2184,1186,73892,3164,31.1,2.09,,
+381,India,22,Chhattisgarh,2007,"Financial Year (Apr - Mar), 2007",632.1,1317,1649,1406,2184,1186,73705,3342,31.7,3.24,,
+382,India,22,Chhattisgarh,2008,"Financial Year (Apr - Mar), 2008",643.6,1341,3103,1408,2184,1186,74434,3419,29.8,4.38,,
+383,India,22,Chhattisgarh,2009,"Financial Year (Apr - Mar), 2009",694.8,1448,3607,1487,2184,1186,87733,3213,26.4,5.15,,
+384,India,22,Chhattisgarh,2010,"Financial Year (Apr - Mar), 2010",515.5,1074,4769,1101,2184,1186,91477,5240,18.6,5.74,,
+385,India,22,Chhattisgarh,2011,"Financial Year (Apr - Mar), 2011",487.9,1017,4882,1034,2184,1187,93965,5240,15.1,,,
+386,India,22,Chhattisgarh,2012,"Financial Year (Apr - Mar), 2012",572.2,1462,5347,1501,2289,1188,75742,5240,16.5,,,
+387,India,22,Chhattisgarh,2013,"Financial Year (Apr - Mar), 2013",665.7,1700,6532,1730,2289,1196,89236,5240,28.8,,,
+388,India,22,Chhattisgarh,2014,"Financial Year (Apr - Mar), 2014",736.1,1880,9975,1893,3031,1197,94580,5080,28.4,,,
+389,India,22,Chhattisgarh,2015,"Financial Year (Apr - Mar), 2015",831.2,2123,13086,2150,3079,1196,97534,4374,29.2,,62,4
+390,India,22,Chhattisgarh,2016,"Financial Year (Apr - Mar), 2016",991.0,2531,15540,2565,3078,1213,95809,4462,30.8,,97,4
+391,India,22,Chhattisgarh,2017,"Financial Year (Apr - Mar), 2017",927.9,2370,12060,2375,3523,1216,97845,4438,25.6,,97,6
+392,India,22,Chhattisgarh,2018,"Financial Year (Apr - Mar), 2018",1011.4,2583,13527,2592,,1211,102578,4176,23.97,,,
+393,India,22,Chhattisgarh,2019,"Financial Year (Apr - Mar), 2019",1021.0,2642,14044,2613,3605,1212,,,25.14,,,6
+394,India,22,Chhattisgarh,2020,"Financial Year (Apr - Mar), 2020",1163.6,3011,12835,3011,,1152,,,,,,
+395,India,22,Chhattisgarh,2021,"Financial Year (Apr - Mar), 2021",1176.8,3045,13076,3047,3620,,,,,,,
+396,India,23,Madhya Pradesh,2004,"Financial Year (Apr - Mar), 2004",,,,,,4849,,,,3.99,,
+397,India,23,Madhya Pradesh,2005,"Financial Year (Apr - Mar), 2005",498.7,3010,5770,3481,5200,4905,163920,8098,41.3,5.21,,
+398,India,23,Madhya Pradesh,2006,"Financial Year (Apr - Mar), 2006",523.9,3162,6199,3685,4670,4903,164801,8729,40.1,7.12,,
+399,India,23,Madhya Pradesh,2007,"Financial Year (Apr - Mar), 2007",544.0,3283,6487,3871,4670,4884,165407,8729,39.2,12.22,,
+400,India,23,Madhya Pradesh,2008,"Financial Year (Apr - Mar), 2008",591.6,3570,7752,4156,4670,4884,165740,8729,35.6,20.29,,
+401,India,23,Madhya Pradesh,2009,"Financial Year (Apr - Mar), 2009",577.3,3484,8113,4205,4670,4949,185898,10115,38.5,30.08,,
+402,India,23,Madhya Pradesh,2010,"Financial Year (Apr - Mar), 2010",579.5,3497,8324,4318,5027,4948,189915,10249,38.3,45.23,,
+403,India,23,Madhya Pradesh,2011,"Financial Year (Apr - Mar), 2011",640.4,3864,8381,4844,5027,4955,197293,10249,37.6,48.88,,
+404,India,23,Madhya Pradesh,2012,"Financial Year (Apr - Mar), 2012",570.2,4139,8780,4979,5064,4954,201261,10501,34.5,53.81,,
+405,India,23,Madhya Pradesh,2013,"Financial Year (Apr - Mar), 2013",609.8,4683,10632,5178,5116,4955,228816,10934,31.5,53.55,,
+406,India,23,Madhya Pradesh,2014,"Financial Year (Apr - Mar), 2014",680.3,4939,13805,4941,5116,4976,279996,10934,31.5,56.04,,
+407,India,23,Madhya Pradesh,2015,"Financial Year (Apr - Mar), 2015",731.2,5308,15845,5337,5184,4979,288931,10934,32.3,60.25,62,5
+408,India,23,Madhya Pradesh,2016,"Financial Year (Apr - Mar), 2016",859.2,6238,17644,6238,5194,5000,289940,10934,28.6,64.23,97,5
+409,India,23,Madhya Pradesh,2017,"Financial Year (Apr - Mar), 2017",905.8,6576,19618,6576,8053,5113,342654,11389,26.8,67.07,97,7
+410,India,23,Madhya Pradesh,2018,"Financial Year (Apr - Mar), 2018",963.2,6993,21728,6993,,4829,363972,11389,26.75,67.02,,
+411,India,23,Madhya Pradesh,2019,"Financial Year (Apr - Mar), 2019",1042.3,7605,23334,7567,8772,4899,,,27.65,70.11,,4
+412,India,23,Madhya Pradesh,2020,"Financial Year (Apr - Mar), 2020",1043.9,7617,24821,7617,,5148,,,,69.4,,
+413,India,23,Madhya Pradesh,2021,"Financial Year (Apr - Mar), 2021",1143.5,8344,25489,8344,8941,,,,,68.87,,
+414,India,24,Gujarat,2004,"Financial Year (Apr - Mar), 2004",,,,,,5283,,,,10.14,,
+415,India,24,Gujarat,2005,"Financial Year (Apr - Mar), 2005",1040.5,5272,9291,5968,2871,5284,143419,18863,30.4,12.73,,
+416,India,24,Gujarat,2006,"Financial Year (Apr - Mar), 2006",1034.8,5244,9848,5714,3245,5283,144777,18702,27.9,16.98,,
+417,India,24,Gujarat,2007,"Financial Year (Apr - Mar), 2007",1067.3,5408,10270,6246,3245,5309,145631,18625,24.9,24.14,,
+418,India,24,Gujarat,2008,"Financial Year (Apr - Mar), 2008",1137.0,5761,11052,6875,3245,5328,146630,18447,26.1,33.63,,
+419,India,24,Gujarat,2009,"Financial Year (Apr - Mar), 2009",1201.0,6085,12110,6748,3245,5328,153521,18460,24.1,45.16,,
+420,India,24,Gujarat,2010,"Financial Year (Apr - Mar), 2010",1326.6,6722,13908,7037,3245,4999,155614,18421,22.8,58.46,,
+421,India,24,Gujarat,2011,"Financial Year (Apr - Mar), 2011",1332.8,6753,15723,7165,3245,5271,156188,18421,19.2,81.9,,
+422,India,24,Gujarat,2012,"Financial Year (Apr - Mar), 2012",1232.6,7443,21972,7470,4032,5257,163149,18480,21.8,91.13,,
+423,India,24,Gujarat,2013,"Financial Year (Apr - Mar), 2013",1549.0,9351,26414,9366,3828,5257,165640,18506,18.5,87.23,,
+424,India,24,Gujarat,2014,"Financial Year (Apr - Mar), 2014",1465.4,8849,27647,8850,4694,5259,179063,18017,18.1,90.54,,
+425,India,24,Gujarat,2015,"Financial Year (Apr - Mar), 2015",1593.3,9621,28961,9624,4971,5259,182287,18017,19.3,95.61,71,1
+426,India,24,Gujarat,2016,"Financial Year (Apr - Mar), 2016",1714.7,10354,29611,10354,4971,5259,179144,17201,19.1,100.06,98,3
+427,India,24,Gujarat,2017,"Financial Year (Apr - Mar), 2017",1717.4,10370,30716,10370,5456,5259,180927,17201,18.2,113.71,98,5
+428,India,24,Gujarat,2018,"Financial Year (Apr - Mar), 2018",1821.2,10997,31043,10999,,5285,201742,17201,17.9,112.45,,
+429,India,24,Gujarat,2019,"Financial Year (Apr - Mar), 2019",1930.5,11636,32291,11659,6635,5320,,,20.3,107.21,,10
+430,India,24,Gujarat,2020,"Financial Year (Apr - Mar), 2020",1890.4,11394,35211,11394,,5301,,,,103.51,,
+431,India,24,Gujarat,2021,"Financial Year (Apr - Mar), 2021",1852.0,11162,37893,11162,7744,,,,,99.18,,
+432,India,27,Maharashtra,2004,"Financial Year (Apr - Mar), 2004",,,,,,5497,,,,8.0,,
+433,India,27,Maharashtra,2005,"Financial Year (Apr - Mar), 2005",841.7,8154,15669,9272,4176,5527,220937,33406,34.4,10.01,,
+434,India,27,Maharashtra,2006,"Financial Year (Apr - Mar), 2006",868.2,8412,16157,10277,4176,5528,220447,33571,31.6,13.1,,
+435,India,27,Maharashtra,2007,"Financial Year (Apr - Mar), 2007",920.1,8914,17380,11001,4176,5519,223142,33675,31.6,18.78,,
+436,India,27,Maharashtra,2008,"Financial Year (Apr - Mar), 2008",968.7,9385,19583,11489,4176,5536,223322,33675,29.8,27.42,,
+437,India,27,Maharashtra,2009,"Financial Year (Apr - Mar), 2009",988.5,9576,20415,12190,4176,5602,399416,32629,23.9,37.9,,
+438,India,27,Maharashtra,2010,"Financial Year (Apr - Mar), 2010",1047.8,10151,21379,12494,4191,5602,406660,32823,25.2,50.3,,
+493,India,30,Goa,2011,"Financial Year (Apr - Mar), 2011",2292.1,309,387,315,269,69,10627,279,15.3,,,
+439,India,27,Maharashtra,2011,"Financial Year (Apr - Mar), 2011",1104.7,10702,22645,12830,4191,5602,410521,32823,20.7,68.97,,
+440,India,27,Maharashtra,2012,"Financial Year (Apr - Mar), 2012",1047.6,11772,26142,14138,4257,5602,396685,32596,20.0,77.19,,
+441,India,27,Maharashtra,2013,"Financial Year (Apr - Mar), 2013",1067.6,11997,30354,12398,4498,5725,589625,38765,21.8,73.97,,
+442,India,27,Maharashtra,2014,"Financial Year (Apr - Mar), 2014",1100.5,12367,34867,12629,6249,5725,608690,39588,21.8,77.32,,
+443,India,27,Maharashtra,2015,"Financial Year (Apr - Mar), 2015",1184.3,13308,38355,13490,7048,5725,608140,40144,20.4,80.75,49,8
+444,India,27,Maharashtra,2016,"Financial Year (Apr - Mar), 2016",1258.0,14136,40376,14182,7435,5745,613418,39000,19.9,87.06,93,10
+445,India,27,Maharashtra,2017,"Financial Year (Apr - Mar), 2017",1239.0,13923,41410,13929,16239,5784,623972,39000,18.2,95.88,93,13
+446,India,27,Maharashtra,2018,"Financial Year (Apr - Mar), 2018",1330.7,14953,43255,14976,,5733,626521,38999,17.85,95.5,,
+447,India,27,Maharashtra,2019,"Financial Year (Apr - Mar), 2019",1407.4,15816,44144,15829,17757,5819,,,19.46,92.83,,13
+448,India,27,Maharashtra,2020,"Financial Year (Apr - Mar), 2020",1380.8,15517,43496,15517,,5829,,,,91.55,,
+449,India,27,Maharashtra,2021,"Financial Year (Apr - Mar), 2021",1340.7,15066,44166,15068,17931,,,,,95.83,,
+450,India,28,Andhra Pradesh,2004,"Financial Year (Apr - Mar), 2004",,,,,,5196,,,,7.85,,
+451,India,28,Andhra Pradesh,2005,"Financial Year (Apr - Mar), 2005",656.9,5006,10809,5042,4472,5205,329407,9212,23.9,9.48,,
+452,India,28,Andhra Pradesh,2006,"Financial Year (Apr - Mar), 2006",686.7,5233,11325,5303,4472,5185,336982,10231,20.1,13.45,,
+453,India,28,Andhra Pradesh,2007,"Financial Year (Apr - Mar), 2007",764.7,5828,11642,6096,4472,5172,339002,10412,18.7,19.62,,
+454,India,28,Andhra Pradesh,2008,"Financial Year (Apr - Mar), 2008",807.1,6151,11867,6414,4472,5170,345012,10518,22.4,28.25,,
+455,India,28,Andhra Pradesh,2009,"Financial Year (Apr - Mar), 2009",874.9,6667,11639,7151,4537,5185,232280,10470,19.6,39.59,,
+456,India,28,Andhra Pradesh,2010,"Financial Year (Apr - Mar), 2010",967.9,7377,13409,7900,4537,5241,235678,10481,18.4,57.23,,
+457,India,28,Andhra Pradesh,2011,"Financial Year (Apr - Mar), 2011",1003.1,7645,15036,7897,4537,5264,238001,10491,16.6,74.35,,
+458,India,28,Andhra Pradesh,2012,"Financial Year (Apr - Mar), 2012",1005.7,8515,16095,9173,4537,5264,256448,10650,17.5,80.87,,
+459,India,28,Andhra Pradesh,2013,"Financial Year (Apr - Mar), 2013",970.5,8217,16949,9969,5022,5322,261657,10700,19.3,77.19,,
+460,India,28,Andhra Pradesh,2014,"Financial Year (Apr - Mar), 2014",1051.6,8904,17731,9566,6590,3593,178096,6480,20.1,79.52,,
+461,India,28,Andhra Pradesh,2015,"Financial Year (Apr - Mar), 2015",1140.2,5631,11275,5920,4670,3657,179022,6485,17.9,84.15,70,2
+462,India,28,Andhra Pradesh,2016,"Financial Year (Apr - Mar), 2016",1019.8,5037,14827,5044,5465,3703,174367,6485,16.2,86.4,99,1
+463,India,28,Andhra Pradesh,2017,"Financial Year (Apr - Mar), 2017",1098.6,5426,22298,5430,6383,3817,176474,6485,16.2,97.18,98,1
+464,India,28,Andhra Pradesh,2018,"Financial Year (Apr - Mar), 2018",1180.3,5829,23674,5838,,3817,218190,13604,16.07,97.21,,
+465,India,28,Andhra Pradesh,2019,"Financial Year (Apr - Mar), 2019",1289.4,6380,24184,6374,6912,3822,,,17.62,97.55,,1
+466,India,28,Andhra Pradesh,2020,"Financial Year (Apr - Mar), 2020",1321.9,6541,24854,6545,,3965,,,,97.88,,
+467,India,28,Andhra Pradesh,2021,"Financial Year (Apr - Mar), 2021",1254.5,6208,25484,6208,7340,,,,,99.56,,
+468,India,29,Karnataka,2004,"Financial Year (Apr - Mar), 2004",,,,,,2980,,,,9.46,,
+469,India,29,Karnataka,2005,"Financial Year (Apr - Mar), 2005",637.4,3369,7557,3516,3843,2982,210415,17240,26.1,12.19,,
+470,India,29,Karnataka,2006,"Financial Year (Apr - Mar), 2006",649.9,3435,7785,3460,3843,3002,214211,17405,29.8,17.06,,
+471,India,29,Karnataka,2007,"Financial Year (Apr - Mar), 2007",755.9,3995,7785,4080,3843,3006,253901,18749,25.9,25.05,,
+472,India,29,Karnataka,2008,"Financial Year (Apr - Mar), 2008",742.3,3923,8877,4032,3843,3005,255454,20738,18.9,34.53,,
+473,India,29,Karnataka,2009,"Financial Year (Apr - Mar), 2009",767.8,4058,9347,4317,4396,3007,274896,20905,17.0,45.21,,
+474,India,29,Karnataka,2010,"Financial Year (Apr - Mar), 2010",795.5,4204,10386,4555,4396,3073,280147,20528,18.8,67.81,,
+475,India,29,Karnataka,2011,"Financial Year (Apr - Mar), 2011",882.2,4662,11546,5047,4396,3073,281773,20770,17.3,87.76,,
+476,India,29,Karnataka,2012,"Financial Year (Apr - Mar), 2012",883.7,5402,13394,6083,4396,3090,303128,20774,12.7,97.22,,
+477,India,29,Karnataka,2013,"Financial Year (Apr - Mar), 2013",933.1,5704,13759,6627,4642,3228,305448,20749,11.1,91.24,,
+478,India,29,Karnataka,2014,"Financial Year (Apr - Mar), 2014",949.6,5805,14270,6415,6177,3281,313184,20774,10.2,92.45,,
+479,India,29,Karnataka,2015,"Financial Year (Apr - Mar), 2015",980.3,5993,15150,6264,6432,3281,321808,19721,11.5,97.54,49,9
+480,India,29,Karnataka,2016,"Financial Year (Apr - Mar), 2016",997.4,6097,17037,6430,6503,3281,345515,19578,10.5,101.89,88,13
+481,India,29,Karnataka,2017,"Financial Year (Apr - Mar), 2017",1088.5,6654,21317,6690,6991,3424,361041,19556,13.4,113.39,96,8
+482,India,29,Karnataka,2018,"Financial Year (Apr - Mar), 2018",1107.5,6770,27157,6787,,3499,354505,19521,13.25,109.05,,
+483,India,29,Karnataka,2019,"Financial Year (Apr - Mar), 2019",1172.7,7170,28075,7176,7335,3540,,,16.01,110.04,,17
+484,India,29,Karnataka,2020,"Financial Year (Apr - Mar), 2020",1190.7,7280,29825,7280,,3542,,,,108.19,,
+485,India,29,Karnataka,2021,"Financial Year (Apr - Mar), 2021",1125.9,6883,30091,6885,7412,,,,,105.85,,
+486,India,30,Goa,2004,"Financial Year (Apr - Mar), 2004",,,,,,69,,,,,,
+487,India,30,Goa,2005,"Financial Year (Apr - Mar), 2005",1592.4,215,305,215,269,69,10331,279,35.9,,,
+488,India,30,Goa,2006,"Financial Year (Apr - Mar), 2006",1734.8,234,305,234,269,69,10420,279,19.7,,,
+489,India,30,Goa,2007,"Financial Year (Apr - Mar), 2007",1933.7,261,311,262,269,69,10523,279,20.9,,,
+490,India,30,Goa,2008,"Financial Year (Apr - Mar), 2008",2008.7,271,352,274,269,69,10569,279,21.2,,,
+491,India,30,Goa,2009,"Financial Year (Apr - Mar), 2009",2043.5,275,357,280,269,69,10190,279,17.1,,,
+492,India,30,Goa,2010,"Financial Year (Apr - Mar), 2010",2245.4,303,381,309,269,69,10356,279,17.0,,,
+494,India,30,Goa,2012,"Financial Year (Apr - Mar), 2012",2045.0,298,400,302,269,69,11082,279,12.4,,,
+495,India,30,Goa,2013,"Financial Year (Apr - Mar), 2013",2131.4,311,430,318,269,69,11598,279,13.4,,,
+496,India,30,Goa,2014,"Financial Year (Apr - Mar), 2014",2655.5,387,400,389,269,69,13267,279,12.7,,,
+497,India,30,Goa,2015,"Financial Year (Apr - Mar), 2015",2697.4,393,400,397,262,69,14624,279,15.0,,22,19
+498,India,30,Goa,2016,"Financial Year (Apr - Mar), 2016",3511.6,512,412,512,262,69,16063,279,18.0,,18,21
+499,India,30,Goa,2017,"Financial Year (Apr - Mar), 2017",2962.2,432,541,432,293,69,16659,279,18.0,,57,19
+500,India,30,Goa,2018,"Financial Year (Apr - Mar), 2018",2824.3,412,549,412,,69,18607,280,17.21,,,
+501,India,30,Goa,2019,"Financial Year (Apr - Mar), 2019",2936.1,429,567,428,293,69,,,16.23,,,24
+502,India,30,Goa,2020,"Financial Year (Apr - Mar), 2020",2975.8,435,581,435,,69,,,,,,
+503,India,30,Goa,2021,"Financial Year (Apr - Mar), 2021",2793.1,408,596,408,299,,,,,,,
+504,India,31,Lakshadweep,2005,"Financial Year (Apr - Mar), 2005",,,10,,,,162,,10.2,,,
+505,India,31,Lakshadweep,2006,"Financial Year (Apr - Mar), 2006",395.7,2,10,2,,,166,,11.2,,,
+506,India,31,Lakshadweep,2007,"Financial Year (Apr - Mar), 2007",412.2,3,10,3,,,168,,12.9,,,
+507,India,31,Lakshadweep,2008,"Financial Year (Apr - Mar), 2008",395.7,2,11,2,,,172,,18.1,,,
+508,India,31,Lakshadweep,2009,"Financial Year (Apr - Mar), 2009",395.7,2,11,2,,,176,,24.9,,,
+509,India,31,Lakshadweep,2010,"Financial Year (Apr - Mar), 2010",395.7,2,10,2,,,182,,11.6,,,
+510,India,31,Lakshadweep,2011,"Financial Year (Apr - Mar), 2011",412.2,3,11,3,,,190,,25.7,,,
+511,India,31,Lakshadweep,2012,"Financial Year (Apr - Mar), 2012",574.3,4,11,4,,,202,,22.5,,,
+512,India,31,Lakshadweep,2013,"Financial Year (Apr - Mar), 2013",558.8,4,11,4,,,207,,18.6,,,
+513,India,31,Lakshadweep,2014,"Financial Year (Apr - Mar), 2014",745.0,5,11,5,,,208,,11.2,,,
+514,India,31,Lakshadweep,2015,"Financial Year (Apr - Mar), 2015",745.0,5,11,5,,,214,,3.6,,,
+515,India,31,Lakshadweep,2016,"Financial Year (Apr - Mar), 2016",745.0,5,1,5,,,209,,9.8,,0,31
+516,India,31,Lakshadweep,2017,"Financial Year (Apr - Mar), 2017",745.0,5,1,5,,,212,,7.0,,,34
+517,India,31,Lakshadweep,2018,"Financial Year (Apr - Mar), 2018",745.0,5,1,5,,,224,,3.56,,,
+518,India,31,Lakshadweep,2019,"Financial Year (Apr - Mar), 2019",714.0,5,1,5,,,,,2.24,,,15
+519,India,31,Lakshadweep,2020,"Financial Year (Apr - Mar), 2020",714.0,5,1,5,,,,,,,,
+520,India,31,Lakshadweep,2021,"Financial Year (Apr - Mar), 2021",869.2,6,1,6,,,,,,,,
+521,India,32,Kerala,2004,"Financial Year (Apr - Mar), 2004",,,,,,1050,,,,14.87,,
+522,India,32,Kerala,2005,"Financial Year (Apr - Mar), 2005",393.8,1254,3473,1269,1440,1050,169516,3784,22.5,18.77,,
+523,India,32,Kerala,2006,"Financial Year (Apr - Mar), 2006",426.4,1358,3496,1367,1440,1050,187147,3788,23.5,25.54,,
+524,India,32,Kerala,2007,"Financial Year (Apr - Mar), 2007",462.2,1472,3496,1502,1440,1050,197454,4737,19.1,33.54,,
+525,India,32,Kerala,2008,"Financial Year (Apr - Mar), 2008",480.0,1528,3495,1566,1457,1050,204757,4137,17.8,45.34,,
+526,India,32,Kerala,2009,"Financial Year (Apr - Mar), 2009",488.7,1556,3514,1765,1457,1050,200625,4341,13.2,58.48,,
+527,India,32,Kerala,2010,"Financial Year (Apr - Mar), 2010",540.1,1720,3554,1762,1457,1050,200928,4341,19.6,80.36,,
+528,India,32,Kerala,2011,"Financial Year (Apr - Mar), 2011",558.0,1777,3719,1802,1457,1050,201220,4341,18.3,100.01,,
+529,India,32,Kerala,2012,"Financial Year (Apr - Mar), 2012",583.1,1947,3828,1989,1457,1050,215438,4341,17.2,106.61,,
+530,India,32,Kerala,2013,"Financial Year (Apr - Mar), 2013",610.7,2039,3856,2124,1457,1050,185030,4341,17.7,96.09,,
+531,India,32,Kerala,2014,"Financial Year (Apr - Mar), 2014",630.5,2105,3892,2158,1700,1050,193460,4341,15.0,96.19,,
+532,India,32,Kerala,2015,"Financial Year (Apr - Mar), 2015",662.7,2213,4107,2246,1811,1050,194854,4341,15.4,95.41,23,18
+533,India,32,Kerala,2016,"Financial Year (Apr - Mar), 2016",694.7,2319,4163,2332,1812,1045,200808,4342,11.6,102.33,27,20
+534,India,32,Kerala,2017,"Financial Year (Apr - Mar), 2017",726.6,2426,4999,2430,1782,1045,240562,4342,18.1,114.75,45,21
+535,India,32,Kerala,2018,"Financial Year (Apr - Mar), 2018",746.3,2492,5083,2500,,1045,257085,4342,15.76,121.61,,
+536,India,32,Kerala,2019,"Financial Year (Apr - Mar), 2019",746.2,2490,5083,2503,1782,1045,,,16.39,126.15,,28
+537,India,32,Kerala,2020,"Financial Year (Apr - Mar), 2020",787.2,2627,5696,2632,,1045,,,,123.19,,
+538,India,32,Kerala,2021,"Financial Year (Apr - Mar), 2021",752.3,2510,5837,2512,1782,,,,,129.45,,
+539,India,33,Tamil Nadu,2004,"Financial Year (Apr - Mar), 2004",,,,,,4201,,,,8.54,,
+540,India,33,Tamil Nadu,2005,"Financial Year (Apr - Mar), 2005",762.3,4757,11493,4787,4183,4171,176209,7207,19.3,11.37,,
+541,India,33,Tamil Nadu,2006,"Financial Year (Apr - Mar), 2006",863.0,5385,12331,5419,4462,4171,179348,6833,18.7,14.7,,
+542,India,33,Tamil Nadu,2007,"Financial Year (Apr - Mar), 2007",968.6,6045,12376,6150,4462,4121,180823,9256,19.5,22.55,,
+543,India,33,Tamil Nadu,2008,"Financial Year (Apr - Mar), 2008",1024.8,6395,13563,6578,4462,4131,181213,9264,18.7,35.09,,
+544,India,33,Tamil Nadu,2009,"Financial Year (Apr - Mar), 2009",1028.9,6421,14089,6967,4832,4107,188037,9384,18.1,50.46,,
+545,India,33,Tamil Nadu,2010,"Financial Year (Apr - Mar), 2010",1146.8,7157,14410,7629,4832,4061,190055,9384,18.4,74.31,,
+546,India,33,Tamil Nadu,2011,"Financial Year (Apr - Mar), 2011",1203.4,7510,15515,8031,4832,4062,192339,10561,13.5,97.73,,
+547,India,33,Tamil Nadu,2012,"Financial Year (Apr - Mar), 2012",1063.3,7671,17602,8569,4943,3943,230200,10764,16.3,116.61,,
+548,India,33,Tamil Nadu,2013,"Financial Year (Apr - Mar), 2013",1055.8,7616,19433,9230,4943,4027,238004,10764,14.5,108.17,,
+549,India,33,Tamil Nadu,2014,"Financial Year (Apr - Mar), 2014",1219.6,8798,21193,9351,4975,4027,254205,11594,10.8,111.14,,
+550,India,33,Tamil Nadu,2015,"Financial Year (Apr - Mar), 2015",1285.7,9275,22884,9576,5006,4027,261100,11752,11.1,117.52,45,12
+551,India,33,Tamil Nadu,2016,"Financial Year (Apr - Mar), 2016",1338.9,9659,24747,9728,4946,4027,261035,11752,10.8,118.13,63,18
+552,India,33,Tamil Nadu,2017,"Financial Year (Apr - Mar), 2017",1448.4,10449,29112,10451,5918,4028,261436,12095,12.6,128.41,91,15
+553,India,33,Tamil Nadu,2018,"Financial Year (Apr - Mar), 2018",1467.2,10584,30327,10601,,4030,270007,11830,15.94,136.36,,
+554,India,33,Tamil Nadu,2019,"Financial Year (Apr - Mar), 2019",1514.8,10938,31059,10938,6742,4031,,,19.12,116.94,,14
+555,India,33,Tamil Nadu,2020,"Financial Year (Apr - Mar), 2020",1506.9,10881,32840,10882,,4036,,,,115.45,,
+556,India,33,Tamil Nadu,2021,"Financial Year (Apr - Mar), 2021",1401.4,10119,33695,10119,6858,,,,,108.22,,
+557,India,34,Puducherry,2004,"Financial Year (Apr - Mar), 2004",,,,,,11,,,,,,
+558,India,34,Puducherry,2005,"Financial Year (Apr - Mar), 2005",1577.5,154,245,154,53,11,2613,35,18.2,,,
+559,India,34,Puducherry,2006,"Financial Year (Apr - Mar), 2006",1722.2,168,260,168,53,11,2624,36,18.5,,,
+560,India,34,Puducherry,2007,"Financial Year (Apr - Mar), 2007",1855.6,181,260,181,53,11,2696,37,18.8,,,
+561,India,34,Puducherry,2008,"Financial Year (Apr - Mar), 2008",1889.5,184,257,184,53,11,2696,37,5.9,,,
+562,India,34,Puducherry,2009,"Financial Year (Apr - Mar), 2009",1819.7,177,257,202,53,11,2712,38,12.2,,,
+563,India,34,Puducherry,2010,"Financial Year (Apr - Mar), 2010",2027.0,198,256,212,53,11,2727,38,11.8,,,
+564,India,34,Puducherry,2011,"Financial Year (Apr - Mar), 2011",2092.7,204,264,212,53,11,2740,40,12.4,,,
+565,India,34,Puducherry,2012,"Financial Year (Apr - Mar), 2012",1716.4,214,280,217,53,22,2585,38,14.7,,,
+566,India,34,Puducherry,2013,"Financial Year (Apr - Mar), 2013",1841.0,229,282,233,53,22,2890,41,13.5,,,
+567,India,34,Puducherry,2014,"Financial Year (Apr - Mar), 2014",1864.3,232,284,234,53,22,3020,40,14.8,,,
+568,India,34,Puducherry,2015,"Financial Year (Apr - Mar), 2015",1909.3,238,330,240,64,22,3072,89,14.9,,18,20
+569,India,34,Puducherry,2016,"Financial Year (Apr - Mar), 2016",1951.8,243,335,244,64,22,3174,89,14.0,,1,26
+570,India,34,Puducherry,2017,"Financial Year (Apr - Mar), 2017",2045.9,255,367,255,64,22,3242,0,15.6,,16,27
+571,India,34,Puducherry,2018,"Financial Year (Apr - Mar), 2018",2139.1,266,369,267,,22,4293,0,17.93,,,
+572,India,34,Puducherry,2019,"Financial Year (Apr - Mar), 2019",2210.6,276,370,276,27,22,,,13.26,,,27
+573,India,34,Puducherry,2020,"Financial Year (Apr - Mar), 2020",2282.8,285,375,285,,22,,,,,,
+574,India,34,Puducherry,2021,"Financial Year (Apr - Mar), 2021",2120.8,264,380,264,64,,,,,,,
+575,India,35,Andaman And Nicobar Islands,2004,"Financial Year (Apr - Mar), 2004",,,,,,,,,,11.56,,
+576,India,35,Andaman And Nicobar Islands,2005,"Financial Year (Apr - Mar), 2005",,,65,,300,,1298,146,12.6,12.63,,
+577,India,35,Andaman And Nicobar Islands,2006,"Financial Year (Apr - Mar), 2006",466.1,17,71,24,300,,1301,146,24.3,17.97,,
+578,India,35,Andaman And Nicobar Islands,2007,"Financial Year (Apr - Mar), 2007",533.5,19,71,24,300,,1303,146,23.1,17.39,,
+579,India,35,Andaman And Nicobar Islands,2008,"Financial Year (Apr - Mar), 2008",505.4,18,65,24,300,,1301,146,26.9,18.36,,
+580,India,35,Andaman And Nicobar Islands,2009,"Financial Year (Apr - Mar), 2009",516.6,18,65,24,300,,1297,146,24.2,21.24,,
+581,India,35,Andaman And Nicobar Islands,2010,"Financial Year (Apr - Mar), 2010",505.4,18,65,24,300,,1302,146,19.8,29.96,,
+582,India,35,Andaman And Nicobar Islands,2011,"Financial Year (Apr - Mar), 2011",505.4,18,65,24,300,,1386,229,20.7,,,
+583,India,35,Andaman And Nicobar Islands,2012,"Financial Year (Apr - Mar), 2012",536.9,20,65,24,300,,1319,246,18.2,,,
+584,India,35,Andaman And Nicobar Islands,2013,"Financial Year (Apr - Mar), 2013",489.5,19,65,24,300,,1388,264,18.1,,,
+585,India,35,Andaman And Nicobar Islands,2014,"Financial Year (Apr - Mar), 2014",473.8,18,70,24,300,,1318,279,19.8,,,
+586,India,35,Andaman And Nicobar Islands,2015,"Financial Year (Apr - Mar), 2015",473.8,18,70,24,331,,1352,279,20.5,,10,25
+587,India,35,Andaman And Nicobar Islands,2016,"Financial Year (Apr - Mar), 2016",473.8,18,50,24,331,,1493,266,14.4,,0,31
+588,India,35,Andaman And Nicobar Islands,2017,"Financial Year (Apr - Mar), 2017",473.8,18,52,24,331,,1617,266,10.7,,1,31
+589,India,35,Andaman And Nicobar Islands,2018,"Financial Year (Apr - Mar), 2018",789.6,30,52,33,,,1794,257,12.39,,,
+590,India,35,Andaman And Nicobar Islands,2019,"Financial Year (Apr - Mar), 2019",850.1,32,57,35,331,,,,10.84,,,22
+591,India,35,Andaman And Nicobar Islands,2020,"Financial Year (Apr - Mar), 2020",850.1,32,57,35,,,,,,,,
+592,India,35,Andaman And Nicobar Islands,2021,"Financial Year (Apr - Mar), 2021",850.1,32,75,35,331,,,,,,,
+593,India,36,Telangana,2004,"Financial Year (Apr - Mar), 2004",,,,,,,,,,,,
+594,India,36,Telangana,2005,"Financial Year (Apr - Mar), 2005",,,,,,,,,,,,
+595,India,36,Telangana,2006,"Financial Year (Apr - Mar), 2006",,,,,,,,,,,,
+596,India,36,Telangana,2007,"Financial Year (Apr - Mar), 2007",,,,,,,,,,,,
+597,India,36,Telangana,2008,"Financial Year (Apr - Mar), 2008",,,,,,,,,,,,
+598,India,36,Telangana,2009,"Financial Year (Apr - Mar), 2009",,,,,,,,,,,,
+599,India,36,Telangana,2010,"Financial Year (Apr - Mar), 2010",,,,,,,,,,,,
+600,India,36,Telangana,2011,"Financial Year (Apr - Mar), 2011",,,,,,,,,,,,
+601,India,36,Telangana,2012,"Financial Year (Apr - Mar), 2012",,,,,,,,,,,,
+602,India,36,Telangana,2013,"Financial Year (Apr - Mar), 2013",,,,,,,,,,,,
+603,India,36,Telangana,2014,"Financial Year (Apr - Mar), 2014",,,,,,1753,92215,3385,,,,
+604,India,36,Telangana,2015,"Financial Year (Apr - Mar), 2015",1151.8,4064,9470,4334,2687,1676,100251,2744,15.7,,42,13
+605,India,36,Telangana,2016,"Financial Year (Apr - Mar), 2016",1415.5,4995,10892,5025,2696,1737,123572,2731,16.5,,99,1
+606,India,36,Telangana,2017,"Financial Year (Apr - Mar), 2017",1502.5,5302,11501,5303,3786,1823,126135,2553,18.7,,98,2
+607,India,36,Telangana,2018,"Financial Year (Apr - Mar), 2018",1707.1,6024,15139,6032,,1823,128071,2149,18.26,,,
+608,India,36,Telangana,2019,"Financial Year (Apr - Mar), 2019",1888.4,6643,15826,6670,3795,1823,,,14.85,,,3
+609,India,36,Telangana,2020,"Financial Year (Apr - Mar), 2020",1941.7,6830,16024,6831,,1828,,,,,,
+610,India,36,Telangana,2021,"Financial Year (Apr - Mar), 2021",1904.5,6699,17218,6700,3974,,,,,,,
+611,India,37,Ladakh,2004,"Financial Year (Apr - Mar), 2004",,,,,,2.3368669045753536,,,,3.01,,
+612,India,37,Ladakh,2005,"Financial Year (Apr - Mar), 2005",728.2,14.03321682446006912951,28.52218088002574266918,15.45742692166508291126,20.0337652340157918,3.3592461753270708,530.9312922468024726,1.6309383604848822,41.1,5.09,,
+613,India,37,Ladakh,2006,"Financial Year (Apr - Mar), 2006",756.3,14.56492192741660760803,27.62967588577726736595,17.60323680145397034243,30.3062426687116170,3.3592461753270708,536.5787205995262438,1.6309383604848822,44.9,12.18,,
+614,India,37,Ladakh,2007,"Financial Year (Apr - Mar), 2007",787.0,15.15359543426134663782,30.87687490740469878834,22.27464592028641554657,30.3062426687116170,3.3592461753270708,536.9438560533661428,1.6309383604848822,52.0,16.08,,
+615,India,37,Ladakh,2008,"Financial Year (Apr - Mar), 2008",824.4,15.87519521684522028724,32.45300074831158070681,22.36959326010008313202,30.3062426687116170,3.9678052650602358,543.3945824045376918,1.6309383604848822,55.7,21.84,,
+616,India,37,Ladakh,2009,"Financial Year (Apr - Mar), 2009",857.5,16.52083712757815986830,40.99826133154166339731,21.78091975325534410223,30.3062426687116170,5.8178248978490574,598.3596393892371546,1.6309383604848822,58.0,32.76,,
+617,India,37,Ladakh,2010,"Financial Year (Apr - Mar), 2010",979.2,18.85654168699438247037,42.99215546762868269176,25.06609771080824255880,30.3062426687116170,6.2316450788676096,627.3027096969464820,1.6309383604848822,67.4,49.91,,
+618,India,37,Ladakh,2011,"Financial Year (Apr - Mar), 2011",1003.6,19.33127838606272039762,43.59981844243615523864,25.76870802542938269113,30.3062426687116170,6.2316450788676096,656.7569696400316680,1.6309383604848822,63.3,50.9,,
+619,India,37,Ladakh,2012,"Financial Year (Apr - Mar), 2012",867.7,20.67953061141680011101,43.80870259002622392663,27.05999184689526185325,30.3062426687116170,6.2316450788676096,884.9179435627898898,1.6309383604848822,61.8,54.82,,
+620,India,37,Ladakh,2013,"Financial Year (Apr - Mar), 2013",921.0,21.95182496491994575604,45.46078630278403991346,29.26277013057234983569,41.2603062839085870,6.2316450788676096,1085.5963889931983802,,56.6,58.57,,
+621,India,37,Ladakh,2014,"Financial Year (Apr - Mar), 2014",971.2,23.14816144657215733271,48.97383787588974057511,29.64255948982702017749,56.4499411636483854,6.6454652598861618,951.9568128877953462,3.1888496302017846,54.7,66.8,,
+622,India,37,Ladakh,2015,"Financial Year (Apr - Mar), 2015",1045.4,24.91418196710637442208,49.58150085069721312199,30.78192756759103120289,63.1197487871238738,7.2540243496193268,951.6890468883127536,3.1888496302017846,53.1,76.93,6,0.63432105857802780110
+623,India,37,Ladakh,2016,"Financial Year (Apr - Mar), 2016",1118.6,26.66121301967785799436,59.28511897965404035498,31.46554841424943781813,63.3144876958384866,7.2540243496193268,1210.2049482069612456,3.1645072666124580,50.1,80.02,0,0.67806733847996075290
+624,India,37,Ladakh,2017,"Financial Year (Apr - Mar), 2017",1131.3,26.96504450708159426780,62.17151810998953495266,33.04167425515631973660,63.3144876958384866,7.2540243496193268,1542.9650584730558676,3.1645072666124580,47.0,95.91,33,0.48120907892126246980
+625,India,37,Ladakh,2018,"Financial Year (Apr - Mar), 2018",1199.3,28.57914928391394322045,64.35530692570388941801,35.71918923790174564629,,7.2540243496193268,2645.4550477972469082,7.5461327126912460,45.47,109.19,,
+626,India,37,Ladakh,2019,"Financial Year (Apr - Mar), 2019",1264.5,29.66154895778975369458,64.45025426551755700346,37.20036773899495997931,58.9815469769383518,7.2540243496193268,,,42.19,89.43,,0.45933593897029599390
+627,India,37,Ladakh,2020,"Financial Year (Apr - Mar), 2020",1316.6,30.87687490740469878834,64.88701202866042789653,38.03590432935523473127,,7.2540243496193268,,,,92.91,,
+628,India,37,Ladakh,2021,"Financial Year (Apr - Mar), 2021",1394.5,32.69986383182711642898,66.04536957438717243902,37.54217816232416328693,58.9815469769383518,,,,,89.01,,
+629,India,38,The Dadra And Nagar Haveli And Daman And Diu,2005,"Financial Year (Apr - Mar), 2005",7686.400000000000000000000,295.00000000000000000000,52.00000000000000000000,295.00000000000000000000,,,855,42,15.800000000000000000000,,,
+630,India,38,The Dadra And Nagar Haveli And Daman And Diu,2006,"Financial Year (Apr - Mar), 2006",9920.800000000000000000000,385.00000000000000000000,52.00000000000000000000,389.00000000000000000000,,,855,42,20.750000000000000000000,,,
+631,India,38,The Dadra And Nagar Haveli And Daman And Diu,2007,"Financial Year (Apr - Mar), 2007",10978.600000000000000000000,429.00000000000000000000,56.00000000000000000000,452.00000000000000000000,,,855,42,16.650000000000000000000,,,
+632,India,38,The Dadra And Nagar Haveli And Daman And Diu,2008,"Financial Year (Apr - Mar), 2008",12640.150000000000000000000,495.00000000000000000000,63.00000000000000000000,516.00000000000000000000,,,856,42,20.700000000000000000000,,,
+633,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Financial Year (Apr - Mar), 2009",12820.250000000000000000000,504.00000000000000000000,152.00000000000000000000,537.00000000000000000000,,,987,42,17.850000000000000000000,,,
+634,India,38,The Dadra And Nagar Haveli And Daman And Diu,2010,"Financial Year (Apr - Mar), 2010",14432.550000000000000000000,565.00000000000000000000,89.00000000000000000000,594.00000000000000000000,,,1016,42,14.200000000000000000000,,,
+635,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Financial Year (Apr - Mar), 2011",16343.650000000000000000000,642.00000000000000000000,94.00000000000000000000,661.00000000000000000000,,,1044,42,13.450000000000000000000,,,
+636,India,38,The Dadra And Nagar Haveli And Daman And Diu,2012,"Financial Year (Apr - Mar), 2012",10284.250000000000000000000,627.00000000000000000000,105.00000000000000000000,652.00000000000000000000,,,1047,42,13.300000000000000000000,,,
+637,India,38,The Dadra And Nagar Haveli And Daman And Diu,2013,"Financial Year (Apr - Mar), 2013",10243.850000000000000000000,626.00000000000000000000,128.00000000000000000000,656.00000000000000000000,,,1000,42,12.750000000000000000000,,,
+638,India,38,The Dadra And Nagar Haveli And Daman And Diu,2014,"Financial Year (Apr - Mar), 2014",12493.050000000000000000000,764.00000000000000000000,128.00000000000000000000,764.00000000000000000000,,,1348,42,11.150000000000000000000,,,
+639,India,38,The Dadra And Nagar Haveli And Daman And Diu,2015,"Financial Year (Apr - Mar), 2015",12028.850000000000000000000,739.00000000000000000000,128.00000000000000000000,740.00000000000000000000,,,1387,42,19.950000000000000000000,,,
+640,India,38,The Dadra And Nagar Haveli And Daman And Diu,2016,"Financial Year (Apr - Mar), 2016",13451.150000000000000000000,827.00000000000000000000,149.00000000000000000000,827.00000000000000000000,,,1630,28,20.950000000000000000000,,8.50000000000000000000,48.00000000000000000000
+641,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Financial Year (Apr - Mar), 2017",13714.650000000000000000000,842.00000000000000000000,424.00000000000000000000,842.00000000000000000000,,,1613,30,21.800000000000000000000,,25.50000000000000000000,50.00000000000000000000
+642,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Financial Year (Apr - Mar), 2018",14209.550000000000000000000,870.00000000000000000000,445.00000000000000000000,870.00000000000000000000,,,1553,30,13.3550000000000000000000,,,
+643,India,38,The Dadra And Nagar Haveli And Daman And Diu,2019,"Financial Year (Apr - Mar), 2019",14475.650000000000000000000,886.00000000000000000000,482.00000000000000000000,888.00000000000000000000,,,,,11.5350000000000000000000,,,41.00000000000000000000
+644,India,38,The Dadra And Nagar Haveli And Daman And Diu,2020,"Financial Year (Apr - Mar), 2020",14838.900000000000000000000,910.00000000000000000000,717.00000000000000000000,910.00000000000000000000,,,,,,,,
+645,India,38,The Dadra And Nagar Haveli And Daman And Diu,2021,"Financial Year (Apr - Mar), 2021",12609.600000000000000000000,772.00000000000000000000,765.00000000000000000000,772.00000000000000000000,,,,,,,,

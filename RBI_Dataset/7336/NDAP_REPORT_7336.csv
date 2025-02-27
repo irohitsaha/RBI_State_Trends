@@ -1,0 +1,59 @@
+Rowid,Country,State lgd code,State,Yearcode,Year,Residence type,Government hospitals,Beds in government hospitals,Average beds per government hospital
+1,India,2,Himachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Rural,727,7114,10
+2,India,2,Himachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Urban,95,7668,81
+3,India,3,Punjab,2019,"Calendar Year (Jan - Dec), 2019",Rural,511,5801,11
+4,India,3,Punjab,2019,"Calendar Year (Jan - Dec), 2019",Urban,305,15440,51
+5,India,4,Chandigarh,2019,"Calendar Year (Jan - Dec), 2019",Rural,0,0,
+6,India,4,Chandigarh,2019,"Calendar Year (Jan - Dec), 2019",Urban,49,3758,77
+7,India,5,Uttarakhand,2019,"Calendar Year (Jan - Dec), 2019",Rural,502,2972,6
+8,India,5,Uttarakhand,2019,"Calendar Year (Jan - Dec), 2019",Urban,116,5134,44
+9,India,6,Haryana,2019,"Calendar Year (Jan - Dec), 2019",Rural,592,7015,12
+10,India,6,Haryana,2019,"Calendar Year (Jan - Dec), 2019",Urban,86,5575,65
+11,India,7,Delhi,2019,"Calendar Year (Jan - Dec), 2019",Rural,0,0,
+12,India,7,Delhi,2019,"Calendar Year (Jan - Dec), 2019",Urban,107,27154,254
+13,India,8,Rajasthan,2019,"Calendar Year (Jan - Dec), 2019",Rural,2094,12564,6
+14,India,8,Rajasthan,2019,"Calendar Year (Jan - Dec), 2019",Urban,755,34214,45
+15,India,9,Uttar Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Rural,4475,40130,9
+16,India,9,Uttar Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Urban,208,26570,128
+17,India,10,Bihar,2019,"Calendar Year (Jan - Dec), 2019",Rural,1946,11747,6
+18,India,10,Bihar,2019,"Calendar Year (Jan - Dec), 2019",Urban,186,17592,95
+19,India,11,Sikkim,2019,"Calendar Year (Jan - Dec), 2019",Rural,24,260,11
+20,India,11,Sikkim,2019,"Calendar Year (Jan - Dec), 2019",Urban,9,2000,222
+21,India,12,Arunachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Rural,208,2136,10
+22,India,12,Arunachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Urban,10,268,27
+23,India,15,Mizoram,2019,"Calendar Year (Jan - Dec), 2019",Rural,56,574,10
+24,India,15,Mizoram,2019,"Calendar Year (Jan - Dec), 2019",Urban,43,1448,34
+25,India,16,Tripura,2019,"Calendar Year (Jan - Dec), 2019",Rural,132,1946,15
+26,India,16,Tripura,2019,"Calendar Year (Jan - Dec), 2019",Urban,23,2397,104
+27,India,17,Meghalaya,2019,"Calendar Year (Jan - Dec), 2019",Rural,140,2000,14
+28,India,17,Meghalaya,2019,"Calendar Year (Jan - Dec), 2019",Urban,14,2467,176
+29,India,20,Jharkhand,2019,"Calendar Year (Jan - Dec), 2019",Rural,4371,9197,2
+30,India,20,Jharkhand,2019,"Calendar Year (Jan - Dec), 2019",Urban,92,5694,62
+31,India,21,Odisha,2019,"Calendar Year (Jan - Dec), 2019",Rural,1655,6339,4
+32,India,21,Odisha,2019,"Calendar Year (Jan - Dec), 2019",Urban,151,12180,81
+33,India,22,Chhattisgarh,2019,"Calendar Year (Jan - Dec), 2019",Rural,198,9200,46
+34,India,22,Chhattisgarh,2019,"Calendar Year (Jan - Dec), 2019",Urban,49,410,8
+35,India,23,Madhya Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Rural,330,9900,30
+36,India,23,Madhya Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Urban,135,21206,157
+37,India,24,Gujarat,2019,"Calendar Year (Jan - Dec), 2019",Rural,1825,19917,11
+38,India,24,Gujarat,2019,"Calendar Year (Jan - Dec), 2019",Urban,420,9485,23
+39,India,27,Maharashtra,2019,"Calendar Year (Jan - Dec), 2019",Rural,365,10950,30
+40,India,27,Maharashtra,2019,"Calendar Year (Jan - Dec), 2019",Urban,149,22078,148
+41,India,28,Andhra Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Rural,791,9687,12
+42,India,28,Andhra Pradesh,2019,"Calendar Year (Jan - Dec), 2019",Urban,5443,77034,14
+43,India,29,Karnataka,2019,"Calendar Year (Jan - Dec), 2019",Rural,2467,21146,9
+44,India,29,Karnataka,2019,"Calendar Year (Jan - Dec), 2019",Urban,375,49328,132
+45,India,30,Goa,2019,"Calendar Year (Jan - Dec), 2019",Rural,18,1485,83
+46,India,30,Goa,2019,"Calendar Year (Jan - Dec), 2019",Urban,25,1601,64
+47,India,31,Lakshadweep,2019,"Calendar Year (Jan - Dec), 2019",Rural,12,250,21
+48,India,31,Lakshadweep,2019,"Calendar Year (Jan - Dec), 2019",Urban,,,
+49,India,32,Kerala,2019,"Calendar Year (Jan - Dec), 2019",Rural,1075,16123,15
+50,India,32,Kerala,2019,"Calendar Year (Jan - Dec), 2019",Urban,209,21974,105
+51,India,33,Tamil Nadu,2019,"Calendar Year (Jan - Dec), 2019",Rural,1880,28460,15
+52,India,33,Tamil Nadu,2019,"Calendar Year (Jan - Dec), 2019",Urban,627,70975,113
+53,India,34,Puducherry,2019,"Calendar Year (Jan - Dec), 2019",Rural,21,94,4
+54,India,34,Puducherry,2019,"Calendar Year (Jan - Dec), 2019",Urban,23,4674,203
+55,India,35,Andaman And Nicobar Islands,2019,"Calendar Year (Jan - Dec), 2019",Rural,27,617,23
+56,India,35,Andaman And Nicobar Islands,2019,"Calendar Year (Jan - Dec), 2019",Urban,3,585,195
+57,India,36,Telangana,2019,"Calendar Year (Jan - Dec), 2019",Rural,677,5094,
+58,India,36,Telangana,2019,"Calendar Year (Jan - Dec), 2019",Urban,,,

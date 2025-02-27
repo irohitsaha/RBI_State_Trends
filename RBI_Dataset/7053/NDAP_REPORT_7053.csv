@@ -1,0 +1,73 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Required Doctors at Public Health Centers,Sanctioned Doctors at Public Health Centers,Doctors In Position at Public Health Centers,Doctors Vacant at Public Health Centers,Doctors Shortfall at Public Health Centers,"Required Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)","Sanctioned Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)","In Position Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)","Vacant position of Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)","Shortfall of Doctors (Surgeons, Obstetrics and Gynecology Doctors ( OB&GY ), Physicians and Paediatricians) at Community Health Centers (CHCs)"
+1,India,1,Jammu And Kashmir,2015,"Calendar Year (Jan - Dec), 2015",623.06826524072221528619,1322.43060377622674264824,815.75970676728779834958,506.67089700893894429866,,328.65139265444688278832,335.49829666808119284641,163.34756718241853995729,172.15072948566265288912,165.30382547202834283103
+2,India,1,Jammu And Kashmir,2020,"Calendar Year (Jan - Dec), 2020",923,1477,940,537,,308,321,230,91,78
+3,India,2,Himachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",500,636,571,65,,312,0,7,,305
+4,India,2,Himachal Pradesh,2020,"Calendar Year (Jan - Dec), 2020",564,722,471,251,93,340,16,21,,319
+5,India,3,Punjab,2015,"Calendar Year (Jan - Dec), 2015",427,490,441,49,,600,563,173,390,427
+6,India,3,Punjab,2020,"Calendar Year (Jan - Dec), 2020",427,585,391,194,36,572,485,139,346,433
+7,India,4,Chandigarh,2015,"Calendar Year (Jan - Dec), 2015",0,0,0,0,0,8,11,27,,
+8,India,4,Chandigarh,2020,"Calendar Year (Jan - Dec), 2020",0,,,,,0,,,,
+9,India,5,Uttarakhand,2015,"Calendar Year (Jan - Dec), 2015",257,325,160,165,97,236,197,49,148,187
+10,India,5,Uttarakhand,2020,"Calendar Year (Jan - Dec), 2020",257,476,346,130,,224,236,32,204,192
+11,India,6,Haryana,2015,"Calendar Year (Jan - Dec), 2015",461,635,489,146,,436,153,30,123,406
+12,India,6,Haryana,2020,"Calendar Year (Jan - Dec), 2020",385,766,491,275,,472,135,27,108,445
+13,India,7,Delhi,2015,"Calendar Year (Jan - Dec), 2015",5,21,21,0,,0,0,0,0,0
+14,India,7,Delhi,2020,"Calendar Year (Jan - Dec), 2020",5,19,18,1,,0,,,,
+15,India,8,Rajasthan,2015,"Calendar Year (Jan - Dec), 2015",2083,2807,2412,395,,2272,1566,526,1040,1746
+16,India,8,Rajasthan,2020,"Calendar Year (Jan - Dec), 2020",2094,2170,1845,325,249,2192,1376,438,938,1754
+17,India,9,Uttar Pradesh,2015,"Calendar Year (Jan - Dec), 2015",3497,4509,2209,2300,1288,3092,2099,484,1615,2608
+18,India,9,Uttar Pradesh,2020,"Calendar Year (Jan - Dec), 2020",2880,3578,2759,819,121,2844,2171,816,1355,2028
+19,India,10,Bihar,2015,"Calendar Year (Jan - Dec), 2015",1883,2078,2521,,,280,,63,,217
+20,India,10,Bihar,2020,"Calendar Year (Jan - Dec), 2020",1702,4129,1745,2384,,228,636,124,512,104
+21,India,11,Sikkim,2015,"Calendar Year (Jan - Dec), 2015",24,,29,,,8,,0,,8
+22,India,11,Sikkim,2020,"Calendar Year (Jan - Dec), 2020",24,48,34,14,,8,4,2,2,6
+23,India,12,Arunachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",117,,102,,15,208,,1,,207
+24,India,12,Arunachal Pradesh,2020,"Calendar Year (Jan - Dec), 2020",119,,194,,,240,,14,,226
+25,India,13,Nagaland,2015,"Calendar Year (Jan - Dec), 2015",128,108,133,,,84,0,4,,80
+26,India,13,Nagaland,2020,"Calendar Year (Jan - Dec), 2020",130,113,120,,10,84,2,9,,75
+27,India,14,Manipur,2015,"Calendar Year (Jan - Dec), 2015",85,238,199,39,,68,4,3,1,65
+28,India,14,Manipur,2020,"Calendar Year (Jan - Dec), 2020",85,170,311,,,68,24,4,20,64
+29,India,15,Mizoram,2015,"Calendar Year (Jan - Dec), 2015",57,152,49,103,8,36,0,0,0,36
+30,India,15,Mizoram,2020,"Calendar Year (Jan - Dec), 2020",57,,58,,,36,,0,,36
+31,India,16,Tripura,2015,"Calendar Year (Jan - Dec), 2015",91,158,158,0,,80,3,3,0,77
+32,India,16,Tripura,2020,"Calendar Year (Jan - Dec), 2020",107,,222,,,88,,1,,87
+33,India,17,Meghalaya,2015,"Calendar Year (Jan - Dec), 2015",110,128,114,14,,108,3,3,0,105
+34,India,17,Meghalaya,2020,"Calendar Year (Jan - Dec), 2020",119,91,190,,,112,5,4,1,108
+35,India,18,Assam,2015,"Calendar Year (Jan - Dec), 2015",1014,,1355,,,604,,121,,483
+36,India,18,Assam,2020,"Calendar Year (Jan - Dec), 2020",946,906,1424,,,760,126,188,,572
+37,India,19,West Bengal,2015,"Calendar Year (Jan - Dec), 2015",909,2600,723,1877,186,1388,1792,114,1678,1274
+38,India,19,West Bengal,2020,"Calendar Year (Jan - Dec), 2020",913,1390,1098,292,,1392,1422,641,781,751
+39,India,20,Jharkhand,2015,"Calendar Year (Jan - Dec), 2015",327,327,372,,,752,131,128,3,624
+40,India,20,Jharkhand,2020,"Calendar Year (Jan - Dec), 2020",291,330,222,108,69,684,339,179,160,505
+41,India,21,Odisha,2015,"Calendar Year (Jan - Dec), 2015",1305,1312,1008,304,297,1508,908,356,552,1152
+42,India,21,Odisha,2020,"Calendar Year (Jan - Dec), 2020",1288,1288,827,461,461,1508,1482,313,1169,1195
+43,India,22,Chhattisgarh,2015,"Calendar Year (Jan - Dec), 2015",792,752,368,384,424,620,628,78,550,542
+44,India,22,Chhattisgarh,2020,"Calendar Year (Jan - Dec), 2020",792,811,388,423,404,680,581,62,519,618
+45,India,23,Madhya Pradesh,2015,"Calendar Year (Jan - Dec), 2015",1171,1658,999,659,172,1336,897,263,634,1073
+46,India,23,Madhya Pradesh,2020,"Calendar Year (Jan - Dec), 2020",1199,1525,1065,460,134,1236,1032,46,986,1190
+47,India,24,Gujarat,2015,"Calendar Year (Jan - Dec), 2015",1247,1504,889,615,358,1280,,74,,1206
+48,India,24,Gujarat,2020,"Calendar Year (Jan - Dec), 2020",1477,1869,1490,379,,1392,268,13,255,1379
+49,India,27,Maharashtra,2015,"Calendar Year (Jan - Dec), 2015",1811,3009,2937,72,,1440,823,578,245,862
+50,India,27,Maharashtra,2020,"Calendar Year (Jan - Dec), 2020",1829,3587,2848,739,,1112,558,399,159,713
+51,India,28,Andhra Pradesh,2015,"Calendar Year (Jan - Dec), 2015",1069,2270,1412,858,,716,384,159,225,557
+52,India,28,Andhra Pradesh,2020,"Calendar Year (Jan - Dec), 2020",1142,1861,1798,63,,564,378,315,63,249
+53,India,29,Karnataka,2015,"Calendar Year (Jan - Dec), 2015",2353,2353,2196,157,157,824,824,502,322,322
+54,India,29,Karnataka,2020,"Calendar Year (Jan - Dec), 2020",2176,2323,2071,252,105,756,499,252,247,504
+55,India,30,Goa,2015,"Calendar Year (Jan - Dec), 2015",21,48,56,,,16,5,4,1,12
+56,India,30,Goa,2020,"Calendar Year (Jan - Dec), 2020",55,72,75,,,24,12,14,,10
+57,India,31,Lakshadweep,2015,"Calendar Year (Jan - Dec), 2015",4,9,9,0,,12,0,0,0,12
+58,India,31,Lakshadweep,2020,"Calendar Year (Jan - Dec), 2020",4,10,10,0,,12,8,8,0,4
+59,India,32,Kerala,2015,"Calendar Year (Jan - Dec), 2015",827,1120,1169,,,888,30,39,,849
+60,India,32,Kerala,2020,"Calendar Year (Jan - Dec), 2020",784,1237,1028,209,,844,192,173,19,671
+61,India,33,Tamil Nadu,2015,"Calendar Year (Jan - Dec), 2015",1372,2744,2375,369,,1540,0,0,0,1540
+62,India,33,Tamil Nadu,2020,"Calendar Year (Jan - Dec), 2020",1420,2976,2708,268,,1540,319,228,91,1312
+63,India,34,Puducherry,2015,"Calendar Year (Jan - Dec), 2015",24,38,38,0,,12,2,3,,9
+64,India,34,Puducherry,2020,"Calendar Year (Jan - Dec), 2020",24,45,45,0,,12,1,0,1,12
+65,India,35,Andaman And Nicobar Islands,2015,"Calendar Year (Jan - Dec), 2015",22,42,36,6,,16,9,0,9,16
+66,India,35,Andaman And Nicobar Islands,2020,"Calendar Year (Jan - Dec), 2020",22,30,48,,,16,,1,,15
+67,India,36,Telangana,2015,"Calendar Year (Jan - Dec), 2015",668,1318,1024,294,,456,284,116,168,340
+68,India,36,Telangana,2020,"Calendar Year (Jan - Dec), 2020",636,1254,1213,41,,340,625,258,367,82
+69,India,37,Ladakh,2015,"Calendar Year (Jan - Dec), 2015",13.93173475927778471381,29.56939622377325735176,18.24029323271220165042,11.32910299106105570134,,7.34860734555311721168,7.50170333191880715359,3.65243281758146004271,3.84927051433734711088,3.69617452797165716897
+70,India,37,Ladakh,2020,"Calendar Year (Jan - Dec), 2020",32,23,10,13,22,28,11,5,6,23
+71,India,38,The Dadra And Nagar Haveli And Daman And Diu,2015,"Calendar Year (Jan - Dec), 2015",10.00000000000000000000,9.00000000000000000000,13.00000000000000000000,,,12.00000000000000000000,2.00000000000000000000,3.00000000000000000000,1.00000000000000000000,9.00000000000000000000
+72,India,38,The Dadra And Nagar Haveli And Daman And Diu,2020,"Calendar Year (Jan - Dec), 2020",10.00000000000000000000,9.00000000000000000000,13.00000000000000000000,,,16.00000000000000000000,2.00000000000000000000,1.00000000000000000000,1.00000000000000000000,15.00000000000000000000

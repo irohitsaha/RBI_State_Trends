@@ -1,0 +1,246 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Average daily wage rates for male construction workers in rural areas,Average daily wage rates for male general agricultural labourers in rural areas,Average daily wage rates for Horticulture workers in rural areas,Average daily wage rates for male non-agricultural labourers in rural areas,Consumer Price Index (CPI) for Food and Beverages (%),Consumer Price Index (CPI)  for Fuel and Light (%),Consumer Price Index (CPI) or General Inflation (%),Consumer Price Index (CPI) or Inflation for Urban Housing (%)
+1,India,1,Jammu And Kashmir,2014,"Financial Year (Apr - Mar), 2014",413.6,367.7,,382.1,7.2,4.3,6.0,6.0
+2,India,1,Jammu And Kashmir,2015,"Financial Year (Apr - Mar), 2015",422.3,394.5,,406.7,6.4,7.0,6.0,4.9
+3,India,1,Jammu And Kashmir,2016,"Financial Year (Apr - Mar), 2016",430.1,409.8,,408.8,5.0,7.8,5.3,2.7
+4,India,1,Jammu And Kashmir,2017,"Financial Year (Apr - Mar), 2017",442.9,436.0,,417.3,7.3,9.5,6.8,7.3
+5,India,1,Jammu And Kashmir,2018,"Financial Year (Apr - Mar), 2018",450.6,443.6,,433.9,1.9,10.3,5.3,12.9
+6,India,1,Jammu And Kashmir,2019,"Financial Year (Apr - Mar), 2019",463.6,451.6,,452.8,3.2,-1.1,4.3,11.5
+7,India,1,Jammu And Kashmir,2020,"Financial Year (Apr - Mar), 2020",492.6,501.1,,483.0,6.7,5.0,6.3,4.8
+8,India,2,Himachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",317.3,308.9,,256.0,6.8,7.2,6.2,4.0
+9,India,2,Himachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",325.7,317.3,,265.3,5.8,2.9,4.3,1.7
+10,India,2,Himachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",341.3,339.8,,303.4,4.2,5.7,4.6,4.0
+11,India,2,Himachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",354.8,368.3,,330.4,3.7,10.0,4.6,7.5
+12,India,2,Himachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",359.9,388.6,,336.4,-3.0,0.0,0.5,7.8
+13,India,2,Himachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",435.8,419.0,,344.1,3.7,-2.9,3.5,3.7
+14,India,2,Himachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",445.8,421.7,,342.1,6.2,-5.7,5.2,3.3
+15,India,3,Punjab,2014,"Financial Year (Apr - Mar), 2014",296.2,284.1,279.2,268.9,6.5,4.2,5.7,3.1
+16,India,3,Punjab,2015,"Financial Year (Apr - Mar), 2015",318.1,305.3,281.7,285.8,3.3,2.5,3.5,3.7
+17,India,3,Punjab,2016,"Financial Year (Apr - Mar), 2016",321.2,319.3,,300.5,4.5,3.6,4.4,3.4
+18,India,3,Punjab,2017,"Financial Year (Apr - Mar), 2017",338.0,324.6,,313.1,3.3,2.6,3.7,3.5
+19,India,3,Punjab,2018,"Financial Year (Apr - Mar), 2018",347.4,337.7,,319.2,1.1,4.2,3.8,3.4
+20,India,3,Punjab,2019,"Financial Year (Apr - Mar), 2019",370.9,349.2,,331.9,6.9,-0.3,5.0,3.0
+21,India,3,Punjab,2020,"Financial Year (Apr - Mar), 2020",382.0,357.0,,344.2,5.9,2.7,5.3,2.8
+22,India,4,Chandigarh,2014,"Financial Year (Apr - Mar), 2014",,,,,7.3,13.7,6.4,6.4
+23,India,4,Chandigarh,2015,"Financial Year (Apr - Mar), 2015",,,,,4.0,1.7,3.6,3.4
+24,India,4,Chandigarh,2016,"Financial Year (Apr - Mar), 2016",,,,,4.2,4.3,3.9,1.9
+25,India,4,Chandigarh,2017,"Financial Year (Apr - Mar), 2017",,,,,1.8,2.5,3.8,9.1
+26,India,4,Chandigarh,2018,"Financial Year (Apr - Mar), 2018",,,,,-0.7,2.7,4.0,9.4
+27,India,4,Chandigarh,2019,"Financial Year (Apr - Mar), 2019",,,,,9.4,-4.5,4.8,3.6
+28,India,4,Chandigarh,2020,"Financial Year (Apr - Mar), 2020",,,,,5.6,4.4,4.8,2.2
+29,India,5,Uttarakhand,2014,"Financial Year (Apr - Mar), 2014",,,,,5.9,4.2,5.0,3.6
+30,India,5,Uttarakhand,2015,"Financial Year (Apr - Mar), 2015",,,,,4.0,-0.3,3.2,2.7
+31,India,5,Uttarakhand,2016,"Financial Year (Apr - Mar), 2016",,,,,4.6,3.9,3.7,1.6
+32,India,5,Uttarakhand,2017,"Financial Year (Apr - Mar), 2017",,,,,2.1,9.5,3.9,9.4
+33,India,5,Uttarakhand,2018,"Financial Year (Apr - Mar), 2018",,,,,1.4,7.7,4.0,9.8
+34,India,5,Uttarakhand,2019,"Financial Year (Apr - Mar), 2019",,,,,7.1,1.7,5.9,8.0
+35,India,5,Uttarakhand,2020,"Financial Year (Apr - Mar), 2020",,,,,9.3,2.2,8.1,4.7
+36,India,6,Haryana,2014,"Financial Year (Apr - Mar), 2014",357.1,340.1,,334.2,7.1,1.6,5.6,5.1
+37,India,6,Haryana,2015,"Financial Year (Apr - Mar), 2015",364.0,352.7,,348.7,3.5,2.1,4.0,4.4
+38,India,6,Haryana,2016,"Financial Year (Apr - Mar), 2016",367.7,359.3,,352.7,4.1,4.6,4.4,5.0
+39,India,6,Haryana,2017,"Financial Year (Apr - Mar), 2017",371.0,361.4,,355.5,3.3,5.8,4.1,7.4
+40,India,6,Haryana,2018,"Financial Year (Apr - Mar), 2018",386.7,391.9,,362.3,-0.3,1.0,2.9,8.3
+41,India,6,Haryana,2019,"Financial Year (Apr - Mar), 2019",408.3,389.5,,376.9,4.9,-3.1,4.3,2.8
+42,India,6,Haryana,2020,"Financial Year (Apr - Mar), 2020",404.4,384.8,,384.4,5.9,7.1,5.9,4.7
+43,India,7,Delhi,2014,"Financial Year (Apr - Mar), 2014",,,,,4.8,3.0,5.6,8.8
+44,India,7,Delhi,2015,"Financial Year (Apr - Mar), 2015",,,,,3.9,1.0,4.9,7.9
+45,India,7,Delhi,2016,"Financial Year (Apr - Mar), 2016",,,,,4.4,-1.2,5.3,7.4
+46,India,7,Delhi,2017,"Financial Year (Apr - Mar), 2017",,,,,4.6,3.4,4.8,7.1
+47,India,7,Delhi,2018,"Financial Year (Apr - Mar), 2018",,,,,0.6,-6.4,2.7,4.1
+48,India,7,Delhi,2019,"Financial Year (Apr - Mar), 2019",,,,,4.4,-0.3,3.7,2.9
+49,India,7,Delhi,2020,"Financial Year (Apr - Mar), 2020",,,,,5.5,0.3,3.3,1.8
+50,India,8,Rajasthan,2014,"Financial Year (Apr - Mar), 2014",303.3,269.9,,273.1,7.2,6.1,6.6,6.4
+51,India,8,Rajasthan,2015,"Financial Year (Apr - Mar), 2015",338.6,285.2,,294.7,5.2,7.3,5.7,6.1
+52,India,8,Rajasthan,2016,"Financial Year (Apr - Mar), 2016",350.7,285.5,,300.1,4.7,5.9,5.4,8.1
+53,India,8,Rajasthan,2017,"Financial Year (Apr - Mar), 2017",351.3,287.1,,301.2,1.5,5.8,3.2,7.6
+54,India,8,Rajasthan,2018,"Financial Year (Apr - Mar), 2018",360.9,292.9,,316.3,-0.7,3.2,2.3,7.9
+55,India,8,Rajasthan,2019,"Financial Year (Apr - Mar), 2019",363.6,298.1,,312.1,8.3,-4.3,5.3,4.3
+56,India,8,Rajasthan,2020,"Financial Year (Apr - Mar), 2020",365.2,327.1,,329.0,4.8,2.0,4.4,3.2
+57,India,9,Uttar Pradesh,2014,"Financial Year (Apr - Mar), 2014",216.1,191.9,,206.6,6.6,4.6,5.9,6.4
+58,India,9,Uttar Pradesh,2015,"Financial Year (Apr - Mar), 2015",235.5,199.6,,213.6,3.8,5.8,4.1,5.2
+59,India,9,Uttar Pradesh,2016,"Financial Year (Apr - Mar), 2016",250.2,211.8,,222.7,4.1,3.1,4.3,5.6
+60,India,9,Uttar Pradesh,2017,"Financial Year (Apr - Mar), 2017",270.2,229.8,,244.7,-0.4,6.0,2.4,10.1
+61,India,9,Uttar Pradesh,2018,"Financial Year (Apr - Mar), 2018",285.8,247.1,,261.1,1.5,6.0,3.8,11.5
+62,India,9,Uttar Pradesh,2019,"Financial Year (Apr - Mar), 2019",299.9,258.8,,272.3,7.5,2.0,5.9,4.5
+63,India,9,Uttar Pradesh,2020,"Financial Year (Apr - Mar), 2020",313.9,274.5,,286.8,8.2,3.3,6.1,4.2
+64,India,10,Bihar,2014,"Financial Year (Apr - Mar), 2014",226.7,198.9,165.2,209.8,6.9,6.5,6.7,6.1
+65,India,10,Bihar,2015,"Financial Year (Apr - Mar), 2015",240.9,207.1,166.6,220.3,4.0,5.5,4.5,5.1
+66,India,10,Bihar,2016,"Financial Year (Apr - Mar), 2016",254.4,212.7,182.5,228.6,4.1,3.1,3.9,4.9
+67,India,10,Bihar,2017,"Financial Year (Apr - Mar), 2017",268.6,223.0,193.7,237.2,1.4,5.7,2.7,7.1
+68,India,10,Bihar,2018,"Financial Year (Apr - Mar), 2018",275.8,240.3,221.3,250.9,1.7,6.6,3.9,5.1
+69,India,10,Bihar,2019,"Financial Year (Apr - Mar), 2019",303.8,258.4,235.5,268.5,2.4,-0.1,2.2,3.3
+70,India,10,Bihar,2020,"Financial Year (Apr - Mar), 2020",325.6,272.6,252.6,289.3,10.9,3.5,7.3,4.2
+71,India,11,Sikkim,2014,"Financial Year (Apr - Mar), 2014",,,,,7.2,3.1,6.2,7.4
+72,India,11,Sikkim,2015,"Financial Year (Apr - Mar), 2015",,,,,7.8,-2.1,7.0,4.1
+73,India,11,Sikkim,2016,"Financial Year (Apr - Mar), 2016",,,,,9.2,20.3,9.9,4.0
+74,India,11,Sikkim,2017,"Financial Year (Apr - Mar), 2017",,,,,0.4,23.0,4.0,5.8
+75,India,11,Sikkim,2018,"Financial Year (Apr - Mar), 2018",,,,,3.0,7.0,3.9,6.8
+76,India,11,Sikkim,2019,"Financial Year (Apr - Mar), 2019",,,,,1.2,11.9,3.2,2.1
+77,India,11,Sikkim,2020,"Financial Year (Apr - Mar), 2020",,,,,14.0,-5.6,7.1,3.4
+78,India,13,Nagaland,2014,"Financial Year (Apr - Mar), 2014",,,,,12.3,8.3,10.5,8.0
+79,India,13,Nagaland,2015,"Financial Year (Apr - Mar), 2015",,,,,4.5,7.5,5.8,3.7
+80,India,13,Nagaland,2016,"Financial Year (Apr - Mar), 2016",,,,,4.2,13.7,5.1,5.6
+81,India,13,Nagaland,2017,"Financial Year (Apr - Mar), 2017",,,,,3.6,10.4,3.4,3.6
+82,India,13,Nagaland,2018,"Financial Year (Apr - Mar), 2018",,,,,5.1,11.1,6.0,4.0
+83,India,13,Nagaland,2019,"Financial Year (Apr - Mar), 2019",,,,,3.3,4.9,3.8,3.1
+84,India,13,Nagaland,2020,"Financial Year (Apr - Mar), 2020",,,,,7.2,1.7,4.8,0.8
+85,India,14,Manipur,2014,"Financial Year (Apr - Mar), 2014",310.5,,,,7.4,0.2,4.7,5.0
+86,India,14,Manipur,2015,"Financial Year (Apr - Mar), 2015",332.1,,,,7.5,3.9,5.1,4.3
+87,India,14,Manipur,2016,"Financial Year (Apr - Mar), 2016",336.7,,,,8.5,15.5,10.1,6.4
+88,India,14,Manipur,2017,"Financial Year (Apr - Mar), 2017",338.1,,,,8.4,34.3,12.4,5.7
+89,India,14,Manipur,2018,"Financial Year (Apr - Mar), 2018",342.8,,,,9.2,3.1,8.7,5.1
+90,India,14,Manipur,2019,"Financial Year (Apr - Mar), 2019",350.8,,,,11.0,-8.6,6.9,4.8
+91,India,14,Manipur,2020,"Financial Year (Apr - Mar), 2020",350.0,,,,6.2,5.6,6.7,3.2
+92,India,15,Mizoram,2014,"Financial Year (Apr - Mar), 2014",,,,,9.9,3.8,6.5,3.2
+93,India,15,Mizoram,2015,"Financial Year (Apr - Mar), 2015",,,,,3.2,9.6,4.0,2.3
+94,India,15,Mizoram,2016,"Financial Year (Apr - Mar), 2016",,,,,-0.1,1.5,2.1,2.3
+95,India,15,Mizoram,2017,"Financial Year (Apr - Mar), 2017",,,,,1.7,4.4,1.9,0.9
+96,India,15,Mizoram,2018,"Financial Year (Apr - Mar), 2018",,,,,1.7,4.7,2.5,1.6
+97,India,15,Mizoram,2019,"Financial Year (Apr - Mar), 2019",,,,,5.6,3.4,5.1,5.1
+98,India,15,Mizoram,2020,"Financial Year (Apr - Mar), 2020",,,,,13.8,15.0,10.3,5.3
+99,India,16,Tripura,2014,"Financial Year (Apr - Mar), 2014",200.0,209.4,,200.0,11.8,17.5,13.0,10.5
+100,India,16,Tripura,2015,"Financial Year (Apr - Mar), 2015",200.0,209.6,,200.0,0.6,7.9,2.7,7.5
+101,India,16,Tripura,2016,"Financial Year (Apr - Mar), 2016",212.5,225.0,,212.5,3.2,6.5,4.1,7.8
+102,India,16,Tripura,2017,"Financial Year (Apr - Mar), 2017",250.0,270.0,,250.0,2.8,4.8,3.4,9.6
+103,India,16,Tripura,2018,"Financial Year (Apr - Mar), 2018",250.0,270.0,,250.0,4.6,8.7,4.3,2.3
+104,India,16,Tripura,2019,"Financial Year (Apr - Mar), 2019",250.0,270.0,,250.0,6.9,11.6,6.3,5.7
+105,India,16,Tripura,2020,"Financial Year (Apr - Mar), 2020",250.0,270.0,,250.0,13.3,7.2,9.5,6.5
+106,India,17,Meghalaya,2014,"Financial Year (Apr - Mar), 2014",231.0,174.7,157.6,192.0,12.0,17.5,12.3,8.8
+107,India,17,Meghalaya,2015,"Financial Year (Apr - Mar), 2015",229.2,212.4,161.0,198.0,7.3,4.3,7.5,3.4
+108,India,17,Meghalaya,2016,"Financial Year (Apr - Mar), 2016",186.0,221.4,,210.3,0.4,-1.3,0.6,1.5
+109,India,17,Meghalaya,2017,"Financial Year (Apr - Mar), 2017",100.0,225.0,,215.3,1.3,2.5,1.5,2.6
+110,India,17,Meghalaya,2018,"Financial Year (Apr - Mar), 2018",273.2,229.5,170.0,212.5,1.5,8.3,2.2,3.0
+111,India,17,Meghalaya,2019,"Financial Year (Apr - Mar), 2019",278.6,231.3,,217.7,1.6,-1.0,2.8,6.0
+112,India,17,Meghalaya,2020,"Financial Year (Apr - Mar), 2020",323.7,245.2,,226.0,8.8,24.2,9.2,3.7
+113,India,18,Assam,2014,"Financial Year (Apr - Mar), 2014",248.8,200.6,,204.9,7.1,3.3,6.0,5.1
+114,India,18,Assam,2015,"Financial Year (Apr - Mar), 2015",265.3,215.7,,225.7,4.6,4.7,4.8,4.0
+115,India,18,Assam,2016,"Financial Year (Apr - Mar), 2016",283.8,229.3,,233.8,2.1,1.4,2.6,4.3
+116,India,18,Assam,2017,"Financial Year (Apr - Mar), 2017",287.9,237.5,,245.5,3.2,7.9,4.4,4.2
+117,India,18,Assam,2018,"Financial Year (Apr - Mar), 2018",295.8,248.5,,258.3,3.8,18.0,5.9,5.3
+118,India,18,Assam,2019,"Financial Year (Apr - Mar), 2019",308.5,252.1,,263.6,5.5,12.2,6.0,9.0
+119,India,18,Assam,2020,"Financial Year (Apr - Mar), 2020",317.7,277.4,,299.3,10.6,2.5,8.5,4.1
+120,India,19,West Bengal,2014,"Financial Year (Apr - Mar), 2014",229.7,216.0,273.1,217.5,5.7,3.3,5.4,5.2
+121,India,19,West Bengal,2015,"Financial Year (Apr - Mar), 2015",241.6,220.2,289.9,237.1,2.1,6.7,3.5,3.1
+122,India,19,West Bengal,2016,"Financial Year (Apr - Mar), 2016",265.9,237.6,310.0,259.9,5.5,3.5,5.0,3.4
+123,India,19,West Bengal,2017,"Financial Year (Apr - Mar), 2017",281.5,255.9,340.2,279.3,2.7,6.7,3.7,6.5
+124,India,19,West Bengal,2018,"Financial Year (Apr - Mar), 2018",290.5,263.1,342.7,287.0,3.2,8.0,5.1,7.0
+125,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",300.9,267.5,339.1,291.1,5.4,-0.7,4.6,3.8
+126,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",308.2,288.6,335.7,305.8,12.5,3.6,8.7,5.3
+127,India,20,Jharkhand,2014,"Financial Year (Apr - Mar), 2014",,,,,4.9,2.9,4.7,4.8
+128,India,20,Jharkhand,2015,"Financial Year (Apr - Mar), 2015",,,,,4.6,7.2,5.1,3.7
+129,India,20,Jharkhand,2016,"Financial Year (Apr - Mar), 2016",,,,,5.9,4.7,5.3,2.8
+130,India,20,Jharkhand,2017,"Financial Year (Apr - Mar), 2017",,,,,2.3,8.2,3.9,4.5
+131,India,20,Jharkhand,2018,"Financial Year (Apr - Mar), 2018",,,,,0.1,12.3,3.7,12.8
+132,India,20,Jharkhand,2019,"Financial Year (Apr - Mar), 2019",,,,,4.5,1.1,4.1,6.4
+133,India,20,Jharkhand,2020,"Financial Year (Apr - Mar), 2020",,,,,9.4,3.5,6.0,2.7
+134,India,21,Odisha,2014,"Financial Year (Apr - Mar), 2014",198.8,180.0,142.0,170.9,7.5,6.6,6.8,4.7
+135,India,21,Odisha,2015,"Financial Year (Apr - Mar), 2015",209.2,191.3,152.8,186.2,7.1,4.0,6.4,4.2
+136,India,21,Odisha,2016,"Financial Year (Apr - Mar), 2016",231.7,208.7,174.7,207.8,4.5,2.7,4.9,4.6
+137,India,21,Odisha,2017,"Financial Year (Apr - Mar), 2017",256.1,222.6,175.0,221.2,0.8,2.6,2.2,5.0
+138,India,21,Odisha,2018,"Financial Year (Apr - Mar), 2018",264.1,227.4,183.8,228.3,1.1,3.9,2.6,4.1
+139,India,21,Odisha,2019,"Financial Year (Apr - Mar), 2019",275.2,232.5,191.0,241.5,5.6,4.9,4.6,4.4
+140,India,21,Odisha,2020,"Financial Year (Apr - Mar), 2020",294.3,255.6,,270.5,10.6,4.6,7.9,3.7
+141,India,22,Chhattisgarh,2014,"Financial Year (Apr - Mar), 2014",,,,,6.3,6.4,6.4,6.5
+142,India,22,Chhattisgarh,2015,"Financial Year (Apr - Mar), 2015",,,,,5.7,12.3,6.8,4.9
+143,India,22,Chhattisgarh,2016,"Financial Year (Apr - Mar), 2016",,,,,2.3,2.6,3.5,6.1
+144,India,22,Chhattisgarh,2017,"Financial Year (Apr - Mar), 2017",,,,,0.0,7.7,2.7,7.3
+145,India,22,Chhattisgarh,2018,"Financial Year (Apr - Mar), 2018",,,,,-1.9,10.6,2.4,8.6
+146,India,22,Chhattisgarh,2019,"Financial Year (Apr - Mar), 2019",,,,,4.2,1.1,2.5,1.6
+147,India,22,Chhattisgarh,2020,"Financial Year (Apr - Mar), 2020",,,,,10.7,3.6,8.0,1.0
+148,India,23,Madhya Pradesh,2014,"Financial Year (Apr - Mar), 2014",173.4,150.5,142.6,150.6,5.4,2.5,5.5,8.2
+149,India,23,Madhya Pradesh,2015,"Financial Year (Apr - Mar), 2015",185.5,160.4,162.4,166.3,4.5,5.9,4.4,4.6
+150,India,23,Madhya Pradesh,2016,"Financial Year (Apr - Mar), 2016",200.5,173.1,164.3,184.4,2.7,3.7,3.5,4.1
+151,India,23,Madhya Pradesh,2017,"Financial Year (Apr - Mar), 2017",219.5,191.3,176.3,198.1,0.2,6.3,2.7,8.7
+152,India,23,Madhya Pradesh,2018,"Financial Year (Apr - Mar), 2018",220.5,196.3,195.9,202.4,0.7,5.5,3.5,9.8
+153,India,23,Madhya Pradesh,2019,"Financial Year (Apr - Mar), 2019",224.0,198.6,208.1,205.9,7.6,1.6,5.5,5.5
+154,India,23,Madhya Pradesh,2020,"Financial Year (Apr - Mar), 2020",263.5,217.6,202.8,232.6,8.5,5.2,7.6,5.0
+155,India,24,Gujarat,2014,"Financial Year (Apr - Mar), 2014",230.9,160.0,185.6,182.8,6.4,4.3,5.5,4.7
+156,India,24,Gujarat,2015,"Financial Year (Apr - Mar), 2015",233.7,177.6,191.6,193.5,5.7,4.6,4.9,3.4
+157,India,24,Gujarat,2016,"Financial Year (Apr - Mar), 2016",237.4,184.0,192.1,204.3,5.6,3.6,5.1,3.9
+158,India,24,Gujarat,2017,"Financial Year (Apr - Mar), 2017",249.3,187.9,203.1,216.1,1.5,4.1,2.6,4.7
+159,India,24,Gujarat,2018,"Financial Year (Apr - Mar), 2018",256.2,199.3,206.3,224.1,-0.8,4.6,2.5,5.3
+160,India,24,Gujarat,2019,"Financial Year (Apr - Mar), 2019",270.2,208.6,210.7,234.5,4.7,0.4,3.7,2.9
+161,India,24,Gujarat,2020,"Financial Year (Apr - Mar), 2020",285.1,213.1,215.6,239.3,8.0,1.8,5.9,3.3
+162,India,27,Maharashtra,2014,"Financial Year (Apr - Mar), 2014",267.7,196.7,231.0,205.4,6.8,2.9,5.5,4.0
+163,India,27,Maharashtra,2015,"Financial Year (Apr - Mar), 2015",266.2,195.9,218.7,206.8,5.4,4.7,4.4,3.3
+164,India,27,Maharashtra,2016,"Financial Year (Apr - Mar), 2016",282.1,196.8,146.7,215.9,4.6,2.9,4.4,3.7
+165,India,27,Maharashtra,2017,"Financial Year (Apr - Mar), 2017",296.3,207.4,222.5,226.7,2.2,5.8,4.1,6.2
+166,India,27,Maharashtra,2018,"Financial Year (Apr - Mar), 2018",305.0,213.7,258.1,229.6,0.6,4.3,3.1,6.0
+167,India,27,Maharashtra,2019,"Financial Year (Apr - Mar), 2019",326.1,231.8,274.0,240.2,6.1,2.1,4.4,4.0
+168,India,27,Maharashtra,2020,"Financial Year (Apr - Mar), 2020",347.9,267.7,278.3,262.3,8.3,8.0,6.8,5.1
+169,India,28,Andhra Pradesh,2014,"Financial Year (Apr - Mar), 2014",237.5,216.9,,221.2,5.3,2.9,5.5,7.7
+170,India,28,Andhra Pradesh,2015,"Financial Year (Apr - Mar), 2015",257.5,213.3,,223.1,9.0,4.5,7.4,6.4
+171,India,28,Andhra Pradesh,2016,"Financial Year (Apr - Mar), 2016",276.6,249.1,,232.4,4.9,2.9,5.2,7.3
+172,India,28,Andhra Pradesh,2017,"Financial Year (Apr - Mar), 2017",291.0,269.5,202.9,247.5,1.7,7.0,3.4,5.8
+173,India,28,Andhra Pradesh,2018,"Financial Year (Apr - Mar), 2018",303.9,282.0,214.7,271.2,-1.8,4.2,1.1,6.3
+174,India,28,Andhra Pradesh,2019,"Financial Year (Apr - Mar), 2019",324.2,302.6,234.2,291.3,4.4,-3.8,3.5,4.9
+175,India,28,Andhra Pradesh,2020,"Financial Year (Apr - Mar), 2020",353.1,318.6,280.0,305.3,11.1,5.6,9.0,5.2
+176,India,29,Karnataka,2014,"Financial Year (Apr - Mar), 2014",286.2,205.1,230.5,211.5,5.9,5.1,6.5,6.7
+177,India,29,Karnataka,2015,"Financial Year (Apr - Mar), 2015",304.1,228.3,260.0,227.1,8.4,5.8,6.7,5.7
+178,India,29,Karnataka,2016,"Financial Year (Apr - Mar), 2016",319.9,251.9,280.6,238.5,4.3,4.5,4.4,5.2
+179,India,29,Karnataka,2017,"Financial Year (Apr - Mar), 2017",329.6,267.3,286.6,242.4,1.8,6.4,3.0,5.5
+180,India,29,Karnataka,2018,"Financial Year (Apr - Mar), 2018",342.8,288.7,300.5,261.1,0.2,6.2,3.3,7.6
+181,India,29,Karnataka,2019,"Financial Year (Apr - Mar), 2019",341.4,292.0,305.3,263.4,6.4,6.6,5.6,7.8
+182,India,29,Karnataka,2020,"Financial Year (Apr - Mar), 2020",365.7,312.5,341.3,279.2,6.9,6.3,5.8,4.0
+183,India,30,Goa,2014,"Financial Year (Apr - Mar), 2014",,,,,9.8,0.9,6.5,3.6
+184,India,30,Goa,2015,"Financial Year (Apr - Mar), 2015",,,,,6.5,1.7,4.7,3.8
+185,India,30,Goa,2016,"Financial Year (Apr - Mar), 2016",,,,,3.8,3.3,5.1,9.0
+186,India,30,Goa,2017,"Financial Year (Apr - Mar), 2017",,,,,4.3,7.6,3.8,3.8
+187,India,30,Goa,2018,"Financial Year (Apr - Mar), 2018",,,,,-0.3,12.9,2.6,4.9
+188,India,30,Goa,2019,"Financial Year (Apr - Mar), 2019",,,,,3.6,9.5,4.3,2.8
+189,India,30,Goa,2020,"Financial Year (Apr - Mar), 2020",,,,,11.3,-6.8,6.9,1.5
+190,India,31,Lakshadweep,2014,"Financial Year (Apr - Mar), 2014",,,,,10.6,0.7,7.6,0.2
+191,India,31,Lakshadweep,2015,"Financial Year (Apr - Mar), 2015",,,,,6.0,0.3,5.1,0.3
+192,India,31,Lakshadweep,2016,"Financial Year (Apr - Mar), 2016",,,,,0.7,3.5,1.1,0.1
+193,India,31,Lakshadweep,2017,"Financial Year (Apr - Mar), 2017",,,,,2.8,10.0,5.0,41.2
+194,India,31,Lakshadweep,2018,"Financial Year (Apr - Mar), 2018",,,,,2.5,3.6,5.7,45.8
+195,India,31,Lakshadweep,2019,"Financial Year (Apr - Mar), 2019",,,,,11.0,24.2,8.3,1.0
+196,India,31,Lakshadweep,2020,"Financial Year (Apr - Mar), 2020",,,,,20.3,1.1,11.1,-2.7
+197,India,32,Kerala,2014,"Financial Year (Apr - Mar), 2014",787.9,575.1,,609.7,10.3,7.2,7.3,6.5
+198,India,32,Kerala,2015,"Financial Year (Apr - Mar), 2015",777.3,608.8,,617.0,3.6,8.3,4.2,6.3
+199,India,32,Kerala,2016,"Financial Year (Apr - Mar), 2016",787.5,644.0,,615.6,3.8,2.4,4.3,5.5
+200,India,32,Kerala,2017,"Financial Year (Apr - Mar), 2017",814.5,659.8,,625.6,8.3,7.2,6.0,6.0
+201,India,32,Kerala,2018,"Financial Year (Apr - Mar), 2018",836.2,682.4,,657.2,1.6,6.6,4.9,7.3
+202,India,32,Kerala,2019,"Financial Year (Apr - Mar), 2019",839.1,700.9,,670.4,6.3,1.8,6.1,4.4
+203,India,32,Kerala,2020,"Financial Year (Apr - Mar), 2020",829.7,706.5,,677.6,5.9,5.5,6.0,3.2
+204,India,33,Tamil Nadu,2014,"Financial Year (Apr - Mar), 2014",363.8,334.3,315.8,372.8,6.5,3.0,6.2,7.0
+205,India,33,Tamil Nadu,2015,"Financial Year (Apr - Mar), 2015",396.5,357.0,356.0,373.9,7.0,3.5,5.7,6.5
+206,India,33,Tamil Nadu,2016,"Financial Year (Apr - Mar), 2016",420.8,378.7,413.9,389.6,3.3,-0.7,3.9,6.6
+207,India,33,Tamil Nadu,2017,"Financial Year (Apr - Mar), 2017",431.2,385.9,422.2,401.7,4.5,10.6,4.9,6.3
+208,India,33,Tamil Nadu,2018,"Financial Year (Apr - Mar), 2018",435.8,398.7,423.9,414.3,-0.3,7.7,3.7,5.8
+209,India,33,Tamil Nadu,2019,"Financial Year (Apr - Mar), 2019",452.5,410.4,,438.6,7.7,-0.7,5.7,4.6
+210,India,33,Tamil Nadu,2020,"Financial Year (Apr - Mar), 2020",468.3,434.2,,449.5,9.9,7.3,7.5,4.3
+211,India,34,Puducherry,2014,"Financial Year (Apr - Mar), 2014",,,,,9.1,4.0,6.9,6.4
+212,India,34,Puducherry,2015,"Financial Year (Apr - Mar), 2015",,,,,13.2,-0.6,8.4,10.6
+213,India,34,Puducherry,2016,"Financial Year (Apr - Mar), 2016",,,,,-1.2,1.4,1.3,4.1
+214,India,34,Puducherry,2017,"Financial Year (Apr - Mar), 2017",,,,,0.5,9.1,2.3,2.6
+215,India,34,Puducherry,2018,"Financial Year (Apr - Mar), 2018",,,,,0.3,5.5,4.2,5.3
+216,India,34,Puducherry,2019,"Financial Year (Apr - Mar), 2019",,,,,7.4,-2.3,6.2,5.1
+217,India,34,Puducherry,2020,"Financial Year (Apr - Mar), 2020",,,,,11.2,8.5,8.4,3.7
+218,India,35,Andaman And Nicobar Islands,2014,"Financial Year (Apr - Mar), 2014",,,,,7.7,2.2,6.7,4.4
+219,India,35,Andaman And Nicobar Islands,2015,"Financial Year (Apr - Mar), 2015",,,,,9.8,-0.1,6.4,4.5
+220,India,35,Andaman And Nicobar Islands,2016,"Financial Year (Apr - Mar), 2016",,,,,7.3,1.4,6.2,4.4
+221,India,35,Andaman And Nicobar Islands,2017,"Financial Year (Apr - Mar), 2017",,,,,1.5,12.6,3.6,13.3
+222,India,35,Andaman And Nicobar Islands,2018,"Financial Year (Apr - Mar), 2018",,,,,5.2,11.1,6.9,12.6
+223,India,35,Andaman And Nicobar Islands,2019,"Financial Year (Apr - Mar), 2019",,,,,10.4,-4.5,6.5,6.4
+224,India,35,Andaman And Nicobar Islands,2020,"Financial Year (Apr - Mar), 2020",,,,,5.6,-5.3,6.3,7.3
+225,India,36,Telangana,2014,"Financial Year (Apr - Mar), 2014",,,,,4.0,2.0,4.7,6.2
+226,India,36,Telangana,2015,"Financial Year (Apr - Mar), 2015",,,,,7.2,4.0,5.5,4.2
+227,India,36,Telangana,2016,"Financial Year (Apr - Mar), 2016",,,,,7.0,3.8,6.1,7.1
+228,India,36,Telangana,2017,"Financial Year (Apr - Mar), 2017",,,,,3.1,7.1,3.9,5.3
+229,India,36,Telangana,2018,"Financial Year (Apr - Mar), 2018",,,,,0.1,6.0,2.6,4.2
+230,India,36,Telangana,2019,"Financial Year (Apr - Mar), 2019",,,,,4.9,0.1,4.5,4.1
+231,India,36,Telangana,2020,"Financial Year (Apr - Mar), 2020",,,,,11.3,-0.7,8.7,4.9
+232,India,37,Ladakh,2014,"Financial Year (Apr - Mar), 2014",413.6,367.7,,382.1,7.2,4.3,6.0,6.0
+233,India,37,Ladakh,2015,"Financial Year (Apr - Mar), 2015",422.3,394.5,,406.7,6.4,7.0,6.0,4.9
+234,India,37,Ladakh,2016,"Financial Year (Apr - Mar), 2016",430.1,409.8,,408.8,5.0,7.8,5.3,2.7
+235,India,37,Ladakh,2017,"Financial Year (Apr - Mar), 2017",442.9,436.0,,417.3,7.3,9.5,6.8,7.3
+236,India,37,Ladakh,2018,"Financial Year (Apr - Mar), 2018",450.6,443.6,,433.9,1.9,10.3,5.3,12.9
+237,India,37,Ladakh,2019,"Financial Year (Apr - Mar), 2019",463.6,451.6,,452.8,3.2,-1.1,4.3,11.5
+238,India,37,Ladakh,2020,"Financial Year (Apr - Mar), 2020",492.6,501.1,,483.0,6.7,5.0,6.3,4.8
+239,India,38,The Dadra And Nagar Haveli And Daman And Diu,2014,"Financial Year (Apr - Mar), 2014",,,,,6.236052957972999679700,3.243263549567599615640,5.418937194610839654076,6.167589904524359577204
+240,India,38,The Dadra And Nagar Haveli And Daman And Diu,2015,"Financial Year (Apr - Mar), 2015",,,,,7.936052957972999679700,12.922580057108198910980,6.916242614437879500332,5.977495076291919666888
+241,India,38,The Dadra And Nagar Haveli And Daman And Diu,2016,"Financial Year (Apr - Mar), 2016",,,,,6.158557881681080012812,6.906262309270200832780,5.351347290086480076872,3.800000000000000000000
+242,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Financial Year (Apr - Mar), 2017",,,,,3.336052957972999679700,5.646033263140678347252,4.333358377800039525956,3.975673645043240038436
+243,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Financial Year (Apr - Mar), 2018",,,,,-3.506337442670319410648,-3.816167481037760922464,0.266641622199960474044,4.492789408405400064060
+244,India,38,The Dadra And Nagar Haveli And Daman And Diu,2019,"Financial Year (Apr - Mar), 2019",,,,,1.649525858837800448420,10.058482748280961434944,3.083757385562120499668,4.743263549567599615640
+245,India,38,The Dadra And Nagar Haveli And Daman And Diu,2020,"Financial Year (Apr - Mar), 2020",,,,,7.287400248059479756572,5.433508644600276681692,5.318937194610839654076,2.746831278664840294676

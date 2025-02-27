@@ -1,0 +1,18 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+Per capita availability of power,I7054_3,Numeric Variable,KWH ( Kilowatt Per Hour ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Per capita availability of power in Kilowatt-Hour
+Availability of power ,I7054_4,Numeric Variable,Kilowatt,10000000,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Availability of power in Net Crore Units ( 1 Unit = 1000 watts or 1 Kilowatt )
+Installed capacity of  power,I7054_5,Numeric Variable,MW ( Megawatt ),1,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Installed capacity of  power in Mega Watt
+Power requirement,I7054_6,Numeric Variable,Kilowatt,10000000,sum,WeighingRatio_NumberOfHouseholds,Number of House holds from Census,Power requirement in Net Crore Units  ( 1 Unit = 1000 watts or 1 Kilowatt )
+Length of national highways ,I7054_7,Numeric Variable,km ( Killometer ),1,sum,WeighingRatio_LandArea,Land Area from Census,Length of national highways in Kilometer
+Length of railway route,I7054_8,Numeric Variable,km ( Killometer ),1,sum,WeighingRatio_LandArea,Land Area from Census,Length of railway route in Kilometer
+Length of roads,I7054_9,Numeric Variable,km ( Killometer ),1,sum,WeighingRatio_LandArea,Land Area from Census,Length of roads in Kilometer
+Length of state highways,I7054_10,Numeric Variable,km ( Killometer ),1,sum,WeighingRatio_LandArea,Land Area from Census,Length of state highways in Kilometer
+Electricity transmission and distribution losses (%),I7054_11,Numeric Variable,% ( Percentage ),1,weighted avg,WeighingRatio_Percentage_NumberOfHouseholds,Number of House holds from Census,Electricity transmission and distribution losses (%)
+Telephones per 100 population,I7054_12,Numeric Variable,% ( Percentage ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Telephones per 100 population 
+Score of ease of doing business,I7054_13,Numeric Variable,% ( Percentage ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Score of ease of doing business
+Ease of doing business rank,I7054_14,Numeric Variable,Number,1,min,WeighingRatio_TotalPopulation,Total Population from Census,Ease of doing business rank

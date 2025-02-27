@@ -1,0 +1,1542 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Gender,Life expectancy
+1,India,1,Jammu And Kashmir,1995,"Calendar Year (Jan - Dec), 1995",Total,
+2,India,1,Jammu And Kashmir,1997,"Calendar Year (Jan - Dec), 1997",Female,
+3,India,1,Jammu And Kashmir,1997,"Calendar Year (Jan - Dec), 1997",Male,
+4,India,1,Jammu And Kashmir,1997,"Calendar Year (Jan - Dec), 1997",Total,
+5,India,1,Jammu And Kashmir,1998,"Calendar Year (Jan - Dec), 1998",Female,
+6,India,1,Jammu And Kashmir,1998,"Calendar Year (Jan - Dec), 1998",Male,
+7,India,1,Jammu And Kashmir,1998,"Calendar Year (Jan - Dec), 1998",Total,
+8,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Female,
+9,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Male,
+10,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Total,
+11,India,1,Jammu And Kashmir,2000,"Calendar Year (Jan - Dec), 2000",Female,
+12,India,1,Jammu And Kashmir,2000,"Calendar Year (Jan - Dec), 2000",Male,
+13,India,1,Jammu And Kashmir,2000,"Calendar Year (Jan - Dec), 2000",Total,
+14,India,1,Jammu And Kashmir,2001,"Calendar Year (Jan - Dec), 2001",Female,
+15,India,1,Jammu And Kashmir,2001,"Calendar Year (Jan - Dec), 2001",Male,
+16,India,1,Jammu And Kashmir,2001,"Calendar Year (Jan - Dec), 2001",Total,
+17,India,1,Jammu And Kashmir,2002,"Calendar Year (Jan - Dec), 2002",Female,67.3
+18,India,1,Jammu And Kashmir,2002,"Calendar Year (Jan - Dec), 2002",Male,64.7
+19,India,1,Jammu And Kashmir,2002,"Calendar Year (Jan - Dec), 2002",Total,65.9
+20,India,1,Jammu And Kashmir,2003,"Calendar Year (Jan - Dec), 2003",Female,68
+21,India,1,Jammu And Kashmir,2003,"Calendar Year (Jan - Dec), 2003",Male,64.4
+22,India,1,Jammu And Kashmir,2003,"Calendar Year (Jan - Dec), 2003",Total,66
+23,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Female,68.9
+24,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Male,65.9
+25,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Total,67.3
+26,India,1,Jammu And Kashmir,2005,"Calendar Year (Jan - Dec), 2005",Female,69.9
+27,India,1,Jammu And Kashmir,2005,"Calendar Year (Jan - Dec), 2005",Male,67.1
+28,India,1,Jammu And Kashmir,2005,"Calendar Year (Jan - Dec), 2005",Total,68.4
+29,India,1,Jammu And Kashmir,2006,"Calendar Year (Jan - Dec), 2006",Female,71
+30,India,1,Jammu And Kashmir,2006,"Calendar Year (Jan - Dec), 2006",Male,69.2
+31,India,1,Jammu And Kashmir,2006,"Calendar Year (Jan - Dec), 2006",Total,70
+32,India,1,Jammu And Kashmir,2007,"Calendar Year (Jan - Dec), 2007",Female,70.8
+33,India,1,Jammu And Kashmir,2007,"Calendar Year (Jan - Dec), 2007",Male,68.6
+34,India,1,Jammu And Kashmir,2007,"Calendar Year (Jan - Dec), 2007",Total,69.6
+35,India,1,Jammu And Kashmir,2008,"Calendar Year (Jan - Dec), 2008",Female,70.6
+36,India,1,Jammu And Kashmir,2008,"Calendar Year (Jan - Dec), 2008",Male,69
+37,India,1,Jammu And Kashmir,2008,"Calendar Year (Jan - Dec), 2008",Total,69.8
+38,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Female,71.2
+39,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Male,68.9
+40,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Total,70
+41,India,1,Jammu And Kashmir,2010,"Calendar Year (Jan - Dec), 2010",Female,71.1
+42,India,1,Jammu And Kashmir,2010,"Calendar Year (Jan - Dec), 2010",Male,69.2
+43,India,1,Jammu And Kashmir,2010,"Calendar Year (Jan - Dec), 2010",Total,70.1
+44,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Female,71.9
+45,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Male,69.4
+46,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Total,70.5
+47,India,1,Jammu And Kashmir,2012,"Calendar Year (Jan - Dec), 2012",Female,72.4
+48,India,1,Jammu And Kashmir,2012,"Calendar Year (Jan - Dec), 2012",Male,69.9
+49,India,1,Jammu And Kashmir,2012,"Calendar Year (Jan - Dec), 2012",Total,71
+50,India,1,Jammu And Kashmir,2013,"Calendar Year (Jan - Dec), 2013",Female,74
+51,India,1,Jammu And Kashmir,2013,"Calendar Year (Jan - Dec), 2013",Male,70.6
+52,India,1,Jammu And Kashmir,2013,"Calendar Year (Jan - Dec), 2013",Total,72
+53,India,1,Jammu And Kashmir,2014,"Calendar Year (Jan - Dec), 2014",Female,74.9
+54,India,1,Jammu And Kashmir,2014,"Calendar Year (Jan - Dec), 2014",Male,70.9
+55,India,1,Jammu And Kashmir,2014,"Calendar Year (Jan - Dec), 2014",Total,72.6
+56,India,1,Jammu And Kashmir,2015,"Calendar Year (Jan - Dec), 2015",Female,76.1
+57,India,1,Jammu And Kashmir,2015,"Calendar Year (Jan - Dec), 2015",Male,71.2
+58,India,1,Jammu And Kashmir,2015,"Calendar Year (Jan - Dec), 2015",Total,73.2
+59,India,1,Jammu And Kashmir,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+60,India,1,Jammu And Kashmir,2016,"Calendar Year (Jan - Dec), 2016",Male,71.6
+61,India,1,Jammu And Kashmir,2016,"Calendar Year (Jan - Dec), 2016",Total,73.5
+62,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Female,76.7
+63,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Male,72.1
+64,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Total,74.1
+65,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Female,76.2
+66,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Male,72.2
+67,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Total,74
+68,India,2,Himachal Pradesh,1995,"Calendar Year (Jan - Dec), 1995",Total,
+69,India,2,Himachal Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Female,65.2
+70,India,2,Himachal Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Male,64.6
+71,India,2,Himachal Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Total,64.9
+72,India,2,Himachal Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Female,65.5
+73,India,2,Himachal Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Male,64.8
+74,India,2,Himachal Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Total,65.2
+75,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Female,67.7
+76,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Male,64.8
+77,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Total,66.2
+78,India,2,Himachal Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Female,68.3
+79,India,2,Himachal Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Male,65.7
+80,India,2,Himachal Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Total,67
+81,India,2,Himachal Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Female,69.4
+82,India,2,Himachal Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Male,66.3
+83,India,2,Himachal Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Total,67.8
+84,India,2,Himachal Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Female,70.2
+85,India,2,Himachal Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Male,66.6
+86,India,2,Himachal Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Total,68.3
+87,India,2,Himachal Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Female,71.4
+88,India,2,Himachal Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Male,67.1
+89,India,2,Himachal Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Total,69.1
+90,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Female,72
+91,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Male,67.3
+92,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Total,69.5
+93,India,2,Himachal Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Female,71.8
+94,India,2,Himachal Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Male,67.4
+95,India,2,Himachal Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Total,69.5
+96,India,2,Himachal Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Female,72
+97,India,2,Himachal Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Male,67.4
+98,India,2,Himachal Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Total,69.6
+99,India,2,Himachal Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Female,72.2
+100,India,2,Himachal Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Male,67.8
+101,India,2,Himachal Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Total,69.9
+102,India,2,Himachal Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Female,72.1
+103,India,2,Himachal Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Male,67.7
+104,India,2,Himachal Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Total,69.8
+105,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Female,72
+106,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Male,67.7
+107,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Total,69.8
+108,India,2,Himachal Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Female,72.4
+109,India,2,Himachal Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Male,67.7
+110,India,2,Himachal Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Total,70
+111,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Female,72.3
+112,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Male,67.9
+113,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Total,70.1
+114,India,2,Himachal Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Female,72.7
+115,India,2,Himachal Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Male,68.3
+116,India,2,Himachal Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Total,70.5
+117,India,2,Himachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Female,73.1
+118,India,2,Himachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Male,69
+119,India,2,Himachal Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Total,71
+120,India,2,Himachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Female,74.1
+121,India,2,Himachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Male,69.3
+122,India,2,Himachal Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Total,71.6
+123,India,2,Himachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Female,75.2
+124,India,2,Himachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Male,69.1
+125,India,2,Himachal Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Total,72
+126,India,2,Himachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+127,India,2,Himachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Male,69.4
+128,India,2,Himachal Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Total,72.3
+129,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Female,75.6
+130,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Male,69.8
+131,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Total,72.6
+132,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Female,76.8
+133,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Male,69.6
+134,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Total,72.9
+135,India,3,Punjab,1995,"Calendar Year (Jan - Dec), 1995",Total,67.2
+136,India,3,Punjab,1997,"Calendar Year (Jan - Dec), 1997",Female,68.8
+137,India,3,Punjab,1997,"Calendar Year (Jan - Dec), 1997",Male,66.7
+138,India,3,Punjab,1997,"Calendar Year (Jan - Dec), 1997",Total,67.8
+139,India,3,Punjab,1998,"Calendar Year (Jan - Dec), 1998",Female,69
+140,India,3,Punjab,1998,"Calendar Year (Jan - Dec), 1998",Male,66.8
+141,India,3,Punjab,1998,"Calendar Year (Jan - Dec), 1998",Total,67.9
+142,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Female,67.8
+143,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Male,65.2
+144,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Total,66.4
+145,India,3,Punjab,2000,"Calendar Year (Jan - Dec), 2000",Female,67.7
+146,India,3,Punjab,2000,"Calendar Year (Jan - Dec), 2000",Male,65.5
+147,India,3,Punjab,2000,"Calendar Year (Jan - Dec), 2000",Total,66.5
+148,India,3,Punjab,2001,"Calendar Year (Jan - Dec), 2001",Female,68
+149,India,3,Punjab,2001,"Calendar Year (Jan - Dec), 2001",Male,65.9
+150,India,3,Punjab,2001,"Calendar Year (Jan - Dec), 2001",Total,67
+151,India,3,Punjab,2002,"Calendar Year (Jan - Dec), 2002",Female,68.3
+152,India,3,Punjab,2002,"Calendar Year (Jan - Dec), 2002",Male,66
+153,India,3,Punjab,2002,"Calendar Year (Jan - Dec), 2002",Total,67.2
+154,India,3,Punjab,2003,"Calendar Year (Jan - Dec), 2003",Female,68.9
+155,India,3,Punjab,2003,"Calendar Year (Jan - Dec), 2003",Male,66.3
+156,India,3,Punjab,2003,"Calendar Year (Jan - Dec), 2003",Total,67.6
+157,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Female,69.5
+158,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Male,67.2
+159,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Total,68.3
+160,India,3,Punjab,2005,"Calendar Year (Jan - Dec), 2005",Female,70.2
+161,India,3,Punjab,2005,"Calendar Year (Jan - Dec), 2005",Male,67.5
+162,India,3,Punjab,2005,"Calendar Year (Jan - Dec), 2005",Total,68.8
+163,India,3,Punjab,2006,"Calendar Year (Jan - Dec), 2006",Female,70.6
+164,India,3,Punjab,2006,"Calendar Year (Jan - Dec), 2006",Male,67.5
+165,India,3,Punjab,2006,"Calendar Year (Jan - Dec), 2006",Total,68.9
+166,India,3,Punjab,2007,"Calendar Year (Jan - Dec), 2007",Female,70.9
+167,India,3,Punjab,2007,"Calendar Year (Jan - Dec), 2007",Male,67.6
+168,India,3,Punjab,2007,"Calendar Year (Jan - Dec), 2007",Total,69.1
+169,India,3,Punjab,2008,"Calendar Year (Jan - Dec), 2008",Female,71.1
+170,India,3,Punjab,2008,"Calendar Year (Jan - Dec), 2008",Male,67.5
+171,India,3,Punjab,2008,"Calendar Year (Jan - Dec), 2008",Total,69.2
+172,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Female,71.4
+173,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Male,67.2
+174,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Total,69.1
+175,India,3,Punjab,2010,"Calendar Year (Jan - Dec), 2010",Female,71.6
+176,India,3,Punjab,2010,"Calendar Year (Jan - Dec), 2010",Male,67.4
+177,India,3,Punjab,2010,"Calendar Year (Jan - Dec), 2010",Total,69.3
+178,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Female,72.2
+179,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Male,67.7
+180,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Total,69.8
+181,India,3,Punjab,2012,"Calendar Year (Jan - Dec), 2012",Female,72.9
+182,India,3,Punjab,2012,"Calendar Year (Jan - Dec), 2012",Male,68.1
+183,India,3,Punjab,2012,"Calendar Year (Jan - Dec), 2012",Total,70.3
+184,India,3,Punjab,2013,"Calendar Year (Jan - Dec), 2013",Female,73.4
+185,India,3,Punjab,2013,"Calendar Year (Jan - Dec), 2013",Male,69.1
+186,India,3,Punjab,2013,"Calendar Year (Jan - Dec), 2013",Total,71.1
+187,India,3,Punjab,2014,"Calendar Year (Jan - Dec), 2014",Female,73.8
+188,India,3,Punjab,2014,"Calendar Year (Jan - Dec), 2014",Male,69.7
+189,India,3,Punjab,2014,"Calendar Year (Jan - Dec), 2014",Total,71.6
+190,India,3,Punjab,2015,"Calendar Year (Jan - Dec), 2015",Female,74.2
+191,India,3,Punjab,2015,"Calendar Year (Jan - Dec), 2015",Male,70.3
+192,India,3,Punjab,2015,"Calendar Year (Jan - Dec), 2015",Total,72.1
+193,India,3,Punjab,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+194,India,3,Punjab,2016,"Calendar Year (Jan - Dec), 2016",Male,71
+195,India,3,Punjab,2016,"Calendar Year (Jan - Dec), 2016",Total,72.5
+196,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Female,74
+197,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Male,71
+198,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Total,72.4
+199,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Female,74.8
+200,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Male,71
+201,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Total,72.7
+202,India,5,Uttarakhand,1995,"Calendar Year (Jan - Dec), 1995",Total,
+203,India,5,Uttarakhand,1997,"Calendar Year (Jan - Dec), 1997",Female,
+204,India,5,Uttarakhand,1997,"Calendar Year (Jan - Dec), 1997",Male,
+205,India,5,Uttarakhand,1997,"Calendar Year (Jan - Dec), 1997",Total,
+206,India,5,Uttarakhand,1998,"Calendar Year (Jan - Dec), 1998",Female,
+207,India,5,Uttarakhand,1998,"Calendar Year (Jan - Dec), 1998",Male,
+208,India,5,Uttarakhand,1998,"Calendar Year (Jan - Dec), 1998",Total,
+209,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Female,
+210,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Male,
+211,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Total,
+212,India,5,Uttarakhand,2000,"Calendar Year (Jan - Dec), 2000",Female,
+213,India,5,Uttarakhand,2000,"Calendar Year (Jan - Dec), 2000",Male,
+214,India,5,Uttarakhand,2000,"Calendar Year (Jan - Dec), 2000",Total,
+215,India,5,Uttarakhand,2001,"Calendar Year (Jan - Dec), 2001",Female,
+216,India,5,Uttarakhand,2001,"Calendar Year (Jan - Dec), 2001",Male,
+217,India,5,Uttarakhand,2001,"Calendar Year (Jan - Dec), 2001",Total,
+218,India,5,Uttarakhand,2002,"Calendar Year (Jan - Dec), 2002",Female,
+219,India,5,Uttarakhand,2002,"Calendar Year (Jan - Dec), 2002",Male,
+220,India,5,Uttarakhand,2002,"Calendar Year (Jan - Dec), 2002",Total,
+221,India,5,Uttarakhand,2003,"Calendar Year (Jan - Dec), 2003",Female,
+222,India,5,Uttarakhand,2003,"Calendar Year (Jan - Dec), 2003",Male,
+223,India,5,Uttarakhand,2003,"Calendar Year (Jan - Dec), 2003",Total,
+224,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Female,
+225,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Male,
+226,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Total,
+227,India,5,Uttarakhand,2005,"Calendar Year (Jan - Dec), 2005",Female,
+228,India,5,Uttarakhand,2005,"Calendar Year (Jan - Dec), 2005",Male,
+229,India,5,Uttarakhand,2005,"Calendar Year (Jan - Dec), 2005",Total,
+230,India,5,Uttarakhand,2006,"Calendar Year (Jan - Dec), 2006",Female,
+231,India,5,Uttarakhand,2006,"Calendar Year (Jan - Dec), 2006",Male,
+232,India,5,Uttarakhand,2006,"Calendar Year (Jan - Dec), 2006",Total,
+233,India,5,Uttarakhand,2007,"Calendar Year (Jan - Dec), 2007",Female,
+234,India,5,Uttarakhand,2007,"Calendar Year (Jan - Dec), 2007",Male,
+235,India,5,Uttarakhand,2007,"Calendar Year (Jan - Dec), 2007",Total,
+236,India,5,Uttarakhand,2008,"Calendar Year (Jan - Dec), 2008",Female,
+237,India,5,Uttarakhand,2008,"Calendar Year (Jan - Dec), 2008",Male,
+238,India,5,Uttarakhand,2008,"Calendar Year (Jan - Dec), 2008",Total,
+239,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Female,
+240,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Male,
+241,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Total,
+242,India,5,Uttarakhand,2010,"Calendar Year (Jan - Dec), 2010",Female,
+243,India,5,Uttarakhand,2010,"Calendar Year (Jan - Dec), 2010",Male,
+244,India,5,Uttarakhand,2010,"Calendar Year (Jan - Dec), 2010",Total,
+245,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Female,
+246,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Male,
+247,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Total,
+248,India,5,Uttarakhand,2012,"Calendar Year (Jan - Dec), 2012",Female,
+249,India,5,Uttarakhand,2012,"Calendar Year (Jan - Dec), 2012",Male,
+250,India,5,Uttarakhand,2012,"Calendar Year (Jan - Dec), 2012",Total,
+251,India,5,Uttarakhand,2013,"Calendar Year (Jan - Dec), 2013",Female,
+252,India,5,Uttarakhand,2013,"Calendar Year (Jan - Dec), 2013",Male,
+253,India,5,Uttarakhand,2013,"Calendar Year (Jan - Dec), 2013",Total,
+254,India,5,Uttarakhand,2014,"Calendar Year (Jan - Dec), 2014",Female,74.5
+255,India,5,Uttarakhand,2014,"Calendar Year (Jan - Dec), 2014",Male,69.1
+256,India,5,Uttarakhand,2014,"Calendar Year (Jan - Dec), 2014",Total,71.7
+257,India,5,Uttarakhand,2015,"Calendar Year (Jan - Dec), 2015",Female,74.9
+258,India,5,Uttarakhand,2015,"Calendar Year (Jan - Dec), 2015",Male,68.9
+259,India,5,Uttarakhand,2015,"Calendar Year (Jan - Dec), 2015",Total,71.8
+260,India,5,Uttarakhand,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+261,India,5,Uttarakhand,2016,"Calendar Year (Jan - Dec), 2016",Male,68.5
+262,India,5,Uttarakhand,2016,"Calendar Year (Jan - Dec), 2016",Total,71.5
+263,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Female,74.2
+264,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Male,68.8
+265,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Total,71
+266,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Female,74.3
+267,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Male,67.9
+268,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Total,70.9
+269,India,6,Haryana,1995,"Calendar Year (Jan - Dec), 1995",Total,63.4
+270,India,6,Haryana,1997,"Calendar Year (Jan - Dec), 1997",Female,64.6
+271,India,6,Haryana,1997,"Calendar Year (Jan - Dec), 1997",Male,63.7
+272,India,6,Haryana,1997,"Calendar Year (Jan - Dec), 1997",Total,64.2
+273,India,6,Haryana,1998,"Calendar Year (Jan - Dec), 1998",Female,64.8
+274,India,6,Haryana,1998,"Calendar Year (Jan - Dec), 1998",Male,63.9
+275,India,6,Haryana,1998,"Calendar Year (Jan - Dec), 1998",Total,64.4
+276,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Female,64.1
+277,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Male,63.9
+278,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Total,64.1
+279,India,6,Haryana,2000,"Calendar Year (Jan - Dec), 2000",Female,64.7
+280,India,6,Haryana,2000,"Calendar Year (Jan - Dec), 2000",Male,64.1
+281,India,6,Haryana,2000,"Calendar Year (Jan - Dec), 2000",Total,64.4
+282,India,6,Haryana,2001,"Calendar Year (Jan - Dec), 2001",Female,65.3
+283,India,6,Haryana,2001,"Calendar Year (Jan - Dec), 2001",Male,64.1
+284,India,6,Haryana,2001,"Calendar Year (Jan - Dec), 2001",Total,64.7
+285,India,6,Haryana,2002,"Calendar Year (Jan - Dec), 2002",Female,65.9
+286,India,6,Haryana,2002,"Calendar Year (Jan - Dec), 2002",Male,64.4
+287,India,6,Haryana,2002,"Calendar Year (Jan - Dec), 2002",Total,65.1
+288,India,6,Haryana,2003,"Calendar Year (Jan - Dec), 2003",Female,67.2
+289,India,6,Haryana,2003,"Calendar Year (Jan - Dec), 2003",Male,64.4
+290,India,6,Haryana,2003,"Calendar Year (Jan - Dec), 2003",Total,65.7
+291,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Female,67.8
+292,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Male,64.6
+293,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Total,66.1
+294,India,6,Haryana,2005,"Calendar Year (Jan - Dec), 2005",Female,68.2
+295,India,6,Haryana,2005,"Calendar Year (Jan - Dec), 2005",Male,65
+296,India,6,Haryana,2005,"Calendar Year (Jan - Dec), 2005",Total,66.5
+297,India,6,Haryana,2006,"Calendar Year (Jan - Dec), 2006",Female,68.8
+298,India,6,Haryana,2006,"Calendar Year (Jan - Dec), 2006",Male,65.4
+299,India,6,Haryana,2006,"Calendar Year (Jan - Dec), 2006",Total,67
+300,India,6,Haryana,2007,"Calendar Year (Jan - Dec), 2007",Female,69.3
+301,India,6,Haryana,2007,"Calendar Year (Jan - Dec), 2007",Male,65.2
+302,India,6,Haryana,2007,"Calendar Year (Jan - Dec), 2007",Total,67.1
+303,India,6,Haryana,2008,"Calendar Year (Jan - Dec), 2008",Female,69
+304,India,6,Haryana,2008,"Calendar Year (Jan - Dec), 2008",Male,65.3
+305,India,6,Haryana,2008,"Calendar Year (Jan - Dec), 2008",Total,67.1
+306,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Female,69.2
+307,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Male,65.1
+308,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Total,67.1
+309,India,6,Haryana,2010,"Calendar Year (Jan - Dec), 2010",Female,69.5
+310,India,6,Haryana,2010,"Calendar Year (Jan - Dec), 2010",Male,67
+311,India,6,Haryana,2010,"Calendar Year (Jan - Dec), 2010",Total,67
+312,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Female,69.8
+313,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Male,65
+314,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Total,67.3
+315,India,6,Haryana,2012,"Calendar Year (Jan - Dec), 2012",Female,70.1
+316,India,6,Haryana,2012,"Calendar Year (Jan - Dec), 2012",Male,65.4
+317,India,6,Haryana,2012,"Calendar Year (Jan - Dec), 2012",Total,67.6
+318,India,6,Haryana,2013,"Calendar Year (Jan - Dec), 2013",Female,70.9
+319,India,6,Haryana,2013,"Calendar Year (Jan - Dec), 2013",Male,65.8
+320,India,6,Haryana,2013,"Calendar Year (Jan - Dec), 2013",Total,68.2
+321,India,6,Haryana,2014,"Calendar Year (Jan - Dec), 2014",Female,71.3
+322,India,6,Haryana,2014,"Calendar Year (Jan - Dec), 2014",Male,66.3
+323,India,6,Haryana,2014,"Calendar Year (Jan - Dec), 2014",Total,68.6
+324,India,6,Haryana,2015,"Calendar Year (Jan - Dec), 2015",Female,71.9
+325,India,6,Haryana,2015,"Calendar Year (Jan - Dec), 2015",Male,66.9
+326,India,6,Haryana,2015,"Calendar Year (Jan - Dec), 2015",Total,69.1
+327,India,6,Haryana,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+328,India,6,Haryana,2016,"Calendar Year (Jan - Dec), 2016",Male,67.2
+329,India,6,Haryana,2016,"Calendar Year (Jan - Dec), 2016",Total,69.4
+330,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Female,72.3
+331,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Male,67.6
+332,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Total,69.7
+333,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Female,72.3
+334,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Male,67.7
+335,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Total,69.8
+336,India,7,Delhi,1995,"Calendar Year (Jan - Dec), 1995",Total,
+337,India,7,Delhi,1997,"Calendar Year (Jan - Dec), 1997",Female,
+338,India,7,Delhi,1997,"Calendar Year (Jan - Dec), 1997",Male,
+339,India,7,Delhi,1997,"Calendar Year (Jan - Dec), 1997",Total,
+340,India,7,Delhi,1998,"Calendar Year (Jan - Dec), 1998",Female,
+341,India,7,Delhi,1998,"Calendar Year (Jan - Dec), 1998",Male,
+342,India,7,Delhi,1998,"Calendar Year (Jan - Dec), 1998",Total,
+343,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Female,
+344,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Male,
+345,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Total,
+346,India,7,Delhi,2000,"Calendar Year (Jan - Dec), 2000",Female,
+347,India,7,Delhi,2000,"Calendar Year (Jan - Dec), 2000",Male,
+348,India,7,Delhi,2000,"Calendar Year (Jan - Dec), 2000",Total,
+349,India,7,Delhi,2001,"Calendar Year (Jan - Dec), 2001",Female,
+350,India,7,Delhi,2001,"Calendar Year (Jan - Dec), 2001",Male,
+351,India,7,Delhi,2001,"Calendar Year (Jan - Dec), 2001",Total,
+352,India,7,Delhi,2002,"Calendar Year (Jan - Dec), 2002",Female,
+353,India,7,Delhi,2002,"Calendar Year (Jan - Dec), 2002",Male,
+354,India,7,Delhi,2002,"Calendar Year (Jan - Dec), 2002",Total,
+355,India,7,Delhi,2003,"Calendar Year (Jan - Dec), 2003",Female,
+356,India,7,Delhi,2003,"Calendar Year (Jan - Dec), 2003",Male,
+357,India,7,Delhi,2003,"Calendar Year (Jan - Dec), 2003",Total,
+358,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Female,
+359,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Male,
+360,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Total,
+361,India,7,Delhi,2005,"Calendar Year (Jan - Dec), 2005",Female,
+362,India,7,Delhi,2005,"Calendar Year (Jan - Dec), 2005",Male,
+363,India,7,Delhi,2005,"Calendar Year (Jan - Dec), 2005",Total,
+364,India,7,Delhi,2006,"Calendar Year (Jan - Dec), 2006",Female,
+365,India,7,Delhi,2006,"Calendar Year (Jan - Dec), 2006",Male,
+366,India,7,Delhi,2006,"Calendar Year (Jan - Dec), 2006",Total,
+367,India,7,Delhi,2007,"Calendar Year (Jan - Dec), 2007",Female,
+368,India,7,Delhi,2007,"Calendar Year (Jan - Dec), 2007",Male,
+369,India,7,Delhi,2007,"Calendar Year (Jan - Dec), 2007",Total,
+370,India,7,Delhi,2008,"Calendar Year (Jan - Dec), 2008",Female,
+371,India,7,Delhi,2008,"Calendar Year (Jan - Dec), 2008",Male,
+372,India,7,Delhi,2008,"Calendar Year (Jan - Dec), 2008",Total,
+373,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Female,
+374,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Male,
+375,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Total,
+376,India,7,Delhi,2010,"Calendar Year (Jan - Dec), 2010",Female,
+377,India,7,Delhi,2010,"Calendar Year (Jan - Dec), 2010",Male,
+378,India,7,Delhi,2010,"Calendar Year (Jan - Dec), 2010",Total,
+379,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Female,
+380,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Male,
+381,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Total,
+382,India,7,Delhi,2012,"Calendar Year (Jan - Dec), 2012",Female,
+383,India,7,Delhi,2012,"Calendar Year (Jan - Dec), 2012",Male,
+384,India,7,Delhi,2012,"Calendar Year (Jan - Dec), 2012",Total,
+385,India,7,Delhi,2013,"Calendar Year (Jan - Dec), 2013",Female,
+386,India,7,Delhi,2013,"Calendar Year (Jan - Dec), 2013",Male,
+387,India,7,Delhi,2013,"Calendar Year (Jan - Dec), 2013",Total,
+388,India,7,Delhi,2014,"Calendar Year (Jan - Dec), 2014",Female,74.7
+389,India,7,Delhi,2014,"Calendar Year (Jan - Dec), 2014",Male,72
+390,India,7,Delhi,2014,"Calendar Year (Jan - Dec), 2014",Total,73.2
+391,India,7,Delhi,2015,"Calendar Year (Jan - Dec), 2015",Female,75.4
+392,India,7,Delhi,2015,"Calendar Year (Jan - Dec), 2015",Male,72.5
+393,India,7,Delhi,2015,"Calendar Year (Jan - Dec), 2015",Total,73.8
+394,India,7,Delhi,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+395,India,7,Delhi,2016,"Calendar Year (Jan - Dec), 2016",Male,72.7
+396,India,7,Delhi,2016,"Calendar Year (Jan - Dec), 2016",Total,74.2
+397,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Female,76.3
+398,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Male,73.3
+399,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Total,74.7
+400,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Female,77
+401,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Male,73.8
+402,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Total,75.3
+403,India,8,Rajasthan,1995,"Calendar Year (Jan - Dec), 1995",Total,59.1
+404,India,8,Rajasthan,1997,"Calendar Year (Jan - Dec), 1997",Female,60.1
+405,India,8,Rajasthan,1997,"Calendar Year (Jan - Dec), 1997",Male,59.1
+406,India,8,Rajasthan,1997,"Calendar Year (Jan - Dec), 1997",Total,59.6
+407,India,8,Rajasthan,1998,"Calendar Year (Jan - Dec), 1998",Female,60.4
+408,India,8,Rajasthan,1998,"Calendar Year (Jan - Dec), 1998",Male,59.4
+409,India,8,Rajasthan,1998,"Calendar Year (Jan - Dec), 1998",Total,59.9
+410,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Female,63.1
+411,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Male,60.4
+412,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Total,61.7
+413,India,8,Rajasthan,2000,"Calendar Year (Jan - Dec), 2000",Female,63.5
+414,India,8,Rajasthan,2000,"Calendar Year (Jan - Dec), 2000",Male,61
+415,India,8,Rajasthan,2000,"Calendar Year (Jan - Dec), 2000",Total,62.1
+416,India,8,Rajasthan,2001,"Calendar Year (Jan - Dec), 2001",Female,64.3
+417,India,8,Rajasthan,2001,"Calendar Year (Jan - Dec), 2001",Male,61.4
+418,India,8,Rajasthan,2001,"Calendar Year (Jan - Dec), 2001",Total,62.8
+419,India,8,Rajasthan,2002,"Calendar Year (Jan - Dec), 2002",Female,64.9
+420,India,8,Rajasthan,2002,"Calendar Year (Jan - Dec), 2002",Male,61.9
+421,India,8,Rajasthan,2002,"Calendar Year (Jan - Dec), 2002",Total,63.3
+422,India,8,Rajasthan,2003,"Calendar Year (Jan - Dec), 2003",Female,65.5
+423,India,8,Rajasthan,2003,"Calendar Year (Jan - Dec), 2003",Male,62.3
+424,India,8,Rajasthan,2003,"Calendar Year (Jan - Dec), 2003",Total,63.8
+425,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Female,65.6
+426,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Male,62.6
+427,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Total,64.1
+428,India,8,Rajasthan,2005,"Calendar Year (Jan - Dec), 2005",Female,66
+429,India,8,Rajasthan,2005,"Calendar Year (Jan - Dec), 2005",Male,63
+430,India,8,Rajasthan,2005,"Calendar Year (Jan - Dec), 2005",Total,64.5
+431,India,8,Rajasthan,2006,"Calendar Year (Jan - Dec), 2006",Female,66.5
+432,India,8,Rajasthan,2006,"Calendar Year (Jan - Dec), 2006",Male,63.3
+433,India,8,Rajasthan,2006,"Calendar Year (Jan - Dec), 2006",Total,64.9
+434,India,8,Rajasthan,2007,"Calendar Year (Jan - Dec), 2007",Female,67
+435,India,8,Rajasthan,2007,"Calendar Year (Jan - Dec), 2007",Male,63.5
+436,India,8,Rajasthan,2007,"Calendar Year (Jan - Dec), 2007",Total,65.2
+437,India,8,Rajasthan,2008,"Calendar Year (Jan - Dec), 2008",Female,67.4
+438,India,8,Rajasthan,2008,"Calendar Year (Jan - Dec), 2008",Male,64.3
+439,India,8,Rajasthan,2008,"Calendar Year (Jan - Dec), 2008",Total,65.8
+440,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Female,67.8
+441,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Male,64.7
+442,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Total,66.2
+443,India,8,Rajasthan,2010,"Calendar Year (Jan - Dec), 2010",Female,68.3
+444,India,8,Rajasthan,2010,"Calendar Year (Jan - Dec), 2010",Male,64.7
+445,India,8,Rajasthan,2010,"Calendar Year (Jan - Dec), 2010",Total,66.5
+446,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Female,68.7
+447,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Male,65
+448,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Total,66.8
+449,India,8,Rajasthan,2012,"Calendar Year (Jan - Dec), 2012",Female,69.4
+450,India,8,Rajasthan,2012,"Calendar Year (Jan - Dec), 2012",Male,65.2
+451,India,8,Rajasthan,2012,"Calendar Year (Jan - Dec), 2012",Total,67.2
+452,India,8,Rajasthan,2013,"Calendar Year (Jan - Dec), 2013",Female,70
+453,India,8,Rajasthan,2013,"Calendar Year (Jan - Dec), 2013",Male,65.4
+454,India,8,Rajasthan,2013,"Calendar Year (Jan - Dec), 2013",Total,67.5
+455,India,8,Rajasthan,2014,"Calendar Year (Jan - Dec), 2014",Female,70.2
+456,India,8,Rajasthan,2014,"Calendar Year (Jan - Dec), 2014",Male,65.5
+457,India,8,Rajasthan,2014,"Calendar Year (Jan - Dec), 2014",Total,67.7
+458,India,8,Rajasthan,2015,"Calendar Year (Jan - Dec), 2015",Female,70.4
+459,India,8,Rajasthan,2015,"Calendar Year (Jan - Dec), 2015",Male,65.7
+460,India,8,Rajasthan,2015,"Calendar Year (Jan - Dec), 2015",Total,67.9
+461,India,8,Rajasthan,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+462,India,8,Rajasthan,2016,"Calendar Year (Jan - Dec), 2016",Male,66.1
+463,India,8,Rajasthan,2016,"Calendar Year (Jan - Dec), 2016",Total,68.3
+464,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Female,70.9
+465,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Male,66.3
+466,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Total,68.5
+467,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Female,71.6
+468,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Male,66.5
+469,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Total,68.7
+470,India,9,Uttar Pradesh,1995,"Calendar Year (Jan - Dec), 1995",Total,56.8
+471,India,9,Uttar Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Female,56.9
+472,India,9,Uttar Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Male,58.1
+473,India,9,Uttar Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Total,57.5
+474,India,9,Uttar Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Female,57.3
+475,India,9,Uttar Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Male,58.5
+476,India,9,Uttar Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Total,57.9
+477,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Female,58.6
+478,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Male,59.5
+479,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Total,59.1
+480,India,9,Uttar Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Female,58.7
+481,India,9,Uttar Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Male,59.6
+482,India,9,Uttar Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Total,59.2
+483,India,9,Uttar Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Female,59
+484,India,9,Uttar Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Male,59.6
+485,India,9,Uttar Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Total,59.4
+486,India,9,Uttar Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Female,59.4
+487,India,9,Uttar Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Male,59.9
+488,India,9,Uttar Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Total,59.7
+489,India,9,Uttar Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Female,60.2
+490,India,9,Uttar Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Male,60
+491,India,9,Uttar Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Total,60.1
+492,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Female,60.7
+493,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Male,60.4
+494,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Total,60.5
+495,India,9,Uttar Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Female,61.6
+496,India,9,Uttar Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Male,60.6
+497,India,9,Uttar Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Total,60.8
+498,India,9,Uttar Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Female,61.6
+499,India,9,Uttar Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Male,61
+500,India,9,Uttar Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Total,61.3
+501,India,9,Uttar Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Female,62.2
+502,India,9,Uttar Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Male,61
+503,India,9,Uttar Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Total,61.5
+504,India,9,Uttar Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Female,62.6
+505,India,9,Uttar Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Male,61.4
+506,India,9,Uttar Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Total,61.9
+507,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Female,63.1
+508,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Male,61.6
+509,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Total,62.3
+510,India,9,Uttar Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Female,63.7
+511,India,9,Uttar Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Male,61.8
+512,India,9,Uttar Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Total,62.7
+513,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Female,64.2
+514,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Male,61.9
+515,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Total,63
+516,India,9,Uttar Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Female,64.8
+517,India,9,Uttar Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Male,62.3
+518,India,9,Uttar Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Total,63.5
+519,India,9,Uttar Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Female,65.2
+520,India,9,Uttar Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Male,62.5
+521,India,9,Uttar Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Total,63.8
+522,India,9,Uttar Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Female,65.4
+523,India,9,Uttar Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Male,62.9
+524,India,9,Uttar Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Total,64.1
+525,India,9,Uttar Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Female,65.6
+526,India,9,Uttar Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Male,63.4
+527,India,9,Uttar Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Total,64.5
+528,India,9,Uttar Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+529,India,9,Uttar Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Male,63.9
+530,India,9,Uttar Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Total,64.8
+531,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Female,65.6
+532,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Male,64.3
+533,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Total,65
+534,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Female,65.8
+535,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Male,64.8
+536,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Total,65.3
+537,India,10,Bihar,1995,"Calendar Year (Jan - Dec), 1995",Total,59.3
+538,India,10,Bihar,1997,"Calendar Year (Jan - Dec), 1997",Female,58.4
+539,India,10,Bihar,1997,"Calendar Year (Jan - Dec), 1997",Male,60.4
+540,India,10,Bihar,1997,"Calendar Year (Jan - Dec), 1997",Total,59.4
+541,India,10,Bihar,1998,"Calendar Year (Jan - Dec), 1998",Female,58.7
+542,India,10,Bihar,1998,"Calendar Year (Jan - Dec), 1998",Male,60.5
+543,India,10,Bihar,1998,"Calendar Year (Jan - Dec), 1998",Total,59.6
+544,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Female,58.9
+545,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Male,60.1
+546,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Total,59.5
+547,India,10,Bihar,2000,"Calendar Year (Jan - Dec), 2000",Female,59.9
+548,India,10,Bihar,2000,"Calendar Year (Jan - Dec), 2000",Male,61.1
+549,India,10,Bihar,2000,"Calendar Year (Jan - Dec), 2000",Total,60.5
+550,India,10,Bihar,2001,"Calendar Year (Jan - Dec), 2001",Female,61.3
+551,India,10,Bihar,2001,"Calendar Year (Jan - Dec), 2001",Male,62
+552,India,10,Bihar,2001,"Calendar Year (Jan - Dec), 2001",Total,61.7
+553,India,10,Bihar,2002,"Calendar Year (Jan - Dec), 2002",Female,62.5
+554,India,10,Bihar,2002,"Calendar Year (Jan - Dec), 2002",Male,63.4
+555,India,10,Bihar,2002,"Calendar Year (Jan - Dec), 2002",Total,63
+556,India,10,Bihar,2003,"Calendar Year (Jan - Dec), 2003",Female,63.4
+557,India,10,Bihar,2003,"Calendar Year (Jan - Dec), 2003",Male,64.6
+558,India,10,Bihar,2003,"Calendar Year (Jan - Dec), 2003",Total,64
+559,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Female,63.9
+560,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Male,64.3
+561,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Total,64.1
+562,India,10,Bihar,2005,"Calendar Year (Jan - Dec), 2005",Female,64.1
+563,India,10,Bihar,2005,"Calendar Year (Jan - Dec), 2005",Male,64.2
+564,India,10,Bihar,2005,"Calendar Year (Jan - Dec), 2005",Total,64.2
+565,India,10,Bihar,2006,"Calendar Year (Jan - Dec), 2006",Female,64.3
+566,India,10,Bihar,2006,"Calendar Year (Jan - Dec), 2006",Male,64.6
+567,India,10,Bihar,2006,"Calendar Year (Jan - Dec), 2006",Total,64.4
+568,India,10,Bihar,2007,"Calendar Year (Jan - Dec), 2007",Female,64.4
+569,India,10,Bihar,2007,"Calendar Year (Jan - Dec), 2007",Male,64.4
+570,India,10,Bihar,2007,"Calendar Year (Jan - Dec), 2007",Total,64.4
+571,India,10,Bihar,2008,"Calendar Year (Jan - Dec), 2008",Female,64.7
+572,India,10,Bihar,2008,"Calendar Year (Jan - Dec), 2008",Male,64.2
+573,India,10,Bihar,2008,"Calendar Year (Jan - Dec), 2008",Total,64.4
+574,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Female,65.3
+575,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Male,64.9
+576,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Total,65.1
+577,India,10,Bihar,2010,"Calendar Year (Jan - Dec), 2010",Female,66.2
+578,India,10,Bihar,2010,"Calendar Year (Jan - Dec), 2010",Male,65.5
+579,India,10,Bihar,2010,"Calendar Year (Jan - Dec), 2010",Total,65.8
+580,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Female,66.8
+581,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Male,65.9
+582,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Total,66.3
+583,India,10,Bihar,2012,"Calendar Year (Jan - Dec), 2012",Female,67.6
+584,India,10,Bihar,2012,"Calendar Year (Jan - Dec), 2012",Male,66.7
+585,India,10,Bihar,2012,"Calendar Year (Jan - Dec), 2012",Total,67.2
+586,India,10,Bihar,2013,"Calendar Year (Jan - Dec), 2013",Female,68
+587,India,10,Bihar,2013,"Calendar Year (Jan - Dec), 2013",Male,67.3
+588,India,10,Bihar,2013,"Calendar Year (Jan - Dec), 2013",Total,67.7
+589,India,10,Bihar,2014,"Calendar Year (Jan - Dec), 2014",Female,68.4
+590,India,10,Bihar,2014,"Calendar Year (Jan - Dec), 2014",Male,67.8
+591,India,10,Bihar,2014,"Calendar Year (Jan - Dec), 2014",Total,68.1
+592,India,10,Bihar,2015,"Calendar Year (Jan - Dec), 2015",Female,68.3
+593,India,10,Bihar,2015,"Calendar Year (Jan - Dec), 2015",Male,68.5
+594,India,10,Bihar,2015,"Calendar Year (Jan - Dec), 2015",Total,68.4
+595,India,10,Bihar,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+596,India,10,Bihar,2016,"Calendar Year (Jan - Dec), 2016",Male,68.9
+597,India,10,Bihar,2016,"Calendar Year (Jan - Dec), 2016",Total,68.7
+598,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Female,68.6
+599,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Male,69.2
+600,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Total,68.9
+601,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Female,68.7
+602,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Male,69.4
+603,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Total,69.1
+604,India,18,Assam,1995,"Calendar Year (Jan - Dec), 1995",Total,55.7
+605,India,18,Assam,1997,"Calendar Year (Jan - Dec), 1997",Female,57.1
+606,India,18,Assam,1997,"Calendar Year (Jan - Dec), 1997",Male,56.6
+607,India,18,Assam,1997,"Calendar Year (Jan - Dec), 1997",Total,56.9
+608,India,18,Assam,1998,"Calendar Year (Jan - Dec), 1998",Female,57.4
+609,India,18,Assam,1998,"Calendar Year (Jan - Dec), 1998",Male,56.9
+610,India,18,Assam,1998,"Calendar Year (Jan - Dec), 1998",Total,57.2
+611,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Female,57.6
+612,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Male,57.1
+613,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Total,57.3
+614,India,18,Assam,2000,"Calendar Year (Jan - Dec), 2000",Female,57.7
+615,India,18,Assam,2000,"Calendar Year (Jan - Dec), 2000",Male,57.3
+616,India,18,Assam,2000,"Calendar Year (Jan - Dec), 2000",Total,57.4
+617,India,18,Assam,2001,"Calendar Year (Jan - Dec), 2001",Female,57.9
+618,India,18,Assam,2001,"Calendar Year (Jan - Dec), 2001",Male,57.2
+619,India,18,Assam,2001,"Calendar Year (Jan - Dec), 2001",Total,57.5
+620,India,18,Assam,2002,"Calendar Year (Jan - Dec), 2002",Female,58.9
+621,India,18,Assam,2002,"Calendar Year (Jan - Dec), 2002",Male,57.4
+622,India,18,Assam,2002,"Calendar Year (Jan - Dec), 2002",Total,58
+623,India,18,Assam,2003,"Calendar Year (Jan - Dec), 2003",Female,59.2
+624,India,18,Assam,2003,"Calendar Year (Jan - Dec), 2003",Male,58.2
+625,India,18,Assam,2003,"Calendar Year (Jan - Dec), 2003",Total,58.6
+626,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Female,59.6
+627,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Male,58.2
+628,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Total,58.8
+629,India,18,Assam,2005,"Calendar Year (Jan - Dec), 2005",Female,60.3
+630,India,18,Assam,2005,"Calendar Year (Jan - Dec), 2005",Male,58.4
+631,India,18,Assam,2005,"Calendar Year (Jan - Dec), 2005",Total,59.2
+632,India,18,Assam,2006,"Calendar Year (Jan - Dec), 2006",Female,61.1
+633,India,18,Assam,2006,"Calendar Year (Jan - Dec), 2006",Male,59.2
+634,India,18,Assam,2006,"Calendar Year (Jan - Dec), 2006",Total,60
+635,India,18,Assam,2007,"Calendar Year (Jan - Dec), 2007",Female,61.3
+636,India,18,Assam,2007,"Calendar Year (Jan - Dec), 2007",Male,60.1
+637,India,18,Assam,2007,"Calendar Year (Jan - Dec), 2007",Total,60.6
+638,India,18,Assam,2008,"Calendar Year (Jan - Dec), 2008",Female,62.3
+639,India,18,Assam,2008,"Calendar Year (Jan - Dec), 2008",Male,60
+640,India,18,Assam,2008,"Calendar Year (Jan - Dec), 2008",Total,61
+641,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Female,62.9
+642,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Male,60.5
+643,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Total,61.6
+644,India,18,Assam,2010,"Calendar Year (Jan - Dec), 2010",Female,63.2
+645,India,18,Assam,2010,"Calendar Year (Jan - Dec), 2010",Male,61
+646,India,18,Assam,2010,"Calendar Year (Jan - Dec), 2010",Total,61.9
+647,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Female,63.6
+648,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Male,61.2
+649,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Total,62.2
+650,India,18,Assam,2012,"Calendar Year (Jan - Dec), 2012",Female,64.8
+651,India,18,Assam,2012,"Calendar Year (Jan - Dec), 2012",Male,61.2
+652,India,18,Assam,2012,"Calendar Year (Jan - Dec), 2012",Total,62.7
+653,India,18,Assam,2013,"Calendar Year (Jan - Dec), 2013",Female,65.1
+654,India,18,Assam,2013,"Calendar Year (Jan - Dec), 2013",Male,61.9
+655,India,18,Assam,2013,"Calendar Year (Jan - Dec), 2013",Total,63.3
+656,India,18,Assam,2014,"Calendar Year (Jan - Dec), 2014",Female,65.5
+657,India,18,Assam,2014,"Calendar Year (Jan - Dec), 2014",Male,62.7
+658,India,18,Assam,2014,"Calendar Year (Jan - Dec), 2014",Total,63.9
+659,India,18,Assam,2015,"Calendar Year (Jan - Dec), 2015",Female,66.2
+660,India,18,Assam,2015,"Calendar Year (Jan - Dec), 2015",Male,63.5
+661,India,18,Assam,2015,"Calendar Year (Jan - Dec), 2015",Total,64.7
+662,India,18,Assam,2016,"Calendar Year (Jan - Dec), 2016",Female,66.8
+663,India,18,Assam,2016,"Calendar Year (Jan - Dec), 2016",Male,64.4
+664,India,18,Assam,2016,"Calendar Year (Jan - Dec), 2016",Total,65.5
+665,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Female,67.3
+666,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Male,65.4
+667,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Total,66.2
+668,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Female,67.9
+669,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Male,66.1
+670,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Total,66.9
+671,India,19,West Bengal,1995,"Calendar Year (Jan - Dec), 1995",Total,62.1
+672,India,19,West Bengal,1997,"Calendar Year (Jan - Dec), 1997",Female,63.6
+673,India,19,West Bengal,1997,"Calendar Year (Jan - Dec), 1997",Male,62.2
+674,India,19,West Bengal,1997,"Calendar Year (Jan - Dec), 1997",Total,62.9
+675,India,19,West Bengal,1998,"Calendar Year (Jan - Dec), 1998",Female,63.9
+676,India,19,West Bengal,1998,"Calendar Year (Jan - Dec), 1998",Male,62.5
+677,India,19,West Bengal,1998,"Calendar Year (Jan - Dec), 1998",Total,63.2
+678,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Female,65
+679,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Male,62.5
+680,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Total,63.7
+681,India,19,West Bengal,2000,"Calendar Year (Jan - Dec), 2000",Female,65.7
+682,India,19,West Bengal,2000,"Calendar Year (Jan - Dec), 2000",Male,63
+683,India,19,West Bengal,2000,"Calendar Year (Jan - Dec), 2000",Total,64.3
+684,India,19,West Bengal,2001,"Calendar Year (Jan - Dec), 2001",Female,66.4
+685,India,19,West Bengal,2001,"Calendar Year (Jan - Dec), 2001",Male,63.5
+686,India,19,West Bengal,2001,"Calendar Year (Jan - Dec), 2001",Total,64.9
+687,India,19,West Bengal,2002,"Calendar Year (Jan - Dec), 2002",Female,67
+688,India,19,West Bengal,2002,"Calendar Year (Jan - Dec), 2002",Male,64.3
+689,India,19,West Bengal,2002,"Calendar Year (Jan - Dec), 2002",Total,65.6
+690,India,19,West Bengal,2003,"Calendar Year (Jan - Dec), 2003",Female,67.8
+691,India,19,West Bengal,2003,"Calendar Year (Jan - Dec), 2003",Male,64.8
+692,India,19,West Bengal,2003,"Calendar Year (Jan - Dec), 2003",Total,66.2
+693,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Female,68.5
+694,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Male,65.3
+695,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Total,66.8
+696,India,19,West Bengal,2005,"Calendar Year (Jan - Dec), 2005",Female,68.9
+697,India,19,West Bengal,2005,"Calendar Year (Jan - Dec), 2005",Male,65.7
+698,India,19,West Bengal,2005,"Calendar Year (Jan - Dec), 2005",Total,67.2
+699,India,19,West Bengal,2006,"Calendar Year (Jan - Dec), 2006",Female,69.6
+700,India,19,West Bengal,2006,"Calendar Year (Jan - Dec), 2006",Male,66.1
+701,India,19,West Bengal,2006,"Calendar Year (Jan - Dec), 2006",Total,67.7
+702,India,19,West Bengal,2007,"Calendar Year (Jan - Dec), 2007",Female,70
+703,India,19,West Bengal,2007,"Calendar Year (Jan - Dec), 2007",Male,66.4
+704,India,19,West Bengal,2007,"Calendar Year (Jan - Dec), 2007",Total,68.1
+705,India,19,West Bengal,2008,"Calendar Year (Jan - Dec), 2008",Female,70.3
+706,India,19,West Bengal,2008,"Calendar Year (Jan - Dec), 2008",Male,66.7
+707,India,19,West Bengal,2008,"Calendar Year (Jan - Dec), 2008",Total,68.3
+708,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Female,70.6
+709,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Male,66.9
+710,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Total,68.6
+711,India,19,West Bengal,2010,"Calendar Year (Jan - Dec), 2010",Female,71
+712,India,19,West Bengal,2010,"Calendar Year (Jan - Dec), 2010",Male,67.4
+713,India,19,West Bengal,2010,"Calendar Year (Jan - Dec), 2010",Total,69
+714,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Female,71.3
+715,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Male,67.8
+716,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Total,69.4
+717,India,19,West Bengal,2012,"Calendar Year (Jan - Dec), 2012",Female,71.5
+718,India,19,West Bengal,2012,"Calendar Year (Jan - Dec), 2012",Male,68.1
+719,India,19,West Bengal,2012,"Calendar Year (Jan - Dec), 2012",Total,69.7
+720,India,19,West Bengal,2013,"Calendar Year (Jan - Dec), 2013",Female,71.6
+721,India,19,West Bengal,2013,"Calendar Year (Jan - Dec), 2013",Male,68.5
+722,India,19,West Bengal,2013,"Calendar Year (Jan - Dec), 2013",Total,69.9
+723,India,19,West Bengal,2014,"Calendar Year (Jan - Dec), 2014",Female,71.6
+724,India,19,West Bengal,2014,"Calendar Year (Jan - Dec), 2014",Male,68.9
+725,India,19,West Bengal,2014,"Calendar Year (Jan - Dec), 2014",Total,70.2
+726,India,19,West Bengal,2015,"Calendar Year (Jan - Dec), 2015",Female,71.8
+727,India,19,West Bengal,2015,"Calendar Year (Jan - Dec), 2015",Male,69.4
+728,India,19,West Bengal,2015,"Calendar Year (Jan - Dec), 2015",Total,70.5
+729,India,19,West Bengal,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+730,India,19,West Bengal,2016,"Calendar Year (Jan - Dec), 2016",Male,69.8
+731,India,19,West Bengal,2016,"Calendar Year (Jan - Dec), 2016",Total,70.8
+732,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Female,72.2
+733,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Male,70.4
+734,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Total,71.2
+735,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Female,72.6
+736,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Male,70.7
+737,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Total,71.6
+738,India,20,Jharkhand,1995,"Calendar Year (Jan - Dec), 1995",Total,
+739,India,20,Jharkhand,1997,"Calendar Year (Jan - Dec), 1997",Female,
+740,India,20,Jharkhand,1997,"Calendar Year (Jan - Dec), 1997",Male,
+741,India,20,Jharkhand,1997,"Calendar Year (Jan - Dec), 1997",Total,
+742,India,20,Jharkhand,1998,"Calendar Year (Jan - Dec), 1998",Female,
+743,India,20,Jharkhand,1998,"Calendar Year (Jan - Dec), 1998",Male,
+744,India,20,Jharkhand,1998,"Calendar Year (Jan - Dec), 1998",Total,
+745,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Female,
+746,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Male,
+747,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Total,
+748,India,20,Jharkhand,2000,"Calendar Year (Jan - Dec), 2000",Female,
+749,India,20,Jharkhand,2000,"Calendar Year (Jan - Dec), 2000",Male,
+750,India,20,Jharkhand,2000,"Calendar Year (Jan - Dec), 2000",Total,
+751,India,20,Jharkhand,2001,"Calendar Year (Jan - Dec), 2001",Female,
+752,India,20,Jharkhand,2001,"Calendar Year (Jan - Dec), 2001",Male,
+753,India,20,Jharkhand,2001,"Calendar Year (Jan - Dec), 2001",Total,
+754,India,20,Jharkhand,2002,"Calendar Year (Jan - Dec), 2002",Female,
+755,India,20,Jharkhand,2002,"Calendar Year (Jan - Dec), 2002",Male,
+756,India,20,Jharkhand,2002,"Calendar Year (Jan - Dec), 2002",Total,
+757,India,20,Jharkhand,2003,"Calendar Year (Jan - Dec), 2003",Female,
+758,India,20,Jharkhand,2003,"Calendar Year (Jan - Dec), 2003",Male,
+759,India,20,Jharkhand,2003,"Calendar Year (Jan - Dec), 2003",Total,
+760,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Female,
+761,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Male,
+762,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Total,
+763,India,20,Jharkhand,2005,"Calendar Year (Jan - Dec), 2005",Female,
+764,India,20,Jharkhand,2005,"Calendar Year (Jan - Dec), 2005",Male,
+765,India,20,Jharkhand,2005,"Calendar Year (Jan - Dec), 2005",Total,
+766,India,20,Jharkhand,2006,"Calendar Year (Jan - Dec), 2006",Female,
+767,India,20,Jharkhand,2006,"Calendar Year (Jan - Dec), 2006",Male,
+768,India,20,Jharkhand,2006,"Calendar Year (Jan - Dec), 2006",Total,
+769,India,20,Jharkhand,2007,"Calendar Year (Jan - Dec), 2007",Female,
+770,India,20,Jharkhand,2007,"Calendar Year (Jan - Dec), 2007",Male,
+771,India,20,Jharkhand,2007,"Calendar Year (Jan - Dec), 2007",Total,
+772,India,20,Jharkhand,2008,"Calendar Year (Jan - Dec), 2008",Female,
+773,India,20,Jharkhand,2008,"Calendar Year (Jan - Dec), 2008",Male,
+774,India,20,Jharkhand,2008,"Calendar Year (Jan - Dec), 2008",Total,
+775,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Female,
+776,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Male,
+777,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Total,
+778,India,20,Jharkhand,2010,"Calendar Year (Jan - Dec), 2010",Female,
+779,India,20,Jharkhand,2010,"Calendar Year (Jan - Dec), 2010",Male,
+780,India,20,Jharkhand,2010,"Calendar Year (Jan - Dec), 2010",Total,
+781,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Female,
+782,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Male,
+783,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Total,
+784,India,20,Jharkhand,2012,"Calendar Year (Jan - Dec), 2012",Female,
+785,India,20,Jharkhand,2012,"Calendar Year (Jan - Dec), 2012",Male,
+786,India,20,Jharkhand,2012,"Calendar Year (Jan - Dec), 2012",Total,
+787,India,20,Jharkhand,2013,"Calendar Year (Jan - Dec), 2013",Female,
+788,India,20,Jharkhand,2013,"Calendar Year (Jan - Dec), 2013",Male,
+789,India,20,Jharkhand,2013,"Calendar Year (Jan - Dec), 2013",Total,
+790,India,20,Jharkhand,2014,"Calendar Year (Jan - Dec), 2014",Female,66.9
+791,India,20,Jharkhand,2014,"Calendar Year (Jan - Dec), 2014",Male,66.2
+792,India,20,Jharkhand,2014,"Calendar Year (Jan - Dec), 2014",Total,66.6
+793,India,20,Jharkhand,2015,"Calendar Year (Jan - Dec), 2015",Female,67.5
+794,India,20,Jharkhand,2015,"Calendar Year (Jan - Dec), 2015",Male,67
+795,India,20,Jharkhand,2015,"Calendar Year (Jan - Dec), 2015",Total,67.2
+796,India,20,Jharkhand,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+797,India,20,Jharkhand,2016,"Calendar Year (Jan - Dec), 2016",Male,67.8
+798,India,20,Jharkhand,2016,"Calendar Year (Jan - Dec), 2016",Total,67.9
+799,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Female,68.4
+800,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Male,68.8
+801,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Total,68.6
+802,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Female,68.5
+803,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Male,69.9
+804,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Total,69.1
+805,India,21,Odisha,1995,"Calendar Year (Jan - Dec), 1995",Total,56.5
+806,India,21,Odisha,1997,"Calendar Year (Jan - Dec), 1997",Female,57
+807,India,21,Odisha,1997,"Calendar Year (Jan - Dec), 1997",Male,57.1
+808,India,21,Odisha,1997,"Calendar Year (Jan - Dec), 1997",Total,57.1
+809,India,21,Odisha,1998,"Calendar Year (Jan - Dec), 1998",Female,57.5
+810,India,21,Odisha,1998,"Calendar Year (Jan - Dec), 1998",Male,57.4
+811,India,21,Odisha,1998,"Calendar Year (Jan - Dec), 1998",Total,57.5
+812,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Female,58.6
+813,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Male,57.4
+814,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Total,58
+815,India,21,Odisha,2000,"Calendar Year (Jan - Dec), 2000",Female,58.8
+816,India,21,Odisha,2000,"Calendar Year (Jan - Dec), 2000",Male,57.8
+817,India,21,Odisha,2000,"Calendar Year (Jan - Dec), 2000",Total,58.3
+818,India,21,Odisha,2001,"Calendar Year (Jan - Dec), 2001",Female,59.2
+819,India,21,Odisha,2001,"Calendar Year (Jan - Dec), 2001",Male,58.1
+820,India,21,Odisha,2001,"Calendar Year (Jan - Dec), 2001",Total,58.6
+821,India,21,Odisha,2002,"Calendar Year (Jan - Dec), 2002",Female,59.9
+822,India,21,Odisha,2002,"Calendar Year (Jan - Dec), 2002",Male,58.4
+823,India,21,Odisha,2002,"Calendar Year (Jan - Dec), 2002",Total,59.1
+824,India,21,Odisha,2003,"Calendar Year (Jan - Dec), 2003",Female,60.7
+825,India,21,Odisha,2003,"Calendar Year (Jan - Dec), 2003",Male,58.7
+826,India,21,Odisha,2003,"Calendar Year (Jan - Dec), 2003",Total,59.7
+827,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Female,61.5
+828,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Male,59.3
+829,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Total,60.4
+830,India,21,Odisha,2005,"Calendar Year (Jan - Dec), 2005",Female,62.1
+831,India,21,Odisha,2005,"Calendar Year (Jan - Dec), 2005",Male,59.6
+832,India,21,Odisha,2005,"Calendar Year (Jan - Dec), 2005",Total,60.8
+833,India,21,Odisha,2006,"Calendar Year (Jan - Dec), 2006",Female,62.4
+834,India,21,Odisha,2006,"Calendar Year (Jan - Dec), 2006",Male,60
+835,India,21,Odisha,2006,"Calendar Year (Jan - Dec), 2006",Total,61.2
+836,India,21,Odisha,2007,"Calendar Year (Jan - Dec), 2007",Female,62.8
+837,India,21,Odisha,2007,"Calendar Year (Jan - Dec), 2007",Male,60.7
+838,India,21,Odisha,2007,"Calendar Year (Jan - Dec), 2007",Total,61.7
+839,India,21,Odisha,2008,"Calendar Year (Jan - Dec), 2008",Female,63
+840,India,21,Odisha,2008,"Calendar Year (Jan - Dec), 2008",Male,62.1
+841,India,21,Odisha,2008,"Calendar Year (Jan - Dec), 2008",Total,62.1
+842,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Female,63.4
+843,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Male,61.7
+844,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Total,62.5
+845,India,21,Odisha,2010,"Calendar Year (Jan - Dec), 2010",Female,63.9
+846,India,21,Odisha,2010,"Calendar Year (Jan - Dec), 2010",Male,62.2
+847,India,21,Odisha,2010,"Calendar Year (Jan - Dec), 2010",Total,63
+848,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Female,64.5
+849,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Male,62.9
+850,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Total,63.7
+851,India,21,Odisha,2012,"Calendar Year (Jan - Dec), 2012",Female,65.3
+852,India,21,Odisha,2012,"Calendar Year (Jan - Dec), 2012",Male,63.4
+853,India,21,Odisha,2012,"Calendar Year (Jan - Dec), 2012",Total,64.3
+854,India,21,Odisha,2013,"Calendar Year (Jan - Dec), 2013",Female,65.9
+855,India,21,Odisha,2013,"Calendar Year (Jan - Dec), 2013",Male,63.8
+856,India,21,Odisha,2013,"Calendar Year (Jan - Dec), 2013",Total,64.9
+857,India,21,Odisha,2014,"Calendar Year (Jan - Dec), 2014",Female,67.1
+858,India,21,Odisha,2014,"Calendar Year (Jan - Dec), 2014",Male,64.7
+859,India,21,Odisha,2014,"Calendar Year (Jan - Dec), 2014",Total,65.8
+860,India,21,Odisha,2015,"Calendar Year (Jan - Dec), 2015",Female,68.3
+861,India,21,Odisha,2015,"Calendar Year (Jan - Dec), 2015",Male,65.6
+862,India,21,Odisha,2015,"Calendar Year (Jan - Dec), 2015",Total,66.9
+863,India,21,Odisha,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+864,India,21,Odisha,2016,"Calendar Year (Jan - Dec), 2016",Male,66.2
+865,India,21,Odisha,2016,"Calendar Year (Jan - Dec), 2016",Total,67.6
+866,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Female,69.9
+867,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Male,67.1
+868,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Total,68.4
+869,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Female,70.8
+870,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Male,68
+871,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Total,69.3
+872,India,22,Chhattisgarh,1995,"Calendar Year (Jan - Dec), 1995",Total,
+873,India,22,Chhattisgarh,1997,"Calendar Year (Jan - Dec), 1997",Female,
+874,India,22,Chhattisgarh,1997,"Calendar Year (Jan - Dec), 1997",Male,
+875,India,22,Chhattisgarh,1997,"Calendar Year (Jan - Dec), 1997",Total,
+876,India,22,Chhattisgarh,1998,"Calendar Year (Jan - Dec), 1998",Female,
+877,India,22,Chhattisgarh,1998,"Calendar Year (Jan - Dec), 1998",Male,
+878,India,22,Chhattisgarh,1998,"Calendar Year (Jan - Dec), 1998",Total,
+879,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Female,
+880,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Male,
+881,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Total,
+882,India,22,Chhattisgarh,2000,"Calendar Year (Jan - Dec), 2000",Female,
+883,India,22,Chhattisgarh,2000,"Calendar Year (Jan - Dec), 2000",Male,
+884,India,22,Chhattisgarh,2000,"Calendar Year (Jan - Dec), 2000",Total,
+885,India,22,Chhattisgarh,2001,"Calendar Year (Jan - Dec), 2001",Female,
+886,India,22,Chhattisgarh,2001,"Calendar Year (Jan - Dec), 2001",Male,
+887,India,22,Chhattisgarh,2001,"Calendar Year (Jan - Dec), 2001",Total,
+888,India,22,Chhattisgarh,2002,"Calendar Year (Jan - Dec), 2002",Female,
+889,India,22,Chhattisgarh,2002,"Calendar Year (Jan - Dec), 2002",Male,
+890,India,22,Chhattisgarh,2002,"Calendar Year (Jan - Dec), 2002",Total,
+891,India,22,Chhattisgarh,2003,"Calendar Year (Jan - Dec), 2003",Female,
+892,India,22,Chhattisgarh,2003,"Calendar Year (Jan - Dec), 2003",Male,
+893,India,22,Chhattisgarh,2003,"Calendar Year (Jan - Dec), 2003",Total,
+894,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Female,
+895,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Male,
+896,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Total,
+897,India,22,Chhattisgarh,2005,"Calendar Year (Jan - Dec), 2005",Female,
+898,India,22,Chhattisgarh,2005,"Calendar Year (Jan - Dec), 2005",Male,
+899,India,22,Chhattisgarh,2005,"Calendar Year (Jan - Dec), 2005",Total,
+900,India,22,Chhattisgarh,2006,"Calendar Year (Jan - Dec), 2006",Female,
+901,India,22,Chhattisgarh,2006,"Calendar Year (Jan - Dec), 2006",Male,
+902,India,22,Chhattisgarh,2006,"Calendar Year (Jan - Dec), 2006",Total,
+903,India,22,Chhattisgarh,2007,"Calendar Year (Jan - Dec), 2007",Female,
+904,India,22,Chhattisgarh,2007,"Calendar Year (Jan - Dec), 2007",Male,
+905,India,22,Chhattisgarh,2007,"Calendar Year (Jan - Dec), 2007",Total,
+906,India,22,Chhattisgarh,2008,"Calendar Year (Jan - Dec), 2008",Female,
+907,India,22,Chhattisgarh,2008,"Calendar Year (Jan - Dec), 2008",Male,
+908,India,22,Chhattisgarh,2008,"Calendar Year (Jan - Dec), 2008",Total,
+909,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Female,
+910,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Male,
+911,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Total,
+912,India,22,Chhattisgarh,2010,"Calendar Year (Jan - Dec), 2010",Female,
+913,India,22,Chhattisgarh,2010,"Calendar Year (Jan - Dec), 2010",Male,
+914,India,22,Chhattisgarh,2010,"Calendar Year (Jan - Dec), 2010",Total,
+915,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Female,
+916,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Male,
+917,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Total,
+918,India,22,Chhattisgarh,2012,"Calendar Year (Jan - Dec), 2012",Female,
+919,India,22,Chhattisgarh,2012,"Calendar Year (Jan - Dec), 2012",Male,
+920,India,22,Chhattisgarh,2012,"Calendar Year (Jan - Dec), 2012",Total,
+921,India,22,Chhattisgarh,2013,"Calendar Year (Jan - Dec), 2013",Female,
+922,India,22,Chhattisgarh,2013,"Calendar Year (Jan - Dec), 2013",Male,
+923,India,22,Chhattisgarh,2013,"Calendar Year (Jan - Dec), 2013",Total,
+924,India,22,Chhattisgarh,2014,"Calendar Year (Jan - Dec), 2014",Female,66.3
+925,India,22,Chhattisgarh,2014,"Calendar Year (Jan - Dec), 2014",Male,63.3
+926,India,22,Chhattisgarh,2014,"Calendar Year (Jan - Dec), 2014",Total,64.8
+927,India,22,Chhattisgarh,2015,"Calendar Year (Jan - Dec), 2015",Female,66.8
+928,India,22,Chhattisgarh,2015,"Calendar Year (Jan - Dec), 2015",Male,63.6
+929,India,22,Chhattisgarh,2015,"Calendar Year (Jan - Dec), 2015",Total,65.2
+930,India,22,Chhattisgarh,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+931,India,22,Chhattisgarh,2016,"Calendar Year (Jan - Dec), 2016",Male,63.6
+932,India,22,Chhattisgarh,2016,"Calendar Year (Jan - Dec), 2016",Total,65.2
+933,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Female,66.6
+934,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Male,63.8
+935,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Total,65.2
+936,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Female,66.6
+937,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Male,63.7
+938,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Total,65.2
+939,India,23,Madhya Pradesh,1995,"Calendar Year (Jan - Dec), 1995",Total,54.7
+940,India,23,Madhya Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Female,55.2
+941,India,23,Madhya Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Male,55.6
+942,India,23,Madhya Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Total,55.4
+943,India,23,Madhya Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Female,55.7
+944,India,23,Madhya Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Male,56
+945,India,23,Madhya Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Total,55.9
+946,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Female,57.1
+947,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Male,56.1
+948,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Total,56.6
+949,India,23,Madhya Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Female,57.6
+950,India,23,Madhya Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Male,56.6
+951,India,23,Madhya Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Total,57.1
+952,India,23,Madhya Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Female,58
+953,India,23,Madhya Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Male,56.9
+954,India,23,Madhya Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Total,57.5
+955,India,23,Madhya Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Female,58.6
+956,India,23,Madhya Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Male,57.5
+957,India,23,Madhya Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Total,58.1
+958,India,23,Madhya Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Female,59.4
+959,India,23,Madhya Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Male,58.1
+960,India,23,Madhya Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Total,58.8
+961,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Female,60
+962,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Male,58.6
+963,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Total,59.3
+964,India,23,Madhya Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Female,60.5
+965,India,23,Madhya Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Male,58.9
+966,India,23,Madhya Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Total,59.7
+967,India,23,Madhya Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Female,61.2
+968,India,23,Madhya Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Male,59.4
+969,India,23,Madhya Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Total,60.2
+970,India,23,Madhya Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Female,61.8
+971,India,23,Madhya Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Male,59.7
+972,India,23,Madhya Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Total,60.7
+973,India,23,Madhya Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Female,62.7
+974,India,23,Madhya Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Male,60.3
+975,India,23,Madhya Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Total,61.4
+976,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Female,63.1
+977,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Male,60.8
+978,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Total,61.9
+979,India,23,Madhya Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Female,63.8
+980,India,23,Madhya Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Male,61.1
+981,India,23,Madhya Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Total,62.4
+982,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Female,64.5
+983,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Male,61.3
+984,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Total,62.8
+985,India,23,Madhya Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Female,65
+986,India,23,Madhya Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Male,61.9
+987,India,23,Madhya Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Total,63.3
+988,India,23,Madhya Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Female,65.5
+989,India,23,Madhya Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Male,62.3
+990,India,23,Madhya Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Total,63.8
+991,India,23,Madhya Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Female,66
+992,India,23,Madhya Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Male,62.5
+993,India,23,Madhya Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Total,64.2
+994,India,23,Madhya Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Female,66.5
+995,India,23,Madhya Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Male,63.2
+996,India,23,Madhya Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Total,64.8
+997,India,23,Madhya Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+998,India,23,Madhya Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Male,63.7
+999,India,23,Madhya Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Total,65.4
+1000,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Female,67.9
+1001,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Male,64.2
+1002,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Total,66
+1003,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Female,68.5
+1004,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Male,64.8
+1005,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Total,66.5
+1006,India,24,Gujarat,1995,"Calendar Year (Jan - Dec), 1995",Total,61
+1007,India,24,Gujarat,1997,"Calendar Year (Jan - Dec), 1997",Female,62.9
+1008,India,24,Gujarat,1997,"Calendar Year (Jan - Dec), 1997",Male,60.9
+1009,India,24,Gujarat,1997,"Calendar Year (Jan - Dec), 1997",Total,61.9
+1010,India,24,Gujarat,1998,"Calendar Year (Jan - Dec), 1998",Female,63.3
+1011,India,24,Gujarat,1998,"Calendar Year (Jan - Dec), 1998",Male,61.4
+1012,India,24,Gujarat,1998,"Calendar Year (Jan - Dec), 1998",Total,62.4
+1013,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Female,65.6
+1014,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Male,62.7
+1015,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Total,64.1
+1016,India,24,Gujarat,2000,"Calendar Year (Jan - Dec), 2000",Female,65.8
+1017,India,24,Gujarat,2000,"Calendar Year (Jan - Dec), 2000",Male,63
+1018,India,24,Gujarat,2000,"Calendar Year (Jan - Dec), 2000",Total,64.4
+1019,India,24,Gujarat,2001,"Calendar Year (Jan - Dec), 2001",Female,66.3
+1020,India,24,Gujarat,2001,"Calendar Year (Jan - Dec), 2001",Male,63.1
+1021,India,24,Gujarat,2001,"Calendar Year (Jan - Dec), 2001",Total,64.7
+1022,India,24,Gujarat,2002,"Calendar Year (Jan - Dec), 2002",Female,66.7
+1023,India,24,Gujarat,2002,"Calendar Year (Jan - Dec), 2002",Male,63
+1024,India,24,Gujarat,2002,"Calendar Year (Jan - Dec), 2002",Total,64.8
+1025,India,24,Gujarat,2003,"Calendar Year (Jan - Dec), 2003",Female,67.2
+1026,India,24,Gujarat,2003,"Calendar Year (Jan - Dec), 2003",Male,63
+1027,India,24,Gujarat,2003,"Calendar Year (Jan - Dec), 2003",Total,65
+1028,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Female,67.6
+1029,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Male,63.7
+1030,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Total,65.6
+1031,India,24,Gujarat,2005,"Calendar Year (Jan - Dec), 2005",Female,67.8
+1032,India,24,Gujarat,2005,"Calendar Year (Jan - Dec), 2005",Male,63.7
+1033,India,24,Gujarat,2005,"Calendar Year (Jan - Dec), 2005",Total,65.7
+1034,India,24,Gujarat,2006,"Calendar Year (Jan - Dec), 2006",Female,68
+1035,India,24,Gujarat,2006,"Calendar Year (Jan - Dec), 2006",Male,63.8
+1036,India,24,Gujarat,2006,"Calendar Year (Jan - Dec), 2006",Total,65.8
+1037,India,24,Gujarat,2007,"Calendar Year (Jan - Dec), 2007",Female,68.3
+1038,India,24,Gujarat,2007,"Calendar Year (Jan - Dec), 2007",Male,64
+1039,India,24,Gujarat,2007,"Calendar Year (Jan - Dec), 2007",Total,66.1
+1040,India,24,Gujarat,2008,"Calendar Year (Jan - Dec), 2008",Female,68.7
+1041,India,24,Gujarat,2008,"Calendar Year (Jan - Dec), 2008",Male,64.3
+1042,India,24,Gujarat,2008,"Calendar Year (Jan - Dec), 2008",Total,66.4
+1043,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Female,68.7
+1044,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Male,64.4
+1045,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Total,66.4
+1046,India,24,Gujarat,2010,"Calendar Year (Jan - Dec), 2010",Female,69
+1047,India,24,Gujarat,2010,"Calendar Year (Jan - Dec), 2010",Male,64.9
+1048,India,24,Gujarat,2010,"Calendar Year (Jan - Dec), 2010",Total,66.8
+1049,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Female,69.6
+1050,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Male,65.2
+1051,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Total,67.3
+1052,India,24,Gujarat,2012,"Calendar Year (Jan - Dec), 2012",Female,70.1
+1053,India,24,Gujarat,2012,"Calendar Year (Jan - Dec), 2012",Male,65.5
+1054,India,24,Gujarat,2012,"Calendar Year (Jan - Dec), 2012",Total,67.7
+1055,India,24,Gujarat,2013,"Calendar Year (Jan - Dec), 2013",Female,70.5
+1056,India,24,Gujarat,2013,"Calendar Year (Jan - Dec), 2013",Male,66
+1057,India,24,Gujarat,2013,"Calendar Year (Jan - Dec), 2013",Total,68.2
+1058,India,24,Gujarat,2014,"Calendar Year (Jan - Dec), 2014",Female,71
+1059,India,24,Gujarat,2014,"Calendar Year (Jan - Dec), 2014",Male,66.6
+1060,India,24,Gujarat,2014,"Calendar Year (Jan - Dec), 2014",Total,68.7
+1061,India,24,Gujarat,2015,"Calendar Year (Jan - Dec), 2015",Female,71.6
+1062,India,24,Gujarat,2015,"Calendar Year (Jan - Dec), 2015",Male,66.9
+1063,India,24,Gujarat,2015,"Calendar Year (Jan - Dec), 2015",Total,69.1
+1064,India,24,Gujarat,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+1065,India,24,Gujarat,2016,"Calendar Year (Jan - Dec), 2016",Male,67.4
+1066,India,24,Gujarat,2016,"Calendar Year (Jan - Dec), 2016",Total,69.5
+1067,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Female,72
+1068,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Male,67.6
+1069,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Total,69.7
+1070,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Female,72.3
+1071,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Male,67.8
+1072,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Total,69.9
+1073,India,27,Maharashtra,1995,"Calendar Year (Jan - Dec), 1995",Total,64.8
+1074,India,27,Maharashtra,1997,"Calendar Year (Jan - Dec), 1997",Female,66.6
+1075,India,27,Maharashtra,1997,"Calendar Year (Jan - Dec), 1997",Male,64.1
+1076,India,27,Maharashtra,1997,"Calendar Year (Jan - Dec), 1997",Total,65.4
+1077,India,27,Maharashtra,1998,"Calendar Year (Jan - Dec), 1998",Female,66.8
+1078,India,27,Maharashtra,1998,"Calendar Year (Jan - Dec), 1998",Male,64.3
+1079,India,27,Maharashtra,1998,"Calendar Year (Jan - Dec), 1998",Total,65.6
+1080,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Female,67.3
+1081,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Male,63.8
+1082,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Total,65.5
+1083,India,27,Maharashtra,2000,"Calendar Year (Jan - Dec), 2000",Female,67.8
+1084,India,27,Maharashtra,2000,"Calendar Year (Jan - Dec), 2000",Male,64.2
+1085,India,27,Maharashtra,2000,"Calendar Year (Jan - Dec), 2000",Total,65.9
+1086,India,27,Maharashtra,2001,"Calendar Year (Jan - Dec), 2001",Female,67.9
+1087,India,27,Maharashtra,2001,"Calendar Year (Jan - Dec), 2001",Male,64.3
+1088,India,27,Maharashtra,2001,"Calendar Year (Jan - Dec), 2001",Total,66
+1089,India,27,Maharashtra,2002,"Calendar Year (Jan - Dec), 2002",Female,68.1
+1090,India,27,Maharashtra,2002,"Calendar Year (Jan - Dec), 2002",Male,64.5
+1091,India,27,Maharashtra,2002,"Calendar Year (Jan - Dec), 2002",Total,66.2
+1092,India,27,Maharashtra,2003,"Calendar Year (Jan - Dec), 2003",Female,68.6
+1093,India,27,Maharashtra,2003,"Calendar Year (Jan - Dec), 2003",Male,65
+1094,India,27,Maharashtra,2003,"Calendar Year (Jan - Dec), 2003",Total,66.7
+1095,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Female,69.2
+1096,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Male,65.8
+1097,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Total,67.5
+1098,India,27,Maharashtra,2005,"Calendar Year (Jan - Dec), 2005",Female,69.7
+1099,India,27,Maharashtra,2005,"Calendar Year (Jan - Dec), 2005",Male,66.3
+1100,India,27,Maharashtra,2005,"Calendar Year (Jan - Dec), 2005",Total,68
+1101,India,27,Maharashtra,2006,"Calendar Year (Jan - Dec), 2006",Female,70.4
+1102,India,27,Maharashtra,2006,"Calendar Year (Jan - Dec), 2006",Male,66.8
+1103,India,27,Maharashtra,2006,"Calendar Year (Jan - Dec), 2006",Total,68.6
+1104,India,27,Maharashtra,2007,"Calendar Year (Jan - Dec), 2007",Female,71
+1105,India,27,Maharashtra,2007,"Calendar Year (Jan - Dec), 2007",Male,67.4
+1106,India,27,Maharashtra,2007,"Calendar Year (Jan - Dec), 2007",Total,69.1
+1107,India,27,Maharashtra,2008,"Calendar Year (Jan - Dec), 2008",Female,71.6
+1108,India,27,Maharashtra,2008,"Calendar Year (Jan - Dec), 2008",Male,67.6
+1109,India,27,Maharashtra,2008,"Calendar Year (Jan - Dec), 2008",Total,69.5
+1110,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Female,71.9
+1111,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Male,67.6
+1112,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Total,69.6
+1113,India,27,Maharashtra,2010,"Calendar Year (Jan - Dec), 2010",Female,71.9
+1114,India,27,Maharashtra,2010,"Calendar Year (Jan - Dec), 2010",Male,67.9
+1115,India,27,Maharashtra,2010,"Calendar Year (Jan - Dec), 2010",Total,69.9
+1116,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Female,72.4
+1117,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Male,68.3
+1118,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Total,70.3
+1119,India,27,Maharashtra,2012,"Calendar Year (Jan - Dec), 2012",Female,72.9
+1120,India,27,Maharashtra,2012,"Calendar Year (Jan - Dec), 2012",Male,68.8
+1121,India,27,Maharashtra,2012,"Calendar Year (Jan - Dec), 2012",Total,70.8
+1122,India,27,Maharashtra,2013,"Calendar Year (Jan - Dec), 2013",Female,73.4
+1123,India,27,Maharashtra,2013,"Calendar Year (Jan - Dec), 2013",Male,69.4
+1124,India,27,Maharashtra,2013,"Calendar Year (Jan - Dec), 2013",Total,71.3
+1125,India,27,Maharashtra,2014,"Calendar Year (Jan - Dec), 2014",Female,73.6
+1126,India,27,Maharashtra,2014,"Calendar Year (Jan - Dec), 2014",Male,69.9
+1127,India,27,Maharashtra,2014,"Calendar Year (Jan - Dec), 2014",Total,71.6
+1128,India,27,Maharashtra,2015,"Calendar Year (Jan - Dec), 2015",Female,73.9
+1129,India,27,Maharashtra,2015,"Calendar Year (Jan - Dec), 2015",Male,70.3
+1130,India,27,Maharashtra,2015,"Calendar Year (Jan - Dec), 2015",Total,72
+1131,India,27,Maharashtra,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+1132,India,27,Maharashtra,2016,"Calendar Year (Jan - Dec), 2016",Male,70.8
+1133,India,27,Maharashtra,2016,"Calendar Year (Jan - Dec), 2016",Total,72.2
+1134,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Female,73.9
+1135,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Male,71.2
+1136,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Total,72.5
+1137,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Female,73.8
+1138,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Male,71.3
+1139,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Total,72.5
+1140,India,28,Andhra Pradesh,1995,"Calendar Year (Jan - Dec), 1995",Total,61.8
+1141,India,28,Andhra Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Female,63.5
+1142,India,28,Andhra Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Male,61.2
+1143,India,28,Andhra Pradesh,1997,"Calendar Year (Jan - Dec), 1997",Total,62.4
+1144,India,28,Andhra Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Female,63.7
+1145,India,28,Andhra Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Male,61.4
+1146,India,28,Andhra Pradesh,1998,"Calendar Year (Jan - Dec), 1998",Total,62.6
+1147,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Female,64.1
+1148,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Male,60.9
+1149,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Total,62.5
+1150,India,28,Andhra Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Female,64.4
+1151,India,28,Andhra Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Male,61.1
+1152,India,28,Andhra Pradesh,2000,"Calendar Year (Jan - Dec), 2000",Total,62.7
+1153,India,28,Andhra Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Female,65.1
+1154,India,28,Andhra Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Male,61
+1155,India,28,Andhra Pradesh,2001,"Calendar Year (Jan - Dec), 2001",Total,63
+1156,India,28,Andhra Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Female,65.6
+1157,India,28,Andhra Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Male,61.3
+1158,India,28,Andhra Pradesh,2002,"Calendar Year (Jan - Dec), 2002",Total,63.4
+1159,India,28,Andhra Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Female,66.3
+1160,India,28,Andhra Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Male,61.7
+1161,India,28,Andhra Pradesh,2003,"Calendar Year (Jan - Dec), 2003",Total,63.9
+1162,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Female,67.1
+1163,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Male,62.3
+1164,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Total,64.6
+1165,India,28,Andhra Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Female,67.5
+1166,India,28,Andhra Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Male,62.8
+1167,India,28,Andhra Pradesh,2005,"Calendar Year (Jan - Dec), 2005",Total,65
+1168,India,28,Andhra Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Female,67.8
+1169,India,28,Andhra Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Male,62.9
+1170,India,28,Andhra Pradesh,2006,"Calendar Year (Jan - Dec), 2006",Total,65.3
+1171,India,28,Andhra Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Female,68
+1172,India,28,Andhra Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Male,63.2
+1173,India,28,Andhra Pradesh,2007,"Calendar Year (Jan - Dec), 2007",Total,65.5
+1174,India,28,Andhra Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Female,68.1
+1175,India,28,Andhra Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Male,63.5
+1176,India,28,Andhra Pradesh,2008,"Calendar Year (Jan - Dec), 2008",Total,65.7
+1177,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Female,67.9
+1178,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Male,63.4
+1179,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Total,65.6
+1180,India,28,Andhra Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Female,68.2
+1181,India,28,Andhra Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Male,63.5
+1182,India,28,Andhra Pradesh,2010,"Calendar Year (Jan - Dec), 2010",Total,65.8
+1183,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Female,68.6
+1184,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Male,64
+1185,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Total,66.3
+1186,India,28,Andhra Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Female,69.4
+1187,India,28,Andhra Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Male,64.7
+1188,India,28,Andhra Pradesh,2012,"Calendar Year (Jan - Dec), 2012",Total,67
+1189,India,28,Andhra Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Female,70.4
+1190,India,28,Andhra Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Male,65.5
+1191,India,28,Andhra Pradesh,2013,"Calendar Year (Jan - Dec), 2013",Total,67.9
+1192,India,28,Andhra Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Female,70.8
+1193,India,28,Andhra Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Male,66.3
+1194,India,28,Andhra Pradesh,2014,"Calendar Year (Jan - Dec), 2014",Total,68.5
+1195,India,28,Andhra Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Female,71.2
+1196,India,28,Andhra Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Male,67.1
+1197,India,28,Andhra Pradesh,2015,"Calendar Year (Jan - Dec), 2015",Total,69
+1198,India,28,Andhra Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Female,71.4
+1199,India,28,Andhra Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Male,68
+1200,India,28,Andhra Pradesh,2016,"Calendar Year (Jan - Dec), 2016",Total,69.6
+1201,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Female,71.2
+1202,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Male,68.3
+1203,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Total,69.7
+1204,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Female,71.4
+1205,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Male,68.7
+1206,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Total,70
+1207,India,29,Karnataka,1995,"Calendar Year (Jan - Dec), 1995",Total,62.5
+1208,India,29,Karnataka,1997,"Calendar Year (Jan - Dec), 1997",Female,64.9
+1209,India,29,Karnataka,1997,"Calendar Year (Jan - Dec), 1997",Male,61.6
+1210,India,29,Karnataka,1997,"Calendar Year (Jan - Dec), 1997",Total,63.3
+1211,India,29,Karnataka,1998,"Calendar Year (Jan - Dec), 1998",Female,65.3
+1212,India,29,Karnataka,1998,"Calendar Year (Jan - Dec), 1998",Male,62
+1213,India,29,Karnataka,1998,"Calendar Year (Jan - Dec), 1998",Total,63.7
+1214,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Female,66.2
+1215,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Male,62.7
+1216,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Total,64.4
+1217,India,29,Karnataka,2000,"Calendar Year (Jan - Dec), 2000",Female,66.7
+1218,India,29,Karnataka,2000,"Calendar Year (Jan - Dec), 2000",Male,62.6
+1219,India,29,Karnataka,2000,"Calendar Year (Jan - Dec), 2000",Total,64.5
+1220,India,29,Karnataka,2001,"Calendar Year (Jan - Dec), 2001",Female,67.1
+1221,India,29,Karnataka,2001,"Calendar Year (Jan - Dec), 2001",Male,62.4
+1222,India,29,Karnataka,2001,"Calendar Year (Jan - Dec), 2001",Total,64.6
+1223,India,29,Karnataka,2002,"Calendar Year (Jan - Dec), 2002",Female,67.7
+1224,India,29,Karnataka,2002,"Calendar Year (Jan - Dec), 2002",Male,62.6
+1225,India,29,Karnataka,2002,"Calendar Year (Jan - Dec), 2002",Total,65
+1226,India,29,Karnataka,2003,"Calendar Year (Jan - Dec), 2003",Female,68
+1227,India,29,Karnataka,2003,"Calendar Year (Jan - Dec), 2003",Male,63
+1228,India,29,Karnataka,2003,"Calendar Year (Jan - Dec), 2003",Total,65.4
+1229,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Female,68.6
+1230,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Male,63.3
+1231,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Total,65.8
+1232,India,29,Karnataka,2005,"Calendar Year (Jan - Dec), 2005",Female,68.5
+1233,India,29,Karnataka,2005,"Calendar Year (Jan - Dec), 2005",Male,63.9
+1234,India,29,Karnataka,2005,"Calendar Year (Jan - Dec), 2005",Total,66.1
+1235,India,29,Karnataka,2006,"Calendar Year (Jan - Dec), 2006",Female,68.8
+1236,India,29,Karnataka,2006,"Calendar Year (Jan - Dec), 2006",Male,64.4
+1237,India,29,Karnataka,2006,"Calendar Year (Jan - Dec), 2006",Total,66.5
+1238,India,29,Karnataka,2007,"Calendar Year (Jan - Dec), 2007",Female,69
+1239,India,29,Karnataka,2007,"Calendar Year (Jan - Dec), 2007",Male,64.4
+1240,India,29,Karnataka,2007,"Calendar Year (Jan - Dec), 2007",Total,66.6
+1241,India,29,Karnataka,2008,"Calendar Year (Jan - Dec), 2008",Female,69.2
+1242,India,29,Karnataka,2008,"Calendar Year (Jan - Dec), 2008",Male,64.4
+1243,India,29,Karnataka,2008,"Calendar Year (Jan - Dec), 2008",Total,66.7
+1244,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Female,69.2
+1245,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Male,64.6
+1246,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Total,66.8
+1247,India,29,Karnataka,2010,"Calendar Year (Jan - Dec), 2010",Female,69.7
+1248,India,29,Karnataka,2010,"Calendar Year (Jan - Dec), 2010",Male,64.9
+1249,India,29,Karnataka,2010,"Calendar Year (Jan - Dec), 2010",Total,67.2
+1250,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Female,70
+1251,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Male,65.2
+1252,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Total,67.5
+1253,India,29,Karnataka,2012,"Calendar Year (Jan - Dec), 2012",Female,70.3
+1254,India,29,Karnataka,2012,"Calendar Year (Jan - Dec), 2012",Male,65.8
+1255,India,29,Karnataka,2012,"Calendar Year (Jan - Dec), 2012",Total,68
+1256,India,29,Karnataka,2013,"Calendar Year (Jan - Dec), 2013",Female,70.8
+1257,India,29,Karnataka,2013,"Calendar Year (Jan - Dec), 2013",Male,66.4
+1258,India,29,Karnataka,2013,"Calendar Year (Jan - Dec), 2013",Total,68.5
+1259,India,29,Karnataka,2014,"Calendar Year (Jan - Dec), 2014",Female,70.8
+1260,India,29,Karnataka,2014,"Calendar Year (Jan - Dec), 2014",Male,66.9
+1261,India,29,Karnataka,2014,"Calendar Year (Jan - Dec), 2014",Total,68.8
+1262,India,29,Karnataka,2015,"Calendar Year (Jan - Dec), 2015",Female,70.9
+1263,India,29,Karnataka,2015,"Calendar Year (Jan - Dec), 2015",Male,67.2
+1264,India,29,Karnataka,2015,"Calendar Year (Jan - Dec), 2015",Total,69
+1265,India,29,Karnataka,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+1266,India,29,Karnataka,2016,"Calendar Year (Jan - Dec), 2016",Male,67.6
+1267,India,29,Karnataka,2016,"Calendar Year (Jan - Dec), 2016",Total,69.1
+1268,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Female,70.8
+1269,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Male,67.7
+1270,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Total,69.2
+1271,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Female,70.9
+1272,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Male,67.9
+1273,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Total,69.4
+1274,India,32,Kerala,1995,"Calendar Year (Jan - Dec), 1995",Total,72.9
+1275,India,32,Kerala,1997,"Calendar Year (Jan - Dec), 1997",Female,75.9
+1276,India,32,Kerala,1997,"Calendar Year (Jan - Dec), 1997",Male,70.4
+1277,India,32,Kerala,1997,"Calendar Year (Jan - Dec), 1997",Total,73.2
+1278,India,32,Kerala,1998,"Calendar Year (Jan - Dec), 1998",Female,76
+1279,India,32,Kerala,1998,"Calendar Year (Jan - Dec), 1998",Male,70.5
+1280,India,32,Kerala,1998,"Calendar Year (Jan - Dec), 1998",Total,73.3
+1281,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Female,74.9
+1282,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Male,68.8
+1283,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Total,71.7
+1284,India,32,Kerala,2000,"Calendar Year (Jan - Dec), 2000",Female,74.7
+1285,India,32,Kerala,2000,"Calendar Year (Jan - Dec), 2000",Male,68.7
+1286,India,32,Kerala,2000,"Calendar Year (Jan - Dec), 2000",Total,71.6
+1287,India,32,Kerala,2001,"Calendar Year (Jan - Dec), 2001",Female,74.8
+1288,India,32,Kerala,2001,"Calendar Year (Jan - Dec), 2001",Male,68.8
+1289,India,32,Kerala,2001,"Calendar Year (Jan - Dec), 2001",Total,71.7
+1290,India,32,Kerala,2002,"Calendar Year (Jan - Dec), 2002",Female,74.9
+1291,India,32,Kerala,2002,"Calendar Year (Jan - Dec), 2002",Male,69
+1292,India,32,Kerala,2002,"Calendar Year (Jan - Dec), 2002",Total,71.9
+1293,India,32,Kerala,2003,"Calendar Year (Jan - Dec), 2003",Female,75.3
+1294,India,32,Kerala,2003,"Calendar Year (Jan - Dec), 2003",Male,69.7
+1295,India,32,Kerala,2003,"Calendar Year (Jan - Dec), 2003",Total,72.5
+1296,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Female,76.1
+1297,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Male,70.3
+1298,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Total,73.2
+1299,India,32,Kerala,2005,"Calendar Year (Jan - Dec), 2005",Female,76.7
+1300,India,32,Kerala,2005,"Calendar Year (Jan - Dec), 2005",Male,70.5
+1301,India,32,Kerala,2005,"Calendar Year (Jan - Dec), 2005",Total,73.6
+1302,India,32,Kerala,2006,"Calendar Year (Jan - Dec), 2006",Female,76.9
+1303,India,32,Kerala,2006,"Calendar Year (Jan - Dec), 2006",Male,70.9
+1304,India,32,Kerala,2006,"Calendar Year (Jan - Dec), 2006",Total,73.9
+1305,India,32,Kerala,2007,"Calendar Year (Jan - Dec), 2007",Female,77
+1306,India,32,Kerala,2007,"Calendar Year (Jan - Dec), 2007",Male,71.1
+1307,India,32,Kerala,2007,"Calendar Year (Jan - Dec), 2007",Total,74.1
+1308,India,32,Kerala,2008,"Calendar Year (Jan - Dec), 2008",Female,77.4
+1309,India,32,Kerala,2008,"Calendar Year (Jan - Dec), 2008",Male,71.2
+1310,India,32,Kerala,2008,"Calendar Year (Jan - Dec), 2008",Total,74.3
+1311,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Female,77.2
+1312,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Male,71.3
+1313,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Total,74.3
+1314,India,32,Kerala,2010,"Calendar Year (Jan - Dec), 2010",Female,76.9
+1315,India,32,Kerala,2010,"Calendar Year (Jan - Dec), 2010",Male,71.5
+1316,India,32,Kerala,2010,"Calendar Year (Jan - Dec), 2010",Total,74.2
+1317,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Female,77.3
+1318,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Male,71.5
+1319,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Total,74.4
+1320,India,32,Kerala,2012,"Calendar Year (Jan - Dec), 2012",Female,77.7
+1321,India,32,Kerala,2012,"Calendar Year (Jan - Dec), 2012",Male,71.6
+1322,India,32,Kerala,2012,"Calendar Year (Jan - Dec), 2012",Total,74.7
+1323,India,32,Kerala,2013,"Calendar Year (Jan - Dec), 2013",Female,77.8
+1324,India,32,Kerala,2013,"Calendar Year (Jan - Dec), 2013",Male,71.8
+1325,India,32,Kerala,2013,"Calendar Year (Jan - Dec), 2013",Total,74.8
+1326,India,32,Kerala,2014,"Calendar Year (Jan - Dec), 2014",Female,77.8
+1327,India,32,Kerala,2014,"Calendar Year (Jan - Dec), 2014",Male,72
+1328,India,32,Kerala,2014,"Calendar Year (Jan - Dec), 2014",Total,74.9
+1329,India,32,Kerala,2015,"Calendar Year (Jan - Dec), 2015",Female,78.2
+1330,India,32,Kerala,2015,"Calendar Year (Jan - Dec), 2015",Male,72.2
+1331,India,32,Kerala,2015,"Calendar Year (Jan - Dec), 2015",Total,75.2
+1332,India,32,Kerala,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+1333,India,32,Kerala,2016,"Calendar Year (Jan - Dec), 2016",Male,72.2
+1334,India,32,Kerala,2016,"Calendar Year (Jan - Dec), 2016",Total,75.1
+1335,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Female,77.8
+1336,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Male,72.5
+1337,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Total,75.2
+1338,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Female,77.9
+1339,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Male,72.5
+1340,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Total,75.3
+1341,India,33,Tamil Nadu,1995,"Calendar Year (Jan - Dec), 1995",Total,63.3
+1342,India,33,Tamil Nadu,1997,"Calendar Year (Jan - Dec), 1997",Female,65.1
+1343,India,33,Tamil Nadu,1997,"Calendar Year (Jan - Dec), 1997",Male,63.2
+1344,India,33,Tamil Nadu,1997,"Calendar Year (Jan - Dec), 1997",Total,64.2
+1345,India,33,Tamil Nadu,1998,"Calendar Year (Jan - Dec), 1998",Female,65.5
+1346,India,33,Tamil Nadu,1998,"Calendar Year (Jan - Dec), 1998",Male,63.5
+1347,India,33,Tamil Nadu,1998,"Calendar Year (Jan - Dec), 1998",Total,64.5
+1348,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Female,65.9
+1349,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Male,63.1
+1350,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Total,64.4
+1351,India,33,Tamil Nadu,2000,"Calendar Year (Jan - Dec), 2000",Female,66.2
+1352,India,33,Tamil Nadu,2000,"Calendar Year (Jan - Dec), 2000",Male,63.5
+1353,India,33,Tamil Nadu,2000,"Calendar Year (Jan - Dec), 2000",Total,64.8
+1354,India,33,Tamil Nadu,2001,"Calendar Year (Jan - Dec), 2001",Female,66.7
+1355,India,33,Tamil Nadu,2001,"Calendar Year (Jan - Dec), 2001",Male,63.8
+1356,India,33,Tamil Nadu,2001,"Calendar Year (Jan - Dec), 2001",Total,65.2
+1357,India,33,Tamil Nadu,2002,"Calendar Year (Jan - Dec), 2002",Female,67.2
+1358,India,33,Tamil Nadu,2002,"Calendar Year (Jan - Dec), 2002",Male,64.2
+1359,India,33,Tamil Nadu,2002,"Calendar Year (Jan - Dec), 2002",Total,65.7
+1360,India,33,Tamil Nadu,2003,"Calendar Year (Jan - Dec), 2003",Female,67.6
+1361,India,33,Tamil Nadu,2003,"Calendar Year (Jan - Dec), 2003",Male,64.8
+1362,India,33,Tamil Nadu,2003,"Calendar Year (Jan - Dec), 2003",Total,66.2
+1363,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Female,68.2
+1364,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Male,65.3
+1365,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Total,66.7
+1366,India,33,Tamil Nadu,2005,"Calendar Year (Jan - Dec), 2005",Female,65.7
+1367,India,33,Tamil Nadu,2005,"Calendar Year (Jan - Dec), 2005",Male,65.7
+1368,India,33,Tamil Nadu,2005,"Calendar Year (Jan - Dec), 2005",Total,67.2
+1369,India,33,Tamil Nadu,2006,"Calendar Year (Jan - Dec), 2006",Female,69.2
+1370,India,33,Tamil Nadu,2006,"Calendar Year (Jan - Dec), 2006",Male,65.9
+1371,India,33,Tamil Nadu,2006,"Calendar Year (Jan - Dec), 2006",Total,67.5
+1372,India,33,Tamil Nadu,2007,"Calendar Year (Jan - Dec), 2007",Female,69.6
+1373,India,33,Tamil Nadu,2007,"Calendar Year (Jan - Dec), 2007",Male,66.2
+1374,India,33,Tamil Nadu,2007,"Calendar Year (Jan - Dec), 2007",Total,67.9
+1375,India,33,Tamil Nadu,2008,"Calendar Year (Jan - Dec), 2008",Female,70.1
+1376,India,33,Tamil Nadu,2008,"Calendar Year (Jan - Dec), 2008",Male,66.6
+1377,India,33,Tamil Nadu,2008,"Calendar Year (Jan - Dec), 2008",Total,68.3
+1378,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Female,70.6
+1379,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Male,66.9
+1380,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Total,68.7
+1381,India,33,Tamil Nadu,2010,"Calendar Year (Jan - Dec), 2010",Female,70.9
+1382,India,33,Tamil Nadu,2010,"Calendar Year (Jan - Dec), 2010",Male,67.1
+1383,India,33,Tamil Nadu,2010,"Calendar Year (Jan - Dec), 2010",Total,68.9
+1384,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Female,71.4
+1385,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Male,67.6
+1386,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Total,69.4
+1387,India,33,Tamil Nadu,2012,"Calendar Year (Jan - Dec), 2012",Female,71.9
+1388,India,33,Tamil Nadu,2012,"Calendar Year (Jan - Dec), 2012",Male,67.9
+1389,India,33,Tamil Nadu,2012,"Calendar Year (Jan - Dec), 2012",Total,69.8
+1390,India,33,Tamil Nadu,2013,"Calendar Year (Jan - Dec), 2013",Female,72.3
+1391,India,33,Tamil Nadu,2013,"Calendar Year (Jan - Dec), 2013",Male,68.2
+1392,India,33,Tamil Nadu,2013,"Calendar Year (Jan - Dec), 2013",Total,70.2
+1393,India,33,Tamil Nadu,2014,"Calendar Year (Jan - Dec), 2014",Female,72.7
+1394,India,33,Tamil Nadu,2014,"Calendar Year (Jan - Dec), 2014",Male,68.6
+1395,India,33,Tamil Nadu,2014,"Calendar Year (Jan - Dec), 2014",Total,70.6
+1396,India,33,Tamil Nadu,2015,"Calendar Year (Jan - Dec), 2015",Female,73
+1397,India,33,Tamil Nadu,2015,"Calendar Year (Jan - Dec), 2015",Male,69.1
+1398,India,33,Tamil Nadu,2015,"Calendar Year (Jan - Dec), 2015",Total,71
+1399,India,33,Tamil Nadu,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+1400,India,33,Tamil Nadu,2016,"Calendar Year (Jan - Dec), 2016",Male,69.5
+1401,India,33,Tamil Nadu,2016,"Calendar Year (Jan - Dec), 2016",Total,71.4
+1402,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Female,73.7
+1403,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Male,69.9
+1404,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Total,71.7
+1405,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Female,74.2
+1406,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Male,70.2
+1407,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Total,72.1
+1408,India,36,Telangana,1995,"Calendar Year (Jan - Dec), 1995",Total,61.8
+1409,India,36,Telangana,1997,"Calendar Year (Jan - Dec), 1997",Female,63.5
+1410,India,36,Telangana,1997,"Calendar Year (Jan - Dec), 1997",Male,61.2
+1411,India,36,Telangana,1997,"Calendar Year (Jan - Dec), 1997",Total,62.4
+1412,India,36,Telangana,1998,"Calendar Year (Jan - Dec), 1998",Female,63.7
+1413,India,36,Telangana,1998,"Calendar Year (Jan - Dec), 1998",Male,61.4
+1414,India,36,Telangana,1998,"Calendar Year (Jan - Dec), 1998",Total,62.6
+1415,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Female,64.1
+1416,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Male,60.9
+1417,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Total,62.5
+1418,India,36,Telangana,2000,"Calendar Year (Jan - Dec), 2000",Female,64.4
+1419,India,36,Telangana,2000,"Calendar Year (Jan - Dec), 2000",Male,61.1
+1420,India,36,Telangana,2000,"Calendar Year (Jan - Dec), 2000",Total,62.7
+1421,India,36,Telangana,2001,"Calendar Year (Jan - Dec), 2001",Female,65.1
+1422,India,36,Telangana,2001,"Calendar Year (Jan - Dec), 2001",Male,61
+1423,India,36,Telangana,2001,"Calendar Year (Jan - Dec), 2001",Total,63
+1424,India,36,Telangana,2002,"Calendar Year (Jan - Dec), 2002",Female,65.6
+1425,India,36,Telangana,2002,"Calendar Year (Jan - Dec), 2002",Male,61.3
+1426,India,36,Telangana,2002,"Calendar Year (Jan - Dec), 2002",Total,63.4
+1427,India,36,Telangana,2003,"Calendar Year (Jan - Dec), 2003",Female,66.3
+1428,India,36,Telangana,2003,"Calendar Year (Jan - Dec), 2003",Male,61.7
+1429,India,36,Telangana,2003,"Calendar Year (Jan - Dec), 2003",Total,63.9
+1430,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Female,67.1
+1431,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Male,62.3
+1432,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Total,64.6
+1433,India,36,Telangana,2005,"Calendar Year (Jan - Dec), 2005",Female,67.5
+1434,India,36,Telangana,2005,"Calendar Year (Jan - Dec), 2005",Male,62.8
+1435,India,36,Telangana,2005,"Calendar Year (Jan - Dec), 2005",Total,65
+1436,India,36,Telangana,2006,"Calendar Year (Jan - Dec), 2006",Female,67.8
+1437,India,36,Telangana,2006,"Calendar Year (Jan - Dec), 2006",Male,62.9
+1438,India,36,Telangana,2006,"Calendar Year (Jan - Dec), 2006",Total,65.3
+1439,India,36,Telangana,2007,"Calendar Year (Jan - Dec), 2007",Female,68
+1440,India,36,Telangana,2007,"Calendar Year (Jan - Dec), 2007",Male,63.2
+1441,India,36,Telangana,2007,"Calendar Year (Jan - Dec), 2007",Total,65.5
+1442,India,36,Telangana,2008,"Calendar Year (Jan - Dec), 2008",Female,68.1
+1443,India,36,Telangana,2008,"Calendar Year (Jan - Dec), 2008",Male,63.5
+1444,India,36,Telangana,2008,"Calendar Year (Jan - Dec), 2008",Total,65.7
+1445,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Female,67.9
+1446,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Male,63.4
+1447,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Total,65.6
+1448,India,36,Telangana,2010,"Calendar Year (Jan - Dec), 2010",Female,68.2
+1449,India,36,Telangana,2010,"Calendar Year (Jan - Dec), 2010",Male,63.5
+1450,India,36,Telangana,2010,"Calendar Year (Jan - Dec), 2010",Total,65.8
+1451,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Female,68.6
+1452,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Male,64
+1453,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Total,66.3
+1454,India,36,Telangana,2012,"Calendar Year (Jan - Dec), 2012",Female,69.4
+1455,India,36,Telangana,2012,"Calendar Year (Jan - Dec), 2012",Male,64.7
+1456,India,36,Telangana,2012,"Calendar Year (Jan - Dec), 2012",Total,67
+1457,India,36,Telangana,2013,"Calendar Year (Jan - Dec), 2013",Female,70.4
+1458,India,36,Telangana,2013,"Calendar Year (Jan - Dec), 2013",Male,65.5
+1459,India,36,Telangana,2013,"Calendar Year (Jan - Dec), 2013",Total,67.9
+1460,India,36,Telangana,2014,"Calendar Year (Jan - Dec), 2014",Female,70.8
+1461,India,36,Telangana,2014,"Calendar Year (Jan - Dec), 2014",Male,66.3
+1462,India,36,Telangana,2014,"Calendar Year (Jan - Dec), 2014",Total,68.5
+1463,India,36,Telangana,2015,"Calendar Year (Jan - Dec), 2015",Female,71.2
+1464,India,36,Telangana,2015,"Calendar Year (Jan - Dec), 2015",Male,67.1
+1465,India,36,Telangana,2015,"Calendar Year (Jan - Dec), 2015",Total,69
+1466,India,36,Telangana,2016,"Calendar Year (Jan - Dec), 2016",Female,
+1467,India,36,Telangana,2016,"Calendar Year (Jan - Dec), 2016",Male,
+1468,India,36,Telangana,2016,"Calendar Year (Jan - Dec), 2016",Total,
+1469,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Female,
+1470,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Male,
+1471,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Total,
+1472,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Female,70.2
+1473,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Male,68.6
+1474,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Total,69.6
+1475,India,37,Ladakh,1995,"Calendar Year (Jan - Dec), 1995",Total,
+1476,India,37,Ladakh,1997,"Calendar Year (Jan - Dec), 1997",Female,
+1477,India,37,Ladakh,1997,"Calendar Year (Jan - Dec), 1997",Male,
+1478,India,37,Ladakh,1997,"Calendar Year (Jan - Dec), 1997",Total,
+1479,India,37,Ladakh,1998,"Calendar Year (Jan - Dec), 1998",Female,
+1480,India,37,Ladakh,1998,"Calendar Year (Jan - Dec), 1998",Male,
+1481,India,37,Ladakh,1998,"Calendar Year (Jan - Dec), 1998",Total,
+1482,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Female,
+1483,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Male,
+1484,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Total,
+1485,India,37,Ladakh,2000,"Calendar Year (Jan - Dec), 2000",Female,
+1486,India,37,Ladakh,2000,"Calendar Year (Jan - Dec), 2000",Male,
+1487,India,37,Ladakh,2000,"Calendar Year (Jan - Dec), 2000",Total,
+1488,India,37,Ladakh,2001,"Calendar Year (Jan - Dec), 2001",Female,
+1489,India,37,Ladakh,2001,"Calendar Year (Jan - Dec), 2001",Male,
+1490,India,37,Ladakh,2001,"Calendar Year (Jan - Dec), 2001",Total,
+1491,India,37,Ladakh,2002,"Calendar Year (Jan - Dec), 2002",Female,67.3
+1492,India,37,Ladakh,2002,"Calendar Year (Jan - Dec), 2002",Male,64.7
+1493,India,37,Ladakh,2002,"Calendar Year (Jan - Dec), 2002",Total,65.9
+1494,India,37,Ladakh,2003,"Calendar Year (Jan - Dec), 2003",Female,68
+1495,India,37,Ladakh,2003,"Calendar Year (Jan - Dec), 2003",Male,64.4
+1496,India,37,Ladakh,2003,"Calendar Year (Jan - Dec), 2003",Total,66
+1497,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Female,68.9
+1498,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Male,65.9
+1499,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Total,67.3
+1500,India,37,Ladakh,2005,"Calendar Year (Jan - Dec), 2005",Female,69.9
+1501,India,37,Ladakh,2005,"Calendar Year (Jan - Dec), 2005",Male,67.1
+1502,India,37,Ladakh,2005,"Calendar Year (Jan - Dec), 2005",Total,68.4
+1503,India,37,Ladakh,2006,"Calendar Year (Jan - Dec), 2006",Female,71
+1504,India,37,Ladakh,2006,"Calendar Year (Jan - Dec), 2006",Male,69.2
+1505,India,37,Ladakh,2006,"Calendar Year (Jan - Dec), 2006",Total,70
+1506,India,37,Ladakh,2007,"Calendar Year (Jan - Dec), 2007",Female,70.8
+1507,India,37,Ladakh,2007,"Calendar Year (Jan - Dec), 2007",Male,68.6
+1508,India,37,Ladakh,2007,"Calendar Year (Jan - Dec), 2007",Total,69.6
+1509,India,37,Ladakh,2008,"Calendar Year (Jan - Dec), 2008",Female,70.6
+1510,India,37,Ladakh,2008,"Calendar Year (Jan - Dec), 2008",Male,69
+1511,India,37,Ladakh,2008,"Calendar Year (Jan - Dec), 2008",Total,69.8
+1512,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Female,71.2
+1513,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Male,68.9
+1514,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Total,70
+1515,India,37,Ladakh,2010,"Calendar Year (Jan - Dec), 2010",Female,71.1
+1516,India,37,Ladakh,2010,"Calendar Year (Jan - Dec), 2010",Male,69.2
+1517,India,37,Ladakh,2010,"Calendar Year (Jan - Dec), 2010",Total,70.1
+1518,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Female,71.9
+1519,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Male,69.4
+1520,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Total,70.5
+1521,India,37,Ladakh,2012,"Calendar Year (Jan - Dec), 2012",Female,72.4
+1522,India,37,Ladakh,2012,"Calendar Year (Jan - Dec), 2012",Male,69.9
+1523,India,37,Ladakh,2012,"Calendar Year (Jan - Dec), 2012",Total,71
+1524,India,37,Ladakh,2013,"Calendar Year (Jan - Dec), 2013",Female,74
+1525,India,37,Ladakh,2013,"Calendar Year (Jan - Dec), 2013",Male,70.6
+1526,India,37,Ladakh,2013,"Calendar Year (Jan - Dec), 2013",Total,72
+1527,India,37,Ladakh,2014,"Calendar Year (Jan - Dec), 2014",Female,74.9
+1528,India,37,Ladakh,2014,"Calendar Year (Jan - Dec), 2014",Male,70.9
+1529,India,37,Ladakh,2014,"Calendar Year (Jan - Dec), 2014",Total,72.6
+1530,India,37,Ladakh,2015,"Calendar Year (Jan - Dec), 2015",Female,76.1
+1531,India,37,Ladakh,2015,"Calendar Year (Jan - Dec), 2015",Male,71.2
+1532,India,37,Ladakh,2015,"Calendar Year (Jan - Dec), 2015",Total,73.2
+1533,India,37,Ladakh,2016,"Calendar Year (Jan - Dec), 2016",Female,68.5
+1534,India,37,Ladakh,2016,"Calendar Year (Jan - Dec), 2016",Male,71.6
+1535,India,37,Ladakh,2016,"Calendar Year (Jan - Dec), 2016",Total,73.5
+1536,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Female,76.7
+1537,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Male,72.1
+1538,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Total,74.1
+1539,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Female,76.2
+1540,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Male,72.2
+1541,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Total,74

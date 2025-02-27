@@ -1,0 +1,14 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+Average daily wage rates for male construction workers in rural areas,I7052_3,Numeric Variable,INR ( Indian Rupees ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Average daily wage rates for male construction workers in rural areas
+Average daily wage rates for male general agricultural labourers in rural areas,I7052_4,Numeric Variable,INR ( Indian Rupees ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Average daily wage rates for male general agricultural labourers in rural areas
+Average daily wage rates for Horticulture workers in rural areas,I7052_5,Numeric Variable,INR ( Indian Rupees ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Average daily wage rates for Horticulture workers in rural areas
+Average daily wage rates for male non-agricultural labourers in rural areas,I7052_6,Numeric Variable,INR ( Indian Rupees ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Average daily wage rates for male non-agricultural labourers in rural areas
+Consumer Price Index (CPI) for Food and Beverages (%),I7052_7,Numeric Variable,% ( Percentage ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Consumer Price Index (CPI) or Inflation for Food and Beverages (%)
+Consumer Price Index (CPI)  for Fuel and Light (%),I7052_8,Numeric Variable,% ( Percentage ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Consumer Price Index (CPI) or Inflation for Fuel and Light (%)
+Consumer Price Index (CPI) or General Inflation (%),I7052_9,Numeric Variable,% ( Percentage ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Consumer Price Index (CPI) or General Inflation (%)
+Consumer Price Index (CPI) or Inflation for Urban Housing (%),I7052_10,Numeric Variable,% ( Percentage ),1,weighted avg,WeighingRatio_Percentage_TotalPopulation,Total Population from Census,Consumer Price Index (CPI) or Inflation for Urban Housing (%)

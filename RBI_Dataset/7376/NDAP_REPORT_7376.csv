@@ -1,0 +1,1513 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Residence type,Gender,Unemployment rate per 1000 population
+1,India,1,Jammu And Kashmir,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,4
+2,India,1,Jammu And Kashmir,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,9
+3,India,1,Jammu And Kashmir,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,7
+4,India,1,Jammu And Kashmir,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,92
+5,India,1,Jammu And Kashmir,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,59
+6,India,1,Jammu And Kashmir,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,66
+7,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,11
+8,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,12
+9,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,11
+10,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,89
+11,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,45
+12,India,1,Jammu And Kashmir,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,50
+13,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,13
+14,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,17
+15,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,15
+16,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,109
+17,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,37
+18,India,1,Jammu And Kashmir,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,49
+19,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,38
+20,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,18
+21,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,25
+22,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,109
+23,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,47
+24,India,1,Jammu And Kashmir,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,60
+25,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,30
+26,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,22
+27,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,25
+28,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,190
+29,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,41
+30,India,1,Jammu And Kashmir,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,70
+31,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,54
+32,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,37
+33,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,42
+34,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,229
+35,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,61
+36,India,1,Jammu And Kashmir,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,100
+37,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,60
+38,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,29
+39,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,39
+40,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,272
+41,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,56
+42,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,101
+43,India,2,Himachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,1
+44,India,2,Himachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,9
+45,India,2,Himachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,5
+46,India,2,Himachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,3
+47,India,2,Himachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,33
+48,India,2,Himachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,26
+49,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,5
+50,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,18
+51,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,12
+52,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,79
+53,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,62
+54,India,2,Himachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,66
+55,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,20
+56,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,16
+57,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,18
+58,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,101
+59,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,17
+60,India,2,Himachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,38
+61,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,12
+62,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,19
+63,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,16
+64,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,106
+65,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,31
+66,India,2,Himachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,49
+67,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,8
+68,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,11
+69,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,10
+70,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,99
+71,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,19
+72,India,2,Himachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,40
+73,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,39
+74,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,62
+75,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,52
+76,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,137
+77,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,74
+78,India,2,Himachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,87
+79,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,43
+80,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,53
+81,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,48
+82,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,149
+83,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,65
+84,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,88
+85,India,3,Punjab,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,12
+86,India,3,Punjab,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,13
+87,India,3,Punjab,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,13
+88,India,3,Punjab,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,53
+89,India,3,Punjab,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,31
+90,India,3,Punjab,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,34
+91,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,9
+92,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,23
+93,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,18
+94,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,21
+95,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,28
+96,India,3,Punjab,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,27
+97,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,49
+98,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,33
+99,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,38
+100,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,140
+101,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,29
+102,India,3,Punjab,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,50
+103,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,22
+104,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,28
+105,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,26
+106,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,66
+107,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,44
+108,India,3,Punjab,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,48
+109,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,13
+110,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,22
+111,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,19
+112,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,36
+113,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,26
+114,India,3,Punjab,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,28
+115,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,103
+116,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,74
+117,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,78
+118,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,135
+119,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,65
+120,India,3,Punjab,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,77
+121,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,83
+122,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,76
+123,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,77
+124,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,113
+125,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,61
+126,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,70
+127,India,4,Chandigarh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,28
+128,India,4,Chandigarh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,29
+129,India,4,Chandigarh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,29
+130,India,4,Chandigarh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,222
+131,India,4,Chandigarh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,33
+132,India,4,Chandigarh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,72
+133,India,4,Chandigarh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,
+134,India,4,Chandigarh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,7
+135,India,4,Chandigarh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,7
+136,India,4,Chandigarh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,109
+137,India,4,Chandigarh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,32
+138,India,4,Chandigarh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,48
+139,India,4,Chandigarh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,48
+140,India,4,Chandigarh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,25
+141,India,4,Chandigarh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,26
+142,India,4,Chandigarh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,75
+143,India,4,Chandigarh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,31
+144,India,4,Chandigarh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,40
+145,India,4,Chandigarh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,511
+146,India,4,Chandigarh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,164
+147,India,4,Chandigarh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,247
+148,India,4,Chandigarh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,51
+149,India,4,Chandigarh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,30
+150,India,4,Chandigarh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,34
+151,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,
+152,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,
+153,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,
+154,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,104
+155,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,57
+156,India,4,Chandigarh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,64
+157,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,13
+158,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,39
+159,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,35
+160,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,212
+161,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,52
+162,India,4,Chandigarh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,92
+163,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,91
+164,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,
+165,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,16
+166,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,97
+167,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,77
+168,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,82
+169,India,5,Uttarakhand,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,
+170,India,5,Uttarakhand,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,
+171,India,5,Uttarakhand,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,
+172,India,5,Uttarakhand,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,
+173,India,5,Uttarakhand,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,
+174,India,5,Uttarakhand,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,
+175,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,
+176,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,
+177,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,
+178,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,
+179,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,
+180,India,5,Uttarakhand,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,
+181,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,4
+182,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,20
+183,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,13
+184,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,102
+185,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,42
+186,India,5,Uttarakhand,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,54
+187,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,2
+188,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,26
+189,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,16
+190,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,31
+191,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,29
+192,India,5,Uttarakhand,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,29
+193,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,21
+194,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,27
+195,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,25
+196,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,200
+197,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,25
+198,India,5,Uttarakhand,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,53
+199,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,76
+200,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,67
+201,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,69
+202,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,238
+203,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,71
+204,India,5,Uttarakhand,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,95
+205,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,133
+206,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,53
+207,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,72
+208,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,300
+209,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,102
+210,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,134
+211,India,6,Haryana,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,4
+212,India,6,Haryana,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,15
+213,India,6,Haryana,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,11
+214,India,6,Haryana,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,33
+215,India,6,Haryana,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,25
+216,India,6,Haryana,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,26
+217,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,1
+218,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,11
+219,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,8
+220,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,28
+221,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,27
+222,India,6,Haryana,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,27
+223,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,10
+224,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,28
+225,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,22
+226,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,75
+227,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,32
+228,India,6,Haryana,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,40
+229,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,11
+230,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,21
+231,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,18
+232,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,38
+233,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,22
+234,India,6,Haryana,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,25
+235,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,17
+236,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,26
+237,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,24
+238,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,50
+239,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,40
+240,India,6,Haryana,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,42
+241,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,110
+242,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,90
+243,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,93
+244,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,120
+245,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,65
+246,India,6,Haryana,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,73
+247,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,67
+248,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,100
+249,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,95
+250,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,89
+251,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,86
+252,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,87
+253,India,7,Delhi,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,
+254,India,7,Delhi,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,
+255,India,7,Delhi,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,
+256,India,7,Delhi,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,62
+257,India,7,Delhi,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,9
+258,India,7,Delhi,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,15
+259,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,210
+260,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,39
+261,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,47
+262,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,39
+263,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,32
+264,India,7,Delhi,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,33
+265,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,
+266,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,20
+267,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,19
+268,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,64
+269,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,46
+270,India,7,Delhi,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,48
+271,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,
+272,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,18
+273,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,17
+274,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,22
+275,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,26
+276,India,7,Delhi,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,26
+277,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,
+278,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,94
+279,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,78
+280,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,46
+281,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,33
+282,India,7,Delhi,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,35
+283,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,
+284,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,36
+285,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,35
+286,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,114
+287,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,96
+288,India,7,Delhi,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,98
+289,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,
+290,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,6
+291,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,5
+292,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,99
+293,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,109
+294,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,108
+295,India,8,Rajasthan,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,1
+296,India,8,Rajasthan,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,4
+297,India,8,Rajasthan,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,3
+298,India,8,Rajasthan,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,6
+299,India,8,Rajasthan,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,17
+300,India,8,Rajasthan,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,14
+301,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,1
+302,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,6
+303,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,4
+304,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,21
+305,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,26
+306,India,8,Rajasthan,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,25
+307,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,1
+308,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,12
+309,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,7
+310,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,29
+311,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,28
+312,India,8,Rajasthan,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,29
+313,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,1
+314,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,6
+315,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,4
+316,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,44
+317,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,17
+318,India,8,Rajasthan,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,22
+319,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,4
+320,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,9
+321,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,7
+322,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,25
+323,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,32
+324,India,8,Rajasthan,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,31
+325,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,12
+326,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,58
+327,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,45
+328,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,99
+329,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,68
+330,India,8,Rajasthan,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,72
+331,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,21
+332,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,59
+333,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,46
+334,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,142
+335,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,85
+336,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,95
+337,India,9,Uttar Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,3
+338,India,9,Uttar Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,9
+339,India,9,Uttar Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,7
+340,India,9,Uttar Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,11
+341,India,9,Uttar Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,32
+342,India,9,Uttar Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,29
+343,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,3
+344,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,10
+345,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,8
+346,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,33
+347,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,43
+348,India,9,Uttar Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,41
+349,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,3
+350,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,7
+351,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,6
+352,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,25
+353,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,35
+354,India,9,Uttar Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,33
+355,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,5
+356,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,12
+357,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,10
+358,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,34
+359,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,29
+360,India,9,Uttar Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,29
+361,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,7
+362,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,10
+363,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,9
+364,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,37
+365,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,42
+366,India,9,Uttar Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,41
+367,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,15
+368,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,62
+369,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,55
+370,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,105
+371,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,96
+372,India,9,Uttar Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,97
+373,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,18
+374,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,48
+375,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,43
+376,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,61
+377,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,112
+378,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,106
+379,India,10,Bihar,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,6
+380,India,10,Bihar,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,19
+381,India,10,Bihar,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,16
+382,India,10,Bihar,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,92
+383,India,10,Bihar,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,68
+384,India,10,Bihar,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,71
+385,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,5
+386,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,22
+387,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,18
+388,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,81
+389,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,73
+390,India,10,Bihar,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,74
+391,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,2
+392,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,18
+393,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,15
+394,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,41
+395,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,67
+396,India,10,Bihar,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,64
+397,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,13
+398,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,21
+399,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,20
+400,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,160
+401,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,63
+402,India,10,Bihar,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,73
+403,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,82
+404,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,27
+405,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,32
+406,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,165
+407,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,45
+408,India,10,Bihar,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,56
+409,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,23
+410,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,72
+411,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,70
+412,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,62
+413,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,92
+414,India,10,Bihar,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,90
+415,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,17
+416,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,106
+417,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,102
+418,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,123
+419,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,104
+420,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,105
+421,India,11,Sikkim,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,16
+422,India,11,Sikkim,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,6
+423,India,11,Sikkim,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,7
+424,India,11,Sikkim,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,62
+425,India,11,Sikkim,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,12
+426,India,11,Sikkim,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,31
+427,India,11,Sikkim,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,19
+428,India,11,Sikkim,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,32
+429,India,11,Sikkim,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,28
+430,India,11,Sikkim,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,100
+431,India,11,Sikkim,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,67
+432,India,11,Sikkim,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,75
+433,India,11,Sikkim,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,15
+434,India,11,Sikkim,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,28
+435,India,11,Sikkim,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,24
+436,India,11,Sikkim,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,43
+437,India,11,Sikkim,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,36
+438,India,11,Sikkim,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,37
+439,India,11,Sikkim,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,34
+440,India,11,Sikkim,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,47
+441,India,11,Sikkim,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,43
+442,India,11,Sikkim,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,
+443,India,11,Sikkim,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,
+444,India,11,Sikkim,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,
+445,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,10
+446,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,9
+447,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,10
+448,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,
+449,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,32
+450,India,11,Sikkim,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,23
+451,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,39
+452,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,20
+453,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,27
+454,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,99
+455,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,42
+456,India,11,Sikkim,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,58
+457,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,18
+458,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,30
+459,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,25
+460,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,75
+461,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,39
+462,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,49
+463,India,12,Arunachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,2
+464,India,12,Arunachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,16
+465,India,12,Arunachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,10
+466,India,12,Arunachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,73
+467,India,12,Arunachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,17
+468,India,12,Arunachal Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,26
+469,India,12,Arunachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,1
+470,India,12,Arunachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,8
+471,India,12,Arunachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,5
+472,India,12,Arunachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,100
+473,India,12,Arunachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,14
+474,India,12,Arunachal Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,29
+475,India,12,Arunachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,6
+476,India,12,Arunachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,11
+477,India,12,Arunachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,9
+478,India,12,Arunachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,28
+479,India,12,Arunachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,11
+480,India,12,Arunachal Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,12
+481,India,12,Arunachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,8
+482,India,12,Arunachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,15
+483,India,12,Arunachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,13
+484,India,12,Arunachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,32
+485,India,12,Arunachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,34
+486,India,12,Arunachal Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,34
+487,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,16
+488,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,17
+489,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,17
+490,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,87
+491,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,36
+492,India,12,Arunachal Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,48
+493,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,107
+494,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,43
+495,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,53
+496,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,206
+497,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,82
+498,India,12,Arunachal Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,99
+499,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,127
+500,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,61
+501,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,73
+502,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,290
+503,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,74
+504,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,111
+505,India,13,Nagaland,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,
+506,India,13,Nagaland,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,21
+507,India,13,Nagaland,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,14
+508,India,13,Nagaland,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,64
+509,India,13,Nagaland,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,69
+510,India,13,Nagaland,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,68
+511,India,13,Nagaland,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,20
+512,India,13,Nagaland,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,26
+513,India,13,Nagaland,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,24
+514,India,13,Nagaland,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,87
+515,India,13,Nagaland,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,93
+516,India,13,Nagaland,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,91
+517,India,13,Nagaland,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,14
+518,India,13,Nagaland,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,22
+519,India,13,Nagaland,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,18
+520,India,13,Nagaland,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,72
+521,India,13,Nagaland,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,46
+522,India,13,Nagaland,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,55
+523,India,13,Nagaland,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,119
+524,India,13,Nagaland,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,98
+525,India,13,Nagaland,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,106
+526,India,13,Nagaland,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,190
+527,India,13,Nagaland,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,61
+528,India,13,Nagaland,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,92
+529,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,159
+530,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,146
+531,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,151
+532,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,360
+533,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,191
+534,India,13,Nagaland,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,238
+535,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,334
+536,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,190
+537,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,216
+538,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,364
+539,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,165
+540,India,13,Nagaland,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,211
+541,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,214
+542,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,144
+543,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,162
+544,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,429
+545,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,154
+546,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,211
+547,India,14,Manipur,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,7
+548,India,14,Manipur,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,12
+549,India,14,Manipur,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,10
+550,India,14,Manipur,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,32
+551,India,14,Manipur,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,48
+552,India,14,Manipur,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,42
+553,India,14,Manipur,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,15
+554,India,14,Manipur,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,21
+555,India,14,Manipur,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,19
+556,India,14,Manipur,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,62
+557,India,14,Manipur,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,69
+558,India,14,Manipur,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,67
+559,India,14,Manipur,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,7
+560,India,14,Manipur,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,14
+561,India,14,Manipur,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,11
+562,India,14,Manipur,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,63
+563,India,14,Manipur,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,52
+564,India,14,Manipur,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,55
+565,India,14,Manipur,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,37
+566,India,14,Manipur,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,38
+567,India,14,Manipur,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,38
+568,India,14,Manipur,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,41
+569,India,14,Manipur,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,50
+570,India,14,Manipur,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,48
+571,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,30
+572,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,24
+573,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,26
+574,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,108
+575,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,56
+576,India,14,Manipur,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,71
+577,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,178
+578,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,99
+579,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,116
+580,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,123
+581,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,111
+582,India,14,Manipur,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,114
+583,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,156
+584,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,77
+585,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,98
+586,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,77
+587,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,98
+588,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,92
+589,India,15,Mizoram,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,4
+590,India,15,Mizoram,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,14
+591,India,15,Mizoram,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,10
+592,India,15,Mizoram,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,5
+593,India,15,Mizoram,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,5
+594,India,15,Mizoram,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,5
+595,India,15,Mizoram,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,3
+596,India,15,Mizoram,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,14
+597,India,15,Mizoram,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,9
+598,India,15,Mizoram,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,24
+599,India,15,Mizoram,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,34
+600,India,15,Mizoram,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,30
+601,India,15,Mizoram,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,1
+602,India,15,Mizoram,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,5
+603,India,15,Mizoram,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,3
+604,India,15,Mizoram,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,26
+605,India,15,Mizoram,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,16
+606,India,15,Mizoram,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,19
+607,India,15,Mizoram,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,15
+608,India,15,Mizoram,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,13
+609,India,15,Mizoram,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,13
+610,India,15,Mizoram,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,34
+611,India,15,Mizoram,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,25
+612,India,15,Mizoram,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,28
+613,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,27
+614,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,13
+615,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,18
+616,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,67
+617,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,40
+618,India,15,Mizoram,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,50
+619,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,83
+620,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,59
+621,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,65
+622,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,177
+623,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,127
+624,India,15,Mizoram,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,144
+625,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,81
+626,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,42
+627,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,52
+628,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,127
+629,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,74
+630,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,91
+631,India,16,Tripura,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,58
+632,India,16,Tripura,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,14
+633,India,16,Tripura,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,23
+634,India,16,Tripura,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,174
+635,India,16,Tripura,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,60
+636,India,16,Tripura,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,85
+637,India,16,Tripura,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,44
+638,India,16,Tripura,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,7
+639,India,16,Tripura,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,12
+640,India,16,Tripura,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,85
+641,India,16,Tripura,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,54
+642,India,16,Tripura,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,58
+643,India,16,Tripura,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,320
+644,India,16,Tripura,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,96
+645,India,16,Tripura,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,133
+646,India,16,Tripura,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,568
+647,India,16,Tripura,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,166
+648,India,16,Tripura,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,280
+649,India,16,Tripura,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,198
+650,India,16,Tripura,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,53
+651,India,16,Tripura,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,92
+652,India,16,Tripura,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,418
+653,India,16,Tripura,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,93
+654,India,16,Tripura,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,171
+655,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,203
+656,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,62
+657,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,105
+658,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,564
+659,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,115
+660,India,16,Tripura,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,252
+661,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,79
+662,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,61
+663,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,63
+664,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,197
+665,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,60
+666,India,16,Tripura,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,87
+667,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,283
+668,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,55
+669,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,93
+670,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,301
+671,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,87
+672,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,135
+673,India,17,Meghalaya,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,
+674,India,17,Meghalaya,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,4
+675,India,17,Meghalaya,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,2
+676,India,17,Meghalaya,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,31
+677,India,17,Meghalaya,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,10
+678,India,17,Meghalaya,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,17
+679,India,17,Meghalaya,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,3
+680,India,17,Meghalaya,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,5
+681,India,17,Meghalaya,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,4
+682,India,17,Meghalaya,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,68
+683,India,17,Meghalaya,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,34
+684,India,17,Meghalaya,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,46
+685,India,17,Meghalaya,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,5
+686,India,17,Meghalaya,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,1
+687,India,17,Meghalaya,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,3
+688,India,17,Meghalaya,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,35
+689,India,17,Meghalaya,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,35
+690,India,17,Meghalaya,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,35
+691,India,17,Meghalaya,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,5
+692,India,17,Meghalaya,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,3
+693,India,17,Meghalaya,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,4
+694,India,17,Meghalaya,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,90
+695,India,17,Meghalaya,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,30
+696,India,17,Meghalaya,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,51
+697,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,4
+698,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,4
+699,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,4
+700,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,37
+701,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,24
+702,India,17,Meghalaya,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,28
+703,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,9
+704,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,3
+705,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,6
+706,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,89
+707,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,56
+708,India,17,Meghalaya,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,67
+709,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,21
+710,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,19
+711,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,20
+712,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,133
+713,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,46
+714,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,75
+715,India,18,Assam,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,77
+716,India,18,Assam,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,46
+717,India,18,Assam,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,52
+718,India,18,Assam,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,256
+719,India,18,Assam,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,55
+720,India,18,Assam,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,89
+721,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,66
+722,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,32
+723,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,39
+724,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,189
+725,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,77
+726,India,18,Assam,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,97
+727,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,31
+728,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,24
+729,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,26
+730,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,91
+731,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,69
+732,India,18,Assam,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,72
+733,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,56
+734,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,34
+735,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,39
+736,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,125
+737,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,40
+738,India,18,Assam,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,52
+739,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,57
+740,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,43
+741,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,45
+742,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,70
+743,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,54
+744,India,18,Assam,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,56
+745,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,143
+746,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,74
+747,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,83
+748,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,114
+749,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,53
+750,India,18,Assam,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,63
+751,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,68
+752,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,62
+753,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,63
+754,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,155
+755,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,99
+756,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,107
+757,India,19,West Bengal,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,17
+758,India,19,West Bengal,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,18
+759,India,19,West Bengal,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,18
+760,India,19,West Bengal,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,142
+761,India,19,West Bengal,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,63
+762,India,19,West Bengal,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,79
+763,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,28
+764,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,28
+765,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,28
+766,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,95
+767,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,72
+768,India,19,West Bengal,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,76
+769,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,33
+770,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,22
+771,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,25
+772,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,84
+773,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,56
+774,India,19,West Bengal,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,62
+775,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,28
+776,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,17
+777,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,19
+778,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,65
+779,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,35
+780,India,19,West Bengal,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,40
+781,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,24
+782,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,28
+783,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,27
+784,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,64
+785,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,43
+786,India,19,West Bengal,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,48
+787,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,17
+788,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,43
+789,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,38
+790,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,60
+791,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,67
+792,India,19,West Bengal,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,65
+793,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,14
+794,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,40
+795,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,35
+796,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,37
+797,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,53
+798,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,49
+799,India,20,Jharkhand,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,
+800,India,20,Jharkhand,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,
+801,India,20,Jharkhand,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,
+802,India,20,Jharkhand,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,
+803,India,20,Jharkhand,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,
+804,India,20,Jharkhand,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,
+805,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,
+806,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,
+807,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,
+808,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,
+809,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,
+810,India,20,Jharkhand,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,
+811,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,1
+812,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,20
+813,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,14
+814,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,23
+815,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,75
+816,India,20,Jharkhand,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,65
+817,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,12
+818,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,46
+819,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,39
+820,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,121
+821,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,53
+822,India,20,Jharkhand,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,63
+823,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,28
+824,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,18
+825,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,21
+826,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,89
+827,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,46
+828,India,20,Jharkhand,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,51
+829,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,37
+830,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,78
+831,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,71
+832,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,115
+833,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,104
+834,India,20,Jharkhand,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,105
+835,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,6
+836,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,58
+837,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,45
+838,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,84
+839,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,87
+840,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,87
+841,India,21,Odisha,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,8
+842,India,21,Odisha,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,18
+843,India,21,Odisha,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,14
+844,India,21,Odisha,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,60
+845,India,21,Odisha,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,67
+846,India,21,Odisha,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,65
+847,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,11
+848,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,24
+849,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,19
+850,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,53
+851,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,70
+852,India,21,Odisha,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,67
+853,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,83
+854,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,31
+855,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,50
+856,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,266
+857,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,90
+858,India,21,Odisha,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,134
+859,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,27
+860,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,31
+861,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,30
+862,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,54
+863,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,40
+864,India,21,Odisha,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,42
+865,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,20
+866,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,23
+867,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,22
+868,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,20
+869,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,39
+870,India,21,Odisha,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,35
+871,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,53
+872,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,74
+873,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,69
+874,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,127
+875,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,73
+876,India,21,Odisha,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,83
+877,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,42
+878,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,66
+879,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,61
+880,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,219
+881,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,101
+882,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,127
+883,India,22,Chhattisgarh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,
+884,India,22,Chhattisgarh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,
+885,India,22,Chhattisgarh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,
+886,India,22,Chhattisgarh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,
+887,India,22,Chhattisgarh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,
+888,India,22,Chhattisgarh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,
+889,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,
+890,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,
+891,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,
+892,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,
+893,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,
+894,India,22,Chhattisgarh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,
+895,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,3
+896,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,8
+897,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,6
+898,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,24
+899,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,38
+900,India,22,Chhattisgarh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,35
+901,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,1
+902,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,9
+903,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,6
+904,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,21
+905,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,31
+906,India,22,Chhattisgarh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,29
+907,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,3
+908,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,11
+909,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,8
+910,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,47
+911,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,41
+912,India,22,Chhattisgarh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,43
+913,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,21
+914,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,27
+915,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,25
+916,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,114
+917,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,59
+918,India,22,Chhattisgarh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,75
+919,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,7
+920,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,26
+921,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,18
+922,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,78
+923,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,46
+924,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,55
+925,India,23,Madhya Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,1
+926,India,23,Madhya Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,7
+927,India,23,Madhya Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,5
+928,India,23,Madhya Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,39
+929,India,23,Madhya Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,53
+930,India,23,Madhya Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,50
+931,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,2
+932,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,6
+933,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,5
+934,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,14
+935,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,41
+936,India,23,Madhya Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,35
+937,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,1
+938,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,7
+939,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,5
+940,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,16
+941,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,31
+942,India,23,Madhya Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,28
+943,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,4
+944,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,8
+945,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,7
+946,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,36
+947,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,27
+948,India,23,Madhya Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,29
+949,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,
+950,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,6
+951,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,4
+952,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,35
+953,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,24
+954,India,23,Madhya Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,26
+955,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,12
+956,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,45
+957,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,36
+958,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,69
+959,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,79
+960,India,23,Madhya Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,77
+961,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,7
+962,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,30
+963,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,24
+964,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,62
+965,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,77
+966,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,74
+967,India,24,Gujarat,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,3
+968,India,24,Gujarat,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,13
+969,India,24,Gujarat,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,9
+970,India,24,Gujarat,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,44
+971,India,24,Gujarat,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,30
+972,India,24,Gujarat,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,33
+973,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,1
+974,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,6
+975,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,4
+976,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,20
+977,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,20
+978,India,24,Gujarat,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,20
+979,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,2
+980,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,8
+981,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,5
+982,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,29
+983,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,23
+984,India,24,Gujarat,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,24
+985,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,7
+986,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,8
+987,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,8
+988,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,31
+989,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,15
+990,India,24,Gujarat,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,18
+991,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,2
+992,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,4
+993,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,3
+994,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,17
+995,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,6
+996,India,24,Gujarat,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,8
+997,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,40
+998,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,55
+999,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,52
+1000,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,43
+1001,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,43
+1002,India,24,Gujarat,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,43
+1003,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,18
+1004,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,38
+1005,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,33
+1006,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,25
+1007,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,34
+1008,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,32
+1009,India,27,Maharashtra,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,3
+1010,India,27,Maharashtra,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,12
+1011,India,27,Maharashtra,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,8
+1012,India,27,Maharashtra,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,47
+1013,India,27,Maharashtra,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,43
+1014,India,27,Maharashtra,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,44
+1015,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,7
+1016,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,19
+1017,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,14
+1018,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,66
+1019,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,56
+1020,India,27,Maharashtra,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,58
+1021,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,3
+1022,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,15
+1023,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,10
+1024,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,41
+1025,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,35
+1026,India,27,Maharashtra,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,36
+1027,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,4
+1028,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,7
+1029,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,6
+1030,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,50
+1031,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,28
+1032,India,27,Maharashtra,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,32
+1033,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,3
+1034,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,9
+1035,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,7
+1036,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,38
+1037,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,18
+1038,India,27,Maharashtra,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,23
+1039,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,28
+1040,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,35
+1041,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,33
+1042,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,115
+1043,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,62
+1044,India,27,Maharashtra,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,74
+1045,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,33
+1046,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,46
+1047,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,42
+1048,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,106
+1049,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,52
+1050,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,64
+1051,India,28,Andhra Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,1
+1052,India,28,Andhra Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,7
+1053,India,28,Andhra Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,4
+1054,India,28,Andhra Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,35
+1055,India,28,Andhra Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,28
+1056,India,28,Andhra Pradesh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,30
+1057,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,5
+1058,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,10
+1059,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,8
+1060,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,37
+1061,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,40
+1062,India,28,Andhra Pradesh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,39
+1063,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,4
+1064,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,10
+1065,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,7
+1066,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,38
+1067,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,36
+1068,India,28,Andhra Pradesh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,36
+1069,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,9
+1070,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,13
+1071,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,12
+1072,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,51
+1073,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,25
+1074,India,28,Andhra Pradesh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,31
+1075,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,5
+1076,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,17
+1077,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,12
+1078,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,54
+1079,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,39
+1080,India,28,Andhra Pradesh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,43
+1081,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,23
+1082,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,45
+1083,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,36
+1084,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,91
+1085,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,54
+1086,India,28,Andhra Pradesh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,66
+1087,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,39
+1088,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,49
+1089,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,45
+1090,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,102
+1091,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,62
+1092,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,73
+1093,India,29,Karnataka,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,4
+1094,India,29,Karnataka,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,9
+1095,India,29,Karnataka,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,7
+1096,India,29,Karnataka,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,56
+1097,India,29,Karnataka,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,29
+1098,India,29,Karnataka,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,36
+1099,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,3
+1100,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,10
+1101,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,7
+1102,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,44
+1103,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,30
+1104,India,29,Karnataka,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,33
+1105,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,8
+1106,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,7
+1107,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,7
+1108,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,57
+1109,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,19
+1110,India,29,Karnataka,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,28
+1111,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,4
+1112,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,5
+1113,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,5
+1114,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,40
+1115,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,24
+1116,India,29,Karnataka,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,27
+1117,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,4
+1118,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,12
+1119,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,9
+1120,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,44
+1121,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,24
+1122,India,29,Karnataka,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,29
+1123,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,34
+1124,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,40
+1125,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,39
+1126,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,72
+1127,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,63
+1128,India,29,Karnataka,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,65
+1129,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,14
+1130,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,32
+1131,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,27
+1132,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,61
+1133,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,50
+1134,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,52
+1135,India,30,Goa,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,129
+1136,India,30,Goa,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,70
+1137,India,30,Goa,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,90
+1138,India,30,Goa,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,154
+1139,India,30,Goa,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,80
+1140,India,30,Goa,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,101
+1141,India,30,Goa,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,159
+1142,India,30,Goa,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,69
+1143,India,30,Goa,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,93
+1144,India,30,Goa,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,333
+1145,India,30,Goa,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,147
+1146,India,30,Goa,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,185
+1147,India,30,Goa,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,157
+1148,India,30,Goa,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,91
+1149,India,30,Goa,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,111
+1150,India,30,Goa,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,118
+1151,India,30,Goa,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,76
+1152,India,30,Goa,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,87
+1153,India,30,Goa,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,99
+1154,India,30,Goa,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,35
+1155,India,30,Goa,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,47
+1156,India,30,Goa,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,72
+1157,India,30,Goa,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,35
+1158,India,30,Goa,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,41
+1159,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,8
+1160,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,66
+1161,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,51
+1162,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,97
+1163,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,29
+1164,India,30,Goa,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,46
+1165,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,210
+1166,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,107
+1167,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,139
+1168,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,298
+1169,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,60
+1170,India,30,Goa,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,138
+1171,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,197
+1172,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,24
+1173,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,80
+1174,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,144
+1175,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,69
+1176,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,91
+1177,India,31,Lakshadweep,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,428
+1178,India,31,Lakshadweep,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,68
+1179,India,31,Lakshadweep,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,169
+1180,India,31,Lakshadweep,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,333
+1181,India,31,Lakshadweep,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,140
+1182,India,31,Lakshadweep,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,200
+1183,India,31,Lakshadweep,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,429
+1184,India,31,Lakshadweep,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,109
+1185,India,31,Lakshadweep,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,194
+1186,India,31,Lakshadweep,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,179
+1187,India,31,Lakshadweep,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,65
+1188,India,31,Lakshadweep,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,100
+1189,India,31,Lakshadweep,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,571
+1190,India,31,Lakshadweep,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,9
+1191,India,31,Lakshadweep,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,75
+1192,India,31,Lakshadweep,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,515
+1193,India,31,Lakshadweep,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,111
+1194,India,31,Lakshadweep,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,250
+1195,India,31,Lakshadweep,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,256
+1196,India,31,Lakshadweep,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,24
+1197,India,31,Lakshadweep,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,97
+1198,India,31,Lakshadweep,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,28
+1199,India,31,Lakshadweep,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,87
+1200,India,31,Lakshadweep,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,57
+1201,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,435
+1202,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,79
+1203,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,160
+1204,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,350
+1205,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,53
+1206,India,31,Lakshadweep,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,115
+1207,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,266
+1208,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,112
+1209,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,133
+1210,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,565
+1211,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,132
+1212,India,31,Lakshadweep,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,253
+1213,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,456
+1214,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,392
+1215,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,400
+1216,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,487
+1217,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,218
+1218,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,286
+1219,India,32,Kerala,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,97
+1220,India,32,Kerala,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,55
+1221,India,32,Kerala,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,69
+1222,India,32,Kerala,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,187
+1223,India,32,Kerala,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,66
+1224,India,32,Kerala,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,103
+1225,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,130
+1226,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,57
+1227,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,82
+1228,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,200
+1229,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,56
+1230,India,32,Kerala,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,102
+1231,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,201
+1232,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,51
+1233,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,107
+1234,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,334
+1235,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,62
+1236,India,32,Kerala,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,156
+1237,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,161
+1238,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,32
+1239,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,75
+1240,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,168
+1241,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,29
+1242,India,32,Kerala,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,73
+1243,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,142
+1244,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,31
+1245,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,68
+1246,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,139
+1247,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,27
+1248,India,32,Kerala,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,61
+1249,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,196
+1250,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,59
+1251,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,100
+1252,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,275
+1253,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,66
+1254,India,32,Kerala,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,132
+1255,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,156
+1256,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,47
+1257,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,84
+1258,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,188
+1259,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,52
+1260,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,97
+1261,India,33,Tamil Nadu,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,6
+1262,India,33,Tamil Nadu,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,18
+1263,India,33,Tamil Nadu,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,13
+1264,India,33,Tamil Nadu,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,68
+1265,India,33,Tamil Nadu,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,43
+1266,India,33,Tamil Nadu,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,50
+1267,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,10
+1268,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,27
+1269,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,20
+1270,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,51
+1271,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,36
+1272,India,33,Tamil Nadu,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,40
+1273,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,11
+1274,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,12
+1275,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,12
+1276,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,48
+1277,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,29
+1278,India,33,Tamil Nadu,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,35
+1279,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,15
+1280,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,15
+1281,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,15
+1282,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,54
+1283,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,24
+1284,India,33,Tamil Nadu,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,32
+1285,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,19
+1286,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,21
+1287,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,20
+1288,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,45
+1289,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,21
+1290,India,33,Tamil Nadu,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,27
+1291,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,61
+1292,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,88
+1293,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,79
+1294,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,90
+1295,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,65
+1296,India,33,Tamil Nadu,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,72
+1297,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,55
+1298,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,70
+1299,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,64
+1300,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,84
+1301,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,60
+1302,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,67
+1303,India,34,Puducherry,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,
+1304,India,34,Puducherry,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,35
+1305,India,34,Puducherry,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,24
+1306,India,34,Puducherry,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,99
+1307,India,34,Puducherry,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,57
+1308,India,34,Puducherry,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,68
+1309,India,34,Puducherry,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,26
+1310,India,34,Puducherry,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,47
+1311,India,34,Puducherry,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,40
+1312,India,34,Puducherry,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,64
+1313,India,34,Puducherry,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,33
+1314,India,34,Puducherry,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,41
+1315,India,34,Puducherry,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,32
+1316,India,34,Puducherry,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,94
+1317,India,34,Puducherry,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,70
+1318,India,34,Puducherry,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,195
+1319,India,34,Puducherry,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,41
+1320,India,34,Puducherry,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,81
+1321,India,34,Puducherry,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,13
+1322,India,34,Puducherry,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,41
+1323,India,34,Puducherry,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,30
+1324,India,34,Puducherry,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,60
+1325,India,34,Puducherry,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,20
+1326,India,34,Puducherry,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,31
+1327,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,10
+1328,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,6
+1329,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,8
+1330,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,37
+1331,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,27
+1332,India,34,Puducherry,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,29
+1333,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,373
+1334,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,58
+1335,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,104
+1336,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,176
+1337,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,80
+1338,India,34,Puducherry,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,103
+1339,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,100
+1340,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,125
+1341,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,116
+1342,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,52
+1343,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,63
+1344,India,34,Puducherry,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,60
+1345,India,35,Andaman And Nicobar Islands,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,17
+1346,India,35,Andaman And Nicobar Islands,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,23
+1347,India,35,Andaman And Nicobar Islands,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,21
+1348,India,35,Andaman And Nicobar Islands,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,96
+1349,India,35,Andaman And Nicobar Islands,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,39
+1350,India,35,Andaman And Nicobar Islands,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,54
+1351,India,35,Andaman And Nicobar Islands,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,68
+1352,India,35,Andaman And Nicobar Islands,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,23
+1353,India,35,Andaman And Nicobar Islands,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,34
+1354,India,35,Andaman And Nicobar Islands,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,173
+1355,India,35,Andaman And Nicobar Islands,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,30
+1356,India,35,Andaman And Nicobar Islands,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,69
+1357,India,35,Andaman And Nicobar Islands,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,123
+1358,India,35,Andaman And Nicobar Islands,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,37
+1359,India,35,Andaman And Nicobar Islands,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,62
+1360,India,35,Andaman And Nicobar Islands,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,172
+1361,India,35,Andaman And Nicobar Islands,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,65
+1362,India,35,Andaman And Nicobar Islands,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,88
+1363,India,35,Andaman And Nicobar Islands,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,190
+1364,India,35,Andaman And Nicobar Islands,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,42
+1365,India,35,Andaman And Nicobar Islands,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,80
+1366,India,35,Andaman And Nicobar Islands,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,205
+1367,India,35,Andaman And Nicobar Islands,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,42
+1368,India,35,Andaman And Nicobar Islands,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,84
+1369,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,128
+1370,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,18
+1371,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,54
+1372,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,197
+1373,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,40
+1374,India,35,Andaman And Nicobar Islands,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,86
+1375,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,390
+1376,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,65
+1377,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,147
+1378,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,471
+1379,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,34
+1380,India,35,Andaman And Nicobar Islands,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,174
+1381,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,342
+1382,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,67
+1383,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,146
+1384,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,382
+1385,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,35
+1386,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,120
+1387,India,36,Telangana,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,1
+1388,India,36,Telangana,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,7
+1389,India,36,Telangana,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,4
+1390,India,36,Telangana,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,35
+1391,India,36,Telangana,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,28
+1392,India,36,Telangana,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,30
+1393,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,5
+1394,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,10
+1395,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,8
+1396,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,37
+1397,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,40
+1398,India,36,Telangana,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,39
+1399,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,4
+1400,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,10
+1401,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,7
+1402,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,38
+1403,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,36
+1404,India,36,Telangana,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,36
+1405,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,9
+1406,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,13
+1407,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,12
+1408,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,51
+1409,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,25
+1410,India,36,Telangana,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,31
+1411,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,5
+1412,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,17
+1413,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,12
+1414,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,54
+1415,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,39
+1416,India,36,Telangana,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,43
+1417,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,23
+1418,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,45
+1419,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,36
+1420,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,91
+1421,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,54
+1422,India,36,Telangana,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,66
+1423,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,39
+1424,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,49
+1425,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,45
+1426,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,102
+1427,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,62
+1428,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,73
+1429,India,37,Ladakh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,4
+1430,India,37,Ladakh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,9
+1431,India,37,Ladakh,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,7
+1432,India,37,Ladakh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,92
+1433,India,37,Ladakh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,59
+1434,India,37,Ladakh,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,66
+1435,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,11
+1436,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,12
+1437,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,11
+1438,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,89
+1439,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,45
+1440,India,37,Ladakh,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,50
+1441,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,13
+1442,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,17
+1443,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,15
+1444,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,109
+1445,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,37
+1446,India,37,Ladakh,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,49
+1447,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,38
+1448,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,18
+1449,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,25
+1450,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,109
+1451,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,47
+1452,India,37,Ladakh,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,60
+1453,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,30
+1454,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,22
+1455,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,25
+1456,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,190
+1457,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,41
+1458,India,37,Ladakh,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,70
+1459,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,54
+1460,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,37
+1461,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,42
+1462,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,229
+1463,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,61
+1464,India,37,Ladakh,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,100
+1465,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,60
+1466,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,29
+1467,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,39
+1468,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,272
+1469,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,56
+1470,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,101
+1471,India,38,The Dadra And Nagar Haveli And Daman And Diu,1993,"Calendar Year (Jan - Dec), 1993",Rural,Female,3.50000000000000000000
+1472,India,38,The Dadra And Nagar Haveli And Daman And Diu,1993,"Calendar Year (Jan - Dec), 1993",Rural,Male,13.00000000000000000000
+1473,India,38,The Dadra And Nagar Haveli And Daman And Diu,1993,"Calendar Year (Jan - Dec), 1993",Rural,Overall,10.00000000000000000000
+1474,India,38,The Dadra And Nagar Haveli And Daman And Diu,1993,"Calendar Year (Jan - Dec), 1993",Urban,Female,68.00000000000000000000
+1475,India,38,The Dadra And Nagar Haveli And Daman And Diu,1993,"Calendar Year (Jan - Dec), 1993",Urban,Male,24.50000000000000000000
+1476,India,38,The Dadra And Nagar Haveli And Daman And Diu,1993,"Calendar Year (Jan - Dec), 1993",Urban,Overall,29.00000000000000000000
+1477,India,38,The Dadra And Nagar Haveli And Daman And Diu,1999,"Calendar Year (Jan - Dec), 1999",Rural,Female,
+1478,India,38,The Dadra And Nagar Haveli And Daman And Diu,1999,"Calendar Year (Jan - Dec), 1999",Rural,Male,14.50000000000000000000
+1479,India,38,The Dadra And Nagar Haveli And Daman And Diu,1999,"Calendar Year (Jan - Dec), 1999",Rural,Overall,10.00000000000000000000
+1480,India,38,The Dadra And Nagar Haveli And Daman And Diu,1999,"Calendar Year (Jan - Dec), 1999",Urban,Female,40.00000000000000000000
+1481,India,38,The Dadra And Nagar Haveli And Daman And Diu,1999,"Calendar Year (Jan - Dec), 1999",Urban,Male,15.00000000000000000000
+1482,India,38,The Dadra And Nagar Haveli And Daman And Diu,1999,"Calendar Year (Jan - Dec), 1999",Urban,Overall,22.00000000000000000000
+1483,India,38,The Dadra And Nagar Haveli And Daman And Diu,2004,"Calendar Year (Jan - Dec), 2004",Rural,Female,18.00000000000000000000
+1484,India,38,The Dadra And Nagar Haveli And Daman And Diu,2004,"Calendar Year (Jan - Dec), 2004",Rural,Male,17.50000000000000000000
+1485,India,38,The Dadra And Nagar Haveli And Daman And Diu,2004,"Calendar Year (Jan - Dec), 2004",Rural,Overall,18.00000000000000000000
+1486,India,38,The Dadra And Nagar Haveli And Daman And Diu,2004,"Calendar Year (Jan - Dec), 2004",Urban,Female,62.00000000000000000000
+1487,India,38,The Dadra And Nagar Haveli And Daman And Diu,2004,"Calendar Year (Jan - Dec), 2004",Urban,Male,20.50000000000000000000
+1488,India,38,The Dadra And Nagar Haveli And Daman And Diu,2004,"Calendar Year (Jan - Dec), 2004",Urban,Overall,30.00000000000000000000
+1489,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Calendar Year (Jan - Dec), 2009",Rural,Female,11.50000000000000000000
+1490,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Calendar Year (Jan - Dec), 2009",Rural,Male,48.00000000000000000000
+1491,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Calendar Year (Jan - Dec), 2009",Rural,Overall,44.00000000000000000000
+1492,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Calendar Year (Jan - Dec), 2009",Urban,Female,300.00000000000000000000
+1493,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Calendar Year (Jan - Dec), 2009",Urban,Male,34.50000000000000000000
+1494,India,38,The Dadra And Nagar Haveli And Daman And Diu,2009,"Calendar Year (Jan - Dec), 2009",Urban,Overall,38.50000000000000000000
+1495,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",Rural,Female,
+1496,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",Rural,Male,
+1497,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",Rural,Overall,
+1498,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",Urban,Female,11.00000000000000000000
+1499,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",Urban,Male,
+1500,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Calendar Year (Jan - Dec), 2011",Urban,Overall,2.50000000000000000000
+1501,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",Rural,Female,
+1502,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",Rural,Male,47.50000000000000000000
+1503,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",Rural,Overall,34.50000000000000000000
+1504,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",Urban,Female,21.50000000000000000000
+1505,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",Urban,Male,12.00000000000000000000
+1506,India,38,The Dadra And Nagar Haveli And Daman And Diu,2017,"Calendar Year (Jan - Dec), 2017",Urban,Overall,13.50000000000000000000
+1507,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",Rural,Female,
+1508,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",Rural,Male,9.00000000000000000000
+1509,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",Rural,Overall,5.50000000000000000000
+1510,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",Urban,Female,27.00000000000000000000
+1511,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",Urban,Male,6.50000000000000000000
+1512,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",Urban,Overall,9.00000000000000000000

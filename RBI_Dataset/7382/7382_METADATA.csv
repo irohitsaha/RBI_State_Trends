@@ -1,0 +1,11 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+Meat production,I7382_3,Numeric Variable,t ( Tonnes ),1000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Meat produced in thousand tonnes All India data are inclusive of all States, Union Territories The Andhra Pradesh data includesTelengana data till 2013-14"
+Milk production,I7382_4,Numeric Variable,t ( Tonnes ),1000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Milk produced in thousand tonnes All India data are inclusive of all States, Union Territories The Andhra Pradesh data includesTelengana data was 2013-14"
+Egg production,I7382_5,Numeric Variable,Number,100000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Eggs produced in lakh All India data are inclusive of all States, Union Territories The Andhra Pradesh data includesTelengana data till 2013-14"
+Fish production,I7382_6,Numeric Variable,t ( Tonnes ),100000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Fish produced in Lakh tonnes The Andhra Pradesh data includesTelengana data till 2013-14 It includes both Inland and Marine Fish Production
+Wool production,I7382_7,Numeric Variable,KG ( Kilogram ),1000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Wool produced in thousand kilograms All India data are inclusive of all States, Union Territories The Andhra Pradesh data includesTelengana data till 2013-14"
